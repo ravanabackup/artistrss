@@ -1100,28 +1100,7 @@
       "title": "Maria Kolady - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNGpKg02KLGdTii0Ql6vAOA",
       "siteUrl": "https://www.youtube.com/channel/UCNGpKg02KLGdTii0Ql6vAOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Q3raduFTljA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q3raduFTljA",
-          "publishedOn": "2024-09-20T10:00:34.000Z",
-          "wordCount": null,
-          "title": "Ashwasame Enikkere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ulrj8CxvPe0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ulrj8CxvPe0",
-          "publishedOn": "2024-09-20T10:00:34.000Z",
-          "wordCount": null,
-          "title": "Dukhathinte Panapathram",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sreya Anna Joseph - Topic",
@@ -1156,26 +1135,6 @@
           "publishedOn": "2024-09-26T18:31:10.000Z",
           "wordCount": null,
           "title": "Manasupole Jeevitham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ESji0PJqWVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ESji0PJqWVc",
-          "publishedOn": "2024-09-20T10:04:26.000Z",
-          "wordCount": null,
-          "title": "Ennenikken Dukham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2OOxNvBp5Bg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2OOxNvBp5Bg",
-          "publishedOn": "2024-09-20T10:03:40.000Z",
-          "wordCount": null,
-          "title": "Ente Daivam Swarga Simhasanam",
           "imageUrl": null
         }
       ]
