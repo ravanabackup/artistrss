@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T18:18:27.943Z</updated>
+    <updated>2024-10-22T19:12:05.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dead Can Dance]]></title>
+        <id>https://www.youtube.com/watch?v=oYKsw_34XM4</id>
+        <link href="https://www.youtube.com/watch?v=oYKsw_34XM4"/>
+        <updated>2024-10-22T18:31:05.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi]]></title>
+        <id>https://www.youtube.com/watch?v=90CfMZOxR7I</id>
+        <link href="https://www.youtube.com/watch?v=90CfMZOxR7I"/>
+        <updated>2024-10-22T18:30:12.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maravikale]]></title>
+        <id>https://www.youtube.com/watch?v=1AzXKj1yK8k</id>
+        <link href="https://www.youtube.com/watch?v=1AzXKj1yK8k"/>
+        <updated>2024-10-22T18:30:01.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iruline Sakhiyakki]]></title>
         <id>https://www.youtube.com/watch?v=bXypsxFb6xk</id>
