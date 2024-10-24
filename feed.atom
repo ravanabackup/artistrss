@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T05:13:50.433Z</updated>
+    <updated>2024-10-24T06:20:15.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -922,15 +922,6 @@
         <updated>2024-09-25T13:27:09.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambili Chelulla Chundhari Pennanallo (From "Secrets")]]></title>
-        <id>https://www.youtube.com/watch?v=AEkl8aZKFz8</id>
-        <link href="https://www.youtube.com/watch?v=AEkl8aZKFz8"/>
-        <updated>2024-09-24T17:19:19.000Z</updated>
-        <author>
-            <name>Najim Arshad - Topic</name>
         </author>
     </entry>
 </feed>
