@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-27T01:10:20.559Z</updated>
+    <updated>2024-10-27T02:52:30.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -859,51 +859,6 @@
         <updated>2024-09-27T17:26:41.000Z</updated>
         <author>
             <name>Najim Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Thulli Jalamkondu (D)]]></title>
-        <id>https://www.youtube.com/watch?v=EODlEdF2i0c</id>
-        <link href="https://www.youtube.com/watch?v=EODlEdF2i0c"/>
-        <updated>2024-09-27T14:17:57.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eerezhulakinu]]></title>
-        <id>https://www.youtube.com/watch?v=Ixtw5P6_bOo</id>
-        <link href="https://www.youtube.com/watch?v=Ixtw5P6_bOo"/>
-        <updated>2024-09-27T14:17:57.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonilavu Peyyunna]]></title>
-        <id>https://www.youtube.com/watch?v=OGu9BRy5-SA</id>
-        <link href="https://www.youtube.com/watch?v=OGu9BRy5-SA"/>
-        <updated>2024-09-27T14:17:57.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadappariyathoru Naalil]]></title>
-        <id>https://www.youtube.com/watch?v=XyG4twPjwi4</id>
-        <link href="https://www.youtube.com/watch?v=XyG4twPjwi4"/>
-        <updated>2024-09-27T14:17:57.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh My God (From "Jameelante Poovan Kozhi")]]></title>
-        <id>https://www.youtube.com/watch?v=_8rvNcVstAM</id>
-        <link href="https://www.youtube.com/watch?v=_8rvNcVstAM"/>
-        <updated>2024-09-27T13:43:07.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
 </feed>
