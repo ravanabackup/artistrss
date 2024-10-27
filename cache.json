@@ -48,18 +48,7 @@
       "title": "Najim Arshad - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzEergq3aH6Sp8chBoRSeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=i-7yEByJ_8Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i-7yEByJ_8Y",
-          "publishedOn": "2024-09-27T17:26:41.000Z",
-          "wordCount": null,
-          "title": "Elakalum (Male Version)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sujatha Mohan - Topic",
@@ -102,18 +91,7 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=B2TXpboYx8k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B2TXpboYx8k",
-          "publishedOn": "2024-09-27T17:43:02.000Z",
-          "wordCount": null,
-          "title": "Jolium Kolium",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bijibal - Topic",
@@ -205,16 +183,6 @@
           "publishedOn": "2024-09-30T21:51:10.000Z",
           "wordCount": null,
           "title": "Prakashame Akamizhithan Prakashame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OCzvGyqB43s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OCzvGyqB43s",
-          "publishedOn": "2024-09-27T17:41:22.000Z",
-          "wordCount": null,
-          "title": "Onnalla Randalla",
           "imageUrl": null
         }
       ]
@@ -673,16 +641,6 @@
           "publishedOn": "2024-10-14T20:57:21.000Z",
           "wordCount": null,
           "title": "Shyam Ka Naam Japo Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GSQmSm7woDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GSQmSm7woDA",
-          "publishedOn": "2024-09-27T17:42:50.000Z",
-          "wordCount": null,
-          "title": "Kannil",
           "imageUrl": null
         }
       ]
