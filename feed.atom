@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T23:13:33.190Z</updated>
+    <updated>2024-10-30T01:05:56.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -796,24 +796,6 @@
         <updated>2024-09-30T13:10:52.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navami Chandrikayil]]></title>
-        <id>https://www.youtube.com/watch?v=wBvk3y5vuaM</id>
-        <link href="https://www.youtube.com/watch?v=wBvk3y5vuaM"/>
-        <updated>2024-09-30T11:49:57.000Z</updated>
-        <author>
-            <name>Sreya Anna Joseph - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manasupole Jeevitham]]></title>
-        <id>https://www.youtube.com/watch?v=FuJEP9jAzCI</id>
-        <link href="https://www.youtube.com/watch?v=FuJEP9jAzCI"/>
-        <updated>2024-09-30T11:34:52.000Z</updated>
-        <author>
-            <name>Sreya Anna Joseph - Topic</name>
         </author>
     </entry>
 </feed>

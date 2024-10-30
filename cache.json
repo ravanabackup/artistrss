@@ -1016,28 +1016,7 @@
       "title": "Sreya Anna Joseph - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZuVwT0AkcLHxVEQ61VMviA",
       "siteUrl": "https://www.youtube.com/channel/UCZuVwT0AkcLHxVEQ61VMviA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wBvk3y5vuaM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wBvk3y5vuaM",
-          "publishedOn": "2024-09-30T11:49:57.000Z",
-          "wordCount": null,
-          "title": "Navami Chandrikayil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FuJEP9jAzCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FuJEP9jAzCI",
-          "publishedOn": "2024-09-30T11:34:52.000Z",
-          "wordCount": null,
-          "title": "Manasupole Jeevitham",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "K.G. Markose - Topic",
