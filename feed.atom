@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T20:14:58.489Z</updated>
+    <updated>2024-10-30T21:13:02.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -643,69 +643,6 @@
         <updated>2024-10-03T13:21:01.000Z</updated>
         <author>
             <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hakkana]]></title>
-        <id>https://www.youtube.com/watch?v=2Fdljjw0f8A</id>
-        <link href="https://www.youtube.com/watch?v=2Fdljjw0f8A"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immalayalathikkuri]]></title>
-        <id>https://www.youtube.com/watch?v=bSC99h5NDl8</id>
-        <link href="https://www.youtube.com/watch?v=bSC99h5NDl8"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thudare]]></title>
-        <id>https://www.youtube.com/watch?v=ebzzI5OFdDw</id>
-        <link href="https://www.youtube.com/watch?v=ebzzI5OFdDw"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aake Chuttilakathoru]]></title>
-        <id>https://www.youtube.com/watch?v=g1tRJ5Du0to</id>
-        <link href="https://www.youtube.com/watch?v=g1tRJ5Du0to"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samkritha Pama]]></title>
-        <id>https://www.youtube.com/watch?v=hzk7mAR869M</id>
-        <link href="https://www.youtube.com/watch?v=hzk7mAR869M"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amintha]]></title>
-        <id>https://www.youtube.com/watch?v=k0W2HnabV8I</id>
-        <link href="https://www.youtube.com/watch?v=k0W2HnabV8I"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudu Kude]]></title>
-        <id>https://www.youtube.com/watch?v=wigt_CqjKMk</id>
-        <link href="https://www.youtube.com/watch?v=wigt_CqjKMk"/>
-        <updated>2024-10-01T08:46:52.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>

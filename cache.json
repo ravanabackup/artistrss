@@ -199,78 +199,7 @@
       "title": "Madhu Balakrishnan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=2Fdljjw0f8A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2Fdljjw0f8A",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Hakkana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bSC99h5NDl8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bSC99h5NDl8",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Immalayalathikkuri",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ebzzI5OFdDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ebzzI5OFdDw",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Thudare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g1tRJ5Du0to",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g1tRJ5Du0to",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Aake Chuttilakathoru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hzk7mAR869M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hzk7mAR869M",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Samkritha Pama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k0W2HnabV8I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k0W2HnabV8I",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Amintha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wigt_CqjKMk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wigt_CqjKMk",
-          "publishedOn": "2024-10-01T08:46:52.000Z",
-          "wordCount": null,
-          "title": "Kudu Kude",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "M. Jayachandran - Topic",
