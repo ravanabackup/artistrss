@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-31T11:11:47.773Z</updated>
+    <updated>2024-10-31T12:27:23.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -106,6 +106,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mouthinte Nerathu]]></title>
+        <id>https://www.youtube.com/watch?v=7NvD46dvgKU</id>
+        <link href="https://www.youtube.com/watch?v=7NvD46dvgKU"/>
+        <updated>2024-10-16T10:07:28.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Iruline Sakhiyakki]]></title>
         <id>https://www.youtube.com/watch?v=bXypsxFb6xk</id>
         <link href="https://www.youtube.com/watch?v=bXypsxFb6xk"/>
@@ -120,7 +129,7 @@
         <link href="https://www.youtube.com/watch?v=CaEqDZwkxYg"/>
         <updated>2024-10-16T10:03:06.000Z</updated>
         <author>
-            <name>K.G. Markose - Topic</name>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
@@ -165,7 +174,7 @@
         <link href="https://www.youtube.com/watch?v=w7l-EIS2UoQ"/>
         <updated>2024-10-16T10:01:05.000Z</updated>
         <author>
-            <name>K.G. Markose - Topic</name>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
@@ -174,7 +183,7 @@
         <link href="https://www.youtube.com/watch?v=Kf3HLcxCpcw"/>
         <updated>2024-10-16T10:00:21.000Z</updated>
         <author>
-            <name>K.G. Markose - Topic</name>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
@@ -445,6 +454,15 @@
         <updated>2024-10-10T11:57:44.000Z</updated>
         <author>
             <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthrasoolaaya]]></title>
+        <id>https://www.youtube.com/watch?v=GBhVYTo5E5M</id>
+        <link href="https://www.youtube.com/watch?v=GBhVYTo5E5M"/>
+        <updated>2024-10-10T07:53:59.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
