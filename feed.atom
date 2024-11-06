@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T08:18:31.060Z</updated>
+    <updated>2024-11-06T09:15:25.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -598,33 +598,6 @@
         <updated>2024-10-07T22:21:33.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karmathin]]></title>
-        <id>https://www.youtube.com/watch?v=36ggds67Ots</id>
-        <link href="https://www.youtube.com/watch?v=36ggds67Ots"/>
-        <updated>2024-10-07T20:26:38.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shubharathri]]></title>
-        <id>https://www.youtube.com/watch?v=MVqPUrTalwE</id>
-        <link href="https://www.youtube.com/watch?v=MVqPUrTalwE"/>
-        <updated>2024-10-07T20:26:38.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakkalan Kaliyachan]]></title>
-        <id>https://www.youtube.com/watch?v=V15JpwHpW60</id>
-        <link href="https://www.youtube.com/watch?v=V15JpwHpW60"/>
-        <updated>2024-10-07T20:26:38.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
