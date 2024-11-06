@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T22:14:09.756Z</updated>
+    <updated>2024-11-06T23:12:59.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -22,6 +22,15 @@
         <updated>2024-11-05T10:04:04.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yela La Laa]]></title>
+        <id>https://www.youtube.com/watch?v=WoABqsKCanY</id>
+        <link href="https://www.youtube.com/watch?v=WoABqsKCanY"/>
+        <updated>2024-11-05T07:07:07.000Z</updated>
+        <author>
+            <name>M. Jayachandran - Topic</name>
         </author>
     </entry>
     <entry>
