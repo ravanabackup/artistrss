@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T11:12:29.575Z</updated>
+    <updated>2024-11-06T12:27:23.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -535,60 +535,6 @@
         <updated>2024-10-10T07:53:59.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manimalika Mukalil]]></title>
-        <id>https://www.youtube.com/watch?v=_q3CHS4iVsM</id>
-        <link href="https://www.youtube.com/watch?v=_q3CHS4iVsM"/>
-        <updated>2024-10-07T23:56:44.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavanarachezhuthunna]]></title>
-        <id>https://www.youtube.com/watch?v=ttc6dqF1Hn4</id>
-        <link href="https://www.youtube.com/watch?v=ttc6dqF1Hn4"/>
-        <updated>2024-10-07T23:56:33.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannum Kannum]]></title>
-        <id>https://www.youtube.com/watch?v=GZVECe-k51g</id>
-        <link href="https://www.youtube.com/watch?v=GZVECe-k51g"/>
-        <updated>2024-10-07T23:53:32.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoomanjil Mungi Pongi]]></title>
-        <id>https://www.youtube.com/watch?v=IV0Pmdw7aWk</id>
-        <link href="https://www.youtube.com/watch?v=IV0Pmdw7aWk"/>
-        <updated>2024-10-07T23:52:56.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nooru Nooru]]></title>
-        <id>https://www.youtube.com/watch?v=-zTNIT0eGGg</id>
-        <link href="https://www.youtube.com/watch?v=-zTNIT0eGGg"/>
-        <updated>2024-10-07T23:52:55.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odenda Odenda (Mash Up) (From "Oru Adaar Love")]]></title>
-        <id>https://www.youtube.com/watch?v=F6CgL1nwS8M</id>
-        <link href="https://www.youtube.com/watch?v=F6CgL1nwS8M"/>
-        <updated>2024-10-07T23:36:28.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
 </feed>

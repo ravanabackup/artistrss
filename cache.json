@@ -4,18 +4,7 @@
       "title": "Vineeth Sreenivasan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjYCNtvEZzfcj_69by4umCA",
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=GZVECe-k51g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GZVECe-k51g",
-          "publishedOn": "2024-10-07T23:53:32.000Z",
-          "wordCount": null,
-          "title": "Kannum Kannum",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sithara Krishnakumar - Topic",
@@ -54,18 +43,7 @@
       "title": "Sujatha Mohan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4PHPycgfp4P2iydf5XXD3A",
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ttc6dqF1Hn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ttc6dqF1Hn4",
-          "publishedOn": "2024-10-07T23:56:33.000Z",
-          "wordCount": null,
-          "title": "Pavanarachezhuthunna",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Gopi Sundar - Topic",
@@ -104,18 +82,7 @@
       "title": "Shaan Rahman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg",
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=F6CgL1nwS8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F6CgL1nwS8M",
-          "publishedOn": "2024-10-07T23:36:28.000Z",
-          "wordCount": null,
-          "title": "Odenda Odenda (Mash Up) (From \"Oru Adaar Love\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rex Vijayan - Topic",
@@ -484,36 +451,6 @@
           "publishedOn": "2024-10-10T19:31:56.000Z",
           "wordCount": null,
           "title": "Swayamvarathinu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_q3CHS4iVsM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_q3CHS4iVsM",
-          "publishedOn": "2024-10-07T23:56:44.000Z",
-          "wordCount": null,
-          "title": "Manimalika Mukalil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IV0Pmdw7aWk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IV0Pmdw7aWk",
-          "publishedOn": "2024-10-07T23:52:56.000Z",
-          "wordCount": null,
-          "title": "Thoomanjil Mungi Pongi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-zTNIT0eGGg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-zTNIT0eGGg",
-          "publishedOn": "2024-10-07T23:52:55.000Z",
-          "wordCount": null,
-          "title": "Nooru Nooru",
           "imageUrl": null
         }
       ]
