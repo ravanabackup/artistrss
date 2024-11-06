@@ -108,16 +108,6 @@
           "wordCount": null,
           "title": "Aalameenidin",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e54mGDT8NKM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e54mGDT8NKM",
-          "publishedOn": "2024-10-07T20:07:05.000Z",
-          "wordCount": null,
-          "title": "Mohabbathin",
-          "imageUrl": null
         }
       ]
     },
@@ -158,16 +148,6 @@
           "wordCount": null,
           "title": "Vaada Vaada (From \"Sthanarthi Sreekuttan\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7PmxV5oL_us",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7PmxV5oL_us",
-          "publishedOn": "2024-10-07T20:04:11.000Z",
-          "wordCount": null,
-          "title": "Ra Ra Rakshaka",
-          "imageUrl": null
         }
       ]
     },
@@ -175,18 +155,7 @@
       "title": "Unni Menon - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA",
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=PTa_ZELuokw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PTa_ZELuokw",
-          "publishedOn": "2024-10-07T20:10:14.000Z",
-          "wordCount": null,
-          "title": "Janmam Thorum",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Shahabaz Aman - Topic",
@@ -479,18 +448,7 @@
       "title": "G. Venugopal - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFs98MazJJe2MxOKGqP_JZQ",
       "siteUrl": "https://www.youtube.com/channel/UCFs98MazJJe2MxOKGqP_JZQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=gliVj5RRbss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gliVj5RRbss",
-          "publishedOn": "2024-10-07T20:10:03.000Z",
-          "wordCount": null,
-          "title": "Thooval Vinnil",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rimi Tomy - Topic",
@@ -597,66 +555,6 @@
           "publishedOn": "2024-10-07T20:26:38.000Z",
           "wordCount": null,
           "title": "Kakkalan Kaliyachan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GbfvvSS8G3U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GbfvvSS8G3U",
-          "publishedOn": "2024-10-07T20:10:24.000Z",
-          "wordCount": null,
-          "title": "Thaazhampoo Kudayonnu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Um0rwqXa9pQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Um0rwqXa9pQ",
-          "publishedOn": "2024-10-07T20:10:24.000Z",
-          "wordCount": null,
-          "title": "Thakkida Mundan Tharavu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=muf4AHxOebY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=muf4AHxOebY",
-          "publishedOn": "2024-10-07T20:10:24.000Z",
-          "wordCount": null,
-          "title": "Oduvil Neeyum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i-QVsMmSbDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i-QVsMmSbDw",
-          "publishedOn": "2024-10-07T20:10:14.000Z",
-          "wordCount": null,
-          "title": "Amruthakanikal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yPV_InX2oRM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yPV_InX2oRM",
-          "publishedOn": "2024-10-07T20:09:28.000Z",
-          "wordCount": null,
-          "title": "Brahmakamalam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EsWAYTOafNM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EsWAYTOafNM",
-          "publishedOn": "2024-10-07T20:08:56.000Z",
-          "wordCount": null,
-          "title": "Manjum Nilavum",
           "imageUrl": null
         }
       ]
