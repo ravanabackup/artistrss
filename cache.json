@@ -51,6 +51,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6-Oi8oqPi70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6-Oi8oqPi70",
+          "publishedOn": "2024-11-09T07:43:57.000Z",
+          "wordCount": null,
+          "title": "Election Campaign",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mJmGhEfLNHU",
           "author": null,
           "description": "",
@@ -422,38 +432,7 @@
       "title": "K. J. Yesudas - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg",
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=EZhrt3T2vzo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EZhrt3T2vzo",
-          "publishedOn": "2024-10-10T19:31:56.000Z",
-          "wordCount": null,
-          "title": "Ekanthathayude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iroEpnqC3Vk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iroEpnqC3Vk",
-          "publishedOn": "2024-10-10T19:31:56.000Z",
-          "wordCount": null,
-          "title": "Aadhyasamagama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zhfmLg4aTCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zhfmLg4aTCI",
-          "publishedOn": "2024-10-10T19:31:56.000Z",
-          "wordCount": null,
-          "title": "Swayamvarathinu",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kester - Topic",
