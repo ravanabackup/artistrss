@@ -337,58 +337,7 @@
       "title": "Deepak Dev - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=0REXZwYoW64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0REXZwYoW64",
-          "publishedOn": "2024-10-14T20:57:21.000Z",
-          "wordCount": null,
-          "title": "O Murli Wale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77k2X6bWfMg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77k2X6bWfMg",
-          "publishedOn": "2024-10-14T20:57:21.000Z",
-          "wordCount": null,
-          "title": "Kuch Aisi Kasak",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RbXmebgAmlU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RbXmebgAmlU",
-          "publishedOn": "2024-10-14T20:57:21.000Z",
-          "wordCount": null,
-          "title": "Om Jai Shri Shyam Hare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m5xFzgryC4U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m5xFzgryC4U",
-          "publishedOn": "2024-10-14T20:57:21.000Z",
-          "wordCount": null,
-          "title": "Mere Shyam Ka Jee Bhar Ke",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vYpBYIzw-cA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vYpBYIzw-cA",
-          "publishedOn": "2024-10-14T20:57:21.000Z",
-          "wordCount": null,
-          "title": "Shyam Ka Naam Japo Re",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "G. Venugopal - Topic",

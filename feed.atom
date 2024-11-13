@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T08:18:02.993Z</updated>
+    <updated>2024-11-13T09:14:27.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -355,51 +355,6 @@
         <updated>2024-10-15T08:24:10.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Murli Wale]]></title>
-        <id>https://www.youtube.com/watch?v=0REXZwYoW64</id>
-        <link href="https://www.youtube.com/watch?v=0REXZwYoW64"/>
-        <updated>2024-10-14T20:57:21.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuch Aisi Kasak]]></title>
-        <id>https://www.youtube.com/watch?v=77k2X6bWfMg</id>
-        <link href="https://www.youtube.com/watch?v=77k2X6bWfMg"/>
-        <updated>2024-10-14T20:57:21.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Om Jai Shri Shyam Hare]]></title>
-        <id>https://www.youtube.com/watch?v=RbXmebgAmlU</id>
-        <link href="https://www.youtube.com/watch?v=RbXmebgAmlU"/>
-        <updated>2024-10-14T20:57:21.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mere Shyam Ka Jee Bhar Ke]]></title>
-        <id>https://www.youtube.com/watch?v=m5xFzgryC4U</id>
-        <link href="https://www.youtube.com/watch?v=m5xFzgryC4U"/>
-        <updated>2024-10-14T20:57:21.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shyam Ka Naam Japo Re]]></title>
-        <id>https://www.youtube.com/watch?v=vYpBYIzw-cA</id>
-        <link href="https://www.youtube.com/watch?v=vYpBYIzw-cA"/>
-        <updated>2024-10-14T20:57:21.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
         </author>
     </entry>
 </feed>
