@@ -287,66 +287,6 @@
           "wordCount": null,
           "title": "Chamanju Valath",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B8H2NoGQv9o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B8H2NoGQv9o",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Snehathin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SiLjP7Nd16c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SiLjP7Nd16c",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Makane Ninne",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d2JpzgCu_8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d2JpzgCu_8M",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Athmaavine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fTKLZi-Ibvg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fTKLZi-Ibvg",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Ezhayamenn Jeevitham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g3jPi83N11Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g3jPi83N11Q",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Anugrahathin Athipathi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m5NAq3jAgmQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m5NAq3jAgmQ",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Aasrayipathinay",
-          "imageUrl": null
         }
       ]
     },
@@ -354,18 +294,7 @@
       "title": "Manjari - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=a7KMXmEy6wY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a7KMXmEy6wY",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Abhrahamin Daivam",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sushin Shyam - Topic",
@@ -548,86 +477,6 @@
           "publishedOn": "2024-10-15T08:24:10.000Z",
           "wordCount": null,
           "title": "Malaghamarothu Vaanil (Male Version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=27RWyf2RUpE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=27RWyf2RUpE",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Amme Vilikkunnu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6sAt5Cw4oiw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6sAt5Cw4oiw",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Unnisoye (Male Version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HRdcjnCy3Y0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HRdcjnCy3Y0",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Aadhi Vachaname",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hj82oQDxQbM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Hj82oQDxQbM",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Amme Mariyame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dw2KJVmkURo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dw2KJVmkURo",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Shanthi Shanthi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rW_ax89qmX8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rW_ax89qmX8",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Eesho Neeyente",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sr6ukMwtyhU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sr6ukMwtyhU",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Nithyasneham (Male Version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wi6L6AJBR4A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wi6L6AJBR4A",
-          "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Nithyasawbagyamode",
           "imageUrl": null
         }
       ]
