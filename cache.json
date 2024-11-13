@@ -347,26 +347,6 @@
           "wordCount": null,
           "title": "Aasrayipathinay",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=INmTSlBqgPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=INmTSlBqgPg",
-          "publishedOn": "2024-10-14T13:50:53.000Z",
-          "wordCount": null,
-          "title": "Snehathin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nP15-u_PkGg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nP15-u_PkGg",
-          "publishedOn": "2024-10-14T13:50:53.000Z",
-          "wordCount": null,
-          "title": "Bathlahem",
-          "imageUrl": null
         }
       ]
     },
@@ -381,16 +361,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=a7KMXmEy6wY",
           "publishedOn": "2024-10-14T15:37:32.000Z",
-          "wordCount": null,
-          "title": "Abhrahamin Daivam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oC42psbqj44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oC42psbqj44",
-          "publishedOn": "2024-10-14T13:50:53.000Z",
           "wordCount": null,
           "title": "Abhrahamin Daivam",
           "imageUrl": null
@@ -659,16 +629,6 @@
           "wordCount": null,
           "title": "Nithyasawbagyamode",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WIwnCA9PlUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WIwnCA9PlUA",
-          "publishedOn": "2024-10-14T13:50:53.000Z",
-          "wordCount": null,
-          "title": "Eashoye Neyenn",
-          "imageUrl": null
         }
       ]
     },
@@ -676,18 +636,7 @@
       "title": "Elizabeth Raju - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=doRmsvE77Fw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=doRmsvE77Fw",
-          "publishedOn": "2024-10-14T13:50:53.000Z",
-          "wordCount": null,
-          "title": "Snehathil Jivikam",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Maria Kolady - Topic",
