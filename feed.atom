@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T21:13:03.951Z</updated>
+    <updated>2024-11-14T22:13:14.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -263,87 +263,6 @@
         <id>https://www.youtube.com/watch?v=f7VM6h7iHw0</id>
         <link href="https://www.youtube.com/watch?v=f7VM6h7iHw0"/>
         <updated>2024-10-22T10:54:29.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mouthinte Nerathu]]></title>
-        <id>https://www.youtube.com/watch?v=7NvD46dvgKU</id>
-        <link href="https://www.youtube.com/watch?v=7NvD46dvgKU"/>
-        <updated>2024-10-16T10:07:28.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iruline Sakhiyakki]]></title>
-        <id>https://www.youtube.com/watch?v=bXypsxFb6xk</id>
-        <link href="https://www.youtube.com/watch?v=bXypsxFb6xk"/>
-        <updated>2024-10-16T10:04:22.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prakasha Gopura]]></title>
-        <id>https://www.youtube.com/watch?v=CaEqDZwkxYg</id>
-        <link href="https://www.youtube.com/watch?v=CaEqDZwkxYg"/>
-        <updated>2024-10-16T10:03:06.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Paathayil]]></title>
-        <id>https://www.youtube.com/watch?v=CPZjHsx2tks</id>
-        <link href="https://www.youtube.com/watch?v=CPZjHsx2tks"/>
-        <updated>2024-10-16T10:02:58.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneer Muthinaayi]]></title>
-        <id>https://www.youtube.com/watch?v=REvjfdzYFMM</id>
-        <link href="https://www.youtube.com/watch?v=REvjfdzYFMM"/>
-        <updated>2024-10-16T10:02:30.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Janmasaphalyam]]></title>
-        <id>https://www.youtube.com/watch?v=Eo_iNpWSlIo</id>
-        <link href="https://www.youtube.com/watch?v=Eo_iNpWSlIo"/>
-        <updated>2024-10-16T10:01:18.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Nadha]]></title>
-        <id>https://www.youtube.com/watch?v=y6_MM2uesEY</id>
-        <link href="https://www.youtube.com/watch?v=y6_MM2uesEY"/>
-        <updated>2024-10-16T10:01:10.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadya Prakhyapitha]]></title>
-        <id>https://www.youtube.com/watch?v=w7l-EIS2UoQ</id>
-        <link href="https://www.youtube.com/watch?v=w7l-EIS2UoQ"/>
-        <updated>2024-10-16T10:01:05.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alakalil Elakum Kadalanen Manasam]]></title>
-        <id>https://www.youtube.com/watch?v=Kf3HLcxCpcw</id>
-        <link href="https://www.youtube.com/watch?v=Kf3HLcxCpcw"/>
-        <updated>2024-10-16T10:00:21.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
         </author>

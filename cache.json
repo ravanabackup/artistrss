@@ -367,58 +367,7 @@
       "title": "Kester - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=bXypsxFb6xk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bXypsxFb6xk",
-          "publishedOn": "2024-10-16T10:04:22.000Z",
-          "wordCount": null,
-          "title": "Iruline Sakhiyakki",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CPZjHsx2tks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CPZjHsx2tks",
-          "publishedOn": "2024-10-16T10:02:58.000Z",
-          "wordCount": null,
-          "title": "Ee Paathayil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=REvjfdzYFMM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=REvjfdzYFMM",
-          "publishedOn": "2024-10-16T10:02:30.000Z",
-          "wordCount": null,
-          "title": "Kanneer Muthinaayi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Eo_iNpWSlIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Eo_iNpWSlIo",
-          "publishedOn": "2024-10-16T10:01:18.000Z",
-          "wordCount": null,
-          "title": "Janmasaphalyam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y6_MM2uesEY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y6_MM2uesEY",
-          "publishedOn": "2024-10-16T10:01:10.000Z",
-          "wordCount": null,
-          "title": "Parumala Nadha",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Elizabeth Raju - Topic",
@@ -501,46 +450,6 @@
           "publishedOn": "2024-10-22T10:54:29.000Z",
           "wordCount": null,
           "title": "Mouthinte",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7NvD46dvgKU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7NvD46dvgKU",
-          "publishedOn": "2024-10-16T10:07:28.000Z",
-          "wordCount": null,
-          "title": "Mouthinte Nerathu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CaEqDZwkxYg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CaEqDZwkxYg",
-          "publishedOn": "2024-10-16T10:03:06.000Z",
-          "wordCount": null,
-          "title": "Prakasha Gopura",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w7l-EIS2UoQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w7l-EIS2UoQ",
-          "publishedOn": "2024-10-16T10:01:05.000Z",
-          "wordCount": null,
-          "title": "Aadya Prakhyapitha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kf3HLcxCpcw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kf3HLcxCpcw",
-          "publishedOn": "2024-10-16T10:00:21.000Z",
-          "wordCount": null,
-          "title": "Alakalil Elakum Kadalanen Manasam",
           "imageUrl": null
         }
       ]
