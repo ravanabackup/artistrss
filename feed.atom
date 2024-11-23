@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T23:14:18.802Z</updated>
+    <updated>2024-11-23T01:06:24.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -274,24 +274,6 @@
         <updated>2024-10-29T10:17:30.000Z</updated>
         <author>
             <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VARNANGAL MANJUPOYI (From "Kalhaaram")]]></title>
-        <id>https://www.youtube.com/watch?v=wDABv5BMHUk</id>
-        <link href="https://www.youtube.com/watch?v=wDABv5BMHUk"/>
-        <updated>2024-10-24T11:57:07.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moha Mundiri]]></title>
-        <id>https://www.youtube.com/watch?v=uqJkBDZGQFg</id>
-        <link href="https://www.youtube.com/watch?v=uqJkBDZGQFg"/>
-        <updated>2024-10-24T11:27:43.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
