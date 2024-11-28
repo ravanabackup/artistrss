@@ -545,18 +545,7 @@
       "title": "KG Markose - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=UA-0gBxafgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UA-0gBxafgA",
-          "publishedOn": "2024-10-30T07:17:49.000Z",
-          "wordCount": null,
-          "title": "Kannetha Doorathulla (D)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

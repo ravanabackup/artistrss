@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T19:11:31.938Z</updated>
+    <updated>2024-11-28T20:15:53.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -346,15 +346,6 @@
         <updated>2024-11-05T07:07:07.000Z</updated>
         <author>
             <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannetha Doorathulla (D)]]></title>
-        <id>https://www.youtube.com/watch?v=UA-0gBxafgA</id>
-        <link href="https://www.youtube.com/watch?v=UA-0gBxafgA"/>
-        <updated>2024-10-30T07:17:49.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
         </author>
     </entry>
 </feed>
