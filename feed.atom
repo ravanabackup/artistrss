@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T18:18:03.631Z</updated>
+    <updated>2024-11-30T19:10:39.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[East Nunchi]]></title>
+        <id>https://www.youtube.com/watch?v=iQ4PyGGRHoI</id>
+        <link href="https://www.youtube.com/watch?v=iQ4PyGGRHoI"/>
+        <updated>2024-11-30T18:34:59.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muddu Mama]]></title>
+        <id>https://www.youtube.com/watch?v=sLgMDve0yF8</id>
+        <link href="https://www.youtube.com/watch?v=sLgMDve0yF8"/>
+        <updated>2024-11-30T18:30:42.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunjammava Eneekkoo]]></title>
         <id>https://www.youtube.com/watch?v=wQ_35LYdshI</id>
