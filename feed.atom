@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T11:11:17.176Z</updated>
+    <updated>2024-12-01T12:27:16.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -286,6 +286,96 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vaavaru Samiku Kanikkai]]></title>
+        <id>https://www.youtube.com/watch?v=5YFDCPeGw8U</id>
+        <link href="https://www.youtube.com/watch?v=5YFDCPeGw8U"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harivarasanam]]></title>
+        <id>https://www.youtube.com/watch?v=7fSqVz1IHUQ</id>
+        <link href="https://www.youtube.com/watch?v=7fSqVz1IHUQ"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paapam Kazhuvidum]]></title>
+        <id>https://www.youtube.com/watch?v=FW8ppN3PLOM</id>
+        <link href="https://www.youtube.com/watch?v=FW8ppN3PLOM"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saram Kothiyaal Paarthu]]></title>
+        <id>https://www.youtube.com/watch?v=GJ5CDyBkWkY</id>
+        <link href="https://www.youtube.com/watch?v=GJ5CDyBkWkY"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sree Deva Deva]]></title>
+        <id>https://www.youtube.com/watch?v=MfwiSaOqLTQ</id>
+        <link href="https://www.youtube.com/watch?v=MfwiSaOqLTQ"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pamba Ganapathi]]></title>
+        <id>https://www.youtube.com/watch?v=ORE51uY2CB4</id>
+        <link href="https://www.youtube.com/watch?v=ORE51uY2CB4"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thyagaraja Sangeetham]]></title>
+        <id>https://www.youtube.com/watch?v=_BcCKmKfAj4</id>
+        <link href="https://www.youtube.com/watch?v=_BcCKmKfAj4"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mahishiye Kondravane]]></title>
+        <id>https://www.youtube.com/watch?v=gVBipI_nUe4</id>
+        <link href="https://www.youtube.com/watch?v=gVBipI_nUe4"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harihara Shelvanaam]]></title>
+        <id>https://www.youtube.com/watch?v=ubSSSHJ3nvs</id>
+        <link href="https://www.youtube.com/watch?v=ubSSSHJ3nvs"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swami Arulennalum]]></title>
+        <id>https://www.youtube.com/watch?v=wfSrsmuGMg8</id>
+        <link href="https://www.youtube.com/watch?v=wfSrsmuGMg8"/>
+        <updated>2024-11-28T07:42:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chakkarakkili]]></title>
         <id>https://www.youtube.com/watch?v=AjR9Sn1VLMI</id>
         <link href="https://www.youtube.com/watch?v=AjR9Sn1VLMI"/>
@@ -524,6 +614,42 @@
         <id>https://www.youtube.com/watch?v=9foaMzH5Cgw</id>
         <link href="https://www.youtube.com/watch?v=9foaMzH5Cgw"/>
         <updated>2024-11-15T05:11:37.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamini Archinchu (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=082W0ce_lo4</id>
+        <link href="https://www.youtube.com/watch?v=082W0ce_lo4"/>
+        <updated>2024-11-14T11:36:05.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamini Archinchu]]></title>
+        <id>https://www.youtube.com/watch?v=FWMFCYj1Oqo</id>
+        <link href="https://www.youtube.com/watch?v=FWMFCYj1Oqo"/>
+        <updated>2024-11-14T11:36:05.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamy Chesedi Bhagyam Bhagyam]]></title>
+        <id>https://www.youtube.com/watch?v=04hNeulPO40</id>
+        <link href="https://www.youtube.com/watch?v=04hNeulPO40"/>
+        <updated>2024-11-14T11:35:38.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamy Chesedi Bhagyam Bhagyam (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=1_pSi7Tzs64</id>
+        <link href="https://www.youtube.com/watch?v=1_pSi7Tzs64"/>
+        <updated>2024-11-14T11:35:38.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
         </author>
