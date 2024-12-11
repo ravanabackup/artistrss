@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T04:18:27.675Z</updated>
+    <updated>2024-12-11T05:14:47.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1075,78 +1075,6 @@
         <updated>2024-11-14T11:35:38.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destiny]]></title>
-        <id>https://www.youtube.com/watch?v=2izlSKz0NLM</id>
-        <link href="https://www.youtube.com/watch?v=2izlSKz0NLM"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journey Of Confusions]]></title>
-        <id>https://www.youtube.com/watch?v=3kVrdbaLWRg</id>
-        <link href="https://www.youtube.com/watch?v=3kVrdbaLWRg"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search Never Ends]]></title>
-        <id>https://www.youtube.com/watch?v=AK6Az1tUVzI</id>
-        <link href="https://www.youtube.com/watch?v=AK6Az1tUVzI"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Can Find It]]></title>
-        <id>https://www.youtube.com/watch?v=Nedn2n7xiaw</id>
-        <link href="https://www.youtube.com/watch?v=Nedn2n7xiaw"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hurdles]]></title>
-        <id>https://www.youtube.com/watch?v=NiXyhM2ohOY</id>
-        <link href="https://www.youtube.com/watch?v=NiXyhM2ohOY"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journey To The Destiny]]></title>
-        <id>https://www.youtube.com/watch?v=S7HgfS8J7g0</id>
-        <link href="https://www.youtube.com/watch?v=S7HgfS8J7g0"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vicky’s Girl]]></title>
-        <id>https://www.youtube.com/watch?v=g-gkoo7UCJg</id>
-        <link href="https://www.youtube.com/watch?v=g-gkoo7UCJg"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos]]></title>
-        <id>https://www.youtube.com/watch?v=zfQpmDNo7dE</id>
-        <link href="https://www.youtube.com/watch?v=zfQpmDNo7dE"/>
-        <updated>2024-11-11T17:06:28.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
         </author>
     </entry>
 </feed>
