@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T01:04:35.693Z</updated>
+    <updated>2024-12-21T02:41:49.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1003,87 +1003,6 @@
         <updated>2024-11-26T08:14:56.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbikkai]]></title>
-        <id>https://www.youtube.com/watch?v=6d3PY75VzGk</id>
-        <link href="https://www.youtube.com/watch?v=6d3PY75VzGk"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambalappuzha]]></title>
-        <id>https://www.youtube.com/watch?v=exEy6R8_qKo</id>
-        <link href="https://www.youtube.com/watch?v=exEy6R8_qKo"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irumudi]]></title>
-        <id>https://www.youtube.com/watch?v=psGHPIyT3h8</id>
-        <link href="https://www.youtube.com/watch?v=psGHPIyT3h8"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arivillapaithangal]]></title>
-        <id>https://www.youtube.com/watch?v=-aC6HKMDdyY</id>
-        <link href="https://www.youtube.com/watch?v=-aC6HKMDdyY"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villali Veeran]]></title>
-        <id>https://www.youtube.com/watch?v=AkJNGwrymIk</id>
-        <link href="https://www.youtube.com/watch?v=AkJNGwrymIk"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneeru]]></title>
-        <id>https://www.youtube.com/watch?v=T4kQomeuR6A</id>
-        <link href="https://www.youtube.com/watch?v=T4kQomeuR6A"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pambathan]]></title>
-        <id>https://www.youtube.com/watch?v=W1HOPLzJkCs</id>
-        <link href="https://www.youtube.com/watch?v=W1HOPLzJkCs"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathoru]]></title>
-        <id>https://www.youtube.com/watch?v=ZkDQx4f_0oU</id>
-        <link href="https://www.youtube.com/watch?v=ZkDQx4f_0oU"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathinettampadi]]></title>
-        <id>https://www.youtube.com/watch?v=lX0LFd5pRWw</id>
-        <link href="https://www.youtube.com/watch?v=lX0LFd5pRWw"/>
-        <updated>2024-11-21T14:24:14.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>
