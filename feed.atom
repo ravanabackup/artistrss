@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T05:13:19.209Z</updated>
+    <updated>2024-12-24T06:19:31.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kumbhappuzha Thandivarum]]></title>
+        <id>https://www.youtube.com/watch?v=piSoe8pNuW4</id>
+        <link href="https://www.youtube.com/watch?v=piSoe8pNuW4"/>
+        <updated>2024-12-24T05:50:33.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manasa Vacha Karmana]]></title>
+        <id>https://www.youtube.com/watch?v=qnrrTZ6PJRY</id>
+        <link href="https://www.youtube.com/watch?v=qnrrTZ6PJRY"/>
+        <updated>2024-12-24T05:50:33.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Jeevithathil]]></title>
         <id>https://www.youtube.com/watch?v=R6GrO9CVmDk</id>
