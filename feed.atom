@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T20:14:25.539Z</updated>
+    <updated>2024-12-25T21:12:13.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -940,87 +940,6 @@
         <updated>2024-11-28T06:12:58.000Z</updated>
         <author>
             <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nenju Pilarnoru]]></title>
-        <id>https://www.youtube.com/watch?v=8uZfImFdxB0</id>
-        <link href="https://www.youtube.com/watch?v=8uZfImFdxB0"/>
-        <updated>2024-11-26T08:27:10.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parishudha Neela]]></title>
-        <id>https://www.youtube.com/watch?v=M5fHpekhhy4</id>
-        <link href="https://www.youtube.com/watch?v=M5fHpekhhy4"/>
-        <updated>2024-11-26T08:27:06.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarvalogha]]></title>
-        <id>https://www.youtube.com/watch?v=UnFZSST1ehk</id>
-        <link href="https://www.youtube.com/watch?v=UnFZSST1ehk"/>
-        <updated>2024-11-26T08:27:06.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kripaniranja]]></title>
-        <id>https://www.youtube.com/watch?v=w-NApZ4Ps3g</id>
-        <link href="https://www.youtube.com/watch?v=w-NApZ4Ps3g"/>
-        <updated>2024-11-26T08:27:06.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bathlahem]]></title>
-        <id>https://www.youtube.com/watch?v=aGeeDZHkZjY</id>
-        <link href="https://www.youtube.com/watch?v=aGeeDZHkZjY"/>
-        <updated>2024-11-26T08:14:56.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abhrahamin Daivam]]></title>
-        <id>https://www.youtube.com/watch?v=xHt_5zxFGE0</id>
-        <link href="https://www.youtube.com/watch?v=xHt_5zxFGE0"/>
-        <updated>2024-11-26T08:14:56.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyaprekasam]]></title>
-        <id>https://www.youtube.com/watch?v=e1gfcX5tG4I</id>
-        <link href="https://www.youtube.com/watch?v=e1gfcX5tG4I"/>
-        <updated>2024-11-26T08:14:56.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eashoye Neyenn]]></title>
-        <id>https://www.youtube.com/watch?v=jVqCKI2HDRI</id>
-        <link href="https://www.youtube.com/watch?v=jVqCKI2HDRI"/>
-        <updated>2024-11-26T08:14:56.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathil Jivikam]]></title>
-        <id>https://www.youtube.com/watch?v=JcTxdX0G1UY</id>
-        <link href="https://www.youtube.com/watch?v=JcTxdX0G1UY"/>
-        <updated>2024-11-26T08:14:56.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
         </author>
     </entry>
 </feed>
