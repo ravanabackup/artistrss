@@ -315,26 +315,6 @@
           "wordCount": null,
           "title": "Koottukare Koddidam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AjR9Sn1VLMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AjR9Sn1VLMI",
-          "publishedOn": "2024-11-28T06:12:58.000Z",
-          "wordCount": null,
-          "title": "Chakkarakkili",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xcWD3c0whI0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xcWD3c0whI0",
-          "publishedOn": "2024-11-28T06:12:58.000Z",
-          "wordCount": null,
-          "title": "Maanazhago F",
-          "imageUrl": null
         }
       ]
     },
@@ -463,18 +443,7 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=oB0EoB5gJV4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oB0EoB5gJV4",
-          "publishedOn": "2024-11-28T06:12:58.000Z",
-          "wordCount": null,
-          "title": "Vellinakshathram (Theme Music)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Biju Narayanan - Topic",
