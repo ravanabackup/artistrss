@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-28T17:10:50.048Z</updated>
+    <updated>2024-12-28T18:17:05.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -814,15 +814,6 @@
         <updated>2024-11-29T18:33:25.000Z</updated>
         <author>
             <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaada Vaada]]></title>
-        <id>https://www.youtube.com/watch?v=Wt872hKf8Lg</id>
-        <link href="https://www.youtube.com/watch?v=Wt872hKf8Lg"/>
-        <updated>2024-11-29T06:13:31.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>
