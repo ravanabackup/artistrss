@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T06:20:05.313Z</updated>
+    <updated>2024-12-30T07:14:14.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -454,105 +454,6 @@
         <updated>2024-12-02T20:02:30.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[East Nunchi]]></title>
-        <id>https://www.youtube.com/watch?v=iQ4PyGGRHoI</id>
-        <link href="https://www.youtube.com/watch?v=iQ4PyGGRHoI"/>
-        <updated>2024-11-30T18:34:59.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yenthan Ennodu]]></title>
-        <id>https://www.youtube.com/watch?v=Qm9f8so9fEg</id>
-        <link href="https://www.youtube.com/watch?v=Qm9f8so9fEg"/>
-        <updated>2024-11-30T18:34:58.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yam Shaivassampupasathe]]></title>
-        <id>https://www.youtube.com/watch?v=Fkrh_21xkl4</id>
-        <link href="https://www.youtube.com/watch?v=Fkrh_21xkl4"/>
-        <updated>2024-11-30T18:34:53.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olavina]]></title>
-        <id>https://www.youtube.com/watch?v=b9KSuDtNOnQ</id>
-        <link href="https://www.youtube.com/watch?v=b9KSuDtNOnQ"/>
-        <updated>2024-11-30T18:34:52.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krishna Varayo]]></title>
-        <id>https://www.youtube.com/watch?v=L2iQYGavAC4</id>
-        <link href="https://www.youtube.com/watch?v=L2iQYGavAC4"/>
-        <updated>2024-11-30T18:34:37.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velli Alaithan]]></title>
-        <id>https://www.youtube.com/watch?v=cHOKEs2FDnk</id>
-        <link href="https://www.youtube.com/watch?v=cHOKEs2FDnk"/>
-        <updated>2024-11-30T18:34:37.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanambadi]]></title>
-        <id>https://www.youtube.com/watch?v=RuECG64Fdbw</id>
-        <link href="https://www.youtube.com/watch?v=RuECG64Fdbw"/>
-        <updated>2024-11-30T18:34:27.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnaithan Ninaithen]]></title>
-        <id>https://www.youtube.com/watch?v=B8TnunLz4kw</id>
-        <link href="https://www.youtube.com/watch?v=B8TnunLz4kw"/>
-        <updated>2024-11-30T18:34:16.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhani Mogudu]]></title>
-        <id>https://www.youtube.com/watch?v=NP4hvqqjU04</id>
-        <link href="https://www.youtube.com/watch?v=NP4hvqqjU04"/>
-        <updated>2024-11-30T18:33:56.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andanaki Andamu]]></title>
-        <id>https://www.youtube.com/watch?v=M9RrQVTiM6E</id>
-        <link href="https://www.youtube.com/watch?v=M9RrQVTiM6E"/>
-        <updated>2024-11-30T18:33:24.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muddu Mama]]></title>
-        <id>https://www.youtube.com/watch?v=sLgMDve0yF8</id>
-        <link href="https://www.youtube.com/watch?v=sLgMDve0yF8"/>
-        <updated>2024-11-30T18:30:42.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
