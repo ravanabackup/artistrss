@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T04:16:36.964Z</updated>
+    <updated>2025-01-02T05:13:24.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -364,15 +364,6 @@
         <updated>2024-12-04T10:45:05.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sabari Endroru Sigaram Ange]]></title>
-        <id>https://www.youtube.com/watch?v=BOhwGYdfrEo</id>
-        <link href="https://www.youtube.com/watch?v=BOhwGYdfrEo"/>
-        <updated>2024-12-03T16:17:24.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
