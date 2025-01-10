@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T15:12:56.102Z</updated>
+    <updated>2025-01-10T16:17:08.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -101,6 +101,15 @@
         <id>https://www.youtube.com/watch?v=ZPU0Z2JN6ao</id>
         <link href="https://www.youtube.com/watch?v=ZPU0Z2JN6ao"/>
         <updated>2024-12-23T05:58:10.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thrithuathil Vazhunna]]></title>
+        <id>https://www.youtube.com/watch?v=3VeuNS0gouI</id>
+        <link href="https://www.youtube.com/watch?v=3VeuNS0gouI"/>
+        <updated>2024-12-23T05:57:39.000Z</updated>
         <author>
             <name>Kester - Topic</name>
         </author>
