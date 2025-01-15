@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T06:18:48.985Z</updated>
+    <updated>2025-01-15T07:12:36.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -211,15 +211,6 @@
         <updated>2024-12-17T21:26:01.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhikal Vanilavu - House Mix]]></title>
-        <id>https://www.youtube.com/watch?v=gfhPla_Jh1A</id>
-        <link href="https://www.youtube.com/watch?v=gfhPla_Jh1A"/>
-        <updated>2024-12-16T18:34:03.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
 </feed>
