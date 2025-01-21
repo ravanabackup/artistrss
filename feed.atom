@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T17:13:12.955Z</updated>
+    <updated>2025-01-21T18:18:43.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -139,78 +139,6 @@
         <updated>2024-12-24T05:50:33.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oro baliyum]]></title>
-        <id>https://www.youtube.com/watch?v=ZPU0Z2JN6ao</id>
-        <link href="https://www.youtube.com/watch?v=ZPU0Z2JN6ao"/>
-        <updated>2024-12-23T05:58:10.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thrithuathil Vazhunna]]></title>
-        <id>https://www.youtube.com/watch?v=3VeuNS0gouI</id>
-        <link href="https://www.youtube.com/watch?v=3VeuNS0gouI"/>
-        <updated>2024-12-23T05:57:39.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appam Pankittu]]></title>
-        <id>https://www.youtube.com/watch?v=cM9sjVZDLNk</id>
-        <link href="https://www.youtube.com/watch?v=cM9sjVZDLNk"/>
-        <updated>2024-12-23T05:56:59.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vind Keeriya]]></title>
-        <id>https://www.youtube.com/watch?v=DeSL8T7WBD8</id>
-        <link href="https://www.youtube.com/watch?v=DeSL8T7WBD8"/>
-        <updated>2024-12-23T05:56:59.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurbana Than Rahadyam]]></title>
-        <id>https://www.youtube.com/watch?v=PmgvwfVVrJ0</id>
-        <link href="https://www.youtube.com/watch?v=PmgvwfVVrJ0"/>
-        <updated>2024-12-23T05:56:58.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivaputhranu Swagatham]]></title>
-        <id>https://www.youtube.com/watch?v=kCX2d_Hn0BA</id>
-        <link href="https://www.youtube.com/watch?v=kCX2d_Hn0BA"/>
-        <updated>2024-12-23T05:56:58.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingane Enne]]></title>
-        <id>https://www.youtube.com/watch?v=ui62ksyMMjE</id>
-        <link href="https://www.youtube.com/watch?v=ui62ksyMMjE"/>
-        <updated>2024-12-23T05:56:58.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sambathanekam]]></title>
-        <id>https://www.youtube.com/watch?v=usc2LRLbgtA</id>
-        <link href="https://www.youtube.com/watch?v=usc2LRLbgtA"/>
-        <updated>2024-12-23T05:56:58.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
