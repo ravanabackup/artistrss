@@ -116,16 +116,6 @@
           "wordCount": null,
           "title": "Kaadinte Ullu (From \"Poyyamozhi\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dgFs6ITPJME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dgFs6ITPJME",
-          "publishedOn": "2024-12-29T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Neeyo",
-          "imageUrl": null
         }
       ]
     },
@@ -199,18 +189,7 @@
       "title": "Shahabaz Aman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIPZv7FT9SQ-XFIV47yz9yg",
       "siteUrl": "https://www.youtube.com/channel/UCIPZv7FT9SQ-XFIV47yz9yg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=mKDT2F7Wzb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mKDT2F7Wzb8",
-          "publishedOn": "2024-12-29T10:00:46.000Z",
-          "wordCount": null,
-          "title": "Kaayalinarike",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Madhu Balakrishnan - Topic",

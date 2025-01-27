@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T21:13:05.068Z</updated>
+    <updated>2025-01-27T22:12:51.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -290,24 +290,6 @@
         <id>https://www.youtube.com/watch?v=5oqiDojlcPg</id>
         <link href="https://www.youtube.com/watch?v=5oqiDojlcPg"/>
         <updated>2025-01-02T09:10:34.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaayalinarike]]></title>
-        <id>https://www.youtube.com/watch?v=mKDT2F7Wzb8</id>
-        <link href="https://www.youtube.com/watch?v=mKDT2F7Wzb8"/>
-        <updated>2024-12-29T10:00:46.000Z</updated>
-        <author>
-            <name>Shahabaz Aman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyo]]></title>
-        <id>https://www.youtube.com/watch?v=dgFs6ITPJME</id>
-        <link href="https://www.youtube.com/watch?v=dgFs6ITPJME"/>
-        <updated>2024-12-29T10:00:37.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
         </author>
