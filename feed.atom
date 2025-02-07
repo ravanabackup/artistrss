@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T23:14:31.699Z</updated>
+    <updated>2025-02-07T01:05:20.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -508,15 +508,6 @@
         <updated>2025-01-09T05:36:50.000Z</updated>
         <author>
             <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varavendum]]></title>
-        <id>https://www.youtube.com/watch?v=rOCV6pGZOqI</id>
-        <link href="https://www.youtube.com/watch?v=rOCV6pGZOqI"/>
-        <updated>2025-01-08T11:29:10.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
         </author>
     </entry>
 </feed>
