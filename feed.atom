@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T18:17:45.758Z</updated>
+    <updated>2025-02-19T19:11:12.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -526,96 +526,6 @@
         <updated>2025-01-23T10:00:11.000Z</updated>
         <author>
             <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malarinte Manavum Nee]]></title>
-        <id>https://www.youtube.com/watch?v=22RCvtlifQw</id>
-        <link href="https://www.youtube.com/watch?v=22RCvtlifQw"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thozhuthu Nilkum]]></title>
-        <id>https://www.youtube.com/watch?v=4jSazOBwVfY</id>
-        <link href="https://www.youtube.com/watch?v=4jSazOBwVfY"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ganapathikkoru Nalikeram]]></title>
-        <id>https://www.youtube.com/watch?v=Cw-aiAxpHpY</id>
-        <link href="https://www.youtube.com/watch?v=Cw-aiAxpHpY"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erumeliyil]]></title>
-        <id>https://www.youtube.com/watch?v=HOHiE3I-cBk</id>
-        <link href="https://www.youtube.com/watch?v=HOHiE3I-cBk"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saranam Saranam Saranam]]></title>
-        <id>https://www.youtube.com/watch?v=WvvXjI0kzrU</id>
-        <link href="https://www.youtube.com/watch?v=WvvXjI0kzrU"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swami Saranam]]></title>
-        <id>https://www.youtube.com/watch?v=Z7_hRtXDUuU</id>
-        <link href="https://www.youtube.com/watch?v=Z7_hRtXDUuU"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalam Karthika]]></title>
-        <id>https://www.youtube.com/watch?v=eI_vWw_HCl8</id>
-        <link href="https://www.youtube.com/watch?v=eI_vWw_HCl8"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mancha Matheswari]]></title>
-        <id>https://www.youtube.com/watch?v=fNacztcyK9Q</id>
-        <link href="https://www.youtube.com/watch?v=fNacztcyK9Q"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Ennikente]]></title>
-        <id>https://www.youtube.com/watch?v=j08H37JIvcg</id>
-        <link href="https://www.youtube.com/watch?v=j08H37JIvcg"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saranam Saraname]]></title>
-        <id>https://www.youtube.com/watch?v=xl9qMtf-KV4</id>
-        <link href="https://www.youtube.com/watch?v=xl9qMtf-KV4"/>
-        <updated>2025-01-21T06:18:47.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
