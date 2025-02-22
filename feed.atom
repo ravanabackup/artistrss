@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T18:16:47.045Z</updated>
+    <updated>2025-02-22T19:10:39.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -490,15 +490,6 @@
         <updated>2025-01-24T09:17:59.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megham Poothu Thudangi]]></title>
-        <id>https://www.youtube.com/watch?v=JJP5b3s-LRM</id>
-        <link href="https://www.youtube.com/watch?v=JJP5b3s-LRM"/>
-        <updated>2025-01-24T06:58:48.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
