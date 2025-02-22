@@ -336,16 +336,6 @@
           "wordCount": null,
           "title": "Shiva Shiva Shankaraa - Malayalam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8ympVjyvPFY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8ympVjyvPFY",
-          "publishedOn": "2025-01-24T10:00:10.000Z",
-          "wordCount": null,
-          "title": "Ee Koottil",
-          "imageUrl": null
         }
       ]
     },
@@ -562,36 +552,6 @@
           "wordCount": null,
           "title": "Inka Mouname - Bit",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OCrcQueBBZk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OCrcQueBBZk",
-          "publishedOn": "2025-01-24T09:20:49.000Z",
-          "wordCount": null,
-          "title": "Madhuraswarga Maraalamo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XrntpnWhvgI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XrntpnWhvgI",
-          "publishedOn": "2025-01-24T09:20:49.000Z",
-          "wordCount": null,
-          "title": "Manasa Souvarnna Chakravalathile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d0lm4DMhzDM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d0lm4DMhzDM",
-          "publishedOn": "2025-01-24T09:20:49.000Z",
-          "wordCount": null,
-          "title": "Kazhinja Kaalathin Kallarayil",
-          "imageUrl": null
         }
       ]
     },
@@ -619,36 +579,6 @@
           "wordCount": null,
           "title": "Papabhoovil Nonthukezhum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-tz3DaZuywQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-tz3DaZuywQ",
-          "publishedOn": "2025-01-24T09:18:43.000Z",
-          "wordCount": null,
-          "title": "Amme Mariyame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=83LgAtol5TY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=83LgAtol5TY",
-          "publishedOn": "2025-01-24T09:18:43.000Z",
-          "wordCount": null,
-          "title": "Nithyasawbagyamode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=prmJej8F0_Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=prmJej8F0_Q",
-          "publishedOn": "2025-01-24T09:18:43.000Z",
-          "wordCount": null,
-          "title": "Amme Vilikunnu",
-          "imageUrl": null
         }
       ]
     },
@@ -656,38 +586,7 @@
       "title": "Elizabeth Raju - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=bp_C7Kim5Tc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bp_C7Kim5Tc",
-          "publishedOn": "2025-01-24T09:18:43.000Z",
-          "wordCount": null,
-          "title": "Mahitheyange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eNsEesKd1UU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eNsEesKd1UU",
-          "publishedOn": "2025-01-24T09:18:43.000Z",
-          "wordCount": null,
-          "title": "Manum Vinnum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mMvXdINeIGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mMvXdINeIGU",
-          "publishedOn": "2025-01-24T09:17:59.000Z",
-          "wordCount": null,
-          "title": "Mariyasuthanayi",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Maria Kolady - Topic",
