@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T23:12:20.904Z</updated>
+    <updated>2025-02-24T01:08:06.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -400,15 +400,6 @@
         <updated>2025-01-27T10:03:22.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karivala Chinniya Poleyoraal (From "Machante Maalakha")]]></title>
-        <id>https://www.youtube.com/watch?v=7iqTpRkc6wM</id>
-        <link href="https://www.youtube.com/watch?v=7iqTpRkc6wM"/>
-        <updated>2025-01-25T12:33:02.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
 </feed>
