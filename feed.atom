@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T09:15:32.531Z</updated>
+    <updated>2025-02-27T10:15:16.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Penne]]></title>
+        <id>https://www.youtube.com/watch?v=fpYh75drRM4</id>
+        <link href="https://www.youtube.com/watch?v=fpYh75drRM4"/>
+        <updated>2025-02-27T10:05:17.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mizhiyil Minnaaminnu Duet]]></title>
         <id>https://www.youtube.com/watch?v=aflETsxaeV4</id>
@@ -398,6 +407,24 @@
         <id>https://www.youtube.com/watch?v=R8k4mUGWGaY</id>
         <link href="https://www.youtube.com/watch?v=R8k4mUGWGaY"/>
         <updated>2025-01-30T10:32:23.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandana Thennalay]]></title>
+        <id>https://www.youtube.com/watch?v=3wCBQnm-NKY</id>
+        <link href="https://www.youtube.com/watch?v=3wCBQnm-NKY"/>
+        <updated>2025-01-30T10:31:56.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marivillin Nattukari]]></title>
+        <id>https://www.youtube.com/watch?v=1yp4zLWqoPI</id>
+        <link href="https://www.youtube.com/watch?v=1yp4zLWqoPI"/>
+        <updated>2025-01-30T10:31:20.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
         </author>
