@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T20:15:14.174Z</updated>
+    <updated>2025-02-28T21:12:53.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -598,15 +598,6 @@
         <updated>2025-01-30T10:03:04.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unni Vaavavo M]]></title>
-        <id>https://www.youtube.com/watch?v=K0tZAIZFWyc</id>
-        <link href="https://www.youtube.com/watch?v=K0tZAIZFWyc"/>
-        <updated>2025-01-30T08:17:51.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
