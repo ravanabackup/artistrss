@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T19:13:00.197Z</updated>
+    <updated>2025-02-28T20:15:14.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -605,24 +605,6 @@
         <id>https://www.youtube.com/watch?v=K0tZAIZFWyc</id>
         <link href="https://www.youtube.com/watch?v=K0tZAIZFWyc"/>
         <updated>2025-01-30T08:17:51.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chithra Salabham Chodhichu]]></title>
-        <id>https://www.youtube.com/watch?v=KiRfEFdaySM</id>
-        <link href="https://www.youtube.com/watch?v=KiRfEFdaySM"/>
-        <updated>2025-01-30T08:14:06.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ushassil Neeyoru Thushara Bindhu]]></title>
-        <id>https://www.youtube.com/watch?v=OWkOQFdmEBM</id>
-        <link href="https://www.youtube.com/watch?v=OWkOQFdmEBM"/>
-        <updated>2025-01-30T08:14:06.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
         </author>
