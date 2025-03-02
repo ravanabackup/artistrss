@@ -175,26 +175,6 @@
           "wordCount": null,
           "title": "Poraattam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c35U2FXJuDM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c35U2FXJuDM",
-          "publishedOn": "2025-01-31T16:45:42.000Z",
-          "wordCount": null,
-          "title": "Pattam Pola",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iNr_WjMQkyo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iNr_WjMQkyo",
-          "publishedOn": "2025-01-31T16:45:42.000Z",
-          "wordCount": null,
-          "title": "Vaada Eni Mel Dhan Attam",
-          "imageUrl": null
         }
       ]
     },
@@ -429,18 +409,7 @@
       "title": "Deepak Dev - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=6TGv2n4XBDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6TGv2n4XBDw",
-          "publishedOn": "2025-01-31T16:46:48.000Z",
-          "wordCount": null,
-          "title": "Allahu Akbar (From \"Gang Banger\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "G. Venugopal - Topic",
