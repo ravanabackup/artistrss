@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T01:08:28.722Z</updated>
+    <updated>2025-03-05T02:51:02.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -544,33 +544,6 @@
         <updated>2025-02-05T10:02:21.000Z</updated>
         <author>
             <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalappoliyode Neeyananju]]></title>
-        <id>https://www.youtube.com/watch?v=HmDbe2UIa_U</id>
-        <link href="https://www.youtube.com/watch?v=HmDbe2UIa_U"/>
-        <updated>2025-02-03T13:16:32.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Kaatham]]></title>
-        <id>https://www.youtube.com/watch?v=NxC2PRTF0as</id>
-        <link href="https://www.youtube.com/watch?v=NxC2PRTF0as"/>
-        <updated>2025-02-03T13:16:32.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellappudavayuduthu Vellivilakkumeduthu]]></title>
-        <id>https://www.youtube.com/watch?v=WZAygkaqdbY</id>
-        <link href="https://www.youtube.com/watch?v=WZAygkaqdbY"/>
-        <updated>2025-02-03T13:16:32.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
