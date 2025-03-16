@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T23:12:38.790Z</updated>
+    <updated>2025-03-16T01:13:59.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -508,33 +508,6 @@
         <updated>2025-02-15T14:49:06.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kan Chimmunna Neram]]></title>
-        <id>https://www.youtube.com/watch?v=9rT357UEnyU</id>
-        <link href="https://www.youtube.com/watch?v=9rT357UEnyU"/>
-        <updated>2025-02-14T13:01:23.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THENNAL]]></title>
-        <id>https://www.youtube.com/watch?v=0n36aZRp8XQ</id>
-        <link href="https://www.youtube.com/watch?v=0n36aZRp8XQ"/>
-        <updated>2025-02-14T11:45:50.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THENNAL MUSIC VIDEO]]></title>
-        <id>https://www.youtube.com/watch?v=AgVU97UtR7Q</id>
-        <link href="https://www.youtube.com/watch?v=AgVU97UtR7Q"/>
-        <updated>2025-02-14T11:43:48.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
