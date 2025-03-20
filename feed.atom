@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T18:20:22.531Z</updated>
+    <updated>2025-03-20T19:11:41.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aadharanjali - Psytrance Mix]]></title>
+        <id>https://www.youtube.com/watch?v=U9LDARz6xiM</id>
+        <link href="https://www.youtube.com/watch?v=U9LDARz6xiM"/>
+        <updated>2025-03-20T18:33:48.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guru Meets Mastan (Ulpporul)]]></title>
         <id>https://www.youtube.com/watch?v=9s4-sBmxYwc</id>
