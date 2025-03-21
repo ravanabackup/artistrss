@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T21:12:52.222Z</updated>
+    <updated>2025-03-21T22:13:46.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ja Ja Sanam Bewafa]]></title>
+        <id>https://www.youtube.com/watch?v=xashO4tPTNQ</id>
+        <link href="https://www.youtube.com/watch?v=xashO4tPTNQ"/>
+        <updated>2025-03-21T21:54:06.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala]]></title>
         <id>https://www.youtube.com/watch?v=cbk-ah2RscI</id>
@@ -463,15 +472,6 @@
         <updated>2025-02-22T18:19:54.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalla Rasam]]></title>
-        <id>https://www.youtube.com/watch?v=4d-yVTEo344</id>
-        <link href="https://www.youtube.com/watch?v=4d-yVTEo344"/>
-        <updated>2025-02-20T10:03:20.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
