@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T21:14:10.404Z</updated>
+    <updated>2025-03-27T22:13:44.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -418,78 +418,6 @@
         <updated>2025-02-27T04:55:19.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmanimaro Illa]]></title>
-        <id>https://www.youtube.com/watch?v=D0VG7n5FiLM</id>
-        <link href="https://www.youtube.com/watch?v=D0VG7n5FiLM"/>
-        <updated>2025-02-26T09:57:24.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhiyil Minnaaminnu Duet]]></title>
-        <id>https://www.youtube.com/watch?v=aflETsxaeV4</id>
-        <link href="https://www.youtube.com/watch?v=aflETsxaeV4"/>
-        <updated>2025-02-26T09:56:12.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhiyil Minnaaminnu F]]></title>
-        <id>https://www.youtube.com/watch?v=hV6Ar_Mn-TI</id>
-        <link href="https://www.youtube.com/watch?v=hV6Ar_Mn-TI"/>
-        <updated>2025-02-26T09:56:12.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkanu Pookkanu]]></title>
-        <id>https://www.youtube.com/watch?v=u3jnQQaMtdc</id>
-        <link href="https://www.youtube.com/watch?v=u3jnQQaMtdc"/>
-        <updated>2025-02-26T09:56:12.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megharaagathil]]></title>
-        <id>https://www.youtube.com/watch?v=rcZtmgTxs-8</id>
-        <link href="https://www.youtube.com/watch?v=rcZtmgTxs-8"/>
-        <updated>2025-02-26T09:55:57.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanazhako F]]></title>
-        <id>https://www.youtube.com/watch?v=5fbh-MLPszs</id>
-        <link href="https://www.youtube.com/watch?v=5fbh-MLPszs"/>
-        <updated>2025-02-26T09:51:11.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkarakkili]]></title>
-        <id>https://www.youtube.com/watch?v=WaDmmzM5iz0</id>
-        <link href="https://www.youtube.com/watch?v=WaDmmzM5iz0"/>
-        <updated>2025-02-26T09:51:11.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanazhako]]></title>
-        <id>https://www.youtube.com/watch?v=2TaTClo_MHY</id>
-        <link href="https://www.youtube.com/watch?v=2TaTClo_MHY"/>
-        <updated>2025-02-26T09:51:11.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>

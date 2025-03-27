@@ -44,48 +44,7 @@
       "title": "Sujatha Mohan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4PHPycgfp4P2iydf5XXD3A",
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=aflETsxaeV4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aflETsxaeV4",
-          "publishedOn": "2025-02-26T09:56:12.000Z",
-          "wordCount": null,
-          "title": "Mizhiyil Minnaaminnu Duet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hV6Ar_Mn-TI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hV6Ar_Mn-TI",
-          "publishedOn": "2025-02-26T09:56:12.000Z",
-          "wordCount": null,
-          "title": "Mizhiyil Minnaaminnu F",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5fbh-MLPszs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5fbh-MLPszs",
-          "publishedOn": "2025-02-26T09:51:11.000Z",
-          "wordCount": null,
-          "title": "Maanazhako F",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WaDmmzM5iz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WaDmmzM5iz0",
-          "publishedOn": "2025-02-26T09:51:11.000Z",
-          "wordCount": null,
-          "title": "Chakkarakkili",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Gopi Sundar - Topic",
@@ -110,16 +69,6 @@
           "publishedOn": "2025-03-23T18:32:00.000Z",
           "wordCount": null,
           "title": "Aa Naru Chiriyude (From \"Paradha (Malayalam)\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D0VG7n5FiLM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D0VG7n5FiLM",
-          "publishedOn": "2025-02-26T09:57:24.000Z",
-          "wordCount": null,
-          "title": "Kanmanimaro Illa",
           "imageUrl": null
         }
       ]
@@ -462,36 +411,6 @@
           "publishedOn": "2025-03-11T08:41:24.000Z",
           "wordCount": null,
           "title": "Lalitha Priya",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u3jnQQaMtdc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u3jnQQaMtdc",
-          "publishedOn": "2025-02-26T09:56:12.000Z",
-          "wordCount": null,
-          "title": "Pookkanu Pookkanu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rcZtmgTxs-8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rcZtmgTxs-8",
-          "publishedOn": "2025-02-26T09:55:57.000Z",
-          "wordCount": null,
-          "title": "Megharaagathil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2TaTClo_MHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2TaTClo_MHY",
-          "publishedOn": "2025-02-26T09:51:11.000Z",
-          "wordCount": null,
-          "title": "Maanazhako",
           "imageUrl": null
         }
       ]
