@@ -4482,48 +4482,7 @@
       "title": "K. J. Yesudas - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg",
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=8lAHiVjQe8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8lAHiVjQe8o",
-          "publishedOn": "2025-03-11T08:41:24.000Z",
-          "wordCount": null,
-          "title": "Neethone (Neethone)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DYuv0D3pE1Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DYuv0D3pE1Q",
-          "publishedOn": "2025-03-11T08:41:24.000Z",
-          "wordCount": null,
-          "title": "Tulasi Dalamulache",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FuMUiD2iTP4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FuMUiD2iTP4",
-          "publishedOn": "2025-03-11T08:41:24.000Z",
-          "wordCount": null,
-          "title": "Maanava Seva",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RH9rv0YA_uY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RH9rv0YA_uY",
-          "publishedOn": "2025-03-11T08:41:24.000Z",
-          "wordCount": null,
-          "title": "Lalitha Priya",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kester - Topic",

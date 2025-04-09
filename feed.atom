@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T20:16:16.761Z</updated>
+    <updated>2025-04-09T21:12:13.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4621,42 +4621,6 @@
         <updated>2025-03-13T10:01:42.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neethone (Neethone)]]></title>
-        <id>https://www.youtube.com/watch?v=8lAHiVjQe8o</id>
-        <link href="https://www.youtube.com/watch?v=8lAHiVjQe8o"/>
-        <updated>2025-03-11T08:41:24.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tulasi Dalamulache]]></title>
-        <id>https://www.youtube.com/watch?v=DYuv0D3pE1Q</id>
-        <link href="https://www.youtube.com/watch?v=DYuv0D3pE1Q"/>
-        <updated>2025-03-11T08:41:24.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanava Seva]]></title>
-        <id>https://www.youtube.com/watch?v=FuMUiD2iTP4</id>
-        <link href="https://www.youtube.com/watch?v=FuMUiD2iTP4"/>
-        <updated>2025-03-11T08:41:24.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lalitha Priya]]></title>
-        <id>https://www.youtube.com/watch?v=RH9rv0YA_uY</id>
-        <link href="https://www.youtube.com/watch?v=RH9rv0YA_uY"/>
-        <updated>2025-03-11T08:41:24.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
