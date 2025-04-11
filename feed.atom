@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T21:13:35.020Z</updated>
+    <updated>2025-04-11T22:13:41.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4621,15 +4621,6 @@
         <updated>2025-03-20T05:07:41.000Z</updated>
         <author>
             <name>Shahabaz Aman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmani (feat. Liboy Praisly Kripesh)]]></title>
-        <id>https://www.youtube.com/watch?v=4hrTVcXChV0</id>
-        <link href="https://www.youtube.com/watch?v=4hrTVcXChV0"/>
-        <updated>2025-03-13T10:01:42.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
