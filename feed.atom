@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T20:16:36.049Z</updated>
+    <updated>2025-04-17T21:14:28.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intha Idayathile]]></title>
+        <id>https://www.youtube.com/watch?v=YeiFDaZt2A0</id>
+        <link href="https://www.youtube.com/watch?v=YeiFDaZt2A0"/>
+        <updated>2025-04-11T10:11:36.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sri Rama Jaya Rama]]></title>
         <id>https://www.youtube.com/watch?v=5SE5UZo_2L4</id>
@@ -3940,6 +3949,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wayanadan Kadukal (Duet Version)]]></title>
+        <id>https://www.youtube.com/watch?v=0XdSc9_dEZc</id>
+        <link href="https://www.youtube.com/watch?v=0XdSc9_dEZc"/>
+        <updated>2025-04-04T17:43:01.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayanadan Kadukal]]></title>
+        <id>https://www.youtube.com/watch?v=D7bXh-_HOJ4</id>
+        <link href="https://www.youtube.com/watch?v=D7bXh-_HOJ4"/>
+        <updated>2025-04-04T17:43:01.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ammanam Kombathe (Recreated Version)]]></title>
         <id>https://www.youtube.com/watch?v=70s5Q4iOXQg</id>
         <link href="https://www.youtube.com/watch?v=70s5Q4iOXQg"/>
@@ -4081,6 +4108,24 @@
         <updated>2025-04-04T17:33:11.000Z</updated>
         <author>
             <name>Najim Arshad - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makkathudhitha Nilaavinte]]></title>
+        <id>https://www.youtube.com/watch?v=Lw8KowfJDhA</id>
+        <link href="https://www.youtube.com/watch?v=Lw8KowfJDhA"/>
+        <updated>2025-04-04T17:19:03.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ya Karim Allah]]></title>
+        <id>https://www.youtube.com/watch?v=lABzTEL0HAk</id>
+        <link href="https://www.youtube.com/watch?v=lABzTEL0HAk"/>
+        <updated>2025-04-04T17:19:03.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
     <entry>
