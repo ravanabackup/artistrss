@@ -2,10 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T11:12:55.440Z</updated>
+    <updated>2025-04-22T12:30:05.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Murdered Lover]]></title>
+        <id>https://www.youtube.com/watch?v=ARhf7U4G3S8</id>
+        <link href="https://www.youtube.com/watch?v=ARhf7U4G3S8"/>
+        <updated>2025-04-21T10:24:15.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dont Die Bhargavi]]></title>
+        <id>https://www.youtube.com/watch?v=xfWVnsij2yY</id>
+        <link href="https://www.youtube.com/watch?v=xfWVnsij2yY"/>
+        <updated>2025-04-21T10:24:11.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[By The Well]]></title>
+        <id>https://www.youtube.com/watch?v=2JLDcjyQqi0</id>
+        <link href="https://www.youtube.com/watch?v=2JLDcjyQqi0"/>
+        <updated>2025-04-21T10:24:10.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intruder]]></title>
+        <id>https://www.youtube.com/watch?v=lIFNe2rHJTI</id>
+        <link href="https://www.youtube.com/watch?v=lIFNe2rHJTI"/>
+        <updated>2025-04-21T10:24:09.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposal]]></title>
+        <id>https://www.youtube.com/watch?v=w_3hNkNs9n4</id>
+        <link href="https://www.youtube.com/watch?v=w_3hNkNs9n4"/>
+        <updated>2025-04-21T10:24:09.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neelavelicham]]></title>
+        <id>https://www.youtube.com/watch?v=x17h9O2DVis</id>
+        <link href="https://www.youtube.com/watch?v=x17h9O2DVis"/>
+        <updated>2025-04-21T10:24:09.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotting A Letter]]></title>
+        <id>https://www.youtube.com/watch?v=jRTj_Lh3Sds</id>
+        <link href="https://www.youtube.com/watch?v=jRTj_Lh3Sds"/>
+        <updated>2025-04-21T10:24:07.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Newspaper]]></title>
+        <id>https://www.youtube.com/watch?v=QW4TAgllDYc</id>
+        <link href="https://www.youtube.com/watch?v=QW4TAgllDYc"/>
+        <updated>2025-04-21T10:24:06.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunfires]]></title>
+        <id>https://www.youtube.com/watch?v=yMUuRRYZHjU</id>
+        <link href="https://www.youtube.com/watch?v=yMUuRRYZHjU"/>
+        <updated>2025-04-21T10:24:05.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhargavi And Sasikumar]]></title>
+        <id>https://www.youtube.com/watch?v=oWJbLUEGkks</id>
+        <link href="https://www.youtube.com/watch?v=oWJbLUEGkks"/>
+        <updated>2025-04-21T10:24:01.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time To Read The Story]]></title>
+        <id>https://www.youtube.com/watch?v=r1MoLg5JmAk</id>
+        <link href="https://www.youtube.com/watch?v=r1MoLg5JmAk"/>
+        <updated>2025-04-21T10:24:00.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farewell]]></title>
+        <id>https://www.youtube.com/watch?v=17aeiQY3lt8</id>
+        <link href="https://www.youtube.com/watch?v=17aeiQY3lt8"/>
+        <updated>2025-04-21T10:23:29.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play A Record]]></title>
+        <id>https://www.youtube.com/watch?v=1g8UtER-7QY</id>
+        <link href="https://www.youtube.com/watch?v=1g8UtER-7QY"/>
+        <updated>2025-04-21T10:23:28.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened Last Night]]></title>
+        <id>https://www.youtube.com/watch?v=XG9wuMdFUrI</id>
+        <link href="https://www.youtube.com/watch?v=XG9wuMdFUrI"/>
+        <updated>2025-04-21T10:23:28.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone's Out There]]></title>
+        <id>https://www.youtube.com/watch?v=oQ6fholJhfU</id>
+        <link href="https://www.youtube.com/watch?v=oQ6fholJhfU"/>
+        <updated>2025-04-21T10:23:28.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thamasamenthe Varuvan]]></title>
         <id>https://www.youtube.com/watch?v=8p6UgDkY-t8</id>
