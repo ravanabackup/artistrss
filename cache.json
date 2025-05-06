@@ -43,7 +43,28 @@
       "title": "Sujatha Mohan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4PHPycgfp4P2iydf5XXD3A",
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=K0lqvOqZGbk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K0lqvOqZGbk",
+          "publishedOn": "2025-05-06T06:33:07.000Z",
+          "wordCount": null,
+          "title": "Thirumadhu Magizhgindra",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UGiznfkXQAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UGiznfkXQAo",
+          "publishedOn": "2025-05-06T06:33:07.000Z",
+          "wordCount": null,
+          "title": "Thiruvenkada Nadha",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Gopi Sundar - Topic",
