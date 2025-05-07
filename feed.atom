@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T09:17:06.294Z</updated>
+    <updated>2025-05-07T10:17:04.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -67,6 +67,15 @@
         <updated>2025-05-03T05:40:38.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abba Pithave]]></title>
+        <id>https://www.youtube.com/watch?v=GVrF_oimDRU</id>
+        <link href="https://www.youtube.com/watch?v=GVrF_oimDRU"/>
+        <updated>2025-05-01T18:53:12.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
