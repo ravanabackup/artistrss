@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T10:20:01.599Z</updated>
+    <updated>2025-05-26T11:12:22.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas]]></title>
+        <id>https://www.youtube.com/watch?v=9l5_1zkpZMU</id>
+        <link href="https://www.youtube.com/watch?v=9l5_1zkpZMU"/>
+        <updated>2025-05-26T10:40:17.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anugrahathin Athipathi]]></title>
+        <id>https://www.youtube.com/watch?v=K74YSK19j0c</id>
+        <link href="https://www.youtube.com/watch?v=K74YSK19j0c"/>
+        <updated>2025-05-26T10:40:17.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Enn Adisthanam]]></title>
+        <id>https://www.youtube.com/watch?v=q9OIJ3dw9Zg</id>
+        <link href="https://www.youtube.com/watch?v=q9OIJ3dw9Zg"/>
+        <updated>2025-05-26T10:40:17.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthathisayame]]></title>
+        <id>https://www.youtube.com/watch?v=vHG4fh33gTU</id>
+        <link href="https://www.youtube.com/watch?v=vHG4fh33gTU"/>
+        <updated>2025-05-26T10:40:17.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandhanam Yeshupara]]></title>
+        <id>https://www.youtube.com/watch?v=M9w2T88OhFc</id>
+        <link href="https://www.youtube.com/watch?v=M9w2T88OhFc"/>
+        <updated>2025-05-26T10:40:17.000Z</updated>
+        <author>
+            <name>Elizabeth Raju - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kiranagal]]></title>
         <id>https://www.youtube.com/watch?v=l0iPTSc2fgI</id>
