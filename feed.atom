@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T11:12:48.655Z</updated>
+    <updated>2025-05-30T12:31:50.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sabarigireeshwara Palakane]]></title>
+        <id>https://www.youtube.com/watch?v=U0SDakpQ22g</id>
+        <link href="https://www.youtube.com/watch?v=U0SDakpQ22g"/>
+        <updated>2025-05-29T10:04:45.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikanda Swamikk]]></title>
+        <id>https://www.youtube.com/watch?v=pA7Lhj0BFsw</id>
+        <link href="https://www.youtube.com/watch?v=pA7Lhj0BFsw"/>
+        <updated>2025-05-29T10:04:05.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panthala Raajanu]]></title>
+        <id>https://www.youtube.com/watch?v=AeEbR3wo9kU</id>
+        <link href="https://www.youtube.com/watch?v=AeEbR3wo9kU"/>
+        <updated>2025-05-29T10:03:02.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalyana Rav]]></title>
         <id>https://www.youtube.com/watch?v=jea7AXo8cfg</id>
@@ -337,6 +364,15 @@
         <updated>2025-05-21T21:36:14.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandham Chindhum]]></title>
+        <id>https://www.youtube.com/watch?v=zbANmO7XJd4</id>
+        <link href="https://www.youtube.com/watch?v=zbANmO7XJd4"/>
+        <updated>2025-05-21T21:34:22.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
     <entry>
