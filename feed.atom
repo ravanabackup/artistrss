@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T18:22:10.767Z</updated>
+    <updated>2025-06-04T19:12:56.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1426,24 +1426,6 @@
         <updated>2025-05-07T08:00:14.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirumadhu Magizhgindra]]></title>
-        <id>https://www.youtube.com/watch?v=K0lqvOqZGbk</id>
-        <link href="https://www.youtube.com/watch?v=K0lqvOqZGbk"/>
-        <updated>2025-05-06T06:33:07.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruvenkada Nadha]]></title>
-        <id>https://www.youtube.com/watch?v=UGiznfkXQAo</id>
-        <link href="https://www.youtube.com/watch?v=UGiznfkXQAo"/>
-        <updated>2025-05-06T06:33:07.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
