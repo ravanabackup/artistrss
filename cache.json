@@ -190,6 +190,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCoEkddaP-0x5YEZ-IrDq96A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q86stIBhVys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q86stIBhVys",
+          "publishedOn": "2025-06-06T10:15:24.000Z",
+          "wordCount": null,
+          "title": "Evideyaa Prakasham",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gmr5M2AhKyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gmr5M2AhKyI",
+          "publishedOn": "2025-06-06T10:15:24.000Z",
+          "wordCount": null,
+          "title": "Thaaram",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z5A7rufqKJc",
           "author": null,
           "description": "",
@@ -329,6 +349,96 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VooOQsclMzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VooOQsclMzg",
+          "publishedOn": "2025-06-06T10:15:09.000Z",
+          "wordCount": null,
+          "title": "Sarale Sarale",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4gMm-G_FrcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4gMm-G_FrcQ",
+          "publishedOn": "2025-06-05T13:15:48.000Z",
+          "wordCount": null,
+          "title": "Netravathi Theeradali",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=C0XVq0AnHoQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C0XVq0AnHoQ",
+          "publishedOn": "2025-06-05T13:15:48.000Z",
+          "wordCount": null,
+          "title": "Sri Manjunatha Swamy Manjunatha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MOrkPjBJSKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MOrkPjBJSKk",
+          "publishedOn": "2025-06-05T13:15:48.000Z",
+          "wordCount": null,
+          "title": "Karunabharana Eesha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x176dS5CpHg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x176dS5CpHg",
+          "publishedOn": "2025-06-05T13:15:48.000Z",
+          "wordCount": null,
+          "title": "Sathya Dharmava",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XESY2EvS1aA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XESY2EvS1aA",
+          "publishedOn": "2025-06-05T13:14:13.000Z",
+          "wordCount": null,
+          "title": "Shree Manjunatha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j2ZpHmxveEo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j2ZpHmxveEo",
+          "publishedOn": "2025-06-05T13:14:13.000Z",
+          "wordCount": null,
+          "title": "Suryanandana",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x-W43Yrjfxw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x-W43Yrjfxw",
+          "publishedOn": "2025-06-05T13:14:13.000Z",
+          "wordCount": null,
+          "title": "Ellina deepava",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vLDJKLt0dkk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vLDJKLt0dkk",
+          "publishedOn": "2025-06-05T12:10:46.000Z",
+          "wordCount": null,
+          "title": "Amba Ramananu",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GTtsL9H7N2k",
           "author": null,
