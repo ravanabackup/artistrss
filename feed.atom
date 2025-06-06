@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T23:16:43.690Z</updated>
+    <updated>2025-06-06T01:16:20.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -112,6 +112,33 @@
         <updated>2025-06-05T10:01:06.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasmina Jasmina]]></title>
+        <id>https://www.youtube.com/watch?v=H8m1wA8kHz0</id>
+        <link href="https://www.youtube.com/watch?v=H8m1wA8kHz0"/>
+        <updated>2025-06-04T14:36:40.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalyana Vaanil]]></title>
+        <id>https://www.youtube.com/watch?v=3PJmBqKACsE</id>
+        <link href="https://www.youtube.com/watch?v=3PJmBqKACsE"/>
+        <updated>2025-06-04T09:39:43.000Z</updated>
+        <author>
+            <name>Unni Menon - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nabhiye Nabhiye]]></title>
+        <id>https://www.youtube.com/watch?v=LF1I304km8o</id>
+        <link href="https://www.youtube.com/watch?v=LF1I304km8o"/>
+        <updated>2025-06-03T10:53:05.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1003,6 +1030,15 @@
         <updated>2025-05-15T07:31:40.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parassiniswara]]></title>
+        <id>https://www.youtube.com/watch?v=EJU3m2HWqQw</id>
+        <link href="https://www.youtube.com/watch?v=EJU3m2HWqQw"/>
+        <updated>2025-05-15T06:25:30.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
