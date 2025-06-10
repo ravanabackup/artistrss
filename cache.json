@@ -684,7 +684,18 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1e8aOM54Zak",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1e8aOM54Zak",
+          "publishedOn": "2025-06-10T06:48:29.000Z",
+          "wordCount": null,
+          "title": "Mazhaye Thoomazhaye (Mazha Version)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Biju Narayanan - Topic",
