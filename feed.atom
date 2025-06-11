@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T21:14:53.509Z</updated>
+    <updated>2025-06-11T22:15:10.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1534,33 +1534,6 @@
         <updated>2025-05-13T14:50:35.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deva Ninakkay]]></title>
-        <id>https://www.youtube.com/watch?v=sDjxDRaTzbM</id>
-        <link href="https://www.youtube.com/watch?v=sDjxDRaTzbM"/>
-        <updated>2025-05-13T10:01:15.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakku Chakku Vaththikuchi - Remixes]]></title>
-        <id>https://www.youtube.com/watch?v=-Zw4yTPuJWI</id>
-        <link href="https://www.youtube.com/watch?v=-Zw4yTPuJWI"/>
-        <updated>2025-05-13T09:20:03.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thulli Thulli - Remix]]></title>
-        <id>https://www.youtube.com/watch?v=4r4MLCqFVec</id>
-        <link href="https://www.youtube.com/watch?v=4r4MLCqFVec"/>
-        <updated>2025-05-13T09:17:25.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
