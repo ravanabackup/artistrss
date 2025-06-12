@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T17:14:55.262Z</updated>
+    <updated>2025-06-12T20:17:49.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1426,105 +1426,6 @@
         <updated>2025-05-14T11:46:47.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennodu]]></title>
-        <id>https://www.youtube.com/watch?v=j07nFVDYhbA</id>
-        <link href="https://www.youtube.com/watch?v=j07nFVDYhbA"/>
-        <updated>2025-05-14T07:58:23.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kankuliraay]]></title>
-        <id>https://www.youtube.com/watch?v=Jpxyw_BTk4c</id>
-        <link href="https://www.youtube.com/watch?v=Jpxyw_BTk4c"/>
-        <updated>2025-05-14T07:58:23.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakka Nottam]]></title>
-        <id>https://www.youtube.com/watch?v=UpwbjfNWpnU</id>
-        <link href="https://www.youtube.com/watch?v=UpwbjfNWpnU"/>
-        <updated>2025-05-14T07:56:58.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanasam]]></title>
-        <id>https://www.youtube.com/watch?v=0GcnAITaqx8</id>
-        <link href="https://www.youtube.com/watch?v=0GcnAITaqx8"/>
-        <updated>2025-05-14T07:56:30.000Z</updated>
-        <author>
-            <name>Najim Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosobatiya]]></title>
-        <id>https://www.youtube.com/watch?v=G3nLqat6OS4</id>
-        <link href="https://www.youtube.com/watch?v=G3nLqat6OS4"/>
-        <updated>2025-05-14T07:55:24.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilukile Chirikkana]]></title>
-        <id>https://www.youtube.com/watch?v=-2aiqtRwEBY</id>
-        <link href="https://www.youtube.com/watch?v=-2aiqtRwEBY"/>
-        <updated>2025-05-14T07:55:20.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orunaalum Piriyaathe]]></title>
-        <id>https://www.youtube.com/watch?v=_s_4WaO5qpg</id>
-        <link href="https://www.youtube.com/watch?v=_s_4WaO5qpg"/>
-        <updated>2025-05-14T07:55:20.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaane En Thamburu]]></title>
-        <id>https://www.youtube.com/watch?v=EyzMORnJv3E</id>
-        <link href="https://www.youtube.com/watch?v=EyzMORnJv3E"/>
-        <updated>2025-05-14T07:54:59.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cocktailaai Nee]]></title>
-        <id>https://www.youtube.com/watch?v=On3LSIQOYZo</id>
-        <link href="https://www.youtube.com/watch?v=On3LSIQOYZo"/>
-        <updated>2025-05-14T07:54:53.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kai niraye venna tharam]]></title>
-        <id>https://www.youtube.com/watch?v=PdXRi3w5tIc</id>
-        <link href="https://www.youtube.com/watch?v=PdXRi3w5tIc"/>
-        <updated>2025-05-14T07:54:11.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kai niraye venna tharam M]]></title>
-        <id>https://www.youtube.com/watch?v=Y8FXLGYOP8A</id>
-        <link href="https://www.youtube.com/watch?v=Y8FXLGYOP8A"/>
-        <updated>2025-05-14T07:54:10.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
         </author>
     </entry>
 </feed>

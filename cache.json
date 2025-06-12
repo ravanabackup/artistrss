@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "Chandham Chindhum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j07nFVDYhbA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j07nFVDYhbA",
-          "publishedOn": "2025-05-14T07:58:23.000Z",
-          "wordCount": null,
-          "title": "Ennodu",
-          "imageUrl": null
         }
       ]
     },
@@ -167,16 +157,6 @@
           "publishedOn": "2025-05-16T14:43:55.000Z",
           "wordCount": null,
           "title": "Poove Poove Thingal Poove",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0GcnAITaqx8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0GcnAITaqx8",
-          "publishedOn": "2025-05-14T07:56:30.000Z",
-          "wordCount": null,
-          "title": "Maanasam",
           "imageUrl": null
         }
       ]
@@ -286,46 +266,6 @@
           "publishedOn": "2025-06-10T19:48:39.000Z",
           "wordCount": null,
           "title": "Thoovella/ തൂവെള്ള തൂവുന്നുഷസ്സിൽ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jpxyw_BTk4c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jpxyw_BTk4c",
-          "publishedOn": "2025-05-14T07:58:23.000Z",
-          "wordCount": null,
-          "title": "Kankuliraay",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UpwbjfNWpnU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UpwbjfNWpnU",
-          "publishedOn": "2025-05-14T07:56:58.000Z",
-          "wordCount": null,
-          "title": "Kakka Nottam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-2aiqtRwEBY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-2aiqtRwEBY",
-          "publishedOn": "2025-05-14T07:55:20.000Z",
-          "wordCount": null,
-          "title": "Kilukile Chirikkana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=On3LSIQOYZo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=On3LSIQOYZo",
-          "publishedOn": "2025-05-14T07:54:53.000Z",
-          "wordCount": null,
-          "title": "Cocktailaai Nee",
           "imageUrl": null
         }
       ]
@@ -1028,46 +968,6 @@
           "wordCount": null,
           "title": "Yeshu Enn Adisthanam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G3nLqat6OS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G3nLqat6OS4",
-          "publishedOn": "2025-05-14T07:55:24.000Z",
-          "wordCount": null,
-          "title": "Mosobatiya",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_s_4WaO5qpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_s_4WaO5qpg",
-          "publishedOn": "2025-05-14T07:55:20.000Z",
-          "wordCount": null,
-          "title": "Orunaalum Piriyaathe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EyzMORnJv3E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EyzMORnJv3E",
-          "publishedOn": "2025-05-14T07:54:59.000Z",
-          "wordCount": null,
-          "title": "Thaane En Thamburu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PdXRi3w5tIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PdXRi3w5tIc",
-          "publishedOn": "2025-05-14T07:54:11.000Z",
-          "wordCount": null,
-          "title": "Kai niraye venna tharam",
-          "imageUrl": null
         }
       ]
     },
@@ -1238,18 +1138,7 @@
       "title": "G. Venugopal - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFs98MazJJe2MxOKGqP_JZQ",
       "siteUrl": "https://www.youtube.com/channel/UCFs98MazJJe2MxOKGqP_JZQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Y8FXLGYOP8A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y8FXLGYOP8A",
-          "publishedOn": "2025-05-14T07:54:10.000Z",
-          "wordCount": null,
-          "title": "Kai niraye venna tharam M",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rimi Tomy - Topic",
