@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T01:25:35.326Z</updated>
+    <updated>2025-06-15T03:21:08.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1226,42 +1226,6 @@
         <id>https://www.youtube.com/watch?v=-c8AjaZPWfY</id>
         <link href="https://www.youtube.com/watch?v=-c8AjaZPWfY"/>
         <updated>2025-05-18T10:01:44.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Poove Thingal Poove]]></title>
-        <id>https://www.youtube.com/watch?v=Te-r4nqs6qo</id>
-        <link href="https://www.youtube.com/watch?v=Te-r4nqs6qo"/>
-        <updated>2025-05-16T14:43:55.000Z</updated>
-        <author>
-            <name>Najim Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raavozhinju Mazhamekhangal]]></title>
-        <id>https://www.youtube.com/watch?v=EYAFMgbobWc</id>
-        <link href="https://www.youtube.com/watch?v=EYAFMgbobWc"/>
-        <updated>2025-05-16T14:43:55.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruvakacharthinu Kandaal]]></title>
-        <id>https://www.youtube.com/watch?v=bXNV-S9IOEY</id>
-        <link href="https://www.youtube.com/watch?v=bXNV-S9IOEY"/>
-        <updated>2025-05-16T14:40:49.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agnimayanmar]]></title>
-        <id>https://www.youtube.com/watch?v=H4ycgYeoSgs</id>
-        <link href="https://www.youtube.com/watch?v=H4ycgYeoSgs"/>
-        <updated>2025-05-16T14:00:32.000Z</updated>
         <author>
             <name>Maria Kolady - Topic</name>
         </author>
