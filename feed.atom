@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T19:11:44.511Z</updated>
+    <updated>2025-06-19T20:18:32.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1325,60 +1325,6 @@
         <id>https://www.youtube.com/watch?v=CCA1d3hgR0E</id>
         <link href="https://www.youtube.com/watch?v=CCA1d3hgR0E"/>
         <updated>2025-05-21T09:58:26.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayamam Sakrari (Male Version)]]></title>
-        <id>https://www.youtube.com/watch?v=0GFjs7dm3wM</id>
-        <link href="https://www.youtube.com/watch?v=0GFjs7dm3wM"/>
-        <updated>2025-05-21T07:37:05.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasrathin Puthri]]></title>
-        <id>https://www.youtube.com/watch?v=FrEbT9Ysnl8</id>
-        <link href="https://www.youtube.com/watch?v=FrEbT9Ysnl8"/>
-        <updated>2025-05-21T07:37:05.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Paapam Kshemikunnavan]]></title>
-        <id>https://www.youtube.com/watch?v=I5VEjf4STEM</id>
-        <link href="https://www.youtube.com/watch?v=I5VEjf4STEM"/>
-        <updated>2025-05-21T07:37:05.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jagathin Ammayay]]></title>
-        <id>https://www.youtube.com/watch?v=ebpRiQP3rtE</id>
-        <link href="https://www.youtube.com/watch?v=ebpRiQP3rtE"/>
-        <updated>2025-05-21T07:37:05.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivarajyamitha]]></title>
-        <id>https://www.youtube.com/watch?v=fQazG2M1B1Q</id>
-        <link href="https://www.youtube.com/watch?v=fQazG2M1B1Q"/>
-        <updated>2025-05-21T07:37:05.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaypuneerin Kasa]]></title>
-        <id>https://www.youtube.com/watch?v=jIcKUyeCgvw</id>
-        <link href="https://www.youtube.com/watch?v=jIcKUyeCgvw"/>
-        <updated>2025-05-21T07:37:05.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
         </author>
