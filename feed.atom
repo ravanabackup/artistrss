@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T05:15:04.653Z</updated>
+    <updated>2025-06-21T06:21:17.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1093,15 +1093,6 @@
         <updated>2025-05-23T12:32:13.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ibrahim Nabhiyude]]></title>
-        <id>https://www.youtube.com/watch?v=H2MW8YrEhtc</id>
-        <link href="https://www.youtube.com/watch?v=H2MW8YrEhtc"/>
-        <updated>2025-05-22T17:28:51.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
