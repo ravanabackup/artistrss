@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T19:11:35.942Z</updated>
+    <updated>2025-06-21T20:15:56.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanavaa Kaanalaa]]></title>
+        <id>https://www.youtube.com/watch?v=SzZ4azrg9YY</id>
+        <link href="https://www.youtube.com/watch?v=SzZ4azrg9YY"/>
+        <updated>2025-06-20T11:24:32.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yen Swaasathil]]></title>
         <id>https://www.youtube.com/watch?v=q1cJneC_LHQ</id>
@@ -13,6 +22,150 @@
         <updated>2025-06-20T11:24:32.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mancha Matheswari Thaaye]]></title>
+        <id>https://www.youtube.com/watch?v=0rEsORxyl_4</id>
+        <link href="https://www.youtube.com/watch?v=0rEsORxyl_4"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ganapathi Patharavintha]]></title>
+        <id>https://www.youtube.com/watch?v=2YwuxHSjhwY</id>
+        <link href="https://www.youtube.com/watch?v=2YwuxHSjhwY"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellavu Ninnadayya]]></title>
+        <id>https://www.youtube.com/watch?v=3dq4H48eGYw</id>
+        <link href="https://www.youtube.com/watch?v=3dq4H48eGYw"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jyotiyagi]]></title>
+        <id>https://www.youtube.com/watch?v=54k1YiJNl5Y</id>
+        <link href="https://www.youtube.com/watch?v=54k1YiJNl5Y"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alankara Priya]]></title>
+        <id>https://www.youtube.com/watch?v=75to5HnY3Fg</id>
+        <link href="https://www.youtube.com/watch?v=75to5HnY3Fg"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saranu Saranayya]]></title>
+        <id>https://www.youtube.com/watch?v=8Hw8hnKSFEs</id>
+        <link href="https://www.youtube.com/watch?v=8Hw8hnKSFEs"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subha Karthika]]></title>
+        <id>https://www.youtube.com/watch?v=P3Iq4ySKJa4</id>
+        <link href="https://www.youtube.com/watch?v=P3Iq4ySKJa4"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saranam Saranam]]></title>
+        <id>https://www.youtube.com/watch?v=T8cYU_1ss7E</id>
+        <link href="https://www.youtube.com/watch?v=T8cYU_1ss7E"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guruswami]]></title>
+        <id>https://www.youtube.com/watch?v=_FmTI5yvTBg</id>
+        <link href="https://www.youtube.com/watch?v=_FmTI5yvTBg"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swami Saranu]]></title>
+        <id>https://www.youtube.com/watch?v=zpyK-Z13wng</id>
+        <link href="https://www.youtube.com/watch?v=zpyK-Z13wng"/>
+        <updated>2025-06-20T10:48:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swami Saranam Saraname]]></title>
+        <id>https://www.youtube.com/watch?v=2r9J9b1-w1M</id>
+        <link href="https://www.youtube.com/watch?v=2r9J9b1-w1M"/>
+        <updated>2025-06-20T10:47:18.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subha Karthika]]></title>
+        <id>https://www.youtube.com/watch?v=7EOqGa3XJpc</id>
+        <link href="https://www.youtube.com/watch?v=7EOqGa3XJpc"/>
+        <updated>2025-06-20T10:47:18.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saranu Sarananti]]></title>
+        <id>https://www.youtube.com/watch?v=Jqx-W311-d4</id>
+        <link href="https://www.youtube.com/watch?v=Jqx-W311-d4"/>
+        <updated>2025-06-20T10:47:18.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saranam Saranam]]></title>
+        <id>https://www.youtube.com/watch?v=PYf8YcXS-5U</id>
+        <link href="https://www.youtube.com/watch?v=PYf8YcXS-5U"/>
+        <updated>2025-06-20T10:47:18.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engey Andha Vennila (F)]]></title>
+        <id>https://www.youtube.com/watch?v=vt64Tj0yfMw</id>
+        <link href="https://www.youtube.com/watch?v=vt64Tj0yfMw"/>
+        <updated>2025-06-20T10:23:22.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engey Andha Vennila (M)]]></title>
+        <id>https://www.youtube.com/watch?v=BePN-RC56a8</id>
+        <link href="https://www.youtube.com/watch?v=BePN-RC56a8"/>
+        <updated>2025-06-20T10:23:21.000Z</updated>
+        <author>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
