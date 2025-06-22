@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T23:14:34.351Z</updated>
+    <updated>2025-06-22T01:24:43.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1199,51 +1199,6 @@
         <id>https://www.youtube.com/watch?v=sYIgrfe2d-Q</id>
         <link href="https://www.youtube.com/watch?v=sYIgrfe2d-Q"/>
         <updated>2025-05-25T10:31:06.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanma Niranjavalamme]]></title>
-        <id>https://www.youtube.com/watch?v=0r89x-p3nLU</id>
-        <link href="https://www.youtube.com/watch?v=0r89x-p3nLU"/>
-        <updated>2025-05-23T12:59:36.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Divya Karunyam]]></title>
-        <id>https://www.youtube.com/watch?v=BRquuajXlSU</id>
-        <link href="https://www.youtube.com/watch?v=BRquuajXlSU"/>
-        <updated>2025-05-23T12:59:36.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karunayulla Pithavine Pole]]></title>
-        <id>https://www.youtube.com/watch?v=UzDo9Qo1FZQ</id>
-        <link href="https://www.youtube.com/watch?v=UzDo9Qo1FZQ"/>
-        <updated>2025-05-23T12:55:14.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Sneham Mathram]]></title>
-        <id>https://www.youtube.com/watch?v=eWTpGmRbjas</id>
-        <link href="https://www.youtube.com/watch?v=eWTpGmRbjas"/>
-        <updated>2025-05-23T12:55:14.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groove With Grandma (From "Vyasana Sametham Bandhu Mithradhikal")]]></title>
-        <id>https://www.youtube.com/watch?v=BVMyqmhAcQQ</id>
-        <link href="https://www.youtube.com/watch?v=BVMyqmhAcQQ"/>
-        <updated>2025-05-23T12:32:13.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
         </author>
