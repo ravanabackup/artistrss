@@ -893,16 +893,6 @@
           "wordCount": null,
           "title": "Pathinettampadi",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k54kYWhh-oc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k54kYWhh-oc",
-          "publishedOn": "2025-05-27T10:41:38.000Z",
-          "wordCount": null,
-          "title": "Sathyaswaroopa",
-          "imageUrl": null
         }
       ]
     },
@@ -1465,26 +1455,6 @@
           "wordCount": null,
           "title": "Nanachum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=plw9_xogQik",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=plw9_xogQik",
-          "publishedOn": "2025-05-27T10:41:38.000Z",
-          "wordCount": null,
-          "title": "Mahonnathamam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qPLOFg3tvY8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qPLOFg3tvY8",
-          "publishedOn": "2025-05-27T10:41:38.000Z",
-          "wordCount": null,
-          "title": "Oru Dhinam Koodi",
-          "imageUrl": null
         }
       ]
     },
@@ -1511,16 +1481,6 @@
           "publishedOn": "2025-05-28T10:46:16.000Z",
           "wordCount": null,
           "title": "Amme Vimale (Female Version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=25hkuLf0Ws0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=25hkuLf0Ws0",
-          "publishedOn": "2025-05-27T10:41:38.000Z",
-          "wordCount": null,
-          "title": "Swayamazhuki",
           "imageUrl": null
         }
       ]
@@ -1552,28 +1512,7 @@
       "title": "KG Markose - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Hm_yDB8opDk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Hm_yDB8opDk",
-          "publishedOn": "2025-05-27T11:08:32.000Z",
-          "wordCount": null,
-          "title": "Swargam Thurannidum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UBhum91s3c8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UBhum91s3c8",
-          "publishedOn": "2025-05-27T10:41:38.000Z",
-          "wordCount": null,
-          "title": "Viswasikalam",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

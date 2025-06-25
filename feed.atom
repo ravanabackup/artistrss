@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T22:15:11.178Z</updated>
+    <updated>2025-06-25T23:15:14.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1210,60 +1210,6 @@
         <updated>2025-05-27T12:27:04.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargam Thurannidum]]></title>
-        <id>https://www.youtube.com/watch?v=Hm_yDB8opDk</id>
-        <link href="https://www.youtube.com/watch?v=Hm_yDB8opDk"/>
-        <updated>2025-05-27T11:08:32.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyaswaroopa]]></title>
-        <id>https://www.youtube.com/watch?v=k54kYWhh-oc</id>
-        <link href="https://www.youtube.com/watch?v=k54kYWhh-oc"/>
-        <updated>2025-05-27T10:41:38.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mahonnathamam]]></title>
-        <id>https://www.youtube.com/watch?v=plw9_xogQik</id>
-        <link href="https://www.youtube.com/watch?v=plw9_xogQik"/>
-        <updated>2025-05-27T10:41:38.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Dhinam Koodi]]></title>
-        <id>https://www.youtube.com/watch?v=qPLOFg3tvY8</id>
-        <link href="https://www.youtube.com/watch?v=qPLOFg3tvY8"/>
-        <updated>2025-05-27T10:41:38.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swayamazhuki]]></title>
-        <id>https://www.youtube.com/watch?v=25hkuLf0Ws0</id>
-        <link href="https://www.youtube.com/watch?v=25hkuLf0Ws0"/>
-        <updated>2025-05-27T10:41:38.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viswasikalam]]></title>
-        <id>https://www.youtube.com/watch?v=UBhum91s3c8</id>
-        <link href="https://www.youtube.com/watch?v=UBhum91s3c8"/>
-        <updated>2025-05-27T10:41:38.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
         </author>
     </entry>
 </feed>
