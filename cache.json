@@ -893,26 +893,6 @@
           "wordCount": null,
           "title": "Anandham Vismayam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5QDczlx4LsY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5QDczlx4LsY",
-          "publishedOn": "2025-05-26T11:33:44.000Z",
-          "wordCount": null,
-          "title": "Kaarunyame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ljbZnFPqnZo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ljbZnFPqnZo",
-          "publishedOn": "2025-05-26T11:33:44.000Z",
-          "wordCount": null,
-          "title": "Makane Ninne",
-          "imageUrl": null
         }
       ]
     },
@@ -1504,36 +1484,6 @@
           "publishedOn": "2025-05-27T06:25:23.000Z",
           "wordCount": null,
           "title": "Ente Kochu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fWtDFiDV1-k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fWtDFiDV1-k",
-          "publishedOn": "2025-05-26T11:33:44.000Z",
-          "wordCount": null,
-          "title": "Eesho Neeyente",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lDgPyLadqi4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lDgPyLadqi4",
-          "publishedOn": "2025-05-26T11:33:44.000Z",
-          "wordCount": null,
-          "title": "Ee Aazhiyil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H2xcMrL1qs4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H2xcMrL1qs4",
-          "publishedOn": "2025-05-26T11:33:44.000Z",
-          "wordCount": null,
-          "title": "Theerthadanam",
           "imageUrl": null
         }
       ]
