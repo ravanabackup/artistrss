@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T06:24:18.734Z</updated>
+    <updated>2025-06-27T07:16:13.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaval Malaghaye]]></title>
+        <id>https://www.youtube.com/watch?v=CEHIyEnZy9c</id>
+        <link href="https://www.youtube.com/watch?v=CEHIyEnZy9c"/>
+        <updated>2025-06-27T06:56:10.000Z</updated>
+        <author>
+            <name>Elizabeth Raju - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vannil Nakshathra]]></title>
+        <id>https://www.youtube.com/watch?v=__f6pYjGd90</id>
+        <link href="https://www.youtube.com/watch?v=__f6pYjGd90"/>
+        <updated>2025-06-27T06:56:09.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neeyakum Neeril (From "Jangar")]]></title>
         <id>https://www.youtube.com/watch?v=VuzTlFyGdKU</id>
