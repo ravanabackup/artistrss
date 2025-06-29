@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T09:15:33.929Z</updated>
+    <updated>2025-06-29T10:17:17.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maarivil Maayana]]></title>
+        <id>https://www.youtube.com/watch?v=voYyHz-MCsQ</id>
+        <link href="https://www.youtube.com/watch?v=voYyHz-MCsQ"/>
+        <updated>2025-06-29T10:01:33.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Aaro Chare]]></title>
+        <id>https://www.youtube.com/watch?v=_TdrBSTM-NY</id>
+        <link href="https://www.youtube.com/watch?v=_TdrBSTM-NY"/>
+        <updated>2025-06-29T10:01:02.000Z</updated>
+        <author>
+            <name>Najim Arshad - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikin Arikil]]></title>
+        <id>https://www.youtube.com/watch?v=XughH4QAfKs</id>
+        <link href="https://www.youtube.com/watch?v=XughH4QAfKs"/>
+        <updated>2025-06-29T10:00:51.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaval Malaghaye]]></title>
         <id>https://www.youtube.com/watch?v=CEHIyEnZy9c</id>
