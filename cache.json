@@ -268,6 +268,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CkQuN8b6aWg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CkQuN8b6aWg",
+          "publishedOn": "2025-07-01T10:00:32.000Z",
+          "wordCount": null,
+          "title": "Travel Romance Malayalam (Akale)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YL3mRPNbunA",
           "author": null,
           "description": "",
@@ -1037,6 +1047,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uw6wFcHzjlI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uw6wFcHzjlI",
+          "publishedOn": "2025-06-30T10:08:27.000Z",
+          "wordCount": null,
+          "title": "Chil Karingalline",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-qR4eeEhZ9o",
           "author": null,
           "description": "",
@@ -1074,6 +1094,26 @@
           "publishedOn": "2025-06-30T10:03:30.000Z",
           "wordCount": null,
           "title": "Prakasha Kathiroli",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6VXeKbNUG9g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6VXeKbNUG9g",
+          "publishedOn": "2025-06-30T10:02:17.000Z",
+          "wordCount": null,
+          "title": "Nirmalayaam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=it6L-X4o_Zg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=it6L-X4o_Zg",
+          "publishedOn": "2025-06-30T10:01:57.000Z",
+          "wordCount": null,
+          "title": "Enthinere",
           "imageUrl": null
         },
         {

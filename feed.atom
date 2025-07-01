@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T09:19:19.038Z</updated>
+    <updated>2025-07-01T10:18:04.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Travel Romance Malayalam (Akale)]]></title>
+        <id>https://www.youtube.com/watch?v=CkQuN8b6aWg</id>
+        <link href="https://www.youtube.com/watch?v=CkQuN8b6aWg"/>
+        <updated>2025-07-01T10:00:32.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chil Karingalline]]></title>
+        <id>https://www.youtube.com/watch?v=uw6wFcHzjlI</id>
+        <link href="https://www.youtube.com/watch?v=uw6wFcHzjlI"/>
+        <updated>2025-06-30T10:08:27.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pesaha]]></title>
         <id>https://www.youtube.com/watch?v=-qR4eeEhZ9o</id>
@@ -38,6 +56,24 @@
         <id>https://www.youtube.com/watch?v=xRR5KYWra0Q</id>
         <link href="https://www.youtube.com/watch?v=xRR5KYWra0Q"/>
         <updated>2025-06-30T10:03:30.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nirmalayaam]]></title>
+        <id>https://www.youtube.com/watch?v=6VXeKbNUG9g</id>
+        <link href="https://www.youtube.com/watch?v=6VXeKbNUG9g"/>
+        <updated>2025-06-30T10:02:17.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthinere]]></title>
+        <id>https://www.youtube.com/watch?v=it6L-X4o_Zg</id>
+        <link href="https://www.youtube.com/watch?v=it6L-X4o_Zg"/>
+        <updated>2025-06-30T10:01:57.000Z</updated>
         <author>
             <name>Kester - Topic</name>
         </author>
