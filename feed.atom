@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T13:30:20.071Z</updated>
+    <updated>2025-07-01T14:15:39.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muthuchippi (From "Thattathin Marayathu")]]></title>
+        <id>https://www.youtube.com/watch?v=niappHsxVNA</id>
+        <link href="https://www.youtube.com/watch?v=niappHsxVNA"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Themma Themma Themmadikkatte (From "Rain Rain Come Again") (Version, 1)]]></title>
+        <id>https://www.youtube.com/watch?v=oq5qa2AcpG0</id>
+        <link href="https://www.youtube.com/watch?v=oq5qa2AcpG0"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazha Peyyannu (From "Red Chillies")]]></title>
+        <id>https://www.youtube.com/watch?v=Kxb29k8JyW8</id>
+        <link href="https://www.youtube.com/watch?v=Kxb29k8JyW8"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>M. Jayachandran - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maa Mazha Mazha (From "Sulthan")]]></title>
+        <id>https://www.youtube.com/watch?v=PnJ7RIp4eI8</id>
+        <link href="https://www.youtube.com/watch?v=PnJ7RIp4eI8"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>M. Jayachandran - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannondu Chollanu (From "Ennu Ninte Moideen")]]></title>
+        <id>https://www.youtube.com/watch?v=xLrfNvLpBTw</id>
+        <link href="https://www.youtube.com/watch?v=xLrfNvLpBTw"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>M. Jayachandran - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi (From "Bougainvillea")]]></title>
+        <id>https://www.youtube.com/watch?v=hnRH7NEtLHE</id>
+        <link href="https://www.youtube.com/watch?v=hnRH7NEtLHE"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhayaai Nee (From "I Love Me")]]></title>
+        <id>https://www.youtube.com/watch?v=WgT6DzjSDpA</id>
+        <link href="https://www.youtube.com/watch?v=WgT6DzjSDpA"/>
+        <updated>2025-07-01T13:40:42.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Travel Romance Malayalam (Akale)]]></title>
         <id>https://www.youtube.com/watch?v=CkQuN8b6aWg</id>
