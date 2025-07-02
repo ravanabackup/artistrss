@@ -759,16 +759,6 @@
           "wordCount": null,
           "title": "Irumudi Niraye",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AU_mBCiHp1o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AU_mBCiHp1o",
-          "publishedOn": "2025-06-03T07:24:19.000Z",
-          "wordCount": null,
-          "title": "Sooryodhayam",
-          "imageUrl": null
         }
       ]
     },
@@ -970,28 +960,7 @@
       "title": "Manjari - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=FZbAKnnTrjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FZbAKnnTrjY",
-          "publishedOn": "2025-06-03T07:24:17.000Z",
-          "wordCount": null,
-          "title": "Chendamarakkanna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P4AapSxAKjQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P4AapSxAKjQ",
-          "publishedOn": "2025-06-03T07:24:17.000Z",
-          "wordCount": null,
-          "title": "Ponmuraliyoothum",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sushin Shyam - Topic",
