@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T06:24:28.526Z</updated>
+    <updated>2025-07-02T07:16:27.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -70,12 +70,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Israyele Israyele]]></title>
+        <id>https://www.youtube.com/watch?v=MBTr8AGm1N8</id>
+        <link href="https://www.youtube.com/watch?v=MBTr8AGm1N8"/>
+        <updated>2025-07-01T10:04:50.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muriyunnidathente]]></title>
+        <id>https://www.youtube.com/watch?v=TUw5e2c2J_8</id>
+        <link href="https://www.youtube.com/watch?v=TUw5e2c2J_8"/>
+        <updated>2025-07-01T10:04:09.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parisudhathmave]]></title>
+        <id>https://www.youtube.com/watch?v=omttXjCao3A</id>
+        <link href="https://www.youtube.com/watch?v=omttXjCao3A"/>
+        <updated>2025-07-01T10:03:20.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Travel Romance Malayalam (Akale)]]></title>
         <id>https://www.youtube.com/watch?v=CkQuN8b6aWg</id>
         <link href="https://www.youtube.com/watch?v=CkQuN8b6aWg"/>
         <updated>2025-07-01T10:00:32.000Z</updated>
         <author>
             <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mizhiyethetho from Jagala]]></title>
+        <id>https://www.youtube.com/watch?v=vhTILvVjQ5M</id>
+        <link href="https://www.youtube.com/watch?v=vhTILvVjQ5M"/>
+        <updated>2025-07-01T08:54:12.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vathapiyile Ganapathiyalla]]></title>
+        <id>https://www.youtube.com/watch?v=OhbBtU4bQlM</id>
+        <link href="https://www.youtube.com/watch?v=OhbBtU4bQlM"/>
+        <updated>2025-06-30T12:12:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>

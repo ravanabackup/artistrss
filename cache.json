@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vhTILvVjQ5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vhTILvVjQ5M",
+          "publishedOn": "2025-07-01T08:54:12.000Z",
+          "wordCount": null,
+          "title": "Mizhiyethetho from Jagala",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=voYyHz-MCsQ",
           "author": null,
           "description": "",
@@ -450,6 +460,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OhbBtU4bQlM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OhbBtU4bQlM",
+          "publishedOn": "2025-06-30T12:12:49.000Z",
+          "wordCount": null,
+          "title": "Vathapiyile Ganapathiyalla",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JBQEBFIjyeA",
           "author": null,
@@ -1077,6 +1097,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MBTr8AGm1N8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MBTr8AGm1N8",
+          "publishedOn": "2025-07-01T10:04:50.000Z",
+          "wordCount": null,
+          "title": "Israyele Israyele",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TUw5e2c2J_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TUw5e2c2J_8",
+          "publishedOn": "2025-07-01T10:04:09.000Z",
+          "wordCount": null,
+          "title": "Muriyunnidathente",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=omttXjCao3A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=omttXjCao3A",
+          "publishedOn": "2025-07-01T10:03:20.000Z",
+          "wordCount": null,
+          "title": "Parisudhathmave",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uw6wFcHzjlI",
           "author": null,
