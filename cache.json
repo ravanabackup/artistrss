@@ -719,16 +719,6 @@
           "wordCount": null,
           "title": "Amba Ramananu",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GTtsL9H7N2k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GTtsL9H7N2k",
-          "publishedOn": "2025-06-05T10:42:39.000Z",
-          "wordCount": null,
-          "title": "Irumudi Niraye",
-          "imageUrl": null
         }
       ]
     },
@@ -803,128 +793,7 @@
       "title": "Biju Narayanan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=JYt5vliXtk8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JYt5vliXtk8",
-          "publishedOn": "2025-06-05T10:42:39.000Z",
-          "wordCount": null,
-          "title": "Nadum Veedum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_bLmfZ6LY-4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_bLmfZ6LY-4",
-          "publishedOn": "2025-06-05T10:42:39.000Z",
-          "wordCount": null,
-          "title": "Punyam Pularum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vxe4hhijELA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vxe4hhijELA",
-          "publishedOn": "2025-06-05T10:42:39.000Z",
-          "wordCount": null,
-          "title": "Devane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-1JreulAyVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-1JreulAyVc",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Ambalappuzha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_oTpWv1BIdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_oTpWv1BIdE",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Thumbikkai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jJQxkKjMcLs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jJQxkKjMcLs",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Irumudi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-gaZDjHjMLY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-gaZDjHjMLY",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Arivillapaithangal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9635FWDeJJA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9635FWDeJJA",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Manathoru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JaXfrv1g8B8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JaXfrv1g8B8",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Villali Veeran",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M09dYt5ioGk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M09dYt5ioGk",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Kanneeru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ov1kVtJTNJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ov1kVtJTNJQ",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Pambathan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UMtOo1rH19I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UMtOo1rH19I",
-          "publishedOn": "2025-06-05T10:36:41.000Z",
-          "wordCount": null,
-          "title": "Pathinettampadi",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjari - Topic",
