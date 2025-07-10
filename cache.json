@@ -4,28 +4,7 @@
       "title": "Vineeth Sreenivasan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjYCNtvEZzfcj_69by4umCA",
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=rTDn3m-fZ0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rTDn3m-fZ0Y",
-          "publishedOn": "2025-06-11T10:01:17.000Z",
-          "wordCount": null,
-          "title": "Nin Hridaya Mounam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dm_Kakn3ono",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dm_Kakn3ono",
-          "publishedOn": "2025-06-11T10:00:57.000Z",
-          "wordCount": null,
-          "title": "Thevaram Nokkunnunde",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sithara Krishnakumar - Topic",
@@ -107,16 +86,6 @@
           "publishedOn": "2025-06-29T10:01:02.000Z",
           "wordCount": null,
           "title": "Aaro Aaro Chare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0xXT0c8Pyyw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0xXT0c8Pyyw",
-          "publishedOn": "2025-06-11T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Jwalamukhi",
           "imageUrl": null
         }
       ]
