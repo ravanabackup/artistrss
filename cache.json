@@ -127,6 +127,36 @@
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FHjXQwJzxwQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FHjXQwJzxwQ",
+          "publishedOn": "2025-07-11T10:53:52.000Z",
+          "wordCount": null,
+          "title": "Rama Raghava",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KvL9DIxfkJg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KvL9DIxfkJg",
+          "publishedOn": "2025-07-11T10:53:52.000Z",
+          "wordCount": null,
+          "title": "Raghukulapathi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dNdHnCxqOwY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dNdHnCxqOwY",
+          "publishedOn": "2025-07-11T10:53:52.000Z",
+          "wordCount": null,
+          "title": "Sree Rama Rama",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BQTRVbitIHY",
           "author": null,
           "description": "",
@@ -348,16 +378,6 @@
           "publishedOn": "2025-06-13T19:59:54.000Z",
           "wordCount": null,
           "title": "Ayyappan songs | pallikkettu sabarimalak| പള്ളിക്കെട്ടു...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e-7Z7jNUUc0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e-7Z7jNUUc0",
-          "publishedOn": "2025-06-11T22:54:57.000Z",
-          "wordCount": null,
-          "title": "shalabhamazha/ശലഭമഴ",
           "imageUrl": null
         }
       ]
@@ -663,7 +683,18 @@
       "title": "Biju Narayanan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=x9jnwWDHOCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x9jnwWDHOCw",
+          "publishedOn": "2025-07-11T10:53:52.000Z",
+          "wordCount": null,
+          "title": "Rama Raghava Seethavallabha",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjari - Topic",

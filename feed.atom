@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T10:17:49.640Z</updated>
+    <updated>2025-07-11T11:14:56.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rama Raghava]]></title>
+        <id>https://www.youtube.com/watch?v=FHjXQwJzxwQ</id>
+        <link href="https://www.youtube.com/watch?v=FHjXQwJzxwQ"/>
+        <updated>2025-07-11T10:53:52.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raghukulapathi]]></title>
+        <id>https://www.youtube.com/watch?v=KvL9DIxfkJg</id>
+        <link href="https://www.youtube.com/watch?v=KvL9DIxfkJg"/>
+        <updated>2025-07-11T10:53:52.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sree Rama Rama]]></title>
+        <id>https://www.youtube.com/watch?v=dNdHnCxqOwY</id>
+        <link href="https://www.youtube.com/watch?v=dNdHnCxqOwY"/>
+        <updated>2025-07-11T10:53:52.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rama Raghava Seethavallabha]]></title>
+        <id>https://www.youtube.com/watch?v=x9jnwWDHOCw</id>
+        <link href="https://www.youtube.com/watch?v=x9jnwWDHOCw"/>
+        <updated>2025-07-11T10:53:52.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhaneer Thullikal]]></title>
         <id>https://www.youtube.com/watch?v=h9qy0RDgp3g</id>
@@ -931,15 +967,6 @@
         <updated>2025-06-13T12:16:40.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shalabhamazha/ശലഭമഴ]]></title>
-        <id>https://www.youtube.com/watch?v=e-7Z7jNUUc0</id>
-        <link href="https://www.youtube.com/watch?v=e-7Z7jNUUc0"/>
-        <updated>2025-06-11T22:54:57.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>
