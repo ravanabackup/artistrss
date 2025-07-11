@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T05:19:52.978Z</updated>
+    <updated>2025-07-11T06:24:59.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sankadathinnu Marumarunnundo]]></title>
+        <id>https://www.youtube.com/watch?v=eDB1op5juVs</id>
+        <link href="https://www.youtube.com/watch?v=eDB1op5juVs"/>
+        <updated>2025-07-11T05:43:42.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithiri Chakkara Nulli]]></title>
+        <id>https://www.youtube.com/watch?v=mpJueW4T4bo</id>
+        <link href="https://www.youtube.com/watch?v=mpJueW4T4bo"/>
+        <updated>2025-07-11T05:43:42.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mookambike]]></title>
         <id>https://www.youtube.com/watch?v=Hy4woO8bF1M</id>
