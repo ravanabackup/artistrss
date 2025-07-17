@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T08:22:47.287Z</updated>
+    <updated>2025-07-17T09:20:25.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yatra Naryasthu (From "Paradha")]]></title>
+        <id>https://www.youtube.com/watch?v=thhi1R7dcaQ</id>
+        <link href="https://www.youtube.com/watch?v=thhi1R7dcaQ"/>
+        <updated>2025-07-17T08:30:33.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yatra Naryasthu (From "Paradha (Malayalam)")]]></title>
+        <id>https://www.youtube.com/watch?v=5GIotxS0yI0</id>
+        <link href="https://www.youtube.com/watch?v=5GIotxS0yI0"/>
+        <updated>2025-07-17T08:30:04.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venjada Kandille]]></title>
         <id>https://www.youtube.com/watch?v=JsSjLW-xFxE</id>
