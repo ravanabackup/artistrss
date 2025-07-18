@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T23:17:09.803Z</updated>
+    <updated>2025-07-18T01:21:57.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -886,24 +886,6 @@
         <updated>2025-06-20T10:23:21.000Z</updated>
         <author>
             <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyamodonnu Koode]]></title>
-        <id>https://www.youtube.com/watch?v=eq6Reg_FYng</id>
-        <link href="https://www.youtube.com/watch?v=eq6Reg_FYng"/>
-        <updated>2025-06-18T13:16:46.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilledi Nilledi]]></title>
-        <id>https://www.youtube.com/watch?v=MR7BevtRXQk</id>
-        <link href="https://www.youtube.com/watch?v=MR7BevtRXQk"/>
-        <updated>2025-06-18T13:16:46.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>
