@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T21:14:57.068Z</updated>
+    <updated>2025-07-20T22:15:23.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -731,51 +731,6 @@
         <id>https://www.youtube.com/watch?v=iCy4JBv4CI0</id>
         <link href="https://www.youtube.com/watch?v=iCy4JBv4CI0"/>
         <updated>2025-06-23T06:02:52.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manju Peyyum Neelaravil]]></title>
-        <id>https://www.youtube.com/watch?v=yDDOEdOgW0Y</id>
-        <link href="https://www.youtube.com/watch?v=yDDOEdOgW0Y"/>
-        <updated>2025-06-21T10:04:20.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnayi Orumayode]]></title>
-        <id>https://www.youtube.com/watch?v=Z8A3SWuymco</id>
-        <link href="https://www.youtube.com/watch?v=Z8A3SWuymco"/>
-        <updated>2025-06-21T10:03:57.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokkil Kodi]]></title>
-        <id>https://www.youtube.com/watch?v=7CjEBqWjXzw</id>
-        <link href="https://www.youtube.com/watch?v=7CjEBqWjXzw"/>
-        <updated>2025-06-21T10:02:52.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sahanathin]]></title>
-        <id>https://www.youtube.com/watch?v=x8shTggWAC0</id>
-        <link href="https://www.youtube.com/watch?v=x8shTggWAC0"/>
-        <updated>2025-06-21T10:01:45.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vachaname]]></title>
-        <id>https://www.youtube.com/watch?v=JtewdOk0x9k</id>
-        <link href="https://www.youtube.com/watch?v=JtewdOk0x9k"/>
-        <updated>2025-06-21T10:01:39.000Z</updated>
         <author>
             <name>Kester - Topic</name>
         </author>
