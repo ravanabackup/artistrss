@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T17:17:28.998Z</updated>
+    <updated>2025-07-22T18:24:53.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -841,60 +841,6 @@
         <updated>2025-06-23T13:51:54.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuyil Naadham Pol]]></title>
-        <id>https://www.youtube.com/watch?v=49ZlJ_LXLSI</id>
-        <link href="https://www.youtube.com/watch?v=49ZlJ_LXLSI"/>
-        <updated>2025-06-23T06:08:11.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divya Karunniya Nadha]]></title>
-        <id>https://www.youtube.com/watch?v=yYO3PEGdp3E</id>
-        <link href="https://www.youtube.com/watch?v=yYO3PEGdp3E"/>
-        <updated>2025-06-23T06:05:39.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orikkalum Kurayathe Sneham]]></title>
-        <id>https://www.youtube.com/watch?v=YIsXV3bTTGM</id>
-        <link href="https://www.youtube.com/watch?v=YIsXV3bTTGM"/>
-        <updated>2025-06-23T06:05:22.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kazhchayayi Ekunni Jeevitham]]></title>
-        <id>https://www.youtube.com/watch?v=WsG1Pdr_DV8</id>
-        <link href="https://www.youtube.com/watch?v=WsG1Pdr_DV8"/>
-        <updated>2025-06-23T06:05:18.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennum Ente Sankethavum]]></title>
-        <id>https://www.youtube.com/watch?v=UYL8xJkewmA</id>
-        <link href="https://www.youtube.com/watch?v=UYL8xJkewmA"/>
-        <updated>2025-06-23T06:03:14.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevante Mannayayi]]></title>
-        <id>https://www.youtube.com/watch?v=iCy4JBv4CI0</id>
-        <link href="https://www.youtube.com/watch?v=iCy4JBv4CI0"/>
-        <updated>2025-06-23T06:02:52.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
