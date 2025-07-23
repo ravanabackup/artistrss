@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T01:23:29.103Z</updated>
+    <updated>2025-07-23T03:27:50.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -769,78 +769,6 @@
         <updated>2025-06-23T18:48:42.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Ulakin (From "King of Kotha")]]></title>
-        <id>https://www.youtube.com/watch?v=YL3mRPNbunA</id>
-        <link href="https://www.youtube.com/watch?v=YL3mRPNbunA"/>
-        <updated>2025-06-23T13:51:55.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanninullil Nee (From "Trivandrum Lodge")]]></title>
-        <id>https://www.youtube.com/watch?v=bOIEToLV6Cc</id>
-        <link href="https://www.youtube.com/watch?v=bOIEToLV6Cc"/>
-        <updated>2025-06-23T13:51:55.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhaye Thoomazhaye (From "Pattam Pole")]]></title>
-        <id>https://www.youtube.com/watch?v=ugh5IM5M438</id>
-        <link href="https://www.youtube.com/watch?v=ugh5IM5M438"/>
-        <updated>2025-06-23T13:51:55.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazha Paadum (From "Sunday Holiday")]]></title>
-        <id>https://www.youtube.com/watch?v=X0RRWzUIAW8</id>
-        <link href="https://www.youtube.com/watch?v=X0RRWzUIAW8"/>
-        <updated>2025-06-23T13:51:55.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etho Saayaana (From "10:30 A.M. Local Call")]]></title>
-        <id>https://www.youtube.com/watch?v=OgfV_sgpybE</id>
-        <link href="https://www.youtube.com/watch?v=OgfV_sgpybE"/>
-        <updated>2025-06-23T13:51:54.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shyaamaambaram (From "Thattathin Marayathu")]]></title>
-        <id>https://www.youtube.com/watch?v=-agXSEFgag4</id>
-        <link href="https://www.youtube.com/watch?v=-agXSEFgag4"/>
-        <updated>2025-06-23T13:51:54.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akale (From "9 (Nine)") (From "9 (Nine) Malayalam")]]></title>
-        <id>https://www.youtube.com/watch?v=g89PWZcp8Cw</id>
-        <link href="https://www.youtube.com/watch?v=g89PWZcp8Cw"/>
-        <updated>2025-06-23T13:51:54.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayamazhayaai (From "Rain Rain Come Again")]]></title>
-        <id>https://www.youtube.com/watch?v=JWHUR5R03T0</id>
-        <link href="https://www.youtube.com/watch?v=JWHUR5R03T0"/>
-        <updated>2025-06-23T13:51:54.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>
