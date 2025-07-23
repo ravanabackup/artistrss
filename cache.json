@@ -838,6 +838,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ei-A_s-88Us",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ei-A_s-88Us",
+          "publishedOn": "2025-07-22T15:46:42.000Z",
+          "wordCount": null,
+          "title": "Makane Makale",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FlETTskPQaY",
           "author": null,
           "description": "",
