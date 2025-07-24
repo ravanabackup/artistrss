@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T20:17:37.187Z</updated>
+    <updated>2025-07-24T21:16:31.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -751,15 +751,6 @@
         <updated>2025-06-26T04:54:00.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehamay Nee Daivame]]></title>
-        <id>https://www.youtube.com/watch?v=U2o6dipqaDU</id>
-        <link href="https://www.youtube.com/watch?v=U2o6dipqaDU"/>
-        <updated>2025-06-25T08:47:19.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
         </author>
     </entry>
 </feed>
