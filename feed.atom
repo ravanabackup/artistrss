@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T09:16:19.368Z</updated>
+    <updated>2025-07-26T10:16:21.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nanmathan Vazhiyil]]></title>
+        <id>https://www.youtube.com/watch?v=kn6ZWsyBq-8</id>
+        <link href="https://www.youtube.com/watch?v=kn6ZWsyBq-8"/>
+        <updated>2025-07-26T10:04:55.000Z</updated>
+        <author>
+            <name>Elizabeth Raju - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sakraari Thannil]]></title>
+        <id>https://www.youtube.com/watch?v=ZGab6LnMUqU</id>
+        <link href="https://www.youtube.com/watch?v=ZGab6LnMUqU"/>
+        <updated>2025-07-26T10:04:49.000Z</updated>
+        <author>
+            <name>Elizabeth Raju - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AYYAPPAN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=FZLyofoptDc</id>
+        <link href="https://www.youtube.com/watch?v=FZLyofoptDc"/>
+        <updated>2025-07-26T10:04:03.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yesu Mahessa]]></title>
+        <id>https://www.youtube.com/watch?v=FZtHxBqMgZY</id>
+        <link href="https://www.youtube.com/watch?v=FZtHxBqMgZY"/>
+        <updated>2025-07-26T10:02:44.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enne Ariyunna Thamburane]]></title>
+        <id>https://www.youtube.com/watch?v=59cIDjypniY</id>
+        <link href="https://www.youtube.com/watch?v=59cIDjypniY"/>
+        <updated>2025-07-26T10:00:13.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ini Sooryaasthamayam (From "Am Ah")]]></title>
         <id>https://www.youtube.com/watch?v=PBxWukMEJ5o</id>
