@@ -61,26 +61,6 @@
           "wordCount": null,
           "title": "Mizhiyethetho from Jagala",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=voYyHz-MCsQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=voYyHz-MCsQ",
-          "publishedOn": "2025-06-29T10:01:33.000Z",
-          "wordCount": null,
-          "title": "Maarivil Maayana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XughH4QAfKs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XughH4QAfKs",
-          "publishedOn": "2025-06-29T10:00:51.000Z",
-          "wordCount": null,
-          "title": "Arikin Arikil",
-          "imageUrl": null
         }
       ]
     },
@@ -88,18 +68,7 @@
       "title": "Najim Arshad - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzEergq3aH6Sp8chBoRSeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=_TdrBSTM-NY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_TdrBSTM-NY",
-          "publishedOn": "2025-06-29T10:01:02.000Z",
-          "wordCount": null,
-          "title": "Aaro Aaro Chare",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sujatha Mohan - Topic",
