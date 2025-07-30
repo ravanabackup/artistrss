@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T21:16:29.639Z</updated>
+    <updated>2025-07-30T22:16:40.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -616,42 +616,6 @@
         <updated>2025-07-01T13:40:42.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israyele Israyele]]></title>
-        <id>https://www.youtube.com/watch?v=MBTr8AGm1N8</id>
-        <link href="https://www.youtube.com/watch?v=MBTr8AGm1N8"/>
-        <updated>2025-07-01T10:04:50.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muriyunnidathente]]></title>
-        <id>https://www.youtube.com/watch?v=TUw5e2c2J_8</id>
-        <link href="https://www.youtube.com/watch?v=TUw5e2c2J_8"/>
-        <updated>2025-07-01T10:04:09.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parisudhathmave]]></title>
-        <id>https://www.youtube.com/watch?v=omttXjCao3A</id>
-        <link href="https://www.youtube.com/watch?v=omttXjCao3A"/>
-        <updated>2025-07-01T10:03:20.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travel Romance Malayalam (Akale)]]></title>
-        <id>https://www.youtube.com/watch?v=CkQuN8b6aWg</id>
-        <link href="https://www.youtube.com/watch?v=CkQuN8b6aWg"/>
-        <updated>2025-07-01T10:00:32.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
 </feed>
