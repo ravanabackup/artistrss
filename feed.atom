@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T09:22:55.733Z</updated>
+    <updated>2025-07-31T10:18:27.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doore Doore Pooparakkan]]></title>
+        <id>https://www.youtube.com/watch?v=iIbHMJiyXPI</id>
+        <link href="https://www.youtube.com/watch?v=iIbHMJiyXPI"/>
+        <updated>2025-07-31T10:01:16.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olathin Thaalathil]]></title>
+        <id>https://www.youtube.com/watch?v=ltAR6v5kk04</id>
+        <link href="https://www.youtube.com/watch?v=ltAR6v5kk04"/>
+        <updated>2025-07-31T10:01:15.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayala Naatinte]]></title>
+        <id>https://www.youtube.com/watch?v=_sGBOuGaT4w</id>
+        <link href="https://www.youtube.com/watch?v=_sGBOuGaT4w"/>
+        <updated>2025-07-31T10:00:56.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amrutham Thoovum]]></title>
+        <id>https://www.youtube.com/watch?v=UgZ-2kAFZ5U</id>
+        <link href="https://www.youtube.com/watch?v=UgZ-2kAFZ5U"/>
+        <updated>2025-07-31T10:00:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ganolsavam]]></title>
+        <id>https://www.youtube.com/watch?v=ToGTgVs_p5E</id>
+        <link href="https://www.youtube.com/watch?v=ToGTgVs_p5E"/>
+        <updated>2025-07-31T10:00:47.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uthratasandhya]]></title>
+        <id>https://www.youtube.com/watch?v=QIz8184qxSs</id>
+        <link href="https://www.youtube.com/watch?v=QIz8184qxSs"/>
+        <updated>2025-07-31T10:00:41.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onanilavilu]]></title>
+        <id>https://www.youtube.com/watch?v=8EktIefZx5U</id>
+        <link href="https://www.youtube.com/watch?v=8EktIefZx5U"/>
+        <updated>2025-07-31T10:00:26.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thrikkakaraappanu]]></title>
+        <id>https://www.youtube.com/watch?v=a3wyFiMDEJY</id>
+        <link href="https://www.youtube.com/watch?v=a3wyFiMDEJY"/>
+        <updated>2025-07-31T10:00:00.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nanmathan Vazhiyil]]></title>
         <id>https://www.youtube.com/watch?v=kn6ZWsyBq-8</id>
