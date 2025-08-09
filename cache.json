@@ -43,36 +43,6 @@
           "wordCount": null,
           "title": "Ariunnuvo Priyane",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FHjXQwJzxwQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FHjXQwJzxwQ",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Rama Raghava",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KvL9DIxfkJg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KvL9DIxfkJg",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Raghukulapathi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dNdHnCxqOwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dNdHnCxqOwY",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Sree Rama Rama",
-          "imageUrl": null
         }
       ]
     },
@@ -446,66 +416,6 @@
           "wordCount": null,
           "title": "Vikhnavinashana",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=06tRAosKdzA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=06tRAosKdzA",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Thripprayaarappa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M1sXX81HGZc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M1sXX81HGZc",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Vilwadhrinaatha Nin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W9nNmo07etU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W9nNmo07etU",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Kharadooshanaadhikalum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a2arFdEPRgk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a2arFdEPRgk",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Kadavalloor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cdw_dDugjjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cdw_dDugjjc",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Raamanillathoru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dBjUibKaa3A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dBjUibKaa3A",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Bhavayaami",
-          "imageUrl": null
         }
       ]
     },
@@ -600,16 +510,6 @@
           "wordCount": null,
           "title": "Ganapathi Deva Namo Nama",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x9jnwWDHOCw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x9jnwWDHOCw",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Rama Raghava Seethavallabha",
-          "imageUrl": null
         }
       ]
     },
@@ -677,18 +577,7 @@
       "title": "G. Venugopal - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFs98MazJJe2MxOKGqP_JZQ",
       "siteUrl": "https://www.youtube.com/channel/UCFs98MazJJe2MxOKGqP_JZQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=aY782RlHWZ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aY782RlHWZ4",
-          "publishedOn": "2025-07-11T10:53:52.000Z",
-          "wordCount": null,
-          "title": "Shreepathe (Thiruvilwamala Sree Raman)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rimi Tomy - Topic",
