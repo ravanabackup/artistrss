@@ -4,28 +4,7 @@
       "title": "Vineeth Sreenivasan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjYCNtvEZzfcj_69by4umCA",
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=gnqolnKrfYo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gnqolnKrfYo",
-          "publishedOn": "2025-07-11T10:01:18.000Z",
-          "wordCount": null,
-          "title": "Nin Hridaya Mounam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7VCH8HfYrBA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7VCH8HfYrBA",
-          "publishedOn": "2025-07-11T10:00:22.000Z",
-          "wordCount": null,
-          "title": "Thelivaanam",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sithara Krishnakumar - Topic",
@@ -93,16 +72,6 @@
           "publishedOn": "2025-07-11T10:53:52.000Z",
           "wordCount": null,
           "title": "Sree Rama Rama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BQTRVbitIHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BQTRVbitIHY",
-          "publishedOn": "2025-07-11T10:00:21.000Z",
-          "wordCount": null,
-          "title": "Priyane",
           "imageUrl": null
         }
       ]
@@ -335,18 +304,7 @@
       "title": "Unni Menon - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA",
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=h9qy0RDgp3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h9qy0RDgp3g",
-          "publishedOn": "2025-07-11T10:01:23.000Z",
-          "wordCount": null,
-          "title": "Mazhaneer Thullikal",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Shahabaz Aman - Topic",
