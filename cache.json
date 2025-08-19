@@ -510,38 +510,7 @@
       "title": "Deepak Dev - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=hc6_eGMtNRw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hc6_eGMtNRw",
-          "publishedOn": "2025-07-21T10:01:08.000Z",
-          "wordCount": null,
-          "title": "Karale Karalinte (From \"Udayananu Tharam\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fEKCIvWyagU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fEKCIvWyagU",
-          "publishedOn": "2025-07-21T10:00:56.000Z",
-          "wordCount": null,
-          "title": "Parayaathe Ariyaathe (From \"Udayananu Tharam\") (Duet Version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P0vZ_b9xnws",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P0vZ_b9xnws",
-          "publishedOn": "2025-07-21T10:00:40.000Z",
-          "wordCount": null,
-          "title": "Penne En Penne (From \"Udayananu Tharam\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "G. Venugopal - Topic",

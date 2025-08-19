@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T21:14:23.922Z</updated>
+    <updated>2025-08-19T22:14:40.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -445,33 +445,6 @@
         <updated>2025-07-21T14:59:46.000Z</updated>
         <author>
             <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karale Karalinte (From "Udayananu Tharam")]]></title>
-        <id>https://www.youtube.com/watch?v=hc6_eGMtNRw</id>
-        <link href="https://www.youtube.com/watch?v=hc6_eGMtNRw"/>
-        <updated>2025-07-21T10:01:08.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parayaathe Ariyaathe (From "Udayananu Tharam") (Duet Version)]]></title>
-        <id>https://www.youtube.com/watch?v=fEKCIvWyagU</id>
-        <link href="https://www.youtube.com/watch?v=fEKCIvWyagU"/>
-        <updated>2025-07-21T10:00:56.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penne En Penne (From "Udayananu Tharam")]]></title>
-        <id>https://www.youtube.com/watch?v=P0vZ_b9xnws</id>
-        <link href="https://www.youtube.com/watch?v=P0vZ_b9xnws"/>
-        <updated>2025-07-21T10:00:40.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
         </author>
     </entry>
 </feed>
