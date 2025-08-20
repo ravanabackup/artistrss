@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T01:13:40.069Z</updated>
+    <updated>2025-08-20T03:05:23.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -319,132 +319,6 @@
         <updated>2025-07-22T10:01:32.000Z</updated>
         <author>
             <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mel Mel (From "Ustad Hotel")]]></title>
-        <id>https://www.youtube.com/watch?v=KcSimQQBN7U</id>
-        <link href="https://www.youtube.com/watch?v=KcSimQQBN7U"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaathilil (From "Ustad Hotel")]]></title>
-        <id>https://www.youtube.com/watch?v=SWapM7Prh24</id>
-        <link href="https://www.youtube.com/watch?v=SWapM7Prh24"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chilluraanthal (From "Kali")]]></title>
-        <id>https://www.youtube.com/watch?v=W25wVUG4LTY</id>
-        <link href="https://www.youtube.com/watch?v=W25wVUG4LTY"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaarthinkale (From "Kali")]]></title>
-        <id>https://www.youtube.com/watch?v=muNkHwngs80</id>
-        <link href="https://www.youtube.com/watch?v=muNkHwngs80"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appangal (From "Ustad Hotel")]]></title>
-        <id>https://www.youtube.com/watch?v=oZCk_ei7lNY</id>
-        <link href="https://www.youtube.com/watch?v=oZCk_ei7lNY"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subhanallah (From "Ustad Hotel")]]></title>
-        <id>https://www.youtube.com/watch?v=z2uWv5qQnHE</id>
-        <link href="https://www.youtube.com/watch?v=z2uWv5qQnHE"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pettennangane (From "Njaan")]]></title>
-        <id>https://www.youtube.com/watch?v=ZyN-YKs4gyE</id>
-        <link href="https://www.youtube.com/watch?v=ZyN-YKs4gyE"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreepadangal (From "Njaan")]]></title>
-        <id>https://www.youtube.com/watch?v=ixorU7-2ut4</id>
-        <link href="https://www.youtube.com/watch?v=ixorU7-2ut4"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King of Kotha (From "King of Kotha") (Title Track)]]></title>
-        <id>https://www.youtube.com/watch?v=cVuX8qWy-uw</id>
-        <link href="https://www.youtube.com/watch?v=cVuX8qWy-uw"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Ulakin (From "King of Kotha")]]></title>
-        <id>https://www.youtube.com/watch?v=fUQP9I3cFs0</id>
-        <link href="https://www.youtube.com/watch?v=fUQP9I3cFs0"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Vennila (From "Pattam Pole")]]></title>
-        <id>https://www.youtube.com/watch?v=CIm1fV9q7dE</id>
-        <link href="https://www.youtube.com/watch?v=CIm1fV9q7dE"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil Kannilonnu (From "Pattam Pole")]]></title>
-        <id>https://www.youtube.com/watch?v=JDU1-aHpYL0</id>
-        <link href="https://www.youtube.com/watch?v=JDU1-aHpYL0"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antha Naalil (From "Pattam Pole")]]></title>
-        <id>https://www.youtube.com/watch?v=hce1uFL1lvs</id>
-        <link href="https://www.youtube.com/watch?v=hce1uFL1lvs"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhaye Thoomazhaye (From "Pattam Pole")]]></title>
-        <id>https://www.youtube.com/watch?v=xi8m2JQQueU</id>
-        <link href="https://www.youtube.com/watch?v=xi8m2JQQueU"/>
-        <updated>2025-07-21T14:59:46.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
         </author>
     </entry>
 </feed>
