@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T18:22:48.850Z</updated>
+    <updated>2025-08-21T19:12:14.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yegareyi Nee Rekkale]]></title>
+        <id>https://www.youtube.com/watch?v=WWm6oosv7MM</id>
+        <link href="https://www.youtube.com/watch?v=WWm6oosv7MM"/>
+        <updated>2025-08-21T18:34:33.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Abalai]]></title>
+        <id>https://www.youtube.com/watch?v=EqrAHCAB0Gw</id>
+        <link href="https://www.youtube.com/watch?v=EqrAHCAB0Gw"/>
+        <updated>2025-08-21T18:32:56.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velugunu Chooputhundho]]></title>
+        <id>https://www.youtube.com/watch?v=ucEXD7zvgP4</id>
+        <link href="https://www.youtube.com/watch?v=ucEXD7zvgP4"/>
+        <updated>2025-08-21T18:31:50.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yatra Naryasthu]]></title>
+        <id>https://www.youtube.com/watch?v=wDABRQZBYpM</id>
+        <link href="https://www.youtube.com/watch?v=wDABRQZBYpM"/>
+        <updated>2025-08-21T18:31:40.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maa Andhaala Siri]]></title>
+        <id>https://www.youtube.com/watch?v=FzVyaDLN-og</id>
+        <link href="https://www.youtube.com/watch?v=FzVyaDLN-og"/>
+        <updated>2025-08-21T18:31:25.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yatra Naryasthu]]></title>
+        <id>https://www.youtube.com/watch?v=zZMkSw2Eb-0</id>
+        <link href="https://www.youtube.com/watch?v=zZMkSw2Eb-0"/>
+        <updated>2025-08-21T18:31:16.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Naru Chiriyude]]></title>
+        <id>https://www.youtube.com/watch?v=k1IjeVaTW5w</id>
+        <link href="https://www.youtube.com/watch?v=k1IjeVaTW5w"/>
+        <updated>2025-08-21T18:30:55.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakaluthirunna Pole]]></title>
+        <id>https://www.youtube.com/watch?v=K3qhLATdrHE</id>
+        <link href="https://www.youtube.com/watch?v=K3qhLATdrHE"/>
+        <updated>2025-08-21T18:30:32.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Makaley]]></title>
+        <id>https://www.youtube.com/watch?v=EZNpHCtMikw</id>
+        <link href="https://www.youtube.com/watch?v=EZNpHCtMikw"/>
+        <updated>2025-08-21T18:30:18.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akale Ee Neermutthukal]]></title>
+        <id>https://www.youtube.com/watch?v=8A5ZdK2wMqU</id>
+        <link href="https://www.youtube.com/watch?v=8A5ZdK2wMqU"/>
+        <updated>2025-08-21T18:30:10.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naadhane Vazhthi]]></title>
         <id>https://www.youtube.com/watch?v=1ieHWNwZUqY</id>
