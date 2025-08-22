@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T19:12:47.040Z</updated>
+    <updated>2025-08-22T20:17:08.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -166,6 +166,15 @@
         <updated>2025-08-21T18:30:10.000Z</updated>
         <author>
             <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannalay Miya Miya]]></title>
+        <id>https://www.youtube.com/watch?v=YU2XIzKDuRw</id>
+        <link href="https://www.youtube.com/watch?v=YU2XIzKDuRw"/>
+        <updated>2025-08-21T18:15:45.000Z</updated>
+        <author>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
