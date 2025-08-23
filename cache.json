@@ -179,6 +179,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoEkddaP-0x5YEZ-IrDq96A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eGTf6_rSYNE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eGTf6_rSYNE",
+          "publishedOn": "2025-08-23T06:41:22.000Z",
+          "wordCount": null,
+          "title": "Aparante Novu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D25_cfaPe0c",
           "author": null,
           "description": "",
