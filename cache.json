@@ -661,38 +661,7 @@
       "title": "K. J. Yesudas - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg",
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Melt4PcLycI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Melt4PcLycI",
-          "publishedOn": "2025-07-31T10:59:53.000Z",
-          "wordCount": null,
-          "title": "Dukhamanu Saswatha Sathyam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QeWO2SPLlCE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QeWO2SPLlCE",
-          "publishedOn": "2025-07-31T10:59:53.000Z",
-          "wordCount": null,
-          "title": "Velicham Vilakkine Thedunnu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kJAAZ_POG30",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kJAAZ_POG30",
-          "publishedOn": "2025-07-31T10:59:53.000Z",
-          "wordCount": null,
-          "title": "Vadiya Maruvil Veendum Kalam",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kester - Topic",
