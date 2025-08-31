@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T18:19:28.079Z</updated>
+    <updated>2025-08-31T19:11:26.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gori Kaale Suit Mein]]></title>
+        <id>https://www.youtube.com/watch?v=qJztYqWNOMA</id>
+        <link href="https://www.youtube.com/watch?v=qJztYqWNOMA"/>
+        <updated>2025-08-31T18:31:30.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gore Gore Gaal]]></title>
+        <id>https://www.youtube.com/watch?v=sDzgNqhdn1Y</id>
+        <link href="https://www.youtube.com/watch?v=sDzgNqhdn1Y"/>
+        <updated>2025-08-31T18:31:24.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadh Legi Jaan]]></title>
+        <id>https://www.youtube.com/watch?v=Y0TiAOg8j8U</id>
+        <link href="https://www.youtube.com/watch?v=Y0TiAOg8j8U"/>
+        <updated>2025-08-31T18:30:53.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubai Wali]]></title>
+        <id>https://www.youtube.com/watch?v=RmbzvrIaZEE</id>
+        <link href="https://www.youtube.com/watch?v=RmbzvrIaZEE"/>
+        <updated>2025-08-31T18:30:52.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suit Fitting]]></title>
+        <id>https://www.youtube.com/watch?v=PP-FboSCj8g</id>
+        <link href="https://www.youtube.com/watch?v=PP-FboSCj8g"/>
+        <updated>2025-08-31T18:30:41.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sri Gananathana]]></title>
         <id>https://www.youtube.com/watch?v=lyKD-pDsQag</id>
