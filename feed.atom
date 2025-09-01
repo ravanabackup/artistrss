@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T07:16:37.017Z</updated>
+    <updated>2025-09-01T08:22:23.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -49,6 +49,15 @@
         <updated>2025-08-31T18:30:41.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amba Ambikaye]]></title>
+        <id>https://www.youtube.com/watch?v=Bu4TMQRq-gc</id>
+        <link href="https://www.youtube.com/watch?v=Bu4TMQRq-gc"/>
+        <updated>2025-08-31T13:07:23.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -139,6 +148,15 @@
         <updated>2025-08-31T12:21:25.000Z</updated>
         <author>
             <name>Unni Menon - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moorura Gedda]]></title>
+        <id>https://www.youtube.com/watch?v=jC71kQQWsH0</id>
+        <link href="https://www.youtube.com/watch?v=jC71kQQWsH0"/>
+        <updated>2025-08-31T10:16:50.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
     <entry>

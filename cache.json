@@ -55,6 +55,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Bu4TMQRq-gc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bu4TMQRq-gc",
+          "publishedOn": "2025-08-31T13:07:23.000Z",
+          "wordCount": null,
+          "title": "Amba Ambikaye",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jC71kQQWsH0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jC71kQQWsH0",
+          "publishedOn": "2025-08-31T10:16:50.000Z",
+          "wordCount": null,
+          "title": "Moorura Gedda",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8tBnwCl5-x4",
           "author": null,
           "description": "",
