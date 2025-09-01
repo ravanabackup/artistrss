@@ -753,7 +753,18 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MhWW7qK5J8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MhWW7qK5J8w",
+          "publishedOn": "2025-09-01T18:30:36.000Z",
+          "wordCount": null,
+          "title": "Nature (Blissful Moments)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Biju Narayanan - Topic",
