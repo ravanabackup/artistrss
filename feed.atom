@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T05:15:33.472Z</updated>
+    <updated>2025-09-02T06:24:00.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -274,6 +274,15 @@
         <updated>2025-08-31T10:02:56.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Brahmaiah]]></title>
+        <id>https://www.youtube.com/watch?v=lzjfsVP0nfk</id>
+        <link href="https://www.youtube.com/watch?v=lzjfsVP0nfk"/>
+        <updated>2025-08-31T10:02:18.000Z</updated>
+        <author>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
