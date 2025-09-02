@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T21:12:42.761Z</updated>
+    <updated>2025-09-02T22:12:56.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -805,15 +805,6 @@
         <updated>2025-08-05T09:18:48.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ariunnuvo Priyane]]></title>
-        <id>https://www.youtube.com/watch?v=oulQa7wYDlc</id>
-        <link href="https://www.youtube.com/watch?v=oulQa7wYDlc"/>
-        <updated>2025-08-04T10:03:39.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
