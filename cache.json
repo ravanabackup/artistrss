@@ -786,16 +786,6 @@
           "wordCount": null,
           "title": "Ethratholam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QGlU7aJzkVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QGlU7aJzkVs",
-          "publishedOn": "2025-08-14T17:53:08.000Z",
-          "wordCount": null,
-          "title": "Aanandha Naayakane",
-          "imageUrl": null
         }
       ]
     },
@@ -1056,28 +1046,7 @@
       "title": "Elizabeth Raju - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=kXUBV-DzdAw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kXUBV-DzdAw",
-          "publishedOn": "2025-08-14T17:52:40.000Z",
-          "wordCount": null,
-          "title": "Alphonse Nithyavishudhe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4W3IVqddmUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4W3IVqddmUQ",
-          "publishedOn": "2025-08-14T17:51:28.000Z",
-          "wordCount": null,
-          "title": "Paadidam Paadidam",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Maria Kolady - Topic",
