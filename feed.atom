@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T11:10:32.653Z</updated>
+    <updated>2025-09-21T12:27:57.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manaasse]]></title>
+        <id>https://www.youtube.com/watch?v=wSTxFFUXlaw</id>
+        <link href="https://www.youtube.com/watch?v=wSTxFFUXlaw"/>
+        <updated>2025-09-21T11:25:18.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paripoornamay]]></title>
+        <id>https://www.youtube.com/watch?v=meFY-xgRHeQ</id>
+        <link href="https://www.youtube.com/watch?v=meFY-xgRHeQ"/>
+        <updated>2025-09-21T11:25:09.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuvin Sneham Ente]]></title>
+        <id>https://www.youtube.com/watch?v=jp5HFU7ejWA</id>
+        <link href="https://www.youtube.com/watch?v=jp5HFU7ejWA"/>
+        <updated>2025-09-21T11:24:14.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shanthimay Rathri]]></title>
+        <id>https://www.youtube.com/watch?v=SgPUKkV2dYI</id>
+        <link href="https://www.youtube.com/watch?v=SgPUKkV2dYI"/>
+        <updated>2025-09-21T11:23:57.000Z</updated>
+        <author>
+            <name>Maria Kolady - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aathmave Niranjozhukaname]]></title>
+        <id>https://www.youtube.com/watch?v=OAERGfb7h74</id>
+        <link href="https://www.youtube.com/watch?v=OAERGfb7h74"/>
+        <updated>2025-09-21T11:22:44.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhayam Nalku]]></title>
+        <id>https://www.youtube.com/watch?v=YowKnLRsiAU</id>
+        <link href="https://www.youtube.com/watch?v=YowKnLRsiAU"/>
+        <updated>2025-09-21T11:22:37.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rareeram Rareeram]]></title>
+        <id>https://www.youtube.com/watch?v=LZaB3HYeif8</id>
+        <link href="https://www.youtube.com/watch?v=LZaB3HYeif8"/>
+        <updated>2025-09-21T11:22:36.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuvinte Murivukal]]></title>
+        <id>https://www.youtube.com/watch?v=4vC9nMqc-Lo</id>
+        <link href="https://www.youtube.com/watch?v=4vC9nMqc-Lo"/>
+        <updated>2025-09-21T11:22:31.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enneshuve]]></title>
+        <id>https://www.youtube.com/watch?v=Xv9RWQeACtY</id>
+        <link href="https://www.youtube.com/watch?v=Xv9RWQeACtY"/>
+        <updated>2025-09-21T11:22:27.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parishudhathmave]]></title>
+        <id>https://www.youtube.com/watch?v=XmewNgM6Sz8</id>
+        <link href="https://www.youtube.com/watch?v=XmewNgM6Sz8"/>
+        <updated>2025-09-21T11:22:19.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarga Thatha]]></title>
+        <id>https://www.youtube.com/watch?v=tyBSFULcBcg</id>
+        <link href="https://www.youtube.com/watch?v=tyBSFULcBcg"/>
+        <updated>2025-09-21T11:22:04.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethrayo Kshamichu]]></title>
+        <id>https://www.youtube.com/watch?v=NwoxrHrCMdY</id>
+        <link href="https://www.youtube.com/watch?v=NwoxrHrCMdY"/>
+        <updated>2025-09-21T11:21:52.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalvariyolam Uyarum]]></title>
+        <id>https://www.youtube.com/watch?v=9PRCVpOvyDM</id>
+        <link href="https://www.youtube.com/watch?v=9PRCVpOvyDM"/>
+        <updated>2025-09-21T11:21:44.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oro Nimishavum]]></title>
+        <id>https://www.youtube.com/watch?v=7O6RvBhUs0g</id>
+        <link href="https://www.youtube.com/watch?v=7O6RvBhUs0g"/>
+        <updated>2025-09-21T11:21:18.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Makane]]></title>
+        <id>https://www.youtube.com/watch?v=Dl-5LEd_pqc</id>
+        <link href="https://www.youtube.com/watch?v=Dl-5LEd_pqc"/>
+        <updated>2025-09-21T11:21:17.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vachaname]]></title>
+        <id>https://www.youtube.com/watch?v=CaKbxyaZp20</id>
+        <link href="https://www.youtube.com/watch?v=CaKbxyaZp20"/>
+        <updated>2025-09-21T11:20:27.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vilichal]]></title>
         <id>https://www.youtube.com/watch?v=PVDSYb4WZpw</id>
