@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-22T04:18:39.764Z</updated>
+    <updated>2025-09-22T05:15:06.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enthinaanee Neelakkannil Suruma (Remix)]]></title>
+        <id>https://www.youtube.com/watch?v=2HZxCONkvHI</id>
+        <link href="https://www.youtube.com/watch?v=2HZxCONkvHI"/>
+        <updated>2025-09-22T04:54:36.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthinaanee Neelakkannil Suruma (Reprise)]]></title>
+        <id>https://www.youtube.com/watch?v=PbWPv_pLZa0</id>
+        <link href="https://www.youtube.com/watch?v=PbWPv_pLZa0"/>
+        <updated>2025-09-22T04:54:36.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priyamodonnu Koode]]></title>
+        <id>https://www.youtube.com/watch?v=WmOKp9FzmiU</id>
+        <link href="https://www.youtube.com/watch?v=WmOKp9FzmiU"/>
+        <updated>2025-09-22T04:54:36.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irayatharo]]></title>
+        <id>https://www.youtube.com/watch?v=4BIKXPOsQSw</id>
+        <link href="https://www.youtube.com/watch?v=4BIKXPOsQSw"/>
+        <updated>2025-09-22T04:54:35.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasbi Rabbi Jallallah]]></title>
+        <id>https://www.youtube.com/watch?v=Ns9Msaex08k</id>
+        <link href="https://www.youtube.com/watch?v=Ns9Msaex08k"/>
+        <updated>2025-09-22T04:54:35.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njanurangeedatte]]></title>
         <id>https://www.youtube.com/watch?v=3Hf1WBzdDmo</id>
