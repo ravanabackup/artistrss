@@ -1073,6 +1073,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aR1dkY_E-xw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aR1dkY_E-xw",
+          "publishedOn": "2025-09-26T18:30:01.000Z",
+          "wordCount": null,
+          "title": "Hridayamam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UsK9rkyqTBA",
           "author": null,
           "description": "",
@@ -1775,6 +1785,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mGdOb0eEpaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mGdOb0eEpaw",
+          "publishedOn": "2025-09-26T18:31:04.000Z",
+          "wordCount": null,
+          "title": "Parishudhan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lDEl1fu0mQQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lDEl1fu0mQQ",
+          "publishedOn": "2025-09-26T18:31:01.000Z",
+          "wordCount": null,
+          "title": "Vilichal",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=E-nqib3UGI0",
           "author": null,
