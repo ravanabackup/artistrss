@@ -391,7 +391,28 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UZ7Do81QtSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UZ7Do81QtSA",
+          "publishedOn": "2025-09-27T19:11:53.000Z",
+          "wordCount": null,
+          "title": "Naa Oopire Agindha - Emotional",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pDcOwpjsRIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pDcOwpjsRIQ",
+          "publishedOn": "2025-09-27T19:11:52.000Z",
+          "wordCount": null,
+          "title": "Naa Oopire Agindha",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Bijibal - Topic",
