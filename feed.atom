@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T18:22:25.979Z</updated>
+    <updated>2025-09-29T19:12:30.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MOOKAMBIKA]]></title>
+        <id>https://www.youtube.com/watch?v=EelaPfOe0LQ</id>
+        <link href="https://www.youtube.com/watch?v=EelaPfOe0LQ"/>
+        <updated>2025-09-29T18:45:00.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurakaav Ambalathile]]></title>
+        <id>https://www.youtube.com/watch?v=XiMYo2yor98</id>
+        <link href="https://www.youtube.com/watch?v=XiMYo2yor98"/>
+        <updated>2025-09-29T10:55:33.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaali Karineeli]]></title>
+        <id>https://www.youtube.com/watch?v=Sf5aBITPR3I</id>
+        <link href="https://www.youtube.com/watch?v=Sf5aBITPR3I"/>
+        <updated>2025-09-29T10:54:33.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nukaruu Swamin (Preview)]]></title>
         <id>https://www.youtube.com/watch?v=LkKdTM-L760</id>
