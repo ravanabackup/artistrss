@@ -1512,58 +1512,7 @@
       "title": "Deepak Dev - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=qJztYqWNOMA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qJztYqWNOMA",
-          "publishedOn": "2025-08-31T18:31:30.000Z",
-          "wordCount": null,
-          "title": "Gori Kaale Suit Mein",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sDzgNqhdn1Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sDzgNqhdn1Y",
-          "publishedOn": "2025-08-31T18:31:24.000Z",
-          "wordCount": null,
-          "title": "Gore Gore Gaal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y0TiAOg8j8U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y0TiAOg8j8U",
-          "publishedOn": "2025-08-31T18:30:53.000Z",
-          "wordCount": null,
-          "title": "Kadh Legi Jaan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RmbzvrIaZEE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RmbzvrIaZEE",
-          "publishedOn": "2025-08-31T18:30:52.000Z",
-          "wordCount": null,
-          "title": "Dubai Wali",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PP-FboSCj8g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PP-FboSCj8g",
-          "publishedOn": "2025-08-31T18:30:41.000Z",
-          "wordCount": null,
-          "title": "Suit Fitting",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "G. Venugopal - Topic",
