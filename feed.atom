@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T09:16:10.803Z</updated>
+    <updated>2025-09-30T10:16:34.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -2524,33 +2524,6 @@
         <updated>2025-08-31T23:00:06.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Udayangal Yellamum]]></title>
-        <id>https://www.youtube.com/watch?v=a2INZq4OUlQ</id>
-        <link href="https://www.youtube.com/watch?v=a2INZq4OUlQ"/>
-        <updated>2025-08-31T21:30:02.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arulin Vadivaga]]></title>
-        <id>https://www.youtube.com/watch?v=p6G3aG4PUQg</id>
-        <link href="https://www.youtube.com/watch?v=p6G3aG4PUQg"/>
-        <updated>2025-08-31T21:30:02.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arulana Thendral]]></title>
-        <id>https://www.youtube.com/watch?v=zmht72KfqFk</id>
-        <link href="https://www.youtube.com/watch?v=zmht72KfqFk"/>
-        <updated>2025-08-31T21:30:02.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
