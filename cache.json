@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jgxeAb47qT0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jgxeAb47qT0",
+          "publishedOn": "2025-10-02T10:01:19.000Z",
+          "wordCount": null,
+          "title": "Adhimotham",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2HZxCONkvHI",
           "author": null,
           "description": "",
@@ -1380,6 +1390,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=t-wW-6oYWcs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t-wW-6oYWcs",
+          "publishedOn": "2025-10-02T10:01:39.000Z",
+          "wordCount": null,
+          "title": "Abhrahamin Daivam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HqNNN9FM8kc",
           "author": null,

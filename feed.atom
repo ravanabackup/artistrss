@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-02T09:15:59.663Z</updated>
+    <updated>2025-10-02T10:14:50.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abhrahamin Daivam]]></title>
+        <id>https://www.youtube.com/watch?v=t-wW-6oYWcs</id>
+        <link href="https://www.youtube.com/watch?v=t-wW-6oYWcs"/>
+        <updated>2025-10-02T10:01:39.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adhimotham]]></title>
+        <id>https://www.youtube.com/watch?v=jgxeAb47qT0</id>
+        <link href="https://www.youtube.com/watch?v=jgxeAb47qT0"/>
+        <updated>2025-10-02T10:01:19.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tharakangale (F)]]></title>
         <id>https://www.youtube.com/watch?v=_nEYx274s_o</id>
