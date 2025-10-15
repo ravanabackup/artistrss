@@ -615,16 +615,6 @@
           "wordCount": null,
           "title": "Satan Xavier",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wjSRs24CzmU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wjSRs24CzmU",
-          "publishedOn": "2025-09-16T04:56:18.000Z",
-          "wordCount": null,
-          "title": "Ithu Adimudi Marutha",
-          "imageUrl": null
         }
       ]
     },
@@ -638,18 +628,7 @@
       "title": "Jassie Gift - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzJDshjhEyMG4Iup0p0CTVg",
       "siteUrl": "https://www.youtube.com/channel/UCzJDshjhEyMG4Iup0p0CTVg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=U7Cby3HXHO0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U7Cby3HXHO0",
-          "publishedOn": "2025-09-16T04:56:18.000Z",
-          "wordCount": null,
-          "title": "Manasa Vacha Karmana",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Unni Menon - Topic",
