@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T14:15:01.399Z</updated>
+    <updated>2025-10-20T15:15:53.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -2731,33 +2731,6 @@
         <updated>2025-09-21T03:18:03.000Z</updated>
         <author>
             <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve Nee]]></title>
-        <id>https://www.youtube.com/watch?v=M7ZaEQZ7lR0</id>
-        <link href="https://www.youtube.com/watch?v=M7ZaEQZ7lR0"/>
-        <updated>2025-09-21T03:09:00.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhakaarnna Kannukalil]]></title>
-        <id>https://www.youtube.com/watch?v=KF5A15E0f5A</id>
-        <link href="https://www.youtube.com/watch?v=KF5A15E0f5A"/>
-        <updated>2025-09-21T03:08:04.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeshoye Nin (F)]]></title>
-        <id>https://www.youtube.com/watch?v=1qQmyntl2UY</id>
-        <link href="https://www.youtube.com/watch?v=1qQmyntl2UY"/>
-        <updated>2025-09-21T03:07:53.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
         </author>
     </entry>
 </feed>
