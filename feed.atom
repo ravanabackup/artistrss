@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T05:15:37.951Z</updated>
+    <updated>2025-10-21T06:23:34.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1345,123 +1345,6 @@
         <updated>2025-09-21T18:32:40.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharakangale (F)]]></title>
-        <id>https://www.youtube.com/watch?v=HRv70QaoR3A</id>
-        <link href="https://www.youtube.com/watch?v=HRv70QaoR3A"/>
-        <updated>2025-09-21T17:48:00.000Z</updated>
-        <author>
-            <name>Rimi Tomy - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevanaam Yenthen Yaesuvae]]></title>
-        <id>https://www.youtube.com/watch?v=xVKhrio_GAY</id>
-        <link href="https://www.youtube.com/watch?v=xVKhrio_GAY"/>
-        <updated>2025-09-21T17:47:35.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niravadhi karuna]]></title>
-        <id>https://www.youtube.com/watch?v=zwhXbRUv48g</id>
-        <link href="https://www.youtube.com/watch?v=zwhXbRUv48g"/>
-        <updated>2025-09-21T17:46:56.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neethiyin]]></title>
-        <id>https://www.youtube.com/watch?v=Ga5GPanwjkY</id>
-        <link href="https://www.youtube.com/watch?v=Ga5GPanwjkY"/>
-        <updated>2025-09-21T17:45:52.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve]]></title>
-        <id>https://www.youtube.com/watch?v=behPTGpVNI4</id>
-        <link href="https://www.youtube.com/watch?v=behPTGpVNI4"/>
-        <updated>2025-09-21T17:45:49.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swanthanathin (M)]]></title>
-        <id>https://www.youtube.com/watch?v=d79ogotQwoE</id>
-        <link href="https://www.youtube.com/watch?v=d79ogotQwoE"/>
-        <updated>2025-09-21T17:45:42.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneharajan]]></title>
-        <id>https://www.youtube.com/watch?v=hgKlwNAit3E</id>
-        <link href="https://www.youtube.com/watch?v=hgKlwNAit3E"/>
-        <updated>2025-09-21T17:45:32.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanayaril]]></title>
-        <id>https://www.youtube.com/watch?v=eFvOfad1q3Q</id>
-        <link href="https://www.youtube.com/watch?v=eFvOfad1q3Q"/>
-        <updated>2025-09-21T17:45:09.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Geetham]]></title>
-        <id>https://www.youtube.com/watch?v=ecHJSso5gVk</id>
-        <link href="https://www.youtube.com/watch?v=ecHJSso5gVk"/>
-        <updated>2025-09-21T17:45:09.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormakal]]></title>
-        <id>https://www.youtube.com/watch?v=_QTJ0SjMCAg</id>
-        <link href="https://www.youtube.com/watch?v=_QTJ0SjMCAg"/>
-        <updated>2025-09-21T17:45:07.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Paadha Thaarinte]]></title>
-        <id>https://www.youtube.com/watch?v=tdTqYl2NVAs</id>
-        <link href="https://www.youtube.com/watch?v=tdTqYl2NVAs"/>
-        <updated>2025-09-21T17:44:38.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divyakarunyathin Koodashaye]]></title>
-        <id>https://www.youtube.com/watch?v=rL2PvNUAseM</id>
-        <link href="https://www.youtube.com/watch?v=rL2PvNUAseM"/>
-        <updated>2025-09-21T17:37:26.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ontrumillaamalay Nintra Yennai (F)]]></title>
-        <id>https://www.youtube.com/watch?v=GFwGocnz9m8</id>
-        <link href="https://www.youtube.com/watch?v=GFwGocnz9m8"/>
-        <updated>2025-09-21T17:34:19.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
         </author>
     </entry>
 </feed>
