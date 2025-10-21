@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T03:02:43.505Z</updated>
+    <updated>2025-10-21T04:18:35.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1489,87 +1489,6 @@
         <updated>2025-09-21T16:18:53.000Z</updated>
         <author>
             <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akalunnu Dhoore]]></title>
-        <id>https://www.youtube.com/watch?v=KV9bSkeyIA0</id>
-        <link href="https://www.youtube.com/watch?v=KV9bSkeyIA0"/>
-        <updated>2025-09-21T16:17:27.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yennakaai Yenthan Theivam]]></title>
-        <id>https://www.youtube.com/watch?v=ZiVIlQ1xcko</id>
-        <link href="https://www.youtube.com/watch?v=ZiVIlQ1xcko"/>
-        <updated>2025-09-21T16:16:31.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaiyn Thae'van]]></title>
-        <id>https://www.youtube.com/watch?v=yktqaPNalVw</id>
-        <link href="https://www.youtube.com/watch?v=yktqaPNalVw"/>
-        <updated>2025-09-21T16:15:11.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yennai Nenjil Sumakkum (F)]]></title>
-        <id>https://www.youtube.com/watch?v=V0KlsPDREGM</id>
-        <link href="https://www.youtube.com/watch?v=V0KlsPDREGM"/>
-        <updated>2025-09-21T16:11:34.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalvariyagathin]]></title>
-        <id>https://www.youtube.com/watch?v=DJ79ZRbtOuU</id>
-        <link href="https://www.youtube.com/watch?v=DJ79ZRbtOuU"/>
-        <updated>2025-09-21T16:10:37.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intrum Yentrum]]></title>
-        <id>https://www.youtube.com/watch?v=n9zYFz65CuA</id>
-        <link href="https://www.youtube.com/watch?v=n9zYFz65CuA"/>
-        <updated>2025-09-21T16:10:36.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Pozhuthum]]></title>
-        <id>https://www.youtube.com/watch?v=b3sbvQXRrns</id>
-        <link href="https://www.youtube.com/watch?v=b3sbvQXRrns"/>
-        <updated>2025-09-21T16:10:13.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manakkoyilil]]></title>
-        <id>https://www.youtube.com/watch?v=5AVNFYhgwPI</id>
-        <link href="https://www.youtube.com/watch?v=5AVNFYhgwPI"/>
-        <updated>2025-09-21T16:09:27.000Z</updated>
-        <author>
-            <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennathmam]]></title>
-        <id>https://www.youtube.com/watch?v=SIpThlzwrNQ</id>
-        <link href="https://www.youtube.com/watch?v=SIpThlzwrNQ"/>
-        <updated>2025-09-21T16:08:01.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
