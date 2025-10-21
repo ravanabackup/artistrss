@@ -4,18 +4,7 @@
       "title": "Vineeth Sreenivasan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjYCNtvEZzfcj_69by4umCA",
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=oJ_YkEyDA28",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oJ_YkEyDA28",
-          "publishedOn": "2025-09-21T18:38:07.000Z",
-          "wordCount": null,
-          "title": "Kalocha Kettinnu (M)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sithara Krishnakumar - Topic",
@@ -103,16 +92,6 @@
           "publishedOn": "2025-09-28T17:34:31.000Z",
           "wordCount": null,
           "title": "Swarga Thatha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sZjIEFs26Kg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sZjIEFs26Kg",
-          "publishedOn": "2025-09-21T18:53:06.000Z",
-          "wordCount": null,
-          "title": "Aathmavil",
           "imageUrl": null
         }
       ]
@@ -597,36 +576,6 @@
           "wordCount": null,
           "title": "Onnu Kaanan Ammaye Kaanan",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XTMNHV6CWE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XTMNHV6CWE8",
-          "publishedOn": "2025-09-21T18:40:11.000Z",
-          "wordCount": null,
-          "title": "Baliyayi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=itOLTlfYRHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=itOLTlfYRHY",
-          "publishedOn": "2025-09-21T18:38:38.000Z",
-          "wordCount": null,
-          "title": "Sourayudhangalil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VRk1AXatMIA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VRk1AXatMIA",
-          "publishedOn": "2025-09-21T18:38:07.000Z",
-          "wordCount": null,
-          "title": "Kaval Vilakke",
-          "imageUrl": null
         }
       ]
     },
@@ -881,96 +830,6 @@
           "wordCount": null,
           "title": "Oro Nimishavum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2Rr51p3NoUw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2Rr51p3NoUw",
-          "publishedOn": "2025-09-21T18:52:32.000Z",
-          "wordCount": null,
-          "title": "Manasa Natha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=krbjKSrJ2yw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=krbjKSrJ2yw",
-          "publishedOn": "2025-09-21T18:52:01.000Z",
-          "wordCount": null,
-          "title": "Sneha Swaroopa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9xoub66O4UQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9xoub66O4UQ",
-          "publishedOn": "2025-09-21T18:40:11.000Z",
-          "wordCount": null,
-          "title": "Varumo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0cfgQOnHZ_k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0cfgQOnHZ_k",
-          "publishedOn": "2025-09-21T18:38:53.000Z",
-          "wordCount": null,
-          "title": "Kshamichal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tBpC2s5PFwA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tBpC2s5PFwA",
-          "publishedOn": "2025-09-21T18:38:47.000Z",
-          "wordCount": null,
-          "title": "Eesho Nee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Tf8ocPgEo-Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Tf8ocPgEo-Y",
-          "publishedOn": "2025-09-21T18:38:38.000Z",
-          "wordCount": null,
-          "title": "Ethrakalam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C62AszELdh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C62AszELdh8",
-          "publishedOn": "2025-09-21T18:38:31.000Z",
-          "wordCount": null,
-          "title": "Nadha Tharika",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qTFnk9NSyjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qTFnk9NSyjc",
-          "publishedOn": "2025-09-21T18:38:07.000Z",
-          "wordCount": null,
-          "title": "Nee Rogiyanennalum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_03mA405Z6Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_03mA405Z6Q",
-          "publishedOn": "2025-09-21T18:32:40.000Z",
-          "wordCount": null,
-          "title": "Neeyariyathe",
-          "imageUrl": null
         }
       ]
     },
@@ -987,26 +846,6 @@
           "publishedOn": "2025-10-02T10:01:39.000Z",
           "wordCount": null,
           "title": "Abhrahamin Daivam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HqNNN9FM8kc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HqNNN9FM8kc",
-          "publishedOn": "2025-09-21T18:38:07.000Z",
-          "wordCount": null,
-          "title": "Manatharil Ennum (F)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fmsKVsLHldA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fmsKVsLHldA",
-          "publishedOn": "2025-09-21T18:37:20.000Z",
-          "wordCount": null,
-          "title": "Kannukalil",
           "imageUrl": null
         }
       ]
@@ -1052,16 +891,6 @@
           "publishedOn": "2025-09-22T06:45:41.000Z",
           "wordCount": null,
           "title": "Tharakangale (F)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xtO8LE8L9-w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xtO8LE8L9-w",
-          "publishedOn": "2025-09-21T18:37:20.000Z",
-          "wordCount": null,
-          "title": "Mazhayum Veyilum",
           "imageUrl": null
         }
       ]
@@ -1302,176 +1131,6 @@
           "wordCount": null,
           "title": "Arinjirunneela Njan",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Hf1WBzdDmo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Hf1WBzdDmo",
-          "publishedOn": "2025-09-21T18:58:32.000Z",
-          "wordCount": null,
-          "title": "Njanurangeedatte",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H12zx2AGewM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H12zx2AGewM",
-          "publishedOn": "2025-09-21T18:56:13.000Z",
-          "wordCount": null,
-          "title": "Archana (M)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_c38S_C5FLY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_c38S_C5FLY",
-          "publishedOn": "2025-09-21T18:54:26.000Z",
-          "wordCount": null,
-          "title": "Baliyakuvan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EdRnXsaNLzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EdRnXsaNLzQ",
-          "publishedOn": "2025-09-21T18:54:07.000Z",
-          "wordCount": null,
-          "title": "Balivedi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LJM1lk592IM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LJM1lk592IM",
-          "publishedOn": "2025-09-21T18:52:12.000Z",
-          "wordCount": null,
-          "title": "Daivame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y9WYXapyvhQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y9WYXapyvhQ",
-          "publishedOn": "2025-09-21T18:51:28.000Z",
-          "wordCount": null,
-          "title": "Njanethra Dhanyan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2tSpt-6m8YI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2tSpt-6m8YI",
-          "publishedOn": "2025-09-21T18:40:11.000Z",
-          "wordCount": null,
-          "title": "Eeshoye",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CgPo4a6OARs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CgPo4a6OARs",
-          "publishedOn": "2025-09-21T18:40:11.000Z",
-          "wordCount": null,
-          "title": "Athmavin Bhojanamayen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GEn1MBcMYSE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GEn1MBcMYSE",
-          "publishedOn": "2025-09-21T18:40:11.000Z",
-          "wordCount": null,
-          "title": "Karayunnavante",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hovMF1lLXRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hovMF1lLXRc",
-          "publishedOn": "2025-09-21T18:39:32.000Z",
-          "wordCount": null,
-          "title": "Unniyeshu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SfDi7sXssbw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SfDi7sXssbw",
-          "publishedOn": "2025-09-21T18:39:00.000Z",
-          "wordCount": null,
-          "title": "Daivathinte",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lASo7LNwW3k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lASo7LNwW3k",
-          "publishedOn": "2025-09-21T18:39:00.000Z",
-          "wordCount": null,
-          "title": "Makane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DR7oon7AFig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DR7oon7AFig",
-          "publishedOn": "2025-09-21T18:39:00.000Z",
-          "wordCount": null,
-          "title": "Enikkente",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q80GA5JTAWw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q80GA5JTAWw",
-          "publishedOn": "2025-09-21T18:38:53.000Z",
-          "wordCount": null,
-          "title": "Orupadu Vakkukal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RrzefE5fCP8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RrzefE5fCP8",
-          "publishedOn": "2025-09-21T18:38:53.000Z",
-          "wordCount": null,
-          "title": "Yahovayayi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lkg9QmHo-vM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lkg9QmHo-vM",
-          "publishedOn": "2025-09-21T18:38:53.000Z",
-          "wordCount": null,
-          "title": "Hridayam Poornamayi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r2nDQd9LaVA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r2nDQd9LaVA",
-          "publishedOn": "2025-09-21T18:38:53.000Z",
-          "wordCount": null,
-          "title": "Nin Namam Onne",
-          "imageUrl": null
         }
       ]
     },
@@ -1498,26 +1157,6 @@
           "publishedOn": "2025-09-22T11:01:28.000Z",
           "wordCount": null,
           "title": "Mathave",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_wcPV0uhSnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_wcPV0uhSnE",
-          "publishedOn": "2025-09-21T18:36:26.000Z",
-          "wordCount": null,
-          "title": "Azhakaarnna Kannukalil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v9VAsB2PMGo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v9VAsB2PMGo",
-          "publishedOn": "2025-09-21T18:36:26.000Z",
-          "wordCount": null,
-          "title": "Eeshoye Nin (F)",
           "imageUrl": null
         }
       ]
