@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-26T06:21:28.245Z</updated>
+    <updated>2025-10-26T07:13:21.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -922,33 +922,6 @@
         <updated>2025-09-27T09:54:42.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parishudhan]]></title>
-        <id>https://www.youtube.com/watch?v=mGdOb0eEpaw</id>
-        <link href="https://www.youtube.com/watch?v=mGdOb0eEpaw"/>
-        <updated>2025-09-26T18:31:04.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vilichal]]></title>
-        <id>https://www.youtube.com/watch?v=lDEl1fu0mQQ</id>
-        <link href="https://www.youtube.com/watch?v=lDEl1fu0mQQ"/>
-        <updated>2025-09-26T18:31:01.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayamam]]></title>
-        <id>https://www.youtube.com/watch?v=aR1dkY_E-xw</id>
-        <link href="https://www.youtube.com/watch?v=aR1dkY_E-xw"/>
-        <updated>2025-09-26T18:30:01.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>

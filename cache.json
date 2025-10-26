@@ -720,16 +720,6 @@
           "wordCount": null,
           "title": "Neeyariyathe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aR1dkY_E-xw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aR1dkY_E-xw",
-          "publishedOn": "2025-09-26T18:30:01.000Z",
-          "wordCount": null,
-          "title": "Hridayamam",
-          "imageUrl": null
         }
       ]
     },
@@ -1010,26 +1000,6 @@
           "publishedOn": "2025-09-28T17:32:39.000Z",
           "wordCount": null,
           "title": "Paathira Ravil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mGdOb0eEpaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mGdOb0eEpaw",
-          "publishedOn": "2025-09-26T18:31:04.000Z",
-          "wordCount": null,
-          "title": "Parishudhan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lDEl1fu0mQQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lDEl1fu0mQQ",
-          "publishedOn": "2025-09-26T18:31:01.000Z",
-          "wordCount": null,
-          "title": "Vilichal",
           "imageUrl": null
         }
       ]
