@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-26T21:13:06.366Z</updated>
+    <updated>2025-10-26T22:13:52.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -913,15 +913,6 @@
         <updated>2025-09-27T19:11:52.000Z</updated>
         <author>
             <name>Gopi Sundar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odakkuzhalvili]]></title>
-        <id>https://www.youtube.com/watch?v=ZGfS3hCWvu0</id>
-        <link href="https://www.youtube.com/watch?v=ZGfS3hCWvu0"/>
-        <updated>2025-09-27T09:54:42.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
         </author>
     </entry>
 </feed>
