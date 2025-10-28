@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T21:14:10.692Z</updated>
+    <updated>2025-10-28T22:15:10.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -679,96 +679,6 @@
         <updated>2025-09-29T10:54:33.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nukaruu Swamin (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=LkKdTM-L760</id>
-        <link href="https://www.youtube.com/watch?v=LkKdTM-L760"/>
-        <updated>2025-09-29T09:40:11.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alathiyuril Vazhum (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=YUl7i9_YskQ</id>
-        <link href="https://www.youtube.com/watch?v=YUl7i9_YskQ"/>
-        <updated>2025-09-29T09:40:11.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sree Rama Rama Jaya (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=hzmgpcYckmY</id>
-        <link href="https://www.youtube.com/watch?v=hzmgpcYckmY"/>
-        <updated>2025-09-29T09:40:10.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dukhangal]]></title>
-        <id>https://www.youtube.com/watch?v=32GUwx2uOd8</id>
-        <link href="https://www.youtube.com/watch?v=32GUwx2uOd8"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekhurama manthrangal (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=H3Jp2lCoF0Y</id>
-        <link href="https://www.youtube.com/watch?v=H3Jp2lCoF0Y"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dukhangal (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=KHoesNVpqlk</id>
-        <link href="https://www.youtube.com/watch?v=KHoesNVpqlk"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sree Rama Rama Jaya]]></title>
-        <id>https://www.youtube.com/watch?v=VMpa7kKn-IM</id>
-        <link href="https://www.youtube.com/watch?v=VMpa7kKn-IM"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekhurama manthrangal]]></title>
-        <id>https://www.youtube.com/watch?v=lr3Y25OwOBs</id>
-        <link href="https://www.youtube.com/watch?v=lr3Y25OwOBs"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alathiyuril Vazhum]]></title>
-        <id>https://www.youtube.com/watch?v=sXkjz3OApU4</id>
-        <link href="https://www.youtube.com/watch?v=sXkjz3OApU4"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nukaruu Swamin]]></title>
-        <id>https://www.youtube.com/watch?v=tIO0DjgpqHg</id>
-        <link href="https://www.youtube.com/watch?v=tIO0DjgpqHg"/>
-        <updated>2025-09-29T09:40:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>
