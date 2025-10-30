@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T05:15:38.826Z</updated>
+    <updated>2025-10-30T06:23:56.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nilledi Nilledi]]></title>
+        <id>https://www.youtube.com/watch?v=m_KqcF5C5LA</id>
+        <link href="https://www.youtube.com/watch?v=m_KqcF5C5LA"/>
+        <updated>2025-10-30T05:44:42.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manatharil Ennum (F)]]></title>
         <id>https://www.youtube.com/watch?v=5d83XTPGMY4</id>
@@ -94,6 +103,15 @@
         <updated>2025-10-24T16:12:16.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kolenchery Stationil]]></title>
+        <id>https://www.youtube.com/watch?v=DidZ65WNYYk</id>
+        <link href="https://www.youtube.com/watch?v=DidZ65WNYYk"/>
+        <updated>2025-10-23T09:17:28.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
     <entry>
