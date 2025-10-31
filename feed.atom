@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T06:24:10.337Z</updated>
+    <updated>2025-10-31T07:15:01.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varumo]]></title>
+        <id>https://www.youtube.com/watch?v=3xniQgfp42w</id>
+        <link href="https://www.youtube.com/watch?v=3xniQgfp42w"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee Rogiyanennalum]]></title>
+        <id>https://www.youtube.com/watch?v=4NB9JNOBh4c</id>
+        <link href="https://www.youtube.com/watch?v=4NB9JNOBh4c"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sneha Swaroopa]]></title>
+        <id>https://www.youtube.com/watch?v=9t7lWjtaViQ</id>
+        <link href="https://www.youtube.com/watch?v=9t7lWjtaViQ"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadha Tharika]]></title>
+        <id>https://www.youtube.com/watch?v=E6TvqVjLp9k</id>
+        <link href="https://www.youtube.com/watch?v=E6TvqVjLp9k"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manasa Natha]]></title>
+        <id>https://www.youtube.com/watch?v=VcehWL3bd4E</id>
+        <link href="https://www.youtube.com/watch?v=VcehWL3bd4E"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kshamichal]]></title>
+        <id>https://www.youtube.com/watch?v=eKWnja7MwVw</id>
+        <link href="https://www.youtube.com/watch?v=eKWnja7MwVw"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethrakalam]]></title>
+        <id>https://www.youtube.com/watch?v=huco3UBYkyA</id>
+        <link href="https://www.youtube.com/watch?v=huco3UBYkyA"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyariyathe]]></title>
+        <id>https://www.youtube.com/watch?v=p_tT7LGf31k</id>
+        <link href="https://www.youtube.com/watch?v=p_tT7LGf31k"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eesho Nee]]></title>
+        <id>https://www.youtube.com/watch?v=sTw_FJbLRJc</id>
+        <link href="https://www.youtube.com/watch?v=sTw_FJbLRJc"/>
+        <updated>2025-10-31T07:10:43.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sourayudhangalil]]></title>
+        <id>https://www.youtube.com/watch?v=2PLx6jp4X1Q</id>
+        <link href="https://www.youtube.com/watch?v=2PLx6jp4X1Q"/>
+        <updated>2025-10-31T07:10:05.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baliyayi]]></title>
+        <id>https://www.youtube.com/watch?v=4Iu0uWJyvwM</id>
+        <link href="https://www.youtube.com/watch?v=4Iu0uWJyvwM"/>
+        <updated>2025-10-31T07:10:05.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaval Vilakke]]></title>
+        <id>https://www.youtube.com/watch?v=Nd1TNx0jowg</id>
+        <link href="https://www.youtube.com/watch?v=Nd1TNx0jowg"/>
+        <updated>2025-10-31T07:10:05.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neelakalebara Syamayam Devi]]></title>
+        <id>https://www.youtube.com/watch?v=-IDe5FRRHUw</id>
+        <link href="https://www.youtube.com/watch?v=-IDe5FRRHUw"/>
+        <updated>2025-10-30T09:29:15.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellam Aariyunna Mullakkalammakku Ellennu Chollanariyilla]]></title>
+        <id>https://www.youtube.com/watch?v=AJXGmsRoiRY</id>
+        <link href="https://www.youtube.com/watch?v=AJXGmsRoiRY"/>
+        <updated>2025-10-30T09:28:27.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nilledi Nilledi]]></title>
         <id>https://www.youtube.com/watch?v=m_KqcF5C5LA</id>
@@ -31,6 +157,15 @@
         <updated>2025-10-28T19:51:35.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandalum Kandaalum Kothitheerillambike]]></title>
+        <id>https://www.youtube.com/watch?v=joN_rpb_3jE</id>
+        <link href="https://www.youtube.com/watch?v=joN_rpb_3jE"/>
+        <updated>2025-10-27T12:21:20.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -103,6 +238,24 @@
         <updated>2025-10-24T16:12:16.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pannagaabharanantey Thrippadimel (Karaoke)]]></title>
+        <id>https://www.youtube.com/watch?v=AT3z6qZY6Jk</id>
+        <link href="https://www.youtube.com/watch?v=AT3z6qZY6Jk"/>
+        <updated>2025-10-23T15:27:34.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pannagaabharanantey Thrippadimel]]></title>
+        <id>https://www.youtube.com/watch?v=Hc6Ur-5HvCM</id>
+        <link href="https://www.youtube.com/watch?v=Hc6Ur-5HvCM"/>
+        <updated>2025-10-23T15:27:34.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
