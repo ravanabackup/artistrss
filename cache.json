@@ -10,18 +10,7 @@
       "title": "Sithara Krishnakumar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwY3V0If3Rp-Kei2YgIDHBA",
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jgxeAb47qT0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jgxeAb47qT0",
-          "publishedOn": "2025-10-02T10:01:19.000Z",
-          "wordCount": null,
-          "title": "Adhimotham",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Najim Arshad - Topic",
@@ -715,16 +704,6 @@
           "publishedOn": "2025-10-27T12:21:01.000Z",
           "wordCount": null,
           "title": "Manimalayarin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t-wW-6oYWcs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t-wW-6oYWcs",
-          "publishedOn": "2025-10-02T10:01:39.000Z",
-          "wordCount": null,
-          "title": "Abhrahamin Daivam",
           "imageUrl": null
         }
       ]
