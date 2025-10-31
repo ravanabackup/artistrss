@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T14:15:53.975Z</updated>
+    <updated>2025-10-31T15:15:08.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -697,15 +697,6 @@
         <updated>2025-10-02T10:01:19.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharakangale (F)]]></title>
-        <id>https://www.youtube.com/watch?v=_nEYx274s_o</id>
-        <link href="https://www.youtube.com/watch?v=_nEYx274s_o"/>
-        <updated>2025-10-02T02:25:13.000Z</updated>
-        <author>
-            <name>Rimi Tomy - Topic</name>
         </author>
     </entry>
 </feed>
