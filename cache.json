@@ -818,6 +818,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dtF3kBUl2JM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dtF3kBUl2JM",
+          "publishedOn": "2025-11-03T15:27:54.000Z",
+          "wordCount": null,
+          "title": "Ambalamuttathe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=egg5JmCbRtM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=egg5JmCbRtM",
+          "publishedOn": "2025-11-03T15:27:54.000Z",
+          "wordCount": null,
+          "title": "Sandhyayil Viriyunna",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ga-02gd4wjw",
           "author": null,
           "description": "",
@@ -825,6 +845,16 @@
           "publishedOn": "2025-11-03T15:27:54.000Z",
           "wordCount": null,
           "title": "Ammaye Kanden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-_EnX0bmru4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-_EnX0bmru4",
+          "publishedOn": "2025-11-03T15:26:03.000Z",
+          "wordCount": null,
+          "title": "Attukalammakku Manassakum Mankalathil Attunottu Nerunnu Pongala",
           "imageUrl": null
         },
         {
@@ -932,6 +962,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3hTCMaMRBwA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3hTCMaMRBwA",
+          "publishedOn": "2025-11-05T09:33:27.000Z",
+          "wordCount": null,
+          "title": "Bethlahemile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-9xdC0bzZ2I",
           "author": null,
