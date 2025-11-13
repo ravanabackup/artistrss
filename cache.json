@@ -200,18 +200,7 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=c4zohbcgvr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c4zohbcgvr0",
-          "publishedOn": "2025-10-15T10:01:12.000Z",
-          "wordCount": null,
-          "title": "Nattil Veettil",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bijibal - Topic",
