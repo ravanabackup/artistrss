@@ -55,6 +55,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4Kt6HMZojio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4Kt6HMZojio",
+          "publishedOn": "2025-11-13T11:06:53.000Z",
+          "wordCount": null,
+          "title": "Swarga Thatha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o5tNvv4Ze4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o5tNvv4Ze4k",
+          "publishedOn": "2025-11-13T11:06:53.000Z",
+          "wordCount": null,
+          "title": "Aathmavil",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XSmJ9ilPAtk",
           "author": null,
           "description": "",
@@ -72,6 +92,36 @@
           "publishedOn": "2025-11-12T07:30:34.000Z",
           "wordCount": null,
           "title": "Kulir Choodum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1QfVK0SpCYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1QfVK0SpCYs",
+          "publishedOn": "2025-11-12T07:29:38.000Z",
+          "wordCount": null,
+          "title": "Snehasheethala Nin Thiru",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PfSTFRrDDiY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PfSTFRrDDiY",
+          "publishedOn": "2025-11-12T07:29:38.000Z",
+          "wordCount": null,
+          "title": "Daivathinennum Sthuthi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kyuxRmO0Mnw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kyuxRmO0Mnw",
+          "publishedOn": "2025-11-12T07:27:14.000Z",
+          "wordCount": null,
+          "title": "Padoo Naadhanu Geetham",
           "imageUrl": null
         },
         {
@@ -1101,6 +1151,106 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2mDR5seF7kE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2mDR5seF7kE",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Njanethra Dhanyan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9-rCbIhjRTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9-rCbIhjRTk",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Ettavum Parishutha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DPq3d4eJd8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DPq3d4eJd8w",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Ee Nenjilake (M)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JMmrSYJavoU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JMmrSYJavoU",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Yahovayayi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eqgcznmA0MA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eqgcznmA0MA",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Nin Namam Onne",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gWQ4eroKiao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gWQ4eroKiao",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Aroopiyaam Daivame",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wAr9OXhVeYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wAr9OXhVeYc",
+          "publishedOn": "2025-11-13T11:10:36.000Z",
+          "wordCount": null,
+          "title": "Yeshuve Nee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2wiLZzNgEvg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2wiLZzNgEvg",
+          "publishedOn": "2025-11-13T11:10:11.000Z",
+          "wordCount": null,
+          "title": "Niravadhi karuna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ugqvBQiU_og",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ugqvBQiU_og",
+          "publishedOn": "2025-11-13T11:10:11.000Z",
+          "wordCount": null,
+          "title": "Akalunnu Dhoore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xEryemi7gIc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xEryemi7gIc",
+          "publishedOn": "2025-11-13T11:09:59.000Z",
+          "wordCount": null,
+          "title": "Paathira Ravil",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=O6Lv49kGUFI",
           "author": null,

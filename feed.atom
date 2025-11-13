@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T10:18:18.855Z</updated>
+    <updated>2025-11-13T11:14:41.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Njanethra Dhanyan]]></title>
+        <id>https://www.youtube.com/watch?v=2mDR5seF7kE</id>
+        <link href="https://www.youtube.com/watch?v=2mDR5seF7kE"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ettavum Parishutha]]></title>
+        <id>https://www.youtube.com/watch?v=9-rCbIhjRTk</id>
+        <link href="https://www.youtube.com/watch?v=9-rCbIhjRTk"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Nenjilake (M)]]></title>
+        <id>https://www.youtube.com/watch?v=DPq3d4eJd8w</id>
+        <link href="https://www.youtube.com/watch?v=DPq3d4eJd8w"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yahovayayi]]></title>
+        <id>https://www.youtube.com/watch?v=JMmrSYJavoU</id>
+        <link href="https://www.youtube.com/watch?v=JMmrSYJavoU"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nin Namam Onne]]></title>
+        <id>https://www.youtube.com/watch?v=eqgcznmA0MA</id>
+        <link href="https://www.youtube.com/watch?v=eqgcznmA0MA"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aroopiyaam Daivame]]></title>
+        <id>https://www.youtube.com/watch?v=gWQ4eroKiao</id>
+        <link href="https://www.youtube.com/watch?v=gWQ4eroKiao"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve Nee]]></title>
+        <id>https://www.youtube.com/watch?v=wAr9OXhVeYc</id>
+        <link href="https://www.youtube.com/watch?v=wAr9OXhVeYc"/>
+        <updated>2025-11-13T11:10:36.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niravadhi karuna]]></title>
+        <id>https://www.youtube.com/watch?v=2wiLZzNgEvg</id>
+        <link href="https://www.youtube.com/watch?v=2wiLZzNgEvg"/>
+        <updated>2025-11-13T11:10:11.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akalunnu Dhoore]]></title>
+        <id>https://www.youtube.com/watch?v=ugqvBQiU_og</id>
+        <link href="https://www.youtube.com/watch?v=ugqvBQiU_og"/>
+        <updated>2025-11-13T11:10:11.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paathira Ravil]]></title>
+        <id>https://www.youtube.com/watch?v=xEryemi7gIc</id>
+        <link href="https://www.youtube.com/watch?v=xEryemi7gIc"/>
+        <updated>2025-11-13T11:09:59.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarga Thatha]]></title>
+        <id>https://www.youtube.com/watch?v=4Kt6HMZojio</id>
+        <link href="https://www.youtube.com/watch?v=4Kt6HMZojio"/>
+        <updated>2025-11-13T11:06:53.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aathmavil]]></title>
+        <id>https://www.youtube.com/watch?v=o5tNvv4Ze4k</id>
+        <link href="https://www.youtube.com/watch?v=o5tNvv4Ze4k"/>
+        <updated>2025-11-13T11:06:53.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paathira Ravil]]></title>
         <id>https://www.youtube.com/watch?v=O6Lv49kGUFI</id>
@@ -65,6 +173,33 @@
         <id>https://www.youtube.com/watch?v=cazxmpGTDf0</id>
         <link href="https://www.youtube.com/watch?v=cazxmpGTDf0"/>
         <updated>2025-11-12T07:30:34.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehasheethala Nin Thiru]]></title>
+        <id>https://www.youtube.com/watch?v=1QfVK0SpCYs</id>
+        <link href="https://www.youtube.com/watch?v=1QfVK0SpCYs"/>
+        <updated>2025-11-12T07:29:38.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathinennum Sthuthi]]></title>
+        <id>https://www.youtube.com/watch?v=PfSTFRrDDiY</id>
+        <link href="https://www.youtube.com/watch?v=PfSTFRrDDiY"/>
+        <updated>2025-11-12T07:29:38.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Padoo Naadhanu Geetham]]></title>
+        <id>https://www.youtube.com/watch?v=kyuxRmO0Mnw</id>
+        <link href="https://www.youtube.com/watch?v=kyuxRmO0Mnw"/>
+        <updated>2025-11-12T07:27:14.000Z</updated>
         <author>
             <name>Sujatha Mohan - Topic</name>
         </author>
