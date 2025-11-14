@@ -876,16 +876,6 @@
           "wordCount": null,
           "title": "Devane",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1nkCCdB4xfs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1nkCCdB4xfs",
-          "publishedOn": "2025-10-15T22:59:46.000Z",
-          "wordCount": null,
-          "title": "Yeshu Nadhan",
-          "imageUrl": null
         }
       ]
     },
@@ -1529,16 +1519,6 @@
           "wordCount": null,
           "title": "Amma Polum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P9tK7os-4PE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P9tK7os-4PE",
-          "publishedOn": "2025-10-15T23:00:38.000Z",
-          "wordCount": null,
-          "title": "Athirillathozhukunna Sneham",
-          "imageUrl": null
         }
       ]
     },
@@ -1583,28 +1563,7 @@
       "title": "Maria Kolady - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNGpKg02KLGdTii0Ql6vAOA",
       "siteUrl": "https://www.youtube.com/channel/UCNGpKg02KLGdTii0Ql6vAOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=U0lm1X0fkZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U0lm1X0fkZQ",
-          "publishedOn": "2025-10-15T23:00:12.000Z",
-          "wordCount": null,
-          "title": "Manakkoyilil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mg05kToKCg4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mg05kToKCg4",
-          "publishedOn": "2025-10-15T22:59:04.000Z",
-          "wordCount": null,
-          "title": "Intrum Yentrum",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sreya Anna Joseph - Topic",
