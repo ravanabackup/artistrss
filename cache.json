@@ -55,6 +55,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Eyyt4bY4suw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Eyyt4bY4suw",
+          "publishedOn": "2025-11-13T12:55:06.000Z",
+          "wordCount": null,
+          "title": "Vazhiyethennarinjeela (F)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RZDLMZvb4LU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RZDLMZvb4LU",
+          "publishedOn": "2025-11-13T12:55:06.000Z",
+          "wordCount": null,
+          "title": "Eeshoye Ente Eeshoye",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GuVSDL5G7n8",
           "author": null,
           "description": "",
@@ -62,6 +82,56 @@
           "publishedOn": "2025-11-13T12:55:06.000Z",
           "wordCount": null,
           "title": "Swarga Thatha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eELxADMOpV4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eELxADMOpV4",
+          "publishedOn": "2025-11-13T12:55:05.000Z",
+          "wordCount": null,
+          "title": "Pavana Snehithan Varavayi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=A7S60gY3xnM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A7S60gY3xnM",
+          "publishedOn": "2025-11-13T11:06:53.000Z",
+          "wordCount": null,
+          "title": "Pavana Snehithan Varavayi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TVLCnt7rDu8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TVLCnt7rDu8",
+          "publishedOn": "2025-11-13T11:06:53.000Z",
+          "wordCount": null,
+          "title": "Vazhiyethennarinjeela (F)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XDSAuFZPNKY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XDSAuFZPNKY",
+          "publishedOn": "2025-11-13T11:06:53.000Z",
+          "wordCount": null,
+          "title": "Jeevanil Nee (F)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=w4Y5kKXV8Dw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w4Y5kKXV8Dw",
+          "publishedOn": "2025-11-13T11:06:53.000Z",
+          "wordCount": null,
+          "title": "Urukunna",
           "imageUrl": null
         },
         {
@@ -82,6 +152,56 @@
           "publishedOn": "2025-11-13T11:06:53.000Z",
           "wordCount": null,
           "title": "Aathmavil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ALFowz5GinU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ALFowz5GinU",
+          "publishedOn": "2025-11-13T11:06:52.000Z",
+          "wordCount": null,
+          "title": "Rosa Poove",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B7-yyz4LuL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B7-yyz4LuL0",
+          "publishedOn": "2025-11-13T11:06:52.000Z",
+          "wordCount": null,
+          "title": "Eeshoye Ente Eeshoye",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TNgzy8HbdoA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TNgzy8HbdoA",
+          "publishedOn": "2025-11-13T11:06:52.000Z",
+          "wordCount": null,
+          "title": "Neethimanayavane",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h6IxhZsTRE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h6IxhZsTRE4",
+          "publishedOn": "2025-11-13T11:06:52.000Z",
+          "wordCount": null,
+          "title": "Hridayangal Cherumbol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xy3pU2r0GqA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xy3pU2r0GqA",
+          "publishedOn": "2025-11-13T11:06:52.000Z",
+          "wordCount": null,
+          "title": "Mathave",
           "imageUrl": null
         },
         {
@@ -1526,7 +1646,58 @@
       "title": "KG Markose - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0ASu5cyAC-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0ASu5cyAC-I",
+          "publishedOn": "2025-11-15T08:05:21.000Z",
+          "wordCount": null,
+          "title": "Thaalolam Poo (M)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D4Cegcq_lpM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D4Cegcq_lpM",
+          "publishedOn": "2025-11-15T07:58:36.000Z",
+          "wordCount": null,
+          "title": "Neelakkurinjikal Poothu (M)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wcsNxJPI5WM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wcsNxJPI5WM",
+          "publishedOn": "2025-11-15T07:58:36.000Z",
+          "wordCount": null,
+          "title": "Neelakkurinjikal Poothu (D)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G-EsTu6Wirw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G-EsTu6Wirw",
+          "publishedOn": "2025-11-15T07:12:24.000Z",
+          "wordCount": null,
+          "title": "Monchulla Beevi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZsBg4EOY0YA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZsBg4EOY0YA",
+          "publishedOn": "2025-11-15T07:12:24.000Z",
+          "wordCount": null,
+          "title": "Sarathkaala Sandhyakal",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
