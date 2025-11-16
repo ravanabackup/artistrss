@@ -427,6 +427,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7BxvaYNxwnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7BxvaYNxwnA",
+          "publishedOn": "2025-11-16T21:37:01.000Z",
+          "wordCount": null,
+          "title": "Altharayorungi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JSpysFCOnck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JSpysFCOnck",
+          "publishedOn": "2025-11-16T21:32:23.000Z",
+          "wordCount": null,
+          "title": "Altharayorungi",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8jYn0Vifj9M",
           "author": null,
           "description": "",
@@ -832,13 +852,84 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-KkLx157nIM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-KkLx157nIM",
+          "publishedOn": "2025-11-16T21:36:43.000Z",
+          "wordCount": null,
+          "title": "The Theme of God",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EBPDybOvM7c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EBPDybOvM7c",
+          "publishedOn": "2025-11-16T21:36:43.000Z",
+          "wordCount": null,
+          "title": "Enteyullil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Nr4ghyL3Jds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Nr4ghyL3Jds",
+          "publishedOn": "2025-11-16T21:36:43.000Z",
+          "wordCount": null,
+          "title": "Mezhuku Thiriyude",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Biju Narayanan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=q89uODjg68A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q89uODjg68A",
+          "publishedOn": "2025-11-16T21:37:01.000Z",
+          "wordCount": null,
+          "title": "Neeyariyathe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4aTIqC8NtYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4aTIqC8NtYE",
+          "publishedOn": "2025-11-16T21:33:03.000Z",
+          "wordCount": null,
+          "title": "Aa Nalla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QPecglcLH1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QPecglcLH1s",
+          "publishedOn": "2025-11-09T07:12:21.000Z",
+          "wordCount": null,
+          "title": "Ponmani Nadham",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jiM0Wejm3So",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jiM0Wejm3So",
+          "publishedOn": "2025-11-09T07:12:21.000Z",
+          "wordCount": null,
+          "title": "Kripayarulu Nadha",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=AqGAr_P3Smk",
           "author": null,
@@ -1233,6 +1324,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwpn7R8dycvBU8Jin_BtRrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s7DDGnMpksY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s7DDGnMpksY",
+          "publishedOn": "2025-11-16T21:32:33.000Z",
+          "wordCount": null,
+          "title": "Mazhayum Veyilum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2SRs8rKpLvc",
           "author": null,
           "description": "",
@@ -1332,6 +1433,136 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hoMxZycdXgI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hoMxZycdXgI",
+          "publishedOn": "2025-11-16T21:37:01.000Z",
+          "wordCount": null,
+          "title": "Oru Kodi (M)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jDg32WH6GeE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jDg32WH6GeE",
+          "publishedOn": "2025-11-16T21:34:35.000Z",
+          "wordCount": null,
+          "title": "Balivedikayil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xtOozrMLmwo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xtOozrMLmwo",
+          "publishedOn": "2025-11-16T21:34:35.000Z",
+          "wordCount": null,
+          "title": "Athmavin Bhojanamayen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RgvRWlxuPr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RgvRWlxuPr4",
+          "publishedOn": "2025-11-16T21:32:31.000Z",
+          "wordCount": null,
+          "title": "Oru Kodi (M)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TjuRjcsulKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TjuRjcsulKs",
+          "publishedOn": "2025-11-16T21:32:29.000Z",
+          "wordCount": null,
+          "title": "Nin Paadha Thaarinte",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PgMFz7m1TUg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PgMFz7m1TUg",
+          "publishedOn": "2025-11-16T21:32:23.000Z",
+          "wordCount": null,
+          "title": "Kalvarikkunnile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tTjUefHsckE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tTjUefHsckE",
+          "publishedOn": "2025-11-16T21:32:23.000Z",
+          "wordCount": null,
+          "title": "Onnumillaymayil Ninnumenne (M)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jqzLE5zh-4M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jqzLE5zh-4M",
+          "publishedOn": "2025-11-16T21:32:20.000Z",
+          "wordCount": null,
+          "title": "Vilichal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bx-9SJ_8RTw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bx-9SJ_8RTw",
+          "publishedOn": "2025-11-16T21:32:05.000Z",
+          "wordCount": null,
+          "title": "Venmayezhunnoree",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dm2OFzUygpY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dm2OFzUygpY",
+          "publishedOn": "2025-11-16T21:32:05.000Z",
+          "wordCount": null,
+          "title": "Orupadu Vakkukal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xxy6sxBXz6Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xxy6sxBXz6Q",
+          "publishedOn": "2025-11-16T21:32:05.000Z",
+          "wordCount": null,
+          "title": "Viswasa Jeevitha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OJEPe3hfI44",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OJEPe3hfI44",
+          "publishedOn": "2025-11-16T21:32:04.000Z",
+          "wordCount": null,
+          "title": "Ethrayo Kshamichu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=llntbC9JUhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=llntbC9JUhs",
+          "publishedOn": "2025-11-16T21:32:04.000Z",
+          "wordCount": null,
+          "title": "Ethramel Enne",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_bXLy0cBhMI",
           "author": null,
