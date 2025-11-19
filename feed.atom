@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T21:12:27.813Z</updated>
+    <updated>2025-11-19T22:15:18.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jolium Kolium (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=iq-B99K7SmQ</id>
+        <link href="https://www.youtube.com/watch?v=iq-B99K7SmQ"/>
+        <updated>2025-11-19T21:27:35.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jolium Kolium]]></title>
+        <id>https://www.youtube.com/watch?v=4Bka8kI-89s</id>
+        <link href="https://www.youtube.com/watch?v=4Bka8kI-89s"/>
+        <updated>2025-11-19T21:27:33.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurumbathi Chundhari]]></title>
+        <id>https://www.youtube.com/watch?v=ZoZTu7ROorM</id>
+        <link href="https://www.youtube.com/watch?v=ZoZTu7ROorM"/>
+        <updated>2025-11-19T21:24:42.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurumbathi Chundhari (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=lZFK4f5HIvw</id>
+        <link href="https://www.youtube.com/watch?v=lZFK4f5HIvw"/>
+        <updated>2025-11-19T21:24:42.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mouthinte]]></title>
         <id>https://www.youtube.com/watch?v=sxVX8lsE_rk</id>
