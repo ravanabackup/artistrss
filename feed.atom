@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T23:15:24.428Z</updated>
+    <updated>2025-11-20T01:14:14.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muruga Muruga (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=7s5VgXYtLd0</id>
+        <link href="https://www.youtube.com/watch?v=7s5VgXYtLd0"/>
+        <updated>2025-11-20T01:11:23.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muruga Muruga]]></title>
+        <id>https://www.youtube.com/watch?v=IjWfDSeVx0I</id>
+        <link href="https://www.youtube.com/watch?v=IjWfDSeVx0I"/>
+        <updated>2025-11-20T01:11:23.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jolium Kolium (Preview)]]></title>
         <id>https://www.youtube.com/watch?v=iq-B99K7SmQ</id>
