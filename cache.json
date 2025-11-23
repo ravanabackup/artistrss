@@ -1944,36 +1944,6 @@
           "wordCount": null,
           "title": "Kalangidaathe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1mLtmZGC1Ts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1mLtmZGC1Ts",
-          "publishedOn": "2025-10-24T16:12:16.000Z",
-          "wordCount": null,
-          "title": "Karayunna Kannukalil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5aST93iCfL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5aST93iCfL4",
-          "publishedOn": "2025-10-24T16:12:16.000Z",
-          "wordCount": null,
-          "title": "Amme Mariyame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rh5675yrSYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rh5675yrSYc",
-          "publishedOn": "2025-10-24T16:12:16.000Z",
-          "wordCount": null,
-          "title": "Amme Vilikunnu",
-          "imageUrl": null
         }
       ]
     },
@@ -1981,38 +1951,7 @@
       "title": "Elizabeth Raju - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=AXYkwpR3rL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AXYkwpR3rL8",
-          "publishedOn": "2025-10-24T16:12:16.000Z",
-          "wordCount": null,
-          "title": "Nanma Poorna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MfqH3H39phc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MfqH3H39phc",
-          "publishedOn": "2025-10-24T16:12:16.000Z",
-          "wordCount": null,
-          "title": "Manum Vinnum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fU6IbLFi7A8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fU6IbLFi7A8",
-          "publishedOn": "2025-10-24T16:12:16.000Z",
-          "wordCount": null,
-          "title": "Mahidhe Ange",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Maria Kolady - Topic",
