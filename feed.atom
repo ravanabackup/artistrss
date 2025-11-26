@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-26T05:16:26.807Z</updated>
+    <updated>2025-11-26T06:26:08.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -268,6 +268,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Altharayil Ninnum (M)]]></title>
+        <id>https://www.youtube.com/watch?v=RdWbdbAydOE</id>
+        <link href="https://www.youtube.com/watch?v=RdWbdbAydOE"/>
+        <updated>2025-11-16T21:37:01.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oru Kodi (M)]]></title>
         <id>https://www.youtube.com/watch?v=hoMxZycdXgI</id>
         <link href="https://www.youtube.com/watch?v=hoMxZycdXgI"/>
@@ -367,6 +376,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Appathin Roopamay]]></title>
+        <id>https://www.youtube.com/watch?v=J3qPliqJRPg</id>
+        <link href="https://www.youtube.com/watch?v=J3qPliqJRPg"/>
+        <updated>2025-11-16T21:32:23.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kalvarikkunnile]]></title>
         <id>https://www.youtube.com/watch?v=PgMFz7m1TUg</id>
         <link href="https://www.youtube.com/watch?v=PgMFz7m1TUg"/>
@@ -400,6 +418,24 @@
         <updated>2025-11-16T21:32:06.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadhanekum Divyavirunnin]]></title>
+        <id>https://www.youtube.com/watch?v=5dnkRSXAgog</id>
+        <link href="https://www.youtube.com/watch?v=5dnkRSXAgog"/>
+        <updated>2025-11-16T21:32:05.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swanthanathin (M)]]></title>
+        <id>https://www.youtube.com/watch?v=5ugiQfgFVD8</id>
+        <link href="https://www.youtube.com/watch?v=5ugiQfgFVD8"/>
+        <updated>2025-11-16T21:32:05.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
         </author>
     </entry>
     <entry>
