@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T03:08:00.997Z</updated>
+    <updated>2025-11-28T04:19:56.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -25,6 +25,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Karkuzhali]]></title>
+        <id>https://www.youtube.com/watch?v=MCXCyhFcRU4</id>
+        <link href="https://www.youtube.com/watch?v=MCXCyhFcRU4"/>
+        <updated>2025-11-27T11:16:47.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ambala nadakal]]></title>
         <id>https://www.youtube.com/watch?v=is69s2uZDkw</id>
         <link href="https://www.youtube.com/watch?v=is69s2uZDkw"/>
@@ -40,6 +49,15 @@
         <updated>2025-11-27T10:31:32.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kukkukku Kurumbi]]></title>
+        <id>https://www.youtube.com/watch?v=x5sW44o2_Eo</id>
+        <link href="https://www.youtube.com/watch?v=x5sW44o2_Eo"/>
+        <updated>2025-11-27T10:27:42.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +94,15 @@
         <updated>2025-11-27T10:27:24.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Othiri Othiri (F)]]></title>
+        <id>https://www.youtube.com/watch?v=WAbY40ZIC3A</id>
+        <link href="https://www.youtube.com/watch?v=WAbY40ZIC3A"/>
+        <updated>2025-11-27T10:23:36.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
     <entry>
