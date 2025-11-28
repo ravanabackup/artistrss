@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T21:13:42.314Z</updated>
+    <updated>2025-11-28T22:14:46.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -2308,24 +2308,6 @@
         <updated>2025-10-30T10:34:55.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelakalebara Syamayam Devi]]></title>
-        <id>https://www.youtube.com/watch?v=-IDe5FRRHUw</id>
-        <link href="https://www.youtube.com/watch?v=-IDe5FRRHUw"/>
-        <updated>2025-10-30T09:29:15.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Aariyunna Mullakkalammakku Ellennu Chollanariyilla]]></title>
-        <id>https://www.youtube.com/watch?v=AJXGmsRoiRY</id>
-        <link href="https://www.youtube.com/watch?v=AJXGmsRoiRY"/>
-        <updated>2025-10-30T09:28:27.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
