@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T05:15:39.741Z</updated>
+    <updated>2025-11-29T06:23:07.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -13,6 +13,24 @@
         <updated>2025-11-28T10:32:09.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chakkarakkili]]></title>
+        <id>https://www.youtube.com/watch?v=10plqCmN5rI</id>
+        <link href="https://www.youtube.com/watch?v=10plqCmN5rI"/>
+        <updated>2025-11-28T06:51:13.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maanazhago (F)]]></title>
+        <id>https://www.youtube.com/watch?v=zCvY8QbqK58</id>
+        <link href="https://www.youtube.com/watch?v=zCvY8QbqK58"/>
+        <updated>2025-11-28T06:51:13.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
     <entry>
