@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T17:19:23.636Z</updated>
+    <updated>2025-12-02T18:27:15.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -2101,15 +2101,6 @@
         <updated>2025-11-03T15:26:03.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnai]]></title>
-        <id>https://www.youtube.com/watch?v=hPEsnOzR8pY</id>
-        <link href="https://www.youtube.com/watch?v=hPEsnOzR8pY"/>
-        <updated>2025-11-03T05:53:32.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
