@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T15:14:01.904Z</updated>
+    <updated>2025-12-07T16:18:05.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1939,42 +1939,6 @@
         <updated>2025-11-08T06:55:22.000Z</updated>
         <author>
             <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aa Viral (M)]]></title>
-        <id>https://www.youtube.com/watch?v=Mpz8ma1TrPA</id>
-        <link href="https://www.youtube.com/watch?v=Mpz8ma1TrPA"/>
-        <updated>2025-11-08T03:45:51.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kodi (M)]]></title>
-        <id>https://www.youtube.com/watch?v=XJmuENdyPa8</id>
-        <link href="https://www.youtube.com/watch?v=XJmuENdyPa8"/>
-        <updated>2025-11-08T03:45:51.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnumillaymayil Ninnumenne (M)]]></title>
-        <id>https://www.youtube.com/watch?v=o9mYhjEmzH8</id>
-        <link href="https://www.youtube.com/watch?v=o9mYhjEmzH8"/>
-        <updated>2025-11-08T03:45:51.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koode Nadannavan]]></title>
-        <id>https://www.youtube.com/watch?v=rgpdCAoam5k</id>
-        <link href="https://www.youtube.com/watch?v=rgpdCAoam5k"/>
-        <updated>2025-11-08T03:45:51.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
