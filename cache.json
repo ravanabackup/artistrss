@@ -91,16 +91,6 @@
           "wordCount": null,
           "title": "Chinthum Padi (From \"Grihanathan\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4asoTq9pF8c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4asoTq9pF8c",
-          "publishedOn": "2025-11-10T18:30:09.000Z",
-          "wordCount": null,
-          "title": "Minnalvala (Female Vocals Reverb)",
-          "imageUrl": null
         }
       ]
     },
@@ -1236,18 +1226,7 @@
       "title": "Sushin Shyam - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzpmF_8698JYBqh96PPCTfw",
       "siteUrl": "https://www.youtube.com/channel/UCzpmF_8698JYBqh96PPCTfw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=KgXnXYQVUV8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KgXnXYQVUV8",
-          "publishedOn": "2025-11-10T18:32:43.000Z",
-          "wordCount": null,
-          "title": "Karthavin Sthuthi (Praise the Lord)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Deepak Dev - Topic",
