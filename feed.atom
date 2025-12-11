@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T21:18:31.362Z</updated>
+    <updated>2025-12-11T22:16:40.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1831,15 +1831,6 @@
         <updated>2025-11-12T18:30:58.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysuru Mall (From "Flirt")]]></title>
-        <id>https://www.youtube.com/watch?v=l9xhst9RAIU</id>
-        <link href="https://www.youtube.com/watch?v=l9xhst9RAIU"/>
-        <updated>2025-11-12T09:48:14.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>
