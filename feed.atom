@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T23:16:20.333Z</updated>
+    <updated>2025-12-13T01:15:29.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1543,87 +1543,6 @@
         <updated>2025-11-14T23:17:09.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhiyethennarinjeela (F)]]></title>
-        <id>https://www.youtube.com/watch?v=Eyyt4bY4suw</id>
-        <link href="https://www.youtube.com/watch?v=Eyyt4bY4suw"/>
-        <updated>2025-11-13T12:55:06.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeshoye Ente Eeshoye]]></title>
-        <id>https://www.youtube.com/watch?v=RZDLMZvb4LU</id>
-        <link href="https://www.youtube.com/watch?v=RZDLMZvb4LU"/>
-        <updated>2025-11-13T12:55:06.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarga Thatha]]></title>
-        <id>https://www.youtube.com/watch?v=GuVSDL5G7n8</id>
-        <link href="https://www.youtube.com/watch?v=GuVSDL5G7n8"/>
-        <updated>2025-11-13T12:55:06.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athirillathozhukunna Sneham]]></title>
-        <id>https://www.youtube.com/watch?v=_bXLy0cBhMI</id>
-        <link href="https://www.youtube.com/watch?v=_bXLy0cBhMI"/>
-        <updated>2025-11-13T12:55:06.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavana Snehithan Varavayi]]></title>
-        <id>https://www.youtube.com/watch?v=eELxADMOpV4</id>
-        <link href="https://www.youtube.com/watch?v=eELxADMOpV4"/>
-        <updated>2025-11-13T12:55:05.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalvari Kunnil]]></title>
-        <id>https://www.youtube.com/watch?v=RfZZjsx6dRs</id>
-        <link href="https://www.youtube.com/watch?v=RfZZjsx6dRs"/>
-        <updated>2025-11-13T12:55:05.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramapithave]]></title>
-        <id>https://www.youtube.com/watch?v=l2U82_nVDGU</id>
-        <link href="https://www.youtube.com/watch?v=l2U82_nVDGU"/>
-        <updated>2025-11-13T12:55:05.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnumillaymayil Ninnumenne (M)]]></title>
-        <id>https://www.youtube.com/watch?v=oP9LAAvK0Jc</id>
-        <link href="https://www.youtube.com/watch?v=oP9LAAvK0Jc"/>
-        <updated>2025-11-13T12:55:05.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennathmam]]></title>
-        <id>https://www.youtube.com/watch?v=rLUE3HxzUs0</id>
-        <link href="https://www.youtube.com/watch?v=rLUE3HxzUs0"/>
-        <updated>2025-11-13T12:55:05.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
