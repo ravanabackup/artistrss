@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T11:16:22.489Z</updated>
+    <updated>2025-12-17T12:37:20.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandaka Maniyara (D)]]></title>
+        <id>https://www.youtube.com/watch?v=TK95MFzXqnw</id>
+        <link href="https://www.youtube.com/watch?v=TK95MFzXqnw"/>
+        <updated>2025-12-17T12:23:54.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chundalitt Ente]]></title>
+        <id>https://www.youtube.com/watch?v=YkEvfx3qE1k</id>
+        <link href="https://www.youtube.com/watch?v=YkEvfx3qE1k"/>
+        <updated>2025-12-17T12:23:54.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allahu]]></title>
+        <id>https://www.youtube.com/watch?v=siiCFNN48w8</id>
+        <link href="https://www.youtube.com/watch?v=siiCFNN48w8"/>
+        <updated>2025-12-17T12:23:54.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadakannil]]></title>
+        <id>https://www.youtube.com/watch?v=t9PjoAatGcU</id>
+        <link href="https://www.youtube.com/watch?v=t9PjoAatGcU"/>
+        <updated>2025-12-17T12:23:54.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subihiyil Unaruvin]]></title>
         <id>https://www.youtube.com/watch?v=MlgRDJ0Zjks</id>
@@ -1147,15 +1183,6 @@
         <updated>2025-11-18T10:01:17.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathappoove]]></title>
-        <id>https://www.youtube.com/watch?v=LSj_cAM1d_c</id>
-        <link href="https://www.youtube.com/watch?v=LSj_cAM1d_c"/>
-        <updated>2025-11-17T23:40:23.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>

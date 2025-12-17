@@ -487,16 +487,6 @@
           "wordCount": null,
           "title": "Blue Yellow",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LSj_cAM1d_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LSj_cAM1d_c",
-          "publishedOn": "2025-11-17T23:40:23.000Z",
-          "wordCount": null,
-          "title": "Mathappoove",
-          "imageUrl": null
         }
       ]
     },
@@ -1220,6 +1210,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TK95MFzXqnw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TK95MFzXqnw",
+          "publishedOn": "2025-12-17T12:23:54.000Z",
+          "wordCount": null,
+          "title": "Mandaka Maniyara (D)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YkEvfx3qE1k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YkEvfx3qE1k",
+          "publishedOn": "2025-12-17T12:23:54.000Z",
+          "wordCount": null,
+          "title": "Chundalitt Ente",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=siiCFNN48w8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=siiCFNN48w8",
+          "publishedOn": "2025-12-17T12:23:54.000Z",
+          "wordCount": null,
+          "title": "Allahu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=t9PjoAatGcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t9PjoAatGcU",
+          "publishedOn": "2025-12-17T12:23:54.000Z",
+          "wordCount": null,
+          "title": "Kadakannil",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MlgRDJ0Zjks",
           "author": null,
