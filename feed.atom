@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T06:27:35.808Z</updated>
+    <updated>2025-12-17T07:19:50.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anaganaga Ee Bhuvilo]]></title>
+        <id>https://www.youtube.com/watch?v=_RkxwxyRrlE</id>
+        <link href="https://www.youtube.com/watch?v=_RkxwxyRrlE"/>
+        <updated>2025-12-17T07:13:02.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hariye Nee Thalli - Ayyappa Swamy]]></title>
+        <id>https://www.youtube.com/watch?v=WPROlQKVhtk</id>
+        <link href="https://www.youtube.com/watch?v=WPROlQKVhtk"/>
+        <updated>2025-12-17T07:12:37.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayya Darshanam Swamy Ayya Darshanam]]></title>
+        <id>https://www.youtube.com/watch?v=c_QANAj3HVg</id>
+        <link href="https://www.youtube.com/watch?v=c_QANAj3HVg"/>
+        <updated>2025-12-17T07:12:16.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vennelale Kuripinche - Ayyappa Swamy]]></title>
+        <id>https://www.youtube.com/watch?v=FTEvABkpDKQ</id>
+        <link href="https://www.youtube.com/watch?v=FTEvABkpDKQ"/>
+        <updated>2025-12-17T07:11:57.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kulirmathi Nee Madaalasa]]></title>
         <id>https://www.youtube.com/watch?v=jzCgq89qlfs</id>
