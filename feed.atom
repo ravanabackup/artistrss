@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T19:16:57.744Z</updated>
+    <updated>2025-12-17T20:19:48.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -121,6 +121,105 @@
         <updated>2025-12-16T11:03:29.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tera Haq Hai Mujhpe]]></title>
+        <id>https://www.youtube.com/watch?v=8QYyZNNVdO8</id>
+        <link href="https://www.youtube.com/watch?v=8QYyZNNVdO8"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meri Aakhri Dua Hai]]></title>
+        <id>https://www.youtube.com/watch?v=FltdzqJxQfo</id>
+        <link href="https://www.youtube.com/watch?v=FltdzqJxQfo"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hawaon Ne Tera Naam Liya]]></title>
+        <id>https://www.youtube.com/watch?v=Fv76-vb5hpc</id>
+        <link href="https://www.youtube.com/watch?v=Fv76-vb5hpc"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Main Tera Naam Le Kar Zinda Hoon]]></title>
+        <id>https://www.youtube.com/watch?v=KasNqy17gUk</id>
+        <link href="https://www.youtube.com/watch?v=KasNqy17gUk"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khamoshi Mein Tera Naam]]></title>
+        <id>https://www.youtube.com/watch?v=Ne0nRcQM47M</id>
+        <link href="https://www.youtube.com/watch?v=Ne0nRcQM47M"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dil Mein Basa Tera Naam]]></title>
+        <id>https://www.youtube.com/watch?v=RVgJI9HRWyI</id>
+        <link href="https://www.youtube.com/watch?v=RVgJI9HRWyI"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raat Ki Baarish Aur Tera Naam]]></title>
+        <id>https://www.youtube.com/watch?v=fLrTsVgxKts</id>
+        <link href="https://www.youtube.com/watch?v=fLrTsVgxKts"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandni Raat Mein Tu]]></title>
+        <id>https://www.youtube.com/watch?v=wcm0DzlvksU</id>
+        <link href="https://www.youtube.com/watch?v=wcm0DzlvksU"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aakhri Khayal Hai]]></title>
+        <id>https://www.youtube.com/watch?v=zlno4BJ9u4s</id>
+        <link href="https://www.youtube.com/watch?v=zlno4BJ9u4s"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tere Naam Se Likhi Hai Zindagi]]></title>
+        <id>https://www.youtube.com/watch?v=ztfSGy8IEqs</id>
+        <link href="https://www.youtube.com/watch?v=ztfSGy8IEqs"/>
+        <updated>2025-12-16T09:40:39.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Song (Malayalam)]]></title>
+        <id>https://www.youtube.com/watch?v=4JNzT99eegI</id>
+        <link href="https://www.youtube.com/watch?v=4JNzT99eegI"/>
+        <updated>2025-12-15T17:30:03.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
