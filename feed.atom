@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T22:16:23.301Z</updated>
+    <updated>2025-12-17T23:16:21.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1246,33 +1246,6 @@
         <updated>2025-11-19T12:08:55.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poopoliyo Poopoliyo]]></title>
-        <id>https://www.youtube.com/watch?v=9AmAi9hlR2U</id>
-        <link href="https://www.youtube.com/watch?v=9AmAi9hlR2U"/>
-        <updated>2025-11-18T10:25:46.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Vazhithaarayil Ninnu Kitti]]></title>
-        <id>https://www.youtube.com/watch?v=EbhY13cX-dE</id>
-        <link href="https://www.youtube.com/watch?v=EbhY13cX-dE"/>
-        <updated>2025-11-18T10:25:46.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onne Onne Po]]></title>
-        <id>https://www.youtube.com/watch?v=cBBrzR9YE5s</id>
-        <link href="https://www.youtube.com/watch?v=cBBrzR9YE5s"/>
-        <updated>2025-11-18T10:25:46.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
