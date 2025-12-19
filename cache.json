@@ -351,28 +351,7 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=7s5VgXYtLd0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7s5VgXYtLd0",
-          "publishedOn": "2025-11-20T01:11:23.000Z",
-          "wordCount": null,
-          "title": "Muruga Muruga (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IjWfDSeVx0I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IjWfDSeVx0I",
-          "publishedOn": "2025-11-20T01:11:23.000Z",
-          "wordCount": null,
-          "title": "Muruga Muruga",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bijibal - Topic",
