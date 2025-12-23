@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T13:33:17.200Z</updated>
+    <updated>2025-12-23T14:17:23.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -346,6 +346,87 @@
         <updated>2025-12-17T11:01:03.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vinayaka Song]]></title>
+        <id>https://www.youtube.com/watch?v=OB4UdkBSxnk</id>
+        <link href="https://www.youtube.com/watch?v=OB4UdkBSxnk"/>
+        <updated>2025-12-17T07:15:02.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinthika Thinthika]]></title>
+        <id>https://www.youtube.com/watch?v=zTXSsFTfGcE</id>
+        <link href="https://www.youtube.com/watch?v=zTXSsFTfGcE"/>
+        <updated>2025-12-17T07:14:33.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advita Murthivee]]></title>
+        <id>https://www.youtube.com/watch?v=3hhmbldKt5s</id>
+        <link href="https://www.youtube.com/watch?v=3hhmbldKt5s"/>
+        <updated>2025-12-17T07:14:22.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee Male Medadalchi]]></title>
+        <id>https://www.youtube.com/watch?v=OmPtghLHTaM</id>
+        <link href="https://www.youtube.com/watch?v=OmPtghLHTaM"/>
+        <updated>2025-12-17T07:14:19.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naa Madhi Swarnalayam - Ayyappa Swamy]]></title>
+        <id>https://www.youtube.com/watch?v=U3PJ5M09UJU</id>
+        <link href="https://www.youtube.com/watch?v=U3PJ5M09UJU"/>
+        <updated>2025-12-17T07:14:15.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamini Chisedi Bhagyame]]></title>
+        <id>https://www.youtube.com/watch?v=-MvcgYYeGIY</id>
+        <link href="https://www.youtube.com/watch?v=-MvcgYYeGIY"/>
+        <updated>2025-12-17T07:14:13.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayyappa Neeva Maaku Guru]]></title>
+        <id>https://www.youtube.com/watch?v=GeGVWXRvJbA</id>
+        <link href="https://www.youtube.com/watch?v=GeGVWXRvJbA"/>
+        <updated>2025-12-17T07:14:11.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yerumeli Velli Aadedam]]></title>
+        <id>https://www.youtube.com/watch?v=eeo8dShsaGA</id>
+        <link href="https://www.youtube.com/watch?v=eeo8dShsaGA"/>
+        <updated>2025-12-17T07:14:01.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hari Hara Puthruda Ayyappa Swamy]]></title>
+        <id>https://www.youtube.com/watch?v=kjxs2gsuwDQ</id>
+        <link href="https://www.youtube.com/watch?v=kjxs2gsuwDQ"/>
+        <updated>2025-12-17T07:13:55.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
