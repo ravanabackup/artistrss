@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T11:15:36.007Z</updated>
+    <updated>2025-12-23T12:36:34.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subahikennum (D)]]></title>
+        <id>https://www.youtube.com/watch?v=LLWl-sHSfAk</id>
+        <link href="https://www.youtube.com/watch?v=LLWl-sHSfAk"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadya Pithavam]]></title>
+        <id>https://www.youtube.com/watch?v=LQFl6G14Gxc</id>
+        <link href="https://www.youtube.com/watch?v=LQFl6G14Gxc"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salaam Cholli Njan]]></title>
+        <id>https://www.youtube.com/watch?v=X9bO3RqgAWM</id>
+        <link href="https://www.youtube.com/watch?v=X9bO3RqgAWM"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maadhaka Sundara]]></title>
+        <id>https://www.youtube.com/watch?v=cqZGW89tr-o</id>
+        <link href="https://www.youtube.com/watch?v=cqZGW89tr-o"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punnya Nabi]]></title>
+        <id>https://www.youtube.com/watch?v=mG1OkpYzyAA</id>
+        <link href="https://www.youtube.com/watch?v=mG1OkpYzyAA"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mannil Vaazhum]]></title>
+        <id>https://www.youtube.com/watch?v=tRab26O68Lg</id>
+        <link href="https://www.youtube.com/watch?v=tRab26O68Lg"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adamum Havvaum]]></title>
+        <id>https://www.youtube.com/watch?v=uBgctvXYWoQ</id>
+        <link href="https://www.youtube.com/watch?v=uBgctvXYWoQ"/>
+        <updated>2025-12-23T11:45:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Thoomazhayil]]></title>
         <id>https://www.youtube.com/watch?v=N0o4YMhG2xQ</id>
