@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T03:20:52.806Z</updated>
+    <updated>2025-12-24T04:32:32.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1462,15 +1462,6 @@
         <updated>2025-11-26T08:21:53.000Z</updated>
         <author>
             <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jagiye Raghunath Nath Bhor Bhayo - REMASTERED]]></title>
-        <id>https://www.youtube.com/watch?v=oelicFDcQ9c</id>
-        <link href="https://www.youtube.com/watch?v=oelicFDcQ9c"/>
-        <updated>2025-11-24T15:22:39.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
