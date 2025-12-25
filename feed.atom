@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T20:18:42.471Z</updated>
+    <updated>2025-12-25T21:15:39.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1642,24 +1642,6 @@
         <updated>2025-11-26T15:20:41.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kulir Choodum]]></title>
-        <id>https://www.youtube.com/watch?v=BIOCXbFssMc</id>
-        <link href="https://www.youtube.com/watch?v=BIOCXbFssMc"/>
-        <updated>2025-11-26T08:21:53.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbappoo Polulla]]></title>
-        <id>https://www.youtube.com/watch?v=ZgjbqMelXlk</id>
-        <link href="https://www.youtube.com/watch?v=ZgjbqMelXlk"/>
-        <updated>2025-11-26T08:21:53.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
