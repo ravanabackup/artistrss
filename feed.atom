@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T10:18:26.024Z</updated>
+    <updated>2025-12-26T11:15:24.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poonkinakkal]]></title>
+        <id>https://www.youtube.com/watch?v=DaIUvVZKh6o</id>
+        <link href="https://www.youtube.com/watch?v=DaIUvVZKh6o"/>
+        <updated>2025-12-26T11:10:35.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shajaru Pookkna]]></title>
+        <id>https://www.youtube.com/watch?v=I7SgiVjVfoY</id>
+        <link href="https://www.youtube.com/watch?v=I7SgiVjVfoY"/>
+        <updated>2025-12-26T11:10:35.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thulli Thulli]]></title>
+        <id>https://www.youtube.com/watch?v=OlYn6EmaAm4</id>
+        <link href="https://www.youtube.com/watch?v=OlYn6EmaAm4"/>
+        <updated>2025-12-26T11:10:35.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashayellam (D)]]></title>
+        <id>https://www.youtube.com/watch?v=Q5T1TxiBoLA</id>
+        <link href="https://www.youtube.com/watch?v=Q5T1TxiBoLA"/>
+        <updated>2025-12-26T11:10:35.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andhathakondu]]></title>
+        <id>https://www.youtube.com/watch?v=-UsLDaOA0pc</id>
+        <link href="https://www.youtube.com/watch?v=-UsLDaOA0pc"/>
+        <updated>2025-12-26T11:10:16.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al Ameenare]]></title>
+        <id>https://www.youtube.com/watch?v=DcSJzfa-Zjo</id>
+        <link href="https://www.youtube.com/watch?v=DcSJzfa-Zjo"/>
+        <updated>2025-12-26T11:10:16.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alankara Padavi]]></title>
+        <id>https://www.youtube.com/watch?v=y1mA9lf1pe4</id>
+        <link href="https://www.youtube.com/watch?v=y1mA9lf1pe4"/>
+        <updated>2025-12-26T11:10:16.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raheeme (M)]]></title>
+        <id>https://www.youtube.com/watch?v=kE0Zqu8fsTA</id>
+        <link href="https://www.youtube.com/watch?v=kE0Zqu8fsTA"/>
+        <updated>2025-12-26T11:09:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uttavar Illa]]></title>
+        <id>https://www.youtube.com/watch?v=weRF4hL9GTs</id>
+        <link href="https://www.youtube.com/watch?v=weRF4hL9GTs"/>
+        <updated>2025-12-26T11:09:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raihana Poove (D)]]></title>
+        <id>https://www.youtube.com/watch?v=xv_4DQ4xj38</id>
+        <link href="https://www.youtube.com/watch?v=xv_4DQ4xj38"/>
+        <updated>2025-12-26T11:09:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ithu Kelkke (D)]]></title>
         <id>https://www.youtube.com/watch?v=H2SeR7F6jNU</id>
