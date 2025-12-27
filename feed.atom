@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T21:14:26.892Z</updated>
+    <updated>2025-12-27T22:15:49.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1291,96 +1291,6 @@
         <updated>2025-11-28T10:32:09.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannam Poosi]]></title>
-        <id>https://www.youtube.com/watch?v=SpO8zeNXZ30</id>
-        <link href="https://www.youtube.com/watch?v=SpO8zeNXZ30"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ayyappa]]></title>
-        <id>https://www.youtube.com/watch?v=t4mVyMNe14Y</id>
-        <link href="https://www.youtube.com/watch?v=t4mVyMNe14Y"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandana Vaasam]]></title>
-        <id>https://www.youtube.com/watch?v=7GjQII_QSso</id>
-        <link href="https://www.youtube.com/watch?v=7GjQII_QSso"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamba Nadi]]></title>
-        <id>https://www.youtube.com/watch?v=8tFx3IW1CDI</id>
-        <link href="https://www.youtube.com/watch?v=8tFx3IW1CDI"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irumudi]]></title>
-        <id>https://www.youtube.com/watch?v=Nu3_AP8jJsg</id>
-        <link href="https://www.youtube.com/watch?v=Nu3_AP8jJsg"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadu Malai]]></title>
-        <id>https://www.youtube.com/watch?v=UaKx3-Yvn3M</id>
-        <link href="https://www.youtube.com/watch?v=UaKx3-Yvn3M"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ullagalum Ayan Ayyappa]]></title>
-        <id>https://www.youtube.com/watch?v=Vd88Pdb-qPI</id>
-        <link href="https://www.youtube.com/watch?v=Vd88Pdb-qPI"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthara Sundara]]></title>
-        <id>https://www.youtube.com/watch?v=ckgrKD5i17k</id>
-        <link href="https://www.youtube.com/watch?v=ckgrKD5i17k"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maaligayin]]></title>
-        <id>https://www.youtube.com/watch?v=n9k3Q-o2XfA</id>
-        <link href="https://www.youtube.com/watch?v=n9k3Q-o2XfA"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paavana Sree]]></title>
-        <id>https://www.youtube.com/watch?v=pbSEv_nle0k</id>
-        <link href="https://www.youtube.com/watch?v=pbSEv_nle0k"/>
-        <updated>2025-11-28T09:23:48.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
         </author>
     </entry>
 </feed>
