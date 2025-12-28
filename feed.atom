@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-28T18:24:08.424Z</updated>
+    <updated>2025-12-28T19:13:03.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1255,15 +1255,6 @@
         <updated>2025-12-08T20:33:27.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vrindaavana Geetham (D)]]></title>
-        <id>https://www.youtube.com/watch?v=5XLe0jYtO7A</id>
-        <link href="https://www.youtube.com/watch?v=5XLe0jYtO7A"/>
-        <updated>2025-11-29T06:55:09.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
         </author>
     </entry>
 </feed>
