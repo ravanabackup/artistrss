@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T09:21:06.929Z</updated>
+    <updated>2026-01-01T10:18:52.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innariyathe]]></title>
+        <id>https://www.youtube.com/watch?v=UvYEJ8-AqyM</id>
+        <link href="https://www.youtube.com/watch?v=UvYEJ8-AqyM"/>
+        <updated>2026-01-01T10:00:53.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angulangale]]></title>
+        <id>https://www.youtube.com/watch?v=BHjwbENSbA0</id>
+        <link href="https://www.youtube.com/watch?v=BHjwbENSbA0"/>
+        <updated>2026-01-01T10:00:29.000Z</updated>
+        <author>
+            <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Kannonnu]]></title>
+        <id>https://www.youtube.com/watch?v=9qbabbXWNcw</id>
+        <link href="https://www.youtube.com/watch?v=9qbabbXWNcw"/>
+        <updated>2026-01-01T10:00:13.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naamorupole]]></title>
         <id>https://www.youtube.com/watch?v=EzWJiGHyHcM</id>
