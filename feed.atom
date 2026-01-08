@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T04:36:07.020Z</updated>
+    <updated>2026-01-08T05:21:26.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -22,6 +22,42 @@
         <updated>2026-01-07T09:44:36.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harihara Nandana]]></title>
+        <id>https://www.youtube.com/watch?v=7eyuJR80lo4</id>
+        <link href="https://www.youtube.com/watch?v=7eyuJR80lo4"/>
+        <updated>2026-01-06T18:16:28.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karalinte Kadalassil (From "Chandni")]]></title>
+        <id>https://www.youtube.com/watch?v=BF8v37t3aV8</id>
+        <link href="https://www.youtube.com/watch?v=BF8v37t3aV8"/>
+        <updated>2026-01-06T12:24:42.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajakkanmarude Rajavakuvaan Kalithozhuthil Pirannavane]]></title>
+        <id>https://www.youtube.com/watch?v=irYt0IF2BRc</id>
+        <link href="https://www.youtube.com/watch?v=irYt0IF2BRc"/>
+        <updated>2026-01-06T12:24:32.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astangahrudaya Mantrangalarulum Adidhanwanthari]]></title>
+        <id>https://www.youtube.com/watch?v=ME_pPVw2vyo</id>
+        <link href="https://www.youtube.com/watch?v=ME_pPVw2vyo"/>
+        <updated>2026-01-06T12:19:50.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
     <entry>
