@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T07:16:21.062Z</updated>
+    <updated>2026-01-10T08:21:33.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -25,12 +25,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maarikkulire]]></title>
+        <id>https://www.youtube.com/watch?v=8H6hCbZUyQo</id>
+        <link href="https://www.youtube.com/watch?v=8H6hCbZUyQo"/>
+        <updated>2026-01-07T10:07:56.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavil Chirakeri (M)]]></title>
+        <id>https://www.youtube.com/watch?v=FtJzhdZtFJY</id>
+        <link href="https://www.youtube.com/watch?v=FtJzhdZtFJY"/>
+        <updated>2026-01-07T10:07:56.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aakaasham (M)]]></title>
         <id>https://www.youtube.com/watch?v=V1IxB_yksO8</id>
         <link href="https://www.youtube.com/watch?v=V1IxB_yksO8"/>
         <updated>2026-01-07T09:44:36.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thakiladi Thaalavumaay]]></title>
+        <id>https://www.youtube.com/watch?v=m3y0XZ678IQ</id>
+        <link href="https://www.youtube.com/watch?v=m3y0XZ678IQ"/>
+        <updated>2026-01-07T09:35:09.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayisambahav]]></title>
+        <id>https://www.youtube.com/watch?v=cUhB4bMsAOU</id>
+        <link href="https://www.youtube.com/watch?v=cUhB4bMsAOU"/>
+        <updated>2026-01-07T09:25:29.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
         </author>
     </entry>
     <entry>
