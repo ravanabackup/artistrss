@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T22:18:24.952Z</updated>
+    <updated>2026-01-15T23:17:42.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1424,42 +1424,6 @@
         <id>https://www.youtube.com/watch?v=t9PjoAatGcU</id>
         <link href="https://www.youtube.com/watch?v=t9PjoAatGcU"/>
         <updated>2025-12-17T12:23:54.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subihiyil Unaruvin]]></title>
-        <id>https://www.youtube.com/watch?v=MlgRDJ0Zjks</id>
-        <link href="https://www.youtube.com/watch?v=MlgRDJ0Zjks"/>
-        <updated>2025-12-17T11:01:03.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaa Allah]]></title>
-        <id>https://www.youtube.com/watch?v=gwABjOJxb38</id>
-        <link href="https://www.youtube.com/watch?v=gwABjOJxb38"/>
-        <updated>2025-12-17T11:01:03.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samadum ilahaya]]></title>
-        <id>https://www.youtube.com/watch?v=t_CAHGTVqHo</id>
-        <link href="https://www.youtube.com/watch?v=t_CAHGTVqHo"/>
-        <updated>2025-12-17T11:01:03.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malikkul Jabbare]]></title>
-        <id>https://www.youtube.com/watch?v=uWe8YeeveO8</id>
-        <link href="https://www.youtube.com/watch?v=uWe8YeeveO8"/>
-        <updated>2025-12-17T11:01:03.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
         </author>
