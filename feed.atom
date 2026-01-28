@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T23:18:11.084Z</updated>
+    <updated>2026-01-28T01:24:39.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shivaya Nama Om (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=9lu6XuxuQ5M</id>
+        <link href="https://www.youtube.com/watch?v=9lu6XuxuQ5M"/>
+        <updated>2026-01-28T01:23:01.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shivashambo (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=De7JM6AqFmQ</id>
+        <link href="https://www.youtube.com/watch?v=De7JM6AqFmQ"/>
+        <updated>2026-01-28T01:23:01.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namo Namo (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=feRaPGX5tYA</id>
+        <link href="https://www.youtube.com/watch?v=feRaPGX5tYA"/>
+        <updated>2026-01-28T01:23:01.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prabhum Prananadham (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=p3N264-x6pA</id>
+        <link href="https://www.youtube.com/watch?v=p3N264-x6pA"/>
+        <updated>2026-01-28T01:23:01.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brahmamurari (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=yBnRtjFoC4c</id>
+        <link href="https://www.youtube.com/watch?v=yBnRtjFoC4c"/>
+        <updated>2026-01-28T01:23:01.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh Manitha (V-1)]]></title>
         <id>https://www.youtube.com/watch?v=wBCwrKDPhGE</id>
