@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T09:30:21.407Z</updated>
+    <updated>2026-01-28T10:24:07.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thatdemi Thakita]]></title>
+        <id>https://www.youtube.com/watch?v=tPio0xKpLUY</id>
+        <link href="https://www.youtube.com/watch?v=tPio0xKpLUY"/>
+        <updated>2026-01-28T10:04:03.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikil]]></title>
+        <id>https://www.youtube.com/watch?v=K9p3HbJ-g4I</id>
+        <link href="https://www.youtube.com/watch?v=K9p3HbJ-g4I"/>
+        <updated>2026-01-28T10:03:56.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poo Nilaavinte]]></title>
+        <id>https://www.youtube.com/watch?v=8KgjtAglqw4</id>
+        <link href="https://www.youtube.com/watch?v=8KgjtAglqw4"/>
+        <updated>2026-01-28T10:02:57.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ormakalil]]></title>
+        <id>https://www.youtube.com/watch?v=WhEF-CCG4XU</id>
+        <link href="https://www.youtube.com/watch?v=WhEF-CCG4XU"/>
+        <updated>2026-01-28T10:00:49.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shivaya Nama Om (Preview)]]></title>
         <id>https://www.youtube.com/watch?v=9lu6XuxuQ5M</id>
