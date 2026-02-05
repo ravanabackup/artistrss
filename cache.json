@@ -1243,36 +1243,6 @@
           "wordCount": null,
           "title": "Ponmaanam Ee Kaikalil (Male Version)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8H6hCbZUyQo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8H6hCbZUyQo",
-          "publishedOn": "2026-01-07T10:07:56.000Z",
-          "wordCount": null,
-          "title": "Maarikkulire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FtJzhdZtFJY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FtJzhdZtFJY",
-          "publishedOn": "2026-01-07T10:07:56.000Z",
-          "wordCount": null,
-          "title": "Mazhavil Chirakeri (M)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m3y0XZ678IQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m3y0XZ678IQ",
-          "publishedOn": "2026-01-07T09:35:09.000Z",
-          "wordCount": null,
-          "title": "Thakiladi Thaalavumaay",
-          "imageUrl": null
         }
       ]
     },
@@ -1299,16 +1269,6 @@
           "publishedOn": "2026-01-14T10:00:38.000Z",
           "wordCount": null,
           "title": "Chikku Chikku (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cUhB4bMsAOU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cUhB4bMsAOU",
-          "publishedOn": "2026-01-07T09:25:29.000Z",
-          "wordCount": null,
-          "title": "Ayisambahav",
           "imageUrl": null
         }
       ]
@@ -2022,18 +1982,7 @@
       "title": "KG Markose - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=V1IxB_yksO8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V1IxB_yksO8",
-          "publishedOn": "2026-01-07T09:44:36.000Z",
-          "wordCount": null,
-          "title": "Aakaasham (M)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
