@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T09:39:30.740Z</updated>
+    <updated>2026-02-05T10:36:18.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muthu Manikiliye]]></title>
+        <id>https://www.youtube.com/watch?v=YCksTqtoens</id>
+        <link href="https://www.youtube.com/watch?v=YCksTqtoens"/>
+        <updated>2026-02-05T10:04:34.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Kannil (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=LoiRj7SArEU</id>
+        <link href="https://www.youtube.com/watch?v=LoiRj7SArEU"/>
+        <updated>2026-02-05T10:04:23.000Z</updated>
+        <author>
+            <name>Najim Arshad - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subhi Kullirin]]></title>
+        <id>https://www.youtube.com/watch?v=meTyeoOIPOk</id>
+        <link href="https://www.youtube.com/watch?v=meTyeoOIPOk"/>
+        <updated>2026-02-05T10:04:21.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Pidi Mohathin]]></title>
+        <id>https://www.youtube.com/watch?v=aCwmvMdHfNo</id>
+        <link href="https://www.youtube.com/watch?v=aCwmvMdHfNo"/>
+        <updated>2026-02-05T10:02:45.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saghiye Priyasaghiye]]></title>
+        <id>https://www.youtube.com/watch?v=nRjdBskJxo4</id>
+        <link href="https://www.youtube.com/watch?v=nRjdBskJxo4"/>
+        <updated>2026-02-05T10:02:32.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sawalpira Maanathambili]]></title>
+        <id>https://www.youtube.com/watch?v=nLFR-kB1G7g</id>
+        <link href="https://www.youtube.com/watch?v=nLFR-kB1G7g"/>
+        <updated>2026-02-05T10:02:26.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sundhari Mullakorumma]]></title>
+        <id>https://www.youtube.com/watch?v=KK6jDKHr_Ro</id>
+        <link href="https://www.youtube.com/watch?v=KK6jDKHr_Ro"/>
+        <updated>2026-02-05T10:02:13.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Kannil]]></title>
+        <id>https://www.youtube.com/watch?v=0q_Xxg-P4lI</id>
+        <link href="https://www.youtube.com/watch?v=0q_Xxg-P4lI"/>
+        <updated>2026-02-05T10:02:09.000Z</updated>
+        <author>
+            <name>Najim Arshad - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akale]]></title>
+        <id>https://www.youtube.com/watch?v=KO0P7chQmKM</id>
+        <link href="https://www.youtube.com/watch?v=KO0P7chQmKM"/>
+        <updated>2026-02-05T10:01:59.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thullimayapeyudhu]]></title>
+        <id>https://www.youtube.com/watch?v=2e1rudVbwjc</id>
+        <link href="https://www.youtube.com/watch?v=2e1rudVbwjc"/>
+        <updated>2026-02-05T10:01:56.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jagaparipaalakane]]></title>
+        <id>https://www.youtube.com/watch?v=mpvLZ3uTE0g</id>
+        <link href="https://www.youtube.com/watch?v=mpvLZ3uTE0g"/>
+        <updated>2026-02-05T10:01:53.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajabu Maasa]]></title>
+        <id>https://www.youtube.com/watch?v=ES7cKQVP6Rw</id>
+        <link href="https://www.youtube.com/watch?v=ES7cKQVP6Rw"/>
+        <updated>2026-02-05T10:01:51.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhake Azhake]]></title>
+        <id>https://www.youtube.com/watch?v=pPUgdYejco8</id>
+        <link href="https://www.youtube.com/watch?v=pPUgdYejco8"/>
+        <updated>2026-02-05T10:01:49.000Z</updated>
+        <author>
+            <name>Najim Arshad - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chornnolikum Koorakkulil]]></title>
+        <id>https://www.youtube.com/watch?v=Sdhb32PYY0o</id>
+        <link href="https://www.youtube.com/watch?v=Sdhb32PYY0o"/>
+        <updated>2026-02-05T10:01:43.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allah Avalente Pennakane]]></title>
+        <id>https://www.youtube.com/watch?v=zzPbBBbUA2k</id>
+        <link href="https://www.youtube.com/watch?v=zzPbBBbUA2k"/>
+        <updated>2026-02-05T10:01:34.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhake Azhake (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=jGJDTuhZYTE</id>
+        <link href="https://www.youtube.com/watch?v=jGJDTuhZYTE"/>
+        <updated>2026-02-05T10:01:29.000Z</updated>
+        <author>
+            <name>Najim Arshad - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urukiyuruki]]></title>
+        <id>https://www.youtube.com/watch?v=tt2HK6MJCrU</id>
+        <link href="https://www.youtube.com/watch?v=tt2HK6MJCrU"/>
+        <updated>2026-02-05T10:01:21.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khalbinte Cheppinakath]]></title>
+        <id>https://www.youtube.com/watch?v=ir3-8aGC93s</id>
+        <link href="https://www.youtube.com/watch?v=ir3-8aGC93s"/>
+        <updated>2026-02-05T10:01:08.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannum Kannum (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=X9t6iTXgN5E</id>
+        <link href="https://www.youtube.com/watch?v=X9t6iTXgN5E"/>
+        <updated>2026-02-05T10:00:51.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khalbinte Cheppinakath (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=SqdniFDg8SU</id>
+        <link href="https://www.youtube.com/watch?v=SqdniFDg8SU"/>
+        <updated>2026-02-05T10:00:49.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allah Avalente Pennakane (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=TssTTlJGd3E</id>
+        <link href="https://www.youtube.com/watch?v=TssTTlJGd3E"/>
+        <updated>2026-02-05T10:00:44.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannum Kannum]]></title>
+        <id>https://www.youtube.com/watch?v=J7jhUyD6y0A</id>
+        <link href="https://www.youtube.com/watch?v=J7jhUyD6y0A"/>
+        <updated>2026-02-05T10:00:21.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urukiyuruki (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=-RzMVWsWFbE</id>
+        <link href="https://www.youtube.com/watch?v=-RzMVWsWFbE"/>
+        <updated>2026-02-05T10:00:01.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandranudhicha]]></title>
+        <id>https://www.youtube.com/watch?v=yEckynjwqcg</id>
+        <link href="https://www.youtube.com/watch?v=yEckynjwqcg"/>
+        <updated>2026-02-05T10:00:00.000Z</updated>
+        <author>
+            <name>Sujatha Mohan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Kannan]]></title>
         <id>https://www.youtube.com/watch?v=loAK_ffYkys</id>
