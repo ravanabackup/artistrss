@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-12T09:43:25.219Z</updated>
+    <updated>2026-02-12T10:40:30.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alifenna Aadhyaksharathil]]></title>
+        <id>https://www.youtube.com/watch?v=iX5haKL9lYM</id>
+        <link href="https://www.youtube.com/watch?v=iX5haKL9lYM"/>
+        <updated>2026-02-12T10:01:07.000Z</updated>
+        <author>
+            <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konjum Ninn Imbam (From "aann") (Original Motion Picture Soundtrack)]]></title>
+        <id>https://www.youtube.com/watch?v=do_g58vxJ5s</id>
+        <link href="https://www.youtube.com/watch?v=do_g58vxJ5s"/>
+        <updated>2026-02-12T10:00:56.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suhrabi Suhrabi]]></title>
+        <id>https://www.youtube.com/watch?v=WJKW1EhhLto</id>
+        <link href="https://www.youtube.com/watch?v=WJKW1EhhLto"/>
+        <updated>2026-02-12T10:00:48.000Z</updated>
+        <author>
+            <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konjum Ninn Imbam (From "aann") (Original Motion Picture Soundtrack) (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=7B2Cg2ecqFo</id>
+        <link href="https://www.youtube.com/watch?v=7B2Cg2ecqFo"/>
+        <updated>2026-02-12T10:00:17.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manamuruki Varanund (From "Nokkukuthi") (Original Motion Picture Soundtrack) (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=4p0jYHflUvE</id>
+        <link href="https://www.youtube.com/watch?v=4p0jYHflUvE"/>
+        <updated>2026-02-12T10:00:14.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manamuruki Varanund (From "Nokkukuthi") (Original Motion Picture Soundtrack)]]></title>
+        <id>https://www.youtube.com/watch?v=7MWr4yuBTCQ</id>
+        <link href="https://www.youtube.com/watch?v=7MWr4yuBTCQ"/>
+        <updated>2026-02-12T10:00:10.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alifenna Aadhyaksharathil (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=5los9koShak</id>
+        <link href="https://www.youtube.com/watch?v=5los9koShak"/>
+        <updated>2026-02-12T10:00:08.000Z</updated>
+        <author>
+            <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suhrabi Suhrabi (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=4CuwwgdNFn4</id>
+        <link href="https://www.youtube.com/watch?v=4CuwwgdNFn4"/>
+        <updated>2026-02-12T10:00:06.000Z</updated>
+        <author>
+            <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaro Nilaavayi]]></title>
         <id>https://www.youtube.com/watch?v=YK2_3q2kbw8</id>
