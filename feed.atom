@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-12T07:48:33.067Z</updated>
+    <updated>2026-02-12T08:40:26.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Nilaavayi]]></title>
+        <id>https://www.youtube.com/watch?v=YK2_3q2kbw8</id>
+        <link href="https://www.youtube.com/watch?v=YK2_3q2kbw8"/>
+        <updated>2026-02-12T04:33:31.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karineela Kannilenthedi]]></title>
+        <id>https://www.youtube.com/watch?v=a7vB40_yRh4</id>
+        <link href="https://www.youtube.com/watch?v=a7vB40_yRh4"/>
+        <updated>2026-02-12T04:33:31.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thathamma]]></title>
         <id>https://www.youtube.com/watch?v=U-YzjXcXV8U</id>
@@ -52,6 +70,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aattinkarayorathe]]></title>
+        <id>https://www.youtube.com/watch?v=2yl5LLABG_M</id>
+        <link href="https://www.youtube.com/watch?v=2yl5LLABG_M"/>
+        <updated>2026-02-12T04:33:31.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Makane]]></title>
         <id>https://www.youtube.com/watch?v=ARGseGCWRz4</id>
         <link href="https://www.youtube.com/watch?v=ARGseGCWRz4"/>
@@ -94,6 +121,33 @@
         <updated>2026-02-10T08:17:40.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iravu Pagalai Theda (From "Kannukul Nilavu")]]></title>
+        <id>https://www.youtube.com/watch?v=-HD3dTG-rvg</id>
+        <link href="https://www.youtube.com/watch?v=-HD3dTG-rvg"/>
+        <updated>2026-02-08T18:33:18.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Naal Oru Kanavuu (From "Kannukul Nilavu")]]></title>
+        <id>https://www.youtube.com/watch?v=TwPHsiakG2U</id>
+        <link href="https://www.youtube.com/watch?v=TwPHsiakG2U"/>
+        <updated>2026-02-08T18:33:12.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Naal Oru Kanavu (From "Kannukul Nilavu")]]></title>
+        <id>https://www.youtube.com/watch?v=KYuBRZH1Res</id>
+        <link href="https://www.youtube.com/watch?v=KYuBRZH1Res"/>
+        <updated>2026-02-08T18:30:25.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -412,6 +466,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kuppinipattalam]]></title>
+        <id>https://www.youtube.com/watch?v=S1SnHermyug</id>
+        <link href="https://www.youtube.com/watch?v=S1SnHermyug"/>
+        <updated>2026-02-05T10:04:13.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Saghiye Priyasaghiye (Preview)]]></title>
         <id>https://www.youtube.com/watch?v=bQSx60dJSN0</id>
         <link href="https://www.youtube.com/watch?v=bQSx60dJSN0"/>
@@ -502,6 +565,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kalkkandam Chundil]]></title>
+        <id>https://www.youtube.com/watch?v=tyq36RoFJgk</id>
+        <link href="https://www.youtube.com/watch?v=tyq36RoFJgk"/>
+        <updated>2026-02-05T10:01:53.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rajabu Maasa]]></title>
         <id>https://www.youtube.com/watch?v=ES7cKQVP6Rw</id>
         <link href="https://www.youtube.com/watch?v=ES7cKQVP6Rw"/>
@@ -551,6 +623,15 @@
         <id>https://www.youtube.com/watch?v=tt2HK6MJCrU</id>
         <link href="https://www.youtube.com/watch?v=tt2HK6MJCrU"/>
         <updated>2026-02-05T10:01:21.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaalittezhuthiya]]></title>
+        <id>https://www.youtube.com/watch?v=qVw30EP_kqY</id>
+        <link href="https://www.youtube.com/watch?v=qVw30EP_kqY"/>
+        <updated>2026-02-05T10:01:18.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
         </author>
@@ -731,6 +812,15 @@
         <id>https://www.youtube.com/watch?v=s_wJ1MkD__A</id>
         <link href="https://www.youtube.com/watch?v=s_wJ1MkD__A"/>
         <updated>2026-01-29T10:05:20.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koottil Ninnum]]></title>
+        <id>https://www.youtube.com/watch?v=Pe5PtSycmCE</id>
+        <link href="https://www.youtube.com/watch?v=Pe5PtSycmCE"/>
+        <updated>2026-01-29T10:05:19.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
         </author>
