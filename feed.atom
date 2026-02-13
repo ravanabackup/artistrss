@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T10:35:18.569Z</updated>
+    <updated>2026-02-13T11:28:06.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kadumthudi (D)]]></title>
+        <id>https://www.youtube.com/watch?v=WtLSQxcKIlI</id>
+        <link href="https://www.youtube.com/watch?v=WtLSQxcKIlI"/>
+        <updated>2026-02-13T10:36:47.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niramanam]]></title>
+        <id>https://www.youtube.com/watch?v=_DFhx4ZJVJ4</id>
+        <link href="https://www.youtube.com/watch?v=_DFhx4ZJVJ4"/>
+        <updated>2026-02-13T10:36:47.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sundarano (F)]]></title>
         <id>https://www.youtube.com/watch?v=0nzpegAcogM</id>
@@ -88,12 +106,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thee Thudi]]></title>
+        <id>https://www.youtube.com/watch?v=u0ERzWoCXpo</id>
+        <link href="https://www.youtube.com/watch?v=u0ERzWoCXpo"/>
+        <updated>2026-02-12T10:01:21.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alifenna Aadhyaksharathil]]></title>
         <id>https://www.youtube.com/watch?v=iX5haKL9lYM</id>
         <link href="https://www.youtube.com/watch?v=iX5haKL9lYM"/>
         <updated>2026-02-12T10:01:07.000Z</updated>
         <author>
             <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thee Thudi (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=hF7ZMN7o0ik</id>
+        <link href="https://www.youtube.com/watch?v=hF7ZMN7o0ik"/>
+        <updated>2026-02-12T10:01:04.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
     <entry>
