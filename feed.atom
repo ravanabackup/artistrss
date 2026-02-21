@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-21T07:29:19.080Z</updated>
+    <updated>2026-02-21T08:25:30.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -16,6 +16,42 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meyyil (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=SsLGN7w_h5s</id>
+        <link href="https://www.youtube.com/watch?v=SsLGN7w_h5s"/>
+        <updated>2026-02-19T15:25:51.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neela Varna (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=27cUIv8X914</id>
+        <link href="https://www.youtube.com/watch?v=27cUIv8X914"/>
+        <updated>2026-02-19T15:25:50.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neela Varna]]></title>
+        <id>https://www.youtube.com/watch?v=O3gqzWBX7oM</id>
+        <link href="https://www.youtube.com/watch?v=O3gqzWBX7oM"/>
+        <updated>2026-02-19T15:25:50.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meyyil]]></title>
+        <id>https://www.youtube.com/watch?v=WJ2kgp9JNQA</id>
+        <link href="https://www.youtube.com/watch?v=WJ2kgp9JNQA"/>
+        <updated>2026-02-19T15:25:50.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DIAMOND]]></title>
         <id>https://www.youtube.com/watch?v=G-2uIfGJK1k</id>
         <link href="https://www.youtube.com/watch?v=G-2uIfGJK1k"/>
@@ -25,10 +61,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sarvalogha]]></title>
+        <id>https://www.youtube.com/watch?v=UhUjtF1IbqA</id>
+        <link href="https://www.youtube.com/watch?v=UhUjtF1IbqA"/>
+        <updated>2026-02-19T06:29:32.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nithyasawbagyamode]]></title>
         <id>https://www.youtube.com/watch?v=L6e0VnqBqVM</id>
         <link href="https://www.youtube.com/watch?v=L6e0VnqBqVM"/>
         <updated>2026-02-19T06:29:32.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athmave]]></title>
+        <id>https://www.youtube.com/watch?v=XkrNgVKZgbs</id>
+        <link href="https://www.youtube.com/watch?v=XkrNgVKZgbs"/>
+        <updated>2026-02-18T12:00:08.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suvarna Sarappaly]]></title>
+        <id>https://www.youtube.com/watch?v=MnX57COC82g</id>
+        <link href="https://www.youtube.com/watch?v=MnX57COC82g"/>
+        <updated>2026-02-18T11:59:41.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veendum Janikanam Nam]]></title>
+        <id>https://www.youtube.com/watch?v=Y-V-jVITUhE</id>
+        <link href="https://www.youtube.com/watch?v=Y-V-jVITUhE"/>
+        <updated>2026-02-18T11:59:41.000Z</updated>
         <author>
             <name>Kester - Topic</name>
         </author>
