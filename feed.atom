@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T11:36:39.429Z</updated>
+    <updated>2026-02-26T12:57:40.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aavanippadamakave Nilavupeytha Raavupoy (Male Version)]]></title>
+        <id>https://www.youtube.com/watch?v=TpLa5sFsWv8</id>
+        <link href="https://www.youtube.com/watch?v=TpLa5sFsWv8"/>
+        <updated>2026-02-26T11:38:07.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aavanippadamakave Nilavupeytha Raavupoy (Male Version) (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=pWoqMKxfJzI</id>
+        <link href="https://www.youtube.com/watch?v=pWoqMKxfJzI"/>
+        <updated>2026-02-26T11:38:07.000Z</updated>
+        <author>
+            <name>K. J. Yesudas - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thenni Thenni (From "Flush") (Original Motion Picture Soundtrack)]]></title>
         <id>https://www.youtube.com/watch?v=bZAaRxofY_M</id>
