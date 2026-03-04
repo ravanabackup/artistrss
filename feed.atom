@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-04T19:35:02.792Z</updated>
+    <updated>2026-03-04T20:27:58.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Panineerpole (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=3VDkwbY8hCo</id>
+        <link href="https://www.youtube.com/watch?v=3VDkwbY8hCo"/>
+        <updated>2026-03-04T19:48:11.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elam Thennal]]></title>
+        <id>https://www.youtube.com/watch?v=uH1bNA3o_xM</id>
+        <link href="https://www.youtube.com/watch?v=uH1bNA3o_xM"/>
+        <updated>2026-03-04T19:48:11.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panineerpole]]></title>
+        <id>https://www.youtube.com/watch?v=v2tpgfobIyE</id>
+        <link href="https://www.youtube.com/watch?v=v2tpgfobIyE"/>
+        <updated>2026-03-04T19:48:11.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elam Thennal (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=yq0EeTYwczo</id>
+        <link href="https://www.youtube.com/watch?v=yq0EeTYwczo"/>
+        <updated>2026-03-04T19:48:11.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paal Ninavilum]]></title>
         <id>https://www.youtube.com/watch?v=-FZpeRuu2qc</id>
