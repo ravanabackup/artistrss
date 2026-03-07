@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T23:24:12.558Z</updated>
+    <updated>2026-03-07T01:42:37.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1084,42 +1084,6 @@
         <updated>2026-02-06T05:15:39.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thenmerku]]></title>
-        <id>https://www.youtube.com/watch?v=zOcFZz1AdZc</id>
-        <link href="https://www.youtube.com/watch?v=zOcFZz1AdZc"/>
-        <updated>2026-02-05T12:31:26.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thottaai]]></title>
-        <id>https://www.youtube.com/watch?v=kXDqfRKfzF4</id>
-        <link href="https://www.youtube.com/watch?v=kXDqfRKfzF4"/>
-        <updated>2026-02-05T12:31:08.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoodhu Sellava]]></title>
-        <id>https://www.youtube.com/watch?v=cqahPC-Q7Bg</id>
-        <link href="https://www.youtube.com/watch?v=cqahPC-Q7Bg"/>
-        <updated>2026-02-05T12:30:59.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unakkaayiram Vanakkam]]></title>
-        <id>https://www.youtube.com/watch?v=KgDs2LpxdGQ</id>
-        <link href="https://www.youtube.com/watch?v=KgDs2LpxdGQ"/>
-        <updated>2026-02-05T12:30:35.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
         </author>
     </entry>
 </feed>
