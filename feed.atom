@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T21:17:14.776Z</updated>
+    <updated>2026-03-07T22:18:51.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1210,33 +1210,6 @@
         <updated>2026-02-07T01:22:52.000Z</updated>
         <author>
             <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vadiya Maruvil Veendum Kalam]]></title>
-        <id>https://www.youtube.com/watch?v=I8rGcTKvm48</id>
-        <link href="https://www.youtube.com/watch?v=I8rGcTKvm48"/>
-        <updated>2026-02-06T09:20:47.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velicham Vilakkine Thedunnu]]></title>
-        <id>https://www.youtube.com/watch?v=UaR_filGWl8</id>
-        <link href="https://www.youtube.com/watch?v=UaR_filGWl8"/>
-        <updated>2026-02-06T09:20:47.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dukhamanu Saswatha Sathyam]]></title>
-        <id>https://www.youtube.com/watch?v=Z2XWDLQtk6c</id>
-        <link href="https://www.youtube.com/watch?v=Z2XWDLQtk6c"/>
-        <updated>2026-02-06T09:20:47.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
