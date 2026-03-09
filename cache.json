@@ -365,16 +365,6 @@
           "wordCount": null,
           "title": "Priyane",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=134c8QTuPHQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=134c8QTuPHQ",
-          "publishedOn": "2026-02-08T10:01:27.000Z",
-          "wordCount": null,
-          "title": "Thathi..Thathi (From \"Thalaimurai\")",
-          "imageUrl": null
         }
       ]
     },
@@ -613,66 +603,6 @@
           "publishedOn": "2026-03-06T17:56:28.000Z",
           "wordCount": null,
           "title": "Pudhu Vellai Mazhai (From \"Roja\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p_Lxqglul5k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p_Lxqglul5k",
-          "publishedOn": "2026-02-08T10:04:13.000Z",
-          "wordCount": null,
-          "title": "Kaadhalicha Pachaikiliye (From \"Iravu Paadagan\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t6nzI_8lCeM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t6nzI_8lCeM",
-          "publishedOn": "2026-02-08T10:04:05.000Z",
-          "wordCount": null,
-          "title": "Kaadhalicha Pachaikiliye (From \"Iravu Paadagan\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YgI5_mFEYo0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YgI5_mFEYo0",
-          "publishedOn": "2026-02-08T10:03:22.000Z",
-          "wordCount": null,
-          "title": "Kaadhalicha Pachaikiliye (From \"Iravu Paadagan\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TzCYNU_Itnw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TzCYNU_Itnw",
-          "publishedOn": "2026-02-08T10:02:40.000Z",
-          "wordCount": null,
-          "title": "Kaadhalicha Pachaikiliye (From \"Iravu Paadagan\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HerBGNwP1Ao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HerBGNwP1Ao",
-          "publishedOn": "2026-02-08T10:02:39.000Z",
-          "wordCount": null,
-          "title": "Kaadhalicha Pachaikiliye (From \"Iravu Paadagan\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EHNj_Gb9ovI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EHNj_Gb9ovI",
-          "publishedOn": "2026-02-08T10:01:44.000Z",
-          "wordCount": null,
-          "title": "Kaadhalicha Pachaikiliye (From \"Iravu Paadagan\")",
           "imageUrl": null
         }
       ]

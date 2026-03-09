@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-09T21:28:56.328Z</updated>
+    <updated>2026-03-09T22:24:28.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1030,69 +1030,6 @@
         <updated>2026-02-08T18:30:25.000Z</updated>
         <author>
             <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhalicha Pachaikiliye (From "Iravu Paadagan")]]></title>
-        <id>https://www.youtube.com/watch?v=p_Lxqglul5k</id>
-        <link href="https://www.youtube.com/watch?v=p_Lxqglul5k"/>
-        <updated>2026-02-08T10:04:13.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhalicha Pachaikiliye (From "Iravu Paadagan")]]></title>
-        <id>https://www.youtube.com/watch?v=t6nzI_8lCeM</id>
-        <link href="https://www.youtube.com/watch?v=t6nzI_8lCeM"/>
-        <updated>2026-02-08T10:04:05.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhalicha Pachaikiliye (From "Iravu Paadagan")]]></title>
-        <id>https://www.youtube.com/watch?v=YgI5_mFEYo0</id>
-        <link href="https://www.youtube.com/watch?v=YgI5_mFEYo0"/>
-        <updated>2026-02-08T10:03:22.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhalicha Pachaikiliye (From "Iravu Paadagan")]]></title>
-        <id>https://www.youtube.com/watch?v=TzCYNU_Itnw</id>
-        <link href="https://www.youtube.com/watch?v=TzCYNU_Itnw"/>
-        <updated>2026-02-08T10:02:40.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhalicha Pachaikiliye (From "Iravu Paadagan")]]></title>
-        <id>https://www.youtube.com/watch?v=HerBGNwP1Ao</id>
-        <link href="https://www.youtube.com/watch?v=HerBGNwP1Ao"/>
-        <updated>2026-02-08T10:02:39.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhalicha Pachaikiliye (From "Iravu Paadagan")]]></title>
-        <id>https://www.youtube.com/watch?v=EHNj_Gb9ovI</id>
-        <link href="https://www.youtube.com/watch?v=EHNj_Gb9ovI"/>
-        <updated>2026-02-08T10:01:44.000Z</updated>
-        <author>
-            <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thathi..Thathi (From "Thalaimurai")]]></title>
-        <id>https://www.youtube.com/watch?v=134c8QTuPHQ</id>
-        <link href="https://www.youtube.com/watch?v=134c8QTuPHQ"/>
-        <updated>2026-02-08T10:01:27.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
         </author>
     </entry>
 </feed>
