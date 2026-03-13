@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T15:38:16.135Z</updated>
+    <updated>2026-03-13T16:35:26.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -958,78 +958,6 @@
         <updated>2026-02-12T10:00:06.000Z</updated>
         <author>
             <name>Rimi Tomy - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Nilaavayi]]></title>
-        <id>https://www.youtube.com/watch?v=YK2_3q2kbw8</id>
-        <link href="https://www.youtube.com/watch?v=YK2_3q2kbw8"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karineela Kannilenthedi]]></title>
-        <id>https://www.youtube.com/watch?v=a7vB40_yRh4</id>
-        <link href="https://www.youtube.com/watch?v=a7vB40_yRh4"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thathamma]]></title>
-        <id>https://www.youtube.com/watch?v=U-YzjXcXV8U</id>
-        <link href="https://www.youtube.com/watch?v=U-YzjXcXV8U"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Najim Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Neelambale]]></title>
-        <id>https://www.youtube.com/watch?v=_ar_JIrw-L0</id>
-        <link href="https://www.youtube.com/watch?v=_ar_JIrw-L0"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Najim Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyane]]></title>
-        <id>https://www.youtube.com/watch?v=7jq-o8zCGSg</id>
-        <link href="https://www.youtube.com/watch?v=7jq-o8zCGSg"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attam Bomb]]></title>
-        <id>https://www.youtube.com/watch?v=0TXsRY4ssqo</id>
-        <link href="https://www.youtube.com/watch?v=0TXsRY4ssqo"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassiloru Poomala]]></title>
-        <id>https://www.youtube.com/watch?v=48N-JCOn4RU</id>
-        <link href="https://www.youtube.com/watch?v=48N-JCOn4RU"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattinkarayorathe]]></title>
-        <id>https://www.youtube.com/watch?v=2yl5LLABG_M</id>
-        <link href="https://www.youtube.com/watch?v=2yl5LLABG_M"/>
-        <updated>2026-02-12T04:33:31.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
         </author>
     </entry>
 </feed>
