@@ -377,18 +377,7 @@
       "title": "Manjari - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=dLu9UrBg9BU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dLu9UrBg9BU",
-          "publishedOn": "2026-02-14T05:56:22.000Z",
-          "wordCount": null,
-          "title": "Bham Bhayabharitham",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sushin Shyam - Topic",
