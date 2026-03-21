@@ -121,18 +121,7 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=L1Ro128j5Xk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L1Ro128j5Xk",
-          "publishedOn": "2026-02-19T18:30:23.000Z",
-          "wordCount": null,
-          "title": "Kali Theme",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bijibal - Topic",
