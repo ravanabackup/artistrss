@@ -4,48 +4,7 @@
       "title": "Vineeth Sreenivasan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjYCNtvEZzfcj_69by4umCA",
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=SsLGN7w_h5s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SsLGN7w_h5s",
-          "publishedOn": "2026-02-19T15:25:51.000Z",
-          "wordCount": null,
-          "title": "Meyyil (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=27cUIv8X914",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=27cUIv8X914",
-          "publishedOn": "2026-02-19T15:25:50.000Z",
-          "wordCount": null,
-          "title": "Neela Varna (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O3gqzWBX7oM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O3gqzWBX7oM",
-          "publishedOn": "2026-02-19T15:25:50.000Z",
-          "wordCount": null,
-          "title": "Neela Varna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WJ2kgp9JNQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WJ2kgp9JNQA",
-          "publishedOn": "2026-02-19T15:25:50.000Z",
-          "wordCount": null,
-          "title": "Meyyil",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sithara Krishnakumar - Topic",
