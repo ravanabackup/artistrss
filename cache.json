@@ -110,7 +110,48 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gyFKGA21XHU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gyFKGA21XHU",
+          "publishedOn": "2026-03-26T15:20:13.000Z",
+          "wordCount": null,
+          "title": "The Nemesis Walk (From \"Derby\") (Original Motion Picture Soundtrack)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vu_vXIxRnyE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vu_vXIxRnyE",
+          "publishedOn": "2026-03-26T15:20:13.000Z",
+          "wordCount": null,
+          "title": "The Nemesis Walk (From \"Derby\") (Original Motion Picture Soundtrack) (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uNvkdeEqyu8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uNvkdeEqyu8",
+          "publishedOn": "2026-03-05T10:04:48.000Z",
+          "wordCount": null,
+          "title": "Rang Thelinthavalalle (From \"Derby\") (Original Motion Picture Soundtrack) (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KUIVjPhA7SE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KUIVjPhA7SE",
+          "publishedOn": "2026-03-05T10:03:04.000Z",
+          "wordCount": null,
+          "title": "Rang Thelinthavalalle (From \"Derby\") (Original Motion Picture Soundtrack)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Bijibal - Topic",
