@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T08:53:09.786Z</updated>
+    <updated>2026-03-31T10:02:03.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yesu Varan Kalamai]]></title>
+        <id>https://www.youtube.com/watch?v=bTIHgH4VxKs</id>
+        <link href="https://www.youtube.com/watch?v=bTIHgH4VxKs"/>
+        <updated>2026-03-30T11:55:27.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daiva Vagdhatham]]></title>
+        <id>https://www.youtube.com/watch?v=GT4k_a059Dg</id>
+        <link href="https://www.youtube.com/watch?v=GT4k_a059Dg"/>
+        <updated>2026-03-30T11:55:23.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Ninte Velicham]]></title>
+        <id>https://www.youtube.com/watch?v=X6mVo79x2Co</id>
+        <link href="https://www.youtube.com/watch?v=X6mVo79x2Co"/>
+        <updated>2026-03-30T11:55:23.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akasangal Daiva Mahthvam]]></title>
+        <id>https://www.youtube.com/watch?v=qcjb3PlcZko</id>
+        <link href="https://www.youtube.com/watch?v=qcjb3PlcZko"/>
+        <updated>2026-03-30T11:55:13.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aradhikkunnu Ange Yesuve]]></title>
+        <id>https://www.youtube.com/watch?v=sbOT2vH2aG0</id>
+        <link href="https://www.youtube.com/watch?v=sbOT2vH2aG0"/>
+        <updated>2026-03-30T11:55:13.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karthave Nin Roopam]]></title>
+        <id>https://www.youtube.com/watch?v=UrqVflJo3K8</id>
+        <link href="https://www.youtube.com/watch?v=UrqVflJo3K8"/>
+        <updated>2026-03-30T11:54:21.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yesuvin Snehatal Ennullam]]></title>
+        <id>https://www.youtube.com/watch?v=zPI_pB3bTAA</id>
+        <link href="https://www.youtube.com/watch?v=zPI_pB3bTAA"/>
+        <updated>2026-03-30T11:54:21.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Divya Karunyam Aliyunna]]></title>
         <id>https://www.youtube.com/watch?v=bBt5H_5dbko</id>
