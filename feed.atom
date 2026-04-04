@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T20:25:50.855Z</updated>
+    <updated>2026-04-04T21:27:30.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -769,60 +769,6 @@
         <updated>2026-03-06T10:34:15.000Z</updated>
         <author>
             <name>Unni Menon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Poovine (Female Version) (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=JYfCWF58SBs</id>
-        <link href="https://www.youtube.com/watch?v=JYfCWF58SBs"/>
-        <updated>2026-03-06T09:16:53.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Poovine (Female Version)]]></title>
-        <id>https://www.youtube.com/watch?v=rCqBrsjEs1Y</id>
-        <link href="https://www.youtube.com/watch?v=rCqBrsjEs1Y"/>
-        <updated>2026-03-06T09:16:53.000Z</updated>
-        <author>
-            <name>Sujatha Mohan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maarivillinmel]]></title>
-        <id>https://www.youtube.com/watch?v=1x1og8ruA7A</id>
-        <link href="https://www.youtube.com/watch?v=1x1og8ruA7A"/>
-        <updated>2026-03-06T09:16:53.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Poovine]]></title>
-        <id>https://www.youtube.com/watch?v=CKlDXHuAe9s</id>
-        <link href="https://www.youtube.com/watch?v=CKlDXHuAe9s"/>
-        <updated>2026-03-06T09:16:53.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dooreyoru Thaaram]]></title>
-        <id>https://www.youtube.com/watch?v=kZSIS9hcX1c</id>
-        <link href="https://www.youtube.com/watch?v=kZSIS9hcX1c"/>
-        <updated>2026-03-06T09:16:53.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaromale]]></title>
-        <id>https://www.youtube.com/watch?v=8aWYrrbHI9M</id>
-        <link href="https://www.youtube.com/watch?v=8aWYrrbHI9M"/>
-        <updated>2026-03-06T09:16:53.000Z</updated>
-        <author>
-            <name>K. J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>

@@ -83,26 +83,6 @@
           "wordCount": null,
           "title": "Konchum Maine (F)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JYfCWF58SBs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JYfCWF58SBs",
-          "publishedOn": "2026-03-06T09:16:53.000Z",
-          "wordCount": null,
-          "title": "Oru Poovine (Female Version) (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rCqBrsjEs1Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rCqBrsjEs1Y",
-          "publishedOn": "2026-03-06T09:16:53.000Z",
-          "wordCount": null,
-          "title": "Oru Poovine (Female Version)",
-          "imageUrl": null
         }
       ]
     },
@@ -612,46 +592,6 @@
           "publishedOn": "2026-03-12T13:18:05.000Z",
           "wordCount": null,
           "title": "Ponnitta Pettakam (Version 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1x1og8ruA7A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1x1og8ruA7A",
-          "publishedOn": "2026-03-06T09:16:53.000Z",
-          "wordCount": null,
-          "title": "Maarivillinmel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CKlDXHuAe9s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CKlDXHuAe9s",
-          "publishedOn": "2026-03-06T09:16:53.000Z",
-          "wordCount": null,
-          "title": "Oru Poovine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kZSIS9hcX1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kZSIS9hcX1c",
-          "publishedOn": "2026-03-06T09:16:53.000Z",
-          "wordCount": null,
-          "title": "Dooreyoru Thaaram",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8aWYrrbHI9M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8aWYrrbHI9M",
-          "publishedOn": "2026-03-06T09:16:53.000Z",
-          "wordCount": null,
-          "title": "Aaromale",
           "imageUrl": null
         }
       ]
