@@ -43,38 +43,7 @@
       "title": "Sujatha Mohan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4PHPycgfp4P2iydf5XXD3A",
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=DZpfcKuaDSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DZpfcKuaDSo",
-          "publishedOn": "2026-03-06T17:56:28.000Z",
-          "wordCount": null,
-          "title": "Kaadhal Raja (From \"Captain Magal\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cew3C61wUkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cew3C61wUkk",
-          "publishedOn": "2026-03-06T17:56:28.000Z",
-          "wordCount": null,
-          "title": "Aalamaram (From \"Sindhoo Nadi Poo\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s_Xz_MrQthw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s_Xz_MrQthw",
-          "publishedOn": "2026-03-06T17:56:28.000Z",
-          "wordCount": null,
-          "title": "Oru Ponnu Nenacha (From \"Chinna Madam\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Gopi Sundar - Topic",
@@ -342,26 +311,6 @@
           "publishedOn": "2026-03-06T19:13:47.000Z",
           "wordCount": null,
           "title": "Raagavathi Priya",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LJEBTxNkQSg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LJEBTxNkQSg",
-          "publishedOn": "2026-03-06T17:56:28.000Z",
-          "wordCount": null,
-          "title": "Vanambadi Kanambadi (From \"Captain Magal\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gpBJaCdWrUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gpBJaCdWrUY",
-          "publishedOn": "2026-03-06T17:56:28.000Z",
-          "wordCount": null,
-          "title": "Pudhu Vellai Mazhai (From \"Roja\")",
           "imageUrl": null
         }
       ]
