@@ -461,6 +461,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t6BT_JpO_74",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t6BT_JpO_74",
+          "publishedOn": "2026-04-08T09:11:26.000Z",
+          "wordCount": null,
+          "title": "Arivinte Pathiyaa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eaWJlPg_W-8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eaWJlPg_W-8",
+          "publishedOn": "2026-04-07T12:27:05.000Z",
+          "wordCount": null,
+          "title": "Nirupama",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fOoFY33buhg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fOoFY33buhg",
+          "publishedOn": "2026-04-07T12:27:05.000Z",
+          "wordCount": null,
+          "title": "Aathmavil",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nVUBNS7LLvI",
           "author": null,
           "description": "",
