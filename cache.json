@@ -436,16 +436,6 @@
           "wordCount": null,
           "title": "Aaadhi Mudhal",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pdGVEVyIFZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pdGVEVyIFZg",
-          "publishedOn": "2026-03-11T09:48:07.000Z",
-          "wordCount": null,
-          "title": "Neethy Swaroopa",
-          "imageUrl": null
         }
       ]
     },
@@ -662,18 +652,7 @@
       "title": "Sushin Shyam - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzpmF_8698JYBqh96PPCTfw",
       "siteUrl": "https://www.youtube.com/channel/UCzpmF_8698JYBqh96PPCTfw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=kutGZbhde-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kutGZbhde-Q",
-          "publishedOn": "2026-03-11T10:01:42.000Z",
-          "wordCount": null,
-          "title": "Kaattu Thottapol (From \"Patriot\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Deepak Dev - Topic",
