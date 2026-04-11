@@ -590,16 +590,6 @@
           "wordCount": null,
           "title": "Paal Ninavilum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1SUhxcAL8L0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1SUhxcAL8L0",
-          "publishedOn": "2026-03-12T13:18:05.000Z",
-          "wordCount": null,
-          "title": "Nettiyil Annu Njan",
-          "imageUrl": null
         }
       ]
     },
@@ -692,46 +682,6 @@
           "publishedOn": "2026-03-12T15:15:37.000Z",
           "wordCount": null,
           "title": "Swapnam Thyajichal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-GiRzZvOml8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-GiRzZvOml8",
-          "publishedOn": "2026-03-12T13:18:05.000Z",
-          "wordCount": null,
-          "title": "Paalkkudangal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xBa1cl03KXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xBa1cl03KXQ",
-          "publishedOn": "2026-03-12T13:18:05.000Z",
-          "wordCount": null,
-          "title": "Paalkkudangal (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HNlGbB4q7cI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HNlGbB4q7cI",
-          "publishedOn": "2026-03-12T13:18:05.000Z",
-          "wordCount": null,
-          "title": "Ponnitta Pettakam (Version 2) (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nKHz-rb8BXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nKHz-rb8BXk",
-          "publishedOn": "2026-03-12T13:18:05.000Z",
-          "wordCount": null,
-          "title": "Ponnitta Pettakam (Version 2)",
           "imageUrl": null
         }
       ]
