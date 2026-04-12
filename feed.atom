@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T21:30:34.727Z</updated>
+    <updated>2026-04-12T22:29:13.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -742,15 +742,6 @@
         <updated>2026-03-14T17:14:14.000Z</updated>
         <author>
             <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaadhi Mudhal]]></title>
-        <id>https://www.youtube.com/watch?v=AKUVTsfM_zk</id>
-        <link href="https://www.youtube.com/watch?v=AKUVTsfM_zk"/>
-        <updated>2026-03-14T10:03:11.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
