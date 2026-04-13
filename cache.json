@@ -392,6 +392,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=y84VC9FqtBg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y84VC9FqtBg",
+          "publishedOn": "2026-04-13T13:32:33.000Z",
+          "wordCount": null,
+          "title": "Mazhavillin Kottarathhil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yqqkIaz-Xtg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yqqkIaz-Xtg",
+          "publishedOn": "2026-04-13T13:32:33.000Z",
+          "wordCount": null,
+          "title": "Dekho Simple Magic",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=acOAFs70PRY",
           "author": null,
           "description": "",
