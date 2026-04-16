@@ -60,6 +60,86 @@
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OZdXR2SJNrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OZdXR2SJNrI",
+          "publishedOn": "2026-04-09T10:05:07.000Z",
+          "wordCount": null,
+          "title": "Ormaouzhakkare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YmxXTapBPK8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YmxXTapBPK8",
+          "publishedOn": "2026-04-09T10:04:01.000Z",
+          "wordCount": null,
+          "title": "Aarum Kothikkunna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DLOol_F6-os",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DLOol_F6-os",
+          "publishedOn": "2026-04-09T10:02:44.000Z",
+          "wordCount": null,
+          "title": "Thalathil Aadum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Vf3_ITeLAWA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vf3_ITeLAWA",
+          "publishedOn": "2026-04-09T10:02:39.000Z",
+          "wordCount": null,
+          "title": "Thalathil Aadum (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kwI2k_sASiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kwI2k_sASiA",
+          "publishedOn": "2026-04-09T10:02:03.000Z",
+          "wordCount": null,
+          "title": "Ormaouzhakkare (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fVsf-Cqv7mk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fVsf-Cqv7mk",
+          "publishedOn": "2026-04-09T10:01:44.000Z",
+          "wordCount": null,
+          "title": "Aarum Kothikkunna (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m-fHKN_xgMo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m-fHKN_xgMo",
+          "publishedOn": "2026-04-02T10:04:14.000Z",
+          "wordCount": null,
+          "title": "Nee Porumo Ee Veedhiyil (From \"Oru Yathrayil\") (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cU0H6C7ZqyM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cU0H6C7ZqyM",
+          "publishedOn": "2026-04-02T10:02:25.000Z",
+          "wordCount": null,
+          "title": "Nee Porumo Ee Veedhiyil (From \"Oru Yathrayil\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sHmssKvoy5s",
           "author": null,
           "description": "",
@@ -77,6 +157,26 @@
           "publishedOn": "2026-04-02T10:00:24.000Z",
           "wordCount": null,
           "title": "Ennum Ninnil (From \"Dalamarmmaram\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J_SIJB_SaBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J_SIJB_SaBU",
+          "publishedOn": "2026-03-26T10:03:52.000Z",
+          "wordCount": null,
+          "title": "Ee Ven Theeram (From \"Dhamaka\") (Original Motion Picture Soundtrack)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=McqTqzrY0IM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=McqTqzrY0IM",
+          "publishedOn": "2026-03-26T10:03:27.000Z",
+          "wordCount": null,
+          "title": "Ee Ven Theeram (From \"Dhamaka\") (Original Motion Picture Soundtrack) (Preview)",
           "imageUrl": null
         }
       ]
@@ -1362,7 +1462,18 @@
       "title": "Deepak Dev - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=tirjMb9wzr8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tirjMb9wzr8",
+          "publishedOn": "2026-04-15T06:12:56.000Z",
+          "wordCount": null,
+          "title": "A Symphonic Feeling",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "G. Venugopal - Topic",
