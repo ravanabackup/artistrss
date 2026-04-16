@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T07:25:39.750Z</updated>
+    <updated>2026-04-16T09:14:57.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cheekattlu Kammesukunna]]></title>
+        <id>https://www.youtube.com/watch?v=5BOsSYrBy-s</id>
+        <link href="https://www.youtube.com/watch?v=5BOsSYrBy-s"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam]]></title>
+        <id>https://www.youtube.com/watch?v=6n6g7U5M54s</id>
+        <link href="https://www.youtube.com/watch?v=6n6g7U5M54s"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghilli Bala The Rough & Tough]]></title>
+        <id>https://www.youtube.com/watch?v=ORhNiLetlpE</id>
+        <link href="https://www.youtube.com/watch?v=ORhNiLetlpE"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheekattlu Kammesukunna (Reprise)]]></title>
+        <id>https://www.youtube.com/watch?v=SQOJe0wQIro</id>
+        <link href="https://www.youtube.com/watch?v=SQOJe0wQIro"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No More Cringe]]></title>
+        <id>https://www.youtube.com/watch?v=VpvgG9p3YMo</id>
+        <link href="https://www.youtube.com/watch?v=VpvgG9p3YMo"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chelagaattam]]></title>
+        <id>https://www.youtube.com/watch?v=bV2oHxJD2-Y</id>
+        <link href="https://www.youtube.com/watch?v=bV2oHxJD2-Y"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hanuman Gear]]></title>
+        <id>https://www.youtube.com/watch?v=gYiphPOPn5I</id>
+        <link href="https://www.youtube.com/watch?v=gYiphPOPn5I"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Ithade]]></title>
+        <id>https://www.youtube.com/watch?v=lyTOl3hCk6k</id>
+        <link href="https://www.youtube.com/watch?v=lyTOl3hCk6k"/>
+        <updated>2026-04-16T09:03:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chendamarakkanna]]></title>
         <id>https://www.youtube.com/watch?v=9fIiqxwfblc</id>
