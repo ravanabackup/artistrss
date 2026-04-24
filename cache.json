@@ -43,6 +43,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qjc7NdTCRBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qjc7NdTCRBU",
+          "publishedOn": "2026-04-23T10:04:03.000Z",
+          "wordCount": null,
+          "title": "Devi Nin Manasu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XarWF-nwYQs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XarWF-nwYQs",
+          "publishedOn": "2026-04-23T10:02:26.000Z",
+          "wordCount": null,
+          "title": "Oru Nokku",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fhwgFKZM_QA",
           "author": null,
           "description": "",
@@ -637,6 +657,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA",
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jNGPpo0kjxc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jNGPpo0kjxc",
+          "publishedOn": "2026-04-24T09:31:49.000Z",
+          "wordCount": null,
+          "title": "Swargasthanaaya Punya",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xGUrtOCx8tg",
           "author": null,
@@ -1320,6 +1350,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7bcQTBdreyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7bcQTBdreyc",
+          "publishedOn": "2026-04-20T21:55:49.000Z",
+          "wordCount": null,
+          "title": "Vadakkumnathande",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qP6w4pjDd5I",
           "author": null,
