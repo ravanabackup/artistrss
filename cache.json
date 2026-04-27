@@ -1707,6 +1707,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nWlwWJZn0dg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nWlwWJZn0dg",
+          "publishedOn": "2026-04-27T08:20:00.000Z",
+          "wordCount": null,
+          "title": "Ettavum Parishutha - Karaoke",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3Fwdrv73Yx8",
           "author": null,
           "description": "",
