@@ -1086,7 +1086,18 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=35ekAZRhtac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=35ekAZRhtac",
+          "publishedOn": "2026-04-28T09:11:47.000Z",
+          "wordCount": null,
+          "title": "Anyarai Theeruvan (From \"Granny\")",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Biju Narayanan - Topic",
