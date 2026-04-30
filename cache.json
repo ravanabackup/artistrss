@@ -23,6 +23,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hHnCy3MXa9k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hHnCy3MXa9k",
+          "publishedOn": "2026-04-30T10:01:16.000Z",
+          "wordCount": null,
+          "title": "Movandhi Pole (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GLix7pGFwhg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GLix7pGFwhg",
+          "publishedOn": "2026-04-30T10:00:22.000Z",
+          "wordCount": null,
+          "title": "Movandhi Pole",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qjc7NdTCRBU",
           "author": null,
           "description": "",
@@ -780,6 +800,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0gyu9TFPHjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0gyu9TFPHjE",
+          "publishedOn": "2026-04-30T10:34:41.000Z",
+          "wordCount": null,
+          "title": "Kiranagal",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fEZOA6cZtek",
           "author": null,
