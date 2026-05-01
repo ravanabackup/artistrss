@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T06:12:38.814Z</updated>
+    <updated>2026-05-01T08:57:18.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -103,6 +103,24 @@
         <updated>2026-04-30T10:00:22.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eesho Neeyente]]></title>
+        <id>https://www.youtube.com/watch?v=-bK14Nscu64</id>
+        <link href="https://www.youtube.com/watch?v=-bK14Nscu64"/>
+        <updated>2026-04-29T11:10:16.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oo Ente Eeso Male]]></title>
+        <id>https://www.youtube.com/watch?v=dv6QGVp9tDc</id>
+        <link href="https://www.youtube.com/watch?v=dv6QGVp9tDc"/>
+        <updated>2026-04-29T11:10:16.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
         </author>
     </entry>
     <entry>
@@ -238,6 +256,15 @@
         <updated>2026-04-25T11:00:59.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Om Namo Narayanaya]]></title>
+        <id>https://www.youtube.com/watch?v=xhfy06iCmHY</id>
+        <link href="https://www.youtube.com/watch?v=xhfy06iCmHY"/>
+        <updated>2026-04-24T12:17:11.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
