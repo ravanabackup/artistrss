@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T02:42:46.543Z</updated>
+    <updated>2026-05-01T06:12:38.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1957,15 +1957,6 @@
         <updated>2026-04-02T06:48:30.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arike (Draw Near to God)]]></title>
-        <id>https://www.youtube.com/watch?v=Eq96J0wCOLE</id>
-        <link href="https://www.youtube.com/watch?v=Eq96J0wCOLE"/>
-        <updated>2026-04-01T15:25:08.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
