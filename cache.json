@@ -1263,16 +1263,6 @@
           "wordCount": null,
           "title": "Aathmavil",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nVUBNS7LLvI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nVUBNS7LLvI",
-          "publishedOn": "2026-04-03T15:37:05.000Z",
-          "wordCount": null,
-          "title": "Neeyariyathe (Divyadanam) - Karoake",
-          "imageUrl": null
         }
       ]
     },
@@ -1668,76 +1658,6 @@
           "publishedOn": "2026-04-08T03:17:37.000Z",
           "wordCount": null,
           "title": "Kadalin (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E_FxLts8FNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E_FxLts8FNY",
-          "publishedOn": "2026-04-03T17:16:31.000Z",
-          "wordCount": null,
-          "title": "Malaya Maruthagana (From \"Malaya Marutha\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rKq4OJhENy0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rKq4OJhENy0",
-          "publishedOn": "2026-04-03T17:16:31.000Z",
-          "wordCount": null,
-          "title": "Ellellu Sangeethave (From \"Malaya Marutha\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W6W7_nH0z9E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W6W7_nH0z9E",
-          "publishedOn": "2026-04-03T17:15:35.000Z",
-          "wordCount": null,
-          "title": "Sharade Daye Thoridhe (From \"Malaya Marutha\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OLWNBr-vj4g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OLWNBr-vj4g",
-          "publishedOn": "2026-04-03T15:28:34.000Z",
-          "wordCount": null,
-          "title": "Chayakada",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YUPqUCPv9UA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YUPqUCPv9UA",
-          "publishedOn": "2026-04-03T15:28:34.000Z",
-          "wordCount": null,
-          "title": "Chayakada (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=thdVBbQSJ64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=thdVBbQSJ64",
-          "publishedOn": "2026-04-03T15:28:34.000Z",
-          "wordCount": null,
-          "title": "Kinavilennum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vpni3gS7aT8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vpni3gS7aT8",
-          "publishedOn": "2026-04-03T15:28:34.000Z",
-          "wordCount": null,
-          "title": "Kinavilennum (Preview)",
           "imageUrl": null
         }
       ]
