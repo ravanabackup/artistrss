@@ -1119,16 +1119,6 @@
           "wordCount": null,
           "title": "Sharanam Viliyude",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KZJyI05rCnQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KZJyI05rCnQ",
-          "publishedOn": "2026-04-04T14:51:09.000Z",
-          "wordCount": null,
-          "title": "Altharayorungi (Divyadanam) - Karoake",
-          "imageUrl": null
         }
       ]
     },
@@ -1956,16 +1946,6 @@
           "wordCount": null,
           "title": "Oru Kodi",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=poMEMvwRahE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=poMEMvwRahE",
-          "publishedOn": "2026-04-04T15:03:43.000Z",
-          "wordCount": null,
-          "title": "NEERUNNOREN ULLAM (Male)",
-          "imageUrl": null
         }
       ]
     },
@@ -2010,28 +1990,7 @@
       "title": "Maria Kolady - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNGpKg02KLGdTii0Ql6vAOA",
       "siteUrl": "https://www.youtube.com/channel/UCNGpKg02KLGdTii0Ql6vAOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jxmEEgm-5JY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jxmEEgm-5JY",
-          "publishedOn": "2026-04-04T14:52:37.000Z",
-          "wordCount": null,
-          "title": "Olivu Malayil - Karaoke",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o06v0sKxlv8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o06v0sKxlv8",
-          "publishedOn": "2026-04-04T14:51:25.000Z",
-          "wordCount": null,
-          "title": "Olivu Malayil",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sreya Anna Joseph - Topic",
