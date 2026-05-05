@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T19:13:15.278Z</updated>
+    <updated>2026-05-05T20:58:30.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1903,15 +1903,6 @@
         <updated>2026-04-07T12:27:05.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aashrayam Nee Yeshuve]]></title>
-        <id>https://www.youtube.com/watch?v=FyJwDJD0OOs</id>
-        <link href="https://www.youtube.com/watch?v=FyJwDJD0OOs"/>
-        <updated>2026-04-06T08:46:07.000Z</updated>
-        <author>
-            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
 </feed>
