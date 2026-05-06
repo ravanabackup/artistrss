@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T05:53:26.076Z</updated>
+    <updated>2026-05-06T11:02:21.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snehathin]]></title>
+        <id>https://www.youtube.com/watch?v=Z-rmRssuaCs</id>
+        <link href="https://www.youtube.com/watch?v=Z-rmRssuaCs"/>
+        <updated>2026-05-06T10:48:45.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patriot (Title Track)]]></title>
+        <id>https://www.youtube.com/watch?v=5VblKu3EjUM</id>
+        <link href="https://www.youtube.com/watch?v=5VblKu3EjUM"/>
+        <updated>2026-05-06T07:12:50.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kadalum Malayum Thaandi]]></title>
         <id>https://www.youtube.com/watch?v=1njsENMexpI</id>

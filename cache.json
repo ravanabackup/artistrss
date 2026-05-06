@@ -1215,6 +1215,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z-rmRssuaCs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z-rmRssuaCs",
+          "publishedOn": "2026-05-06T10:48:45.000Z",
+          "wordCount": null,
+          "title": "Snehathin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FNqnatpcKLw",
           "author": null,
           "description": "",
@@ -1508,6 +1518,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzpmF_8698JYBqh96PPCTfw",
       "siteUrl": "https://www.youtube.com/channel/UCzpmF_8698JYBqh96PPCTfw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5VblKu3EjUM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5VblKu3EjUM",
+          "publishedOn": "2026-05-06T07:12:50.000Z",
+          "wordCount": null,
+          "title": "Patriot (Title Track)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=esVDocZuipE",
           "author": null,
