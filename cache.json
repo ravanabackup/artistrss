@@ -188,68 +188,7 @@
       "title": "Najim Arshad - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzEergq3aH6Sp8chBoRSeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=OZdXR2SJNrI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OZdXR2SJNrI",
-          "publishedOn": "2026-04-09T10:05:07.000Z",
-          "wordCount": null,
-          "title": "Ormaouzhakkare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YmxXTapBPK8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YmxXTapBPK8",
-          "publishedOn": "2026-04-09T10:04:01.000Z",
-          "wordCount": null,
-          "title": "Aarum Kothikkunna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DLOol_F6-os",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DLOol_F6-os",
-          "publishedOn": "2026-04-09T10:02:44.000Z",
-          "wordCount": null,
-          "title": "Thalathil Aadum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vf3_ITeLAWA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Vf3_ITeLAWA",
-          "publishedOn": "2026-04-09T10:02:39.000Z",
-          "wordCount": null,
-          "title": "Thalathil Aadum (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kwI2k_sASiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kwI2k_sASiA",
-          "publishedOn": "2026-04-09T10:02:03.000Z",
-          "wordCount": null,
-          "title": "Ormaouzhakkare (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fVsf-Cqv7mk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fVsf-Cqv7mk",
-          "publishedOn": "2026-04-09T10:01:44.000Z",
-          "wordCount": null,
-          "title": "Aarum Kothikkunna (Preview)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sujatha Mohan - Topic",
