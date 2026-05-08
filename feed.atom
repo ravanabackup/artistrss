@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T09:13:55.604Z</updated>
+    <updated>2026-05-08T11:08:34.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innalekal (From "Patriot")]]></title>
+        <id>https://www.youtube.com/watch?v=PDCIFLyDNGM</id>
+        <link href="https://www.youtube.com/watch?v=PDCIFLyDNGM"/>
+        <updated>2026-05-08T10:00:41.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhthunnu - Karaoke]]></title>
         <id>https://www.youtube.com/watch?v=b1tsbay99P0</id>
