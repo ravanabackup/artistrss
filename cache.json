@@ -809,6 +809,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GMqvap0XEEE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GMqvap0XEEE",
+          "publishedOn": "2026-05-09T04:40:32.000Z",
+          "wordCount": null,
+          "title": "Ethratholam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RTPhgt9n3SA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RTPhgt9n3SA",
+          "publishedOn": "2026-05-09T04:40:32.000Z",
+          "wordCount": null,
+          "title": "Jeevithamakum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ue8xQnEYQoQ",
           "author": null,
           "description": "",
@@ -1686,6 +1706,26 @@
           "publishedOn": "2026-05-07T23:11:23.000Z",
           "wordCount": null,
           "title": "Nataraaja Padadhooli",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NkPzNHmjZpM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NkPzNHmjZpM",
+          "publishedOn": "2026-05-07T11:24:09.000Z",
+          "wordCount": null,
+          "title": "Kuvalaya Mizhiyil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aMbf832xjaI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aMbf832xjaI",
+          "publishedOn": "2026-05-07T11:24:08.000Z",
+          "wordCount": null,
+          "title": "Hey Nilakili (Male Version)",
           "imageUrl": null
         },
         {
