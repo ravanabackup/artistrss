@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T21:15:05.091Z</updated>
+    <updated>2026-05-12T22:56:15.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1975,33 +1975,6 @@
         <updated>2026-04-13T12:36:38.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novu Peyyumee Ravil]]></title>
-        <id>https://www.youtube.com/watch?v=MlbBC2r1Vfo</id>
-        <link href="https://www.youtube.com/watch?v=MlbBC2r1Vfo"/>
-        <updated>2026-04-13T10:18:36.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoomanju Peyyunna Sundhara Rathri]]></title>
-        <id>https://www.youtube.com/watch?v=VK4DHc2Blow</id>
-        <link href="https://www.youtube.com/watch?v=VK4DHc2Blow"/>
-        <updated>2026-04-13T10:18:30.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moriah Malakeri Njan Varunnu]]></title>
-        <id>https://www.youtube.com/watch?v=hR60MVMXhcA</id>
-        <link href="https://www.youtube.com/watch?v=hR60MVMXhcA"/>
-        <updated>2026-04-13T10:17:45.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
