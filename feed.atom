@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T06:10:50.033Z</updated>
+    <updated>2026-05-12T09:33:19.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adhimotham]]></title>
+        <id>https://www.youtube.com/watch?v=3oCO6zrvqBc</id>
+        <link href="https://www.youtube.com/watch?v=3oCO6zrvqBc"/>
+        <updated>2026-05-12T05:47:19.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chenthalir]]></title>
+        <id>https://www.youtube.com/watch?v=eOWZWMH9po8</id>
+        <link href="https://www.youtube.com/watch?v=eOWZWMH9po8"/>
+        <updated>2026-05-11T16:28:22.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayika Nada]]></title>
         <id>https://www.youtube.com/watch?v=OK5LwD818DU</id>
@@ -1218,7 +1236,7 @@
         <link href="https://www.youtube.com/watch?v=7m_yroc-bjE"/>
         <updated>2026-04-16T10:26:01.000Z</updated>
         <author>
-            <name>Sujatha Mohan - Topic</name>
+            <name>Sujatha - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1227,7 +1245,7 @@
         <link href="https://www.youtube.com/watch?v=g74qXF33cpA"/>
         <updated>2026-04-16T10:26:01.000Z</updated>
         <author>
-            <name>Sujatha Mohan - Topic</name>
+            <name>Sujatha - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1236,7 +1254,7 @@
         <link href="https://www.youtube.com/watch?v=yRXf6mMDYt0"/>
         <updated>2026-04-16T10:26:01.000Z</updated>
         <author>
-            <name>Sujatha Mohan - Topic</name>
+            <name>Sujatha - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1245,7 +1263,7 @@
         <link href="https://www.youtube.com/watch?v=M8Yr0-vy_QQ"/>
         <updated>2026-04-16T10:13:09.000Z</updated>
         <author>
-            <name>Sujatha Mohan - Topic</name>
+            <name>Sujatha - Topic</name>
         </author>
     </entry>
     <entry>

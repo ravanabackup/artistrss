@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3oCO6zrvqBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3oCO6zrvqBc",
+          "publishedOn": "2026-05-12T05:47:19.000Z",
+          "wordCount": null,
+          "title": "Adhimotham",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lR81NwBKT8M",
           "author": null,
           "description": "",
@@ -181,7 +191,7 @@
       "articles": []
     },
     {
-      "title": "Sujatha Mohan - Topic",
+      "title": "Sujatha - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4PHPycgfp4P2iydf5XXD3A",
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
@@ -798,6 +808,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eOWZWMH9po8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eOWZWMH9po8",
+          "publishedOn": "2026-05-11T16:28:22.000Z",
+          "wordCount": null,
+          "title": "Chenthalir",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OK5LwD818DU",
           "author": null,
