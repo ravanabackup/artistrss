@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T16:03:53.408Z</updated>
+    <updated>2026-05-15T18:19:19.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1858,78 +1858,6 @@
         <updated>2026-04-16T06:56:04.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varamaai Nee]]></title>
-        <id>https://www.youtube.com/watch?v=7n_4rWV5FXc</id>
-        <link href="https://www.youtube.com/watch?v=7n_4rWV5FXc"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hanuman Gear]]></title>
-        <id>https://www.youtube.com/watch?v=BRi0sreS0YA</id>
-        <link href="https://www.youtube.com/watch?v=BRi0sreS0YA"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghilli Bala The Rough & Tough]]></title>
-        <id>https://www.youtube.com/watch?v=ZS21xfHPbbQ</id>
-        <link href="https://www.youtube.com/watch?v=ZS21xfHPbbQ"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parirulinaale Mudanga]]></title>
-        <id>https://www.youtube.com/watch?v=cpInqKtEHqQ</id>
-        <link href="https://www.youtube.com/watch?v=cpInqKtEHqQ"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theriyaattam]]></title>
-        <id>https://www.youtube.com/watch?v=dzYAYGHU7N0</id>
-        <link href="https://www.youtube.com/watch?v=dzYAYGHU7N0"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ini No Cringe]]></title>
-        <id>https://www.youtube.com/watch?v=hWwnczBOTWY</id>
-        <link href="https://www.youtube.com/watch?v=hWwnczBOTWY"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parirulinaale Mudanga (Reprise)]]></title>
-        <id>https://www.youtube.com/watch?v=krzt2QFS3_Q</id>
-        <link href="https://www.youtube.com/watch?v=krzt2QFS3_Q"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Adiya]]></title>
-        <id>https://www.youtube.com/watch?v=tAkqBauHF5g</id>
-        <link href="https://www.youtube.com/watch?v=tAkqBauHF5g"/>
-        <updated>2026-04-16T05:16:09.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
 </feed>
