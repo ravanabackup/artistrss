@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T18:58:43.032Z</updated>
+    <updated>2026-05-16T20:02:54.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1325,15 +1325,6 @@
         <id>https://www.youtube.com/watch?v=dXlYi5wLaRM</id>
         <link href="https://www.youtube.com/watch?v=dXlYi5wLaRM"/>
         <updated>2026-04-17T16:54:56.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mahidhe Ange]]></title>
-        <id>https://www.youtube.com/watch?v=E0jUQXj3RwA</id>
-        <link href="https://www.youtube.com/watch?v=E0jUQXj3RwA"/>
-        <updated>2026-04-17T07:46:33.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
         </author>
