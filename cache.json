@@ -742,6 +742,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DCK2utjZHj8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DCK2utjZHj8",
+          "publishedOn": "2026-05-20T08:38:34.000Z",
+          "wordCount": null,
+          "title": "Athmaavine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XPKgzIEARAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XPKgzIEARAo",
+          "publishedOn": "2026-05-20T08:38:34.000Z",
+          "wordCount": null,
+          "title": "Bathlahem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dM3B8Rdvhf8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dM3B8Rdvhf8",
+          "publishedOn": "2026-05-20T08:38:34.000Z",
+          "wordCount": null,
+          "title": "Anugrahathin Athipathi",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fJM3ck_uhI0",
           "author": null,
           "description": "",
@@ -1106,16 +1136,6 @@
           "publishedOn": "2026-04-30T12:22:44.000Z",
           "wordCount": null,
           "title": "Chendamarakkanna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7bcQTBdreyc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7bcQTBdreyc",
-          "publishedOn": "2026-04-20T21:55:49.000Z",
-          "wordCount": null,
-          "title": "Vadakkumnathande",
           "imageUrl": null
         }
       ]
