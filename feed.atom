@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T21:06:10.442Z</updated>
+    <updated>2026-05-22T22:53:43.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1525,24 +1525,6 @@
         <updated>2026-04-23T13:22:20.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devi Nin Manasu]]></title>
-        <id>https://www.youtube.com/watch?v=qjc7NdTCRBU</id>
-        <link href="https://www.youtube.com/watch?v=qjc7NdTCRBU"/>
-        <updated>2026-04-23T10:04:03.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Nokku]]></title>
-        <id>https://www.youtube.com/watch?v=XarWF-nwYQs</id>
-        <link href="https://www.youtube.com/watch?v=XarWF-nwYQs"/>
-        <updated>2026-04-23T10:02:26.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
