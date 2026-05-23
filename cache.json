@@ -386,16 +386,6 @@
           "wordCount": null,
           "title": "Ponnanipuzhayile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aDHRGFCcaGg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aDHRGFCcaGg",
-          "publishedOn": "2026-04-24T11:26:50.000Z",
-          "wordCount": null,
-          "title": "Thathapenne",
-          "imageUrl": null
         }
       ]
     },
@@ -811,6 +801,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2d9oZDBN8lc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2d9oZDBN8lc",
+          "publishedOn": "2026-05-22T10:06:46.000Z",
+          "wordCount": null,
+          "title": "Oru Nalikeram",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9AUxO21RrhU",
           "author": null,
