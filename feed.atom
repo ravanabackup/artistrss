@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T22:25:38.730Z</updated>
+    <updated>2026-05-30T00:05:22.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1471,42 +1471,6 @@
         <updated>2026-04-30T12:22:44.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panavum]]></title>
-        <id>https://www.youtube.com/watch?v=8MmjDyEI4As</id>
-        <link href="https://www.youtube.com/watch?v=8MmjDyEI4As"/>
-        <updated>2026-04-30T11:19:07.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkulathukavil Nhnagal]]></title>
-        <id>https://www.youtube.com/watch?v=WXOn9M4AKZI</id>
-        <link href="https://www.youtube.com/watch?v=WXOn9M4AKZI"/>
-        <updated>2026-04-30T11:19:07.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endeyullu]]></title>
-        <id>https://www.youtube.com/watch?v=ocVQAZayOtQ</id>
-        <link href="https://www.youtube.com/watch?v=ocVQAZayOtQ"/>
-        <updated>2026-04-30T11:19:07.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiranagal]]></title>
-        <id>https://www.youtube.com/watch?v=0gyu9TFPHjE</id>
-        <link href="https://www.youtube.com/watch?v=0gyu9TFPHjE"/>
-        <updated>2026-04-30T10:34:41.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
