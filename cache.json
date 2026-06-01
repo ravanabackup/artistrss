@@ -318,6 +318,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OiQmryJsN9o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OiQmryJsN9o",
+          "publishedOn": "2026-06-01T12:17:11.000Z",
+          "wordCount": null,
+          "title": "Kottarakkara Ganapathiye",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MXZ9kOCNydo",
           "author": null,
           "description": "",
@@ -640,6 +650,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Am7oAVlyc_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Am7oAVlyc_4",
+          "publishedOn": "2026-06-01T12:17:11.000Z",
+          "wordCount": null,
+          "title": "Oru Nalikeram",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p3hrzQMcV10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p3hrzQMcV10",
+          "publishedOn": "2026-06-01T12:17:11.000Z",
+          "wordCount": null,
+          "title": "Thumbikkai",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FSa5Pl2ZQqw",
           "author": null,
