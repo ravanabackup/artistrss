@@ -607,76 +607,6 @@
           "wordCount": null,
           "title": "Kottarakkara Ganapathiye",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1njsENMexpI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1njsENMexpI",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Kadalum Malayum Thaandi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2dnRWd3Zj2M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2dnRWd3Zj2M",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Ethratholam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6BiHEJ6F4mc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6BiHEJ6F4mc",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Nasrathin Puthri",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A3AuyO52_Cw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A3AuyO52_Cw",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Eeso Nee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NXjzAKWF5uU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NXjzAKWF5uU",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Kiranagal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VKeHHqnK-VE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VKeHHqnK-VE",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Jeevithamakum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yFonGmRRvm8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yFonGmRRvm8",
-          "publishedOn": "2026-05-05T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Naadhane Vazhthi",
-          "imageUrl": null
         }
       ]
     },
@@ -1335,6 +1265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VNWlHkwwlMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VNWlHkwwlMk",
+          "publishedOn": "2026-06-04T04:43:15.000Z",
+          "wordCount": null,
+          "title": "Swanthanathin (M)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k0pimmK0q5k",
           "author": null,
           "description": "",
@@ -1462,46 +1402,6 @@
           "publishedOn": "2026-05-08T08:56:28.000Z",
           "wordCount": null,
           "title": "Vazhthunnu - Karaoke",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fa07Y0zYyTw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fa07Y0zYyTw",
-          "publishedOn": "2026-05-05T12:22:27.000Z",
-          "wordCount": null,
-          "title": "Theerthadanam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EBTDZeCAOxg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EBTDZeCAOxg",
-          "publishedOn": "2026-05-05T12:21:52.000Z",
-          "wordCount": null,
-          "title": "Kunje Neeyente",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_d1jGpkPkGM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_d1jGpkPkGM",
-          "publishedOn": "2026-05-05T12:21:52.000Z",
-          "wordCount": null,
-          "title": "Malayattoor Malayum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bPP_P3ikFdA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bPP_P3ikFdA",
-          "publishedOn": "2026-05-05T12:21:52.000Z",
-          "wordCount": null,
-          "title": "Kaalvari",
           "imageUrl": null
         }
       ]
@@ -1680,38 +1580,7 @@
       "title": "KG Markose - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=7NVHoB1FwPw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7NVHoB1FwPw",
-          "publishedOn": "2026-05-05T12:22:27.000Z",
-          "wordCount": null,
-          "title": "Makane Makale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GJl5cYEdEIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GJl5cYEdEIM",
-          "publishedOn": "2026-05-05T12:22:27.000Z",
-          "wordCount": null,
-          "title": "Ajaganathe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VR9xxDKOWQo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VR9xxDKOWQo",
-          "publishedOn": "2026-05-05T12:22:27.000Z",
-          "wordCount": null,
-          "title": "Anthanu Kazhcha",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
