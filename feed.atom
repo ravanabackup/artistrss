@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T23:05:36.552Z</updated>
+    <updated>2026-06-05T03:24:25.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1244,15 +1244,6 @@
         <id>https://www.youtube.com/watch?v=-Hah2Exh_ho</id>
         <link href="https://www.youtube.com/watch?v=-Hah2Exh_ho"/>
         <updated>2026-05-07T10:00:00.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kottarakkara Ganapathiye]]></title>
-        <id>https://www.youtube.com/watch?v=8IY-MoqX4Bg</id>
-        <link href="https://www.youtube.com/watch?v=8IY-MoqX4Bg"/>
-        <updated>2026-05-06T12:10:18.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
         </author>
