@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T03:24:25.615Z</updated>
+    <updated>2026-06-05T08:02:40.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kottarakkara Ganapathiye]]></title>
+        <id>https://www.youtube.com/watch?v=jdZPTP55RYw</id>
+        <link href="https://www.youtube.com/watch?v=jdZPTP55RYw"/>
+        <updated>2026-06-05T07:45:06.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parayathe Vannen (From "Bro Daddy")]]></title>
+        <id>https://www.youtube.com/watch?v=kDy8sSefpag</id>
+        <link href="https://www.youtube.com/watch?v=kDy8sSefpag"/>
+        <updated>2026-06-05T05:24:21.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vannu Pokum-Title Song (From "Bro Daddy")]]></title>
+        <id>https://www.youtube.com/watch?v=_unIRE2tb5Y</id>
+        <link href="https://www.youtube.com/watch?v=_unIRE2tb5Y"/>
+        <updated>2026-06-05T05:17:31.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swanthanathin (M)]]></title>
         <id>https://www.youtube.com/watch?v=VNWlHkwwlMk</id>
