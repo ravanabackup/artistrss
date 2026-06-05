@@ -120,6 +120,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lo5V96U1mpA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lo5V96U1mpA",
+          "publishedOn": "2026-06-05T13:20:15.000Z",
+          "wordCount": null,
+          "title": "Vazhikaattum (From\"Dhamaka\") (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e8aymq1Ls6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e8aymq1Ls6M",
+          "publishedOn": "2026-06-05T13:20:14.000Z",
+          "wordCount": null,
+          "title": "Vazhikaattum (From\"Dhamaka\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JYPkm33qVhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JYPkm33qVhs",
+          "publishedOn": "2026-06-04T11:21:22.000Z",
+          "wordCount": null,
+          "title": "Ennumende",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aAvJHx9Emtk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aAvJHx9Emtk",
+          "publishedOn": "2026-06-04T11:21:22.000Z",
+          "wordCount": null,
+          "title": "Akilacharachara",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h9BPufX36zM",
           "author": null,
           "description": "",
