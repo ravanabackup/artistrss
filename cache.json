@@ -100,6 +100,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kfAjoSodXhQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kfAjoSodXhQ",
+          "publishedOn": "2026-06-10T15:17:15.000Z",
+          "wordCount": null,
+          "title": "Annu Nilavulla Rathriyanu (From \"Thattukada Muthal Semitheri Vare\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xMB8u4vLi_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xMB8u4vLi_4",
+          "publishedOn": "2026-06-10T15:17:15.000Z",
+          "wordCount": null,
+          "title": "Annu Nilavulla Rathriyanu (From \"Thattukada Muthal Semitheri Vare\") (Preview)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lo5V96U1mpA",
           "author": null,
           "description": "",
@@ -501,6 +521,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CucD9F4TYFg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CucD9F4TYFg",
+          "publishedOn": "2026-06-10T15:19:54.000Z",
+          "wordCount": null,
+          "title": "Manamithil",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=193L8R1u_6s",
           "author": null,
