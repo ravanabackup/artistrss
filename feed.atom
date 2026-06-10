@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-10T21:56:09.050Z</updated>
+    <updated>2026-06-10T23:23:34.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1300,15 +1300,6 @@
         <updated>2026-05-12T13:36:28.000Z</updated>
         <author>
             <name>Sujatha - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaval Malaghaye]]></title>
-        <id>https://www.youtube.com/watch?v=_lFCvGP2iBI</id>
-        <link href="https://www.youtube.com/watch?v=_lFCvGP2iBI"/>
-        <updated>2026-05-12T10:01:02.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
         </author>
     </entry>
 </feed>
