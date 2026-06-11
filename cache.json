@@ -6,6 +6,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nMrRsv0M9Kc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nMrRsv0M9Kc",
+          "publishedOn": "2026-06-11T10:00:12.000Z",
+          "wordCount": null,
+          "title": "jeevanete jeevanaya kadu ethu kallamoolayile kadu (From \"Kallamoola\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z_H3Ti1Go1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z_H3Ti1Go1Y",
+          "publishedOn": "2026-06-11T10:00:10.000Z",
+          "wordCount": null,
+          "title": "jeevanete jeevanaya kadu ethu kallamoolayile kadu (From \"Kallamoola\") (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rGEeO-bGyvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rGEeO-bGyvA",
+          "publishedOn": "2026-06-10T15:20:33.000Z",
+          "wordCount": null,
+          "title": "Akale",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T2DoNh_2_h4",
           "author": null,
           "description": "",
@@ -368,6 +398,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=--2Sxr3hK6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=--2Sxr3hK6I",
+          "publishedOn": "2026-06-09T13:23:43.000Z",
+          "wordCount": null,
+          "title": "Jeevithamakum",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FZHEtvPc7vE",
           "author": null,
