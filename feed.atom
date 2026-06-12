@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T19:01:28.686Z</updated>
+    <updated>2026-06-12T21:27:52.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1309,33 +1309,6 @@
         <updated>2026-05-14T10:00:15.000Z</updated>
         <author>
             <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suvishesha]]></title>
-        <id>https://www.youtube.com/watch?v=dFLrBnaraks</id>
-        <link href="https://www.youtube.com/watch?v=dFLrBnaraks"/>
-        <updated>2026-05-14T07:25:41.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yesuninagathram]]></title>
-        <id>https://www.youtube.com/watch?v=lhmFOGFfwGg</id>
-        <link href="https://www.youtube.com/watch?v=lhmFOGFfwGg"/>
-        <updated>2026-05-14T07:25:41.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parishudha]]></title>
-        <id>https://www.youtube.com/watch?v=wxVPexN9ASU</id>
-        <link href="https://www.youtube.com/watch?v=wxVPexN9ASU"/>
-        <updated>2026-05-14T07:25:41.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
