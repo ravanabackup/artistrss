@@ -532,6 +532,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sAwDgnp-llk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sAwDgnp-llk",
+          "publishedOn": "2026-06-10T15:20:52.000Z",
+          "wordCount": null,
+          "title": "Pranayasarovara",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CucD9F4TYFg",
           "author": null,
           "description": "",
