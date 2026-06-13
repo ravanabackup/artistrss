@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T10:24:20.325Z</updated>
+    <updated>2026-06-13T12:21:44.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Osthiyay]]></title>
+        <id>https://www.youtube.com/watch?v=8K7cMeWdtZo</id>
+        <link href="https://www.youtube.com/watch?v=8K7cMeWdtZo"/>
+        <updated>2026-06-12T06:55:21.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jeevanete jeevanaya kadu ethu kallamoolayile kadu (From "Kallamoola")]]></title>
         <id>https://www.youtube.com/watch?v=nMrRsv0M9Kc</id>
@@ -1183,15 +1192,6 @@
         <updated>2026-05-15T07:24:21.000Z</updated>
         <author>
             <name>Sujatha - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya]]></title>
-        <id>https://www.youtube.com/watch?v=fJM3ck_uhI0</id>
-        <link href="https://www.youtube.com/watch?v=fJM3ck_uhI0"/>
-        <updated>2026-05-14T23:12:34.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>
