@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T08:12:08.834Z</updated>
+    <updated>2026-06-14T11:26:54.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karalile Kovilil]]></title>
+        <id>https://www.youtube.com/watch?v=8Zk6T76MmCo</id>
+        <link href="https://www.youtube.com/watch?v=8Zk6T76MmCo"/>
+        <updated>2026-06-14T10:00:04.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Osthiyay]]></title>
         <id>https://www.youtube.com/watch?v=8K7cMeWdtZo</id>
