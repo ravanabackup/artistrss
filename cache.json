@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UlFgyzwVvF4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UlFgyzwVvF4",
+          "publishedOn": "2026-06-17T07:24:56.000Z",
+          "wordCount": null,
+          "title": "Kottarakkara Ganapathiye",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vUvsZWeRiS4",
           "author": null,
           "description": "",
@@ -459,6 +469,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-aq16-fVILc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-aq16-fVILc",
+          "publishedOn": "2026-06-17T07:24:56.000Z",
+          "wordCount": null,
+          "title": "Thumbikkai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7f3i2vrFhpI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7f3i2vrFhpI",
+          "publishedOn": "2026-06-17T07:24:56.000Z",
+          "wordCount": null,
+          "title": "Oru Nalikeram",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sAwDgnp-llk",
           "author": null,
@@ -717,6 +747,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IIdX0l5IUYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IIdX0l5IUYE",
+          "publishedOn": "2026-06-17T07:48:17.000Z",
+          "wordCount": null,
+          "title": "Chendamarakkanna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TbZwd7drN5w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TbZwd7drN5w",
+          "publishedOn": "2026-06-17T07:48:17.000Z",
+          "wordCount": null,
+          "title": "Ponmuraliyoothum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ooFhV3KF6eY",
           "author": null,
           "description": "",
@@ -804,16 +854,6 @@
           "publishedOn": "2026-05-20T12:49:11.000Z",
           "wordCount": null,
           "title": "Chendamarakkanna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xwkabHY9m9I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xwkabHY9m9I",
-          "publishedOn": "2026-05-18T12:47:58.000Z",
-          "wordCount": null,
-          "title": "Thaaliminji",
           "imageUrl": null
         }
       ]
@@ -1092,6 +1132,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qKnWLRMrODY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qKnWLRMrODY",
+          "publishedOn": "2026-06-17T07:37:03.000Z",
+          "wordCount": null,
+          "title": "Aadhi Vachaname",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z7xrjmxqaSM",
           "author": null,
