@@ -500,6 +500,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0-n1EigFwoU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0-n1EigFwoU",
+          "publishedOn": "2026-06-18T20:18:29.000Z",
+          "wordCount": null,
+          "title": "Manasinde",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TkLqDShX-4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TkLqDShX-4A",
+          "publishedOn": "2026-06-18T20:18:29.000Z",
+          "wordCount": null,
+          "title": "Manasinde (Preview)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-aq16-fVILc",
           "author": null,
           "description": "",
@@ -688,86 +708,6 @@
           "wordCount": null,
           "title": "Nee Rogiyanennalum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A0MYHtvTa90",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A0MYHtvTa90",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Aasrayipathinay",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bs0qvHlceMQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bs0qvHlceMQ",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Daivasakthi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PxdX3Y-jM6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PxdX3Y-jM6M",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Anandham Vismayam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=abwTaj5bRyA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=abwTaj5bRyA",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Aakashaparavakale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jrp9YuzltQI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jrp9YuzltQI",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Aa Divyameni",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DCK2utjZHj8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DCK2utjZHj8",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Athmaavine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XPKgzIEARAo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XPKgzIEARAo",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Bathlahem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dM3B8Rdvhf8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dM3B8Rdvhf8",
-          "publishedOn": "2026-05-20T08:38:34.000Z",
-          "wordCount": null,
-          "title": "Anugrahathin Athipathi",
-          "imageUrl": null
         }
       ]
     },
@@ -776,6 +716,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ep0bOzuEst0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ep0bOzuEst0",
+          "publishedOn": "2026-06-18T20:28:06.000Z",
+          "wordCount": null,
+          "title": "Muthaya Muthurasool (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vV_mluhCTdA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vV_mluhCTdA",
+          "publishedOn": "2026-06-18T20:28:06.000Z",
+          "wordCount": null,
+          "title": "Muthaya Muthurasool",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UI2t37MUiGM",
           "author": null,
