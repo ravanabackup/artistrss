@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T06:12:57.721Z</updated>
+    <updated>2026-06-19T11:17:51.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sree Rama Naama Manthram]]></title>
+        <id>https://www.youtube.com/watch?v=SBBJpezntZI</id>
+        <link href="https://www.youtube.com/watch?v=SBBJpezntZI"/>
+        <updated>2026-06-19T10:19:28.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thumbikkai]]></title>
+        <id>https://www.youtube.com/watch?v=Ldbzps-7PEI</id>
+        <link href="https://www.youtube.com/watch?v=Ldbzps-7PEI"/>
+        <updated>2026-06-19T10:19:28.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saraswathi]]></title>
+        <id>https://www.youtube.com/watch?v=b43SEF0jy88</id>
+        <link href="https://www.youtube.com/watch?v=b43SEF0jy88"/>
+        <updated>2026-06-19T10:19:28.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethrayum (Preview)]]></title>
         <id>https://www.youtube.com/watch?v=CMbNI-R1R5E</id>
@@ -151,6 +178,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arikil Njaan]]></title>
+        <id>https://www.youtube.com/watch?v=oBDTmD83RmU</id>
+        <link href="https://www.youtube.com/watch?v=oBDTmD83RmU"/>
+        <updated>2026-06-18T10:08:49.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Poo Nilaavinte]]></title>
         <id>https://www.youtube.com/watch?v=jFK6EMVrg68</id>
         <link href="https://www.youtube.com/watch?v=jFK6EMVrg68"/>
@@ -184,6 +220,15 @@
         <updated>2026-06-17T07:48:17.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baliyil Snehabaliyil]]></title>
+        <id>https://www.youtube.com/watch?v=eaJc6jHNtI4</id>
+        <link href="https://www.youtube.com/watch?v=eaJc6jHNtI4"/>
+        <updated>2026-06-17T07:37:03.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
         </author>
     </entry>
     <entry>
@@ -286,10 +331,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jananavu Mayeyu]]></title>
+        <id>https://www.youtube.com/watch?v=csjK6Bx_tBo</id>
+        <link href="https://www.youtube.com/watch?v=csjK6Bx_tBo"/>
+        <updated>2026-06-16T05:40:51.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Preeti Mounavagide]]></title>
         <id>https://www.youtube.com/watch?v=vUvsZWeRiS4</id>
         <link href="https://www.youtube.com/watch?v=vUvsZWeRiS4"/>
         <updated>2026-06-15T15:12:36.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee Yekangiyagamma]]></title>
+        <id>https://www.youtube.com/watch?v=4tnQsKKOatE</id>
+        <link href="https://www.youtube.com/watch?v=4tnQsKKOatE"/>
+        <updated>2026-06-15T14:55:48.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
         </author>
@@ -1372,15 +1435,6 @@
         <updated>2026-05-21T07:09:16.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaliyugamu]]></title>
-        <id>https://www.youtube.com/watch?v=Kw8OzNryjqs</id>
-        <link href="https://www.youtube.com/watch?v=Kw8OzNryjqs"/>
-        <updated>2026-05-20T22:51:43.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
