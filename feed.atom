@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T17:17:10.591Z</updated>
+    <updated>2026-06-19T19:43:42.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1561,42 +1561,6 @@
         <updated>2026-05-21T10:02:56.000Z</updated>
         <author>
             <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalocha Kettinnu (M)]]></title>
-        <id>https://www.youtube.com/watch?v=totdoD_Qry4</id>
-        <link href="https://www.youtube.com/watch?v=totdoD_Qry4"/>
-        <updated>2026-05-21T07:09:16.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaval Vilakke]]></title>
-        <id>https://www.youtube.com/watch?v=oa6KQ3HroZg</id>
-        <link href="https://www.youtube.com/watch?v=oa6KQ3HroZg"/>
-        <updated>2026-05-21T07:09:16.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Rogiyanennalum]]></title>
-        <id>https://www.youtube.com/watch?v=t9qTEK9k50I</id>
-        <link href="https://www.youtube.com/watch?v=t9qTEK9k50I"/>
-        <updated>2026-05-21T07:09:16.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manatharil Ennum (F)]]></title>
-        <id>https://www.youtube.com/watch?v=FDegqlFXkq8</id>
-        <link href="https://www.youtube.com/watch?v=FDegqlFXkq8"/>
-        <updated>2026-05-21T07:09:16.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
         </author>
     </entry>
 </feed>
