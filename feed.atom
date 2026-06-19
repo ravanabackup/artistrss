@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T14:55:41.601Z</updated>
+    <updated>2026-06-19T17:17:10.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaakkol]]></title>
+        <id>https://www.youtube.com/watch?v=1I29eTan9CM</id>
+        <link href="https://www.youtube.com/watch?v=1I29eTan9CM"/>
+        <updated>2026-06-19T15:14:38.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engotta]]></title>
+        <id>https://www.youtube.com/watch?v=WG6j9PX7SAM</id>
+        <link href="https://www.youtube.com/watch?v=WG6j9PX7SAM"/>
+        <updated>2026-06-19T15:14:38.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parisudhathmave]]></title>
         <id>https://www.youtube.com/watch?v=-HdOPYbWlk0</id>
