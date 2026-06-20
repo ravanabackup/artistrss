@@ -417,6 +417,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lclGn080fxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lclGn080fxE",
+          "publishedOn": "2026-06-20T00:09:05.000Z",
+          "wordCount": null,
+          "title": "Pranayathin (Male Version)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mPXaWqceyWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mPXaWqceyWc",
+          "publishedOn": "2026-06-20T00:09:05.000Z",
+          "wordCount": null,
+          "title": "Pranayathin (Male Version) (Preview)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SBBJpezntZI",
           "author": null,
           "description": "",
@@ -857,26 +877,6 @@
           "publishedOn": "2026-05-22T10:06:46.000Z",
           "wordCount": null,
           "title": "Thumbikkai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1hizG9OVxrA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1hizG9OVxrA",
-          "publishedOn": "2026-05-21T13:57:09.000Z",
-          "wordCount": null,
-          "title": "Thirumumpil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3dsx5rK9F4g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3dsx5rK9F4g",
-          "publishedOn": "2026-05-21T13:57:09.000Z",
-          "wordCount": null,
-          "title": "Minnaminungukal",
           "imageUrl": null
         }
       ]
