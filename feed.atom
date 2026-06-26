@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T02:56:15.388Z</updated>
+    <updated>2026-06-26T06:54:14.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -3292,6 +3292,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nenjakame Nee (From "Aroopi")]]></title>
+        <id>https://www.youtube.com/watch?v=2cwMC50AGvI</id>
+        <link href="https://www.youtube.com/watch?v=2cwMC50AGvI"/>
+        <updated>2026-06-17T07:19:06.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meyyil]]></title>
         <id>https://www.youtube.com/watch?v=0AmUTRps2-M</id>
         <link href="https://www.youtube.com/watch?v=0AmUTRps2-M"/>
@@ -3631,6 +3640,15 @@
         <updated>2026-06-09T05:14:29.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orma Nilaav (From "Aroopi")]]></title>
+        <id>https://www.youtube.com/watch?v=MW8VNiDqPWM</id>
+        <link href="https://www.youtube.com/watch?v=MW8VNiDqPWM"/>
+        <updated>2026-06-08T08:45:41.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
         </author>
     </entry>
     <entry>

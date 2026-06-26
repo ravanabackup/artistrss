@@ -912,7 +912,28 @@
       "title": "Gopi Sundar - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2cwMC50AGvI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2cwMC50AGvI",
+          "publishedOn": "2026-06-17T07:19:06.000Z",
+          "wordCount": null,
+          "title": "Nenjakame Nee (From \"Aroopi\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MW8VNiDqPWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MW8VNiDqPWM",
+          "publishedOn": "2026-06-08T08:45:41.000Z",
+          "wordCount": null,
+          "title": "Orma Nilaav (From \"Aroopi\")",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Bijibal - Topic",
