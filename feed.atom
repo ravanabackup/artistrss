@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T20:43:33.521Z</updated>
+    <updated>2026-06-26T22:08:16.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4324,33 +4324,6 @@
         <updated>2026-05-30T11:14:36.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve]]></title>
-        <id>https://www.youtube.com/watch?v=Lfa4jF2UDsM</id>
-        <link href="https://www.youtube.com/watch?v=Lfa4jF2UDsM"/>
-        <updated>2026-05-28T08:46:58.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unniyeshu]]></title>
-        <id>https://www.youtube.com/watch?v=dlqiTAvztZg</id>
-        <link href="https://www.youtube.com/watch?v=dlqiTAvztZg"/>
-        <updated>2026-05-28T08:45:44.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rakthakottakkullil]]></title>
-        <id>https://www.youtube.com/watch?v=6HEtEX7CJCA</id>
-        <link href="https://www.youtube.com/watch?v=6HEtEX7CJCA"/>
-        <updated>2026-05-28T08:45:40.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
