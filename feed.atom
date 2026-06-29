@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T22:01:50.779Z</updated>
+    <updated>2026-06-29T00:04:15.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4378,51 +4378,6 @@
         <updated>2026-06-01T07:18:57.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anugrahathin Athipathi]]></title>
-        <id>https://www.youtube.com/watch?v=FSa5Pl2ZQqw</id>
-        <link href="https://www.youtube.com/watch?v=FSa5Pl2ZQqw"/>
-        <updated>2026-05-30T11:17:10.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eesho Neeyente]]></title>
-        <id>https://www.youtube.com/watch?v=k0pimmK0q5k</id>
-        <link href="https://www.youtube.com/watch?v=k0pimmK0q5k"/>
-        <updated>2026-05-30T11:17:10.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthathisayame]]></title>
-        <id>https://www.youtube.com/watch?v=5z_lVSpBzoM</id>
-        <link href="https://www.youtube.com/watch?v=5z_lVSpBzoM"/>
-        <updated>2026-05-30T11:17:10.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiranagal]]></title>
-        <id>https://www.youtube.com/watch?v=MXZ9kOCNydo</id>
-        <link href="https://www.youtube.com/watch?v=MXZ9kOCNydo"/>
-        <updated>2026-05-30T11:16:05.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasrathin Puthri]]></title>
-        <id>https://www.youtube.com/watch?v=OUKwx8yIKpA</id>
-        <link href="https://www.youtube.com/watch?v=OUKwx8yIKpA"/>
-        <updated>2026-05-30T11:14:36.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
