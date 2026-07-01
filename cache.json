@@ -1036,38 +1036,7 @@
       "title": "Shaan Rahman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg",
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=-nYwVCUOPOQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-nYwVCUOPOQ",
-          "publishedOn": "2026-06-02T09:54:21.000Z",
-          "wordCount": null,
-          "title": "Dhoore Dhoore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZUZ2KNCT36E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZUZ2KNCT36E",
-          "publishedOn": "2026-06-02T09:39:17.000Z",
-          "wordCount": null,
-          "title": "Aayiram Chiraathukal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g2SCNi5esx0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g2SCNi5esx0",
-          "publishedOn": "2026-06-02T09:30:49.000Z",
-          "wordCount": null,
-          "title": "Kadhale",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "- Topic",
@@ -1928,16 +1897,6 @@
           "publishedOn": "2026-06-03T16:27:09.000Z",
           "wordCount": null,
           "title": "Kottarakkara Ganapathiye",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V1axtjurFx4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V1axtjurFx4",
-          "publishedOn": "2026-06-02T10:35:53.000Z",
-          "wordCount": null,
-          "title": "Kiranagal",
           "imageUrl": null
         }
       ]
