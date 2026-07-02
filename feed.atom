@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T02:51:44.327Z</updated>
+    <updated>2026-07-02T06:37:43.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -211,6 +211,15 @@
         <updated>2026-06-25T08:20:09.000Z</updated>
         <author>
             <name>Sujatha - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aakashadheepangal Sakshi (M)]]></title>
+        <id>https://www.youtube.com/watch?v=gBw6pCcjQL4</id>
+        <link href="https://www.youtube.com/watch?v=gBw6pCcjQL4"/>
+        <updated>2026-06-25T08:20:09.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -661,6 +670,24 @@
         <updated>2026-06-25T08:08:04.000Z</updated>
         <author>
             <name>G. Venugopal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chillu Vilakkumayi (M)]]></title>
+        <id>https://www.youtube.com/watch?v=MF1rEuK9Hrk</id>
+        <link href="https://www.youtube.com/watch?v=MF1rEuK9Hrk"/>
+        <updated>2026-06-25T08:07:56.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharattin Cheru Cheppu (Duet)]]></title>
+        <id>https://www.youtube.com/watch?v=MFC0XSCE2L0</id>
+        <link href="https://www.youtube.com/watch?v=MFC0XSCE2L0"/>
+        <updated>2026-06-25T08:07:56.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1843,6 +1870,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rakthathirakal]]></title>
+        <id>https://www.youtube.com/watch?v=-n8bFPEZuTM</id>
+        <link href="https://www.youtube.com/watch?v=-n8bFPEZuTM"/>
+        <updated>2026-06-24T18:32:40.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sukruthamallo F]]></title>
         <id>https://www.youtube.com/watch?v=4xjFVwQAwvE</id>
         <link href="https://www.youtube.com/watch?v=4xjFVwQAwvE"/>
@@ -2509,12 +2545,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vennakkal Kottara (From "Ammakilikoodu")]]></title>
+        <id>https://www.youtube.com/watch?v=MQdNIACE2O8</id>
+        <link href="https://www.youtube.com/watch?v=MQdNIACE2O8"/>
+        <updated>2026-06-24T10:05:00.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ormakkai Iniyoru]]></title>
+        <id>https://www.youtube.com/watch?v=mbuIXFUy5Ac</id>
+        <link href="https://www.youtube.com/watch?v=mbuIXFUy5Ac"/>
+        <updated>2026-06-24T10:04:43.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Annu Rathriyil]]></title>
         <id>https://www.youtube.com/watch?v=_Qj3ljCPUkg</id>
         <link href="https://www.youtube.com/watch?v=_Qj3ljCPUkg"/>
         <updated>2026-06-24T10:04:00.000Z</updated>
         <author>
             <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onam Aromale]]></title>
+        <id>https://www.youtube.com/watch?v=GZJCqASEAMU</id>
+        <link href="https://www.youtube.com/watch?v=GZJCqASEAMU"/>
+        <updated>2026-06-24T10:03:42.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athachamayam]]></title>
+        <id>https://www.youtube.com/watch?v=zKzWRC6zc7A</id>
+        <link href="https://www.youtube.com/watch?v=zKzWRC6zc7A"/>
+        <updated>2026-06-24T10:03:37.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -2545,12 +2617,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onathumbikal Parum]]></title>
+        <id>https://www.youtube.com/watch?v=IesJ42n2XKg</id>
+        <link href="https://www.youtube.com/watch?v=IesJ42n2XKg"/>
+        <updated>2026-06-24T10:03:22.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enthinennariyilla (From "My Boss")]]></title>
         <id>https://www.youtube.com/watch?v=Dc9Bb3BiQ_M</id>
         <link href="https://www.youtube.com/watch?v=Dc9Bb3BiQ_M"/>
         <updated>2026-06-24T10:02:25.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omale Ninmanimuttathil]]></title>
+        <id>https://www.youtube.com/watch?v=KtcK5AJq6IU</id>
+        <link href="https://www.youtube.com/watch?v=KtcK5AJq6IU"/>
+        <updated>2026-06-24T10:02:19.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -2567,6 +2657,15 @@
         <id>https://www.youtube.com/watch?v=MtXOnW9KikU</id>
         <link href="https://www.youtube.com/watch?v=MtXOnW9KikU"/>
         <updated>2026-06-24T10:01:43.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marikkavinum Appuram]]></title>
+        <id>https://www.youtube.com/watch?v=0mELKTCDAb8</id>
+        <link href="https://www.youtube.com/watch?v=0mELKTCDAb8"/>
+        <updated>2026-06-24T10:01:24.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
         </author>
