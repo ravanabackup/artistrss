@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T14:25:33.313Z</updated>
+    <updated>2026-07-04T15:57:46.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1267,6 +1267,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arikilayi (From Sree Halli)]]></title>
+        <id>https://www.youtube.com/watch?v=1uvJWD8fDlg</id>
+        <link href="https://www.youtube.com/watch?v=1uvJWD8fDlg"/>
+        <updated>2026-06-25T07:52:04.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kurisil Rodhanam]]></title>
         <id>https://www.youtube.com/watch?v=TuCsJUnZxa8</id>
         <link href="https://www.youtube.com/watch?v=TuCsJUnZxa8"/>
@@ -1861,6 +1870,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Naveena Bharatha]]></title>
+        <id>https://www.youtube.com/watch?v=O2WIj2usaHI</id>
+        <link href="https://www.youtube.com/watch?v=O2WIj2usaHI"/>
+        <updated>2026-06-24T18:33:24.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Akathinil Agalvilaketri]]></title>
         <id>https://www.youtube.com/watch?v=hOkPKIMfkrw</id>
         <link href="https://www.youtube.com/watch?v=hOkPKIMfkrw"/>
@@ -2329,6 +2347,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Santhigeetham]]></title>
+        <id>https://www.youtube.com/watch?v=Psr0tXPChgM</id>
+        <link href="https://www.youtube.com/watch?v=Psr0tXPChgM"/>
+        <updated>2026-06-24T18:31:16.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kinnarikal]]></title>
         <id>https://www.youtube.com/watch?v=YL-46Vf5WQo</id>
         <link href="https://www.youtube.com/watch?v=YL-46Vf5WQo"/>
@@ -2689,6 +2716,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pookkalamai]]></title>
+        <id>https://www.youtube.com/watch?v=CKuZ_0u4R-E</id>
+        <link href="https://www.youtube.com/watch?v=CKuZ_0u4R-E"/>
+        <updated>2026-06-24T10:05:29.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enthinennariyilla Appazho (From "My Boss")]]></title>
         <id>https://www.youtube.com/watch?v=eeakz7hhB2U</id>
         <link href="https://www.youtube.com/watch?v=eeakz7hhB2U"/>
@@ -2707,10 +2743,37 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Manassinullil]]></title>
+        <id>https://www.youtube.com/watch?v=qmXw795eDFY</id>
+        <link href="https://www.youtube.com/watch?v=qmXw795eDFY"/>
+        <updated>2026-06-24T10:04:47.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surumayezhuthiya (From "Khadeeja")]]></title>
+        <id>https://www.youtube.com/watch?v=Ilc28b31WGg</id>
+        <link href="https://www.youtube.com/watch?v=Ilc28b31WGg"/>
+        <updated>2026-06-24T10:04:44.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ormakkai Iniyoru]]></title>
         <id>https://www.youtube.com/watch?v=mbuIXFUy5Ac</id>
         <link href="https://www.youtube.com/watch?v=mbuIXFUy5Ac"/>
         <updated>2026-06-24T10:04:43.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kai Oru]]></title>
+        <id>https://www.youtube.com/watch?v=FNXwzCr2K9k</id>
+        <link href="https://www.youtube.com/watch?v=FNXwzCr2K9k"/>
+        <updated>2026-06-24T10:04:39.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
         </author>
