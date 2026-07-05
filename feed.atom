@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-05T03:55:05.735Z</updated>
+    <updated>2026-07-05T07:21:29.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thozhuthu Varunnu]]></title>
+        <id>https://www.youtube.com/watch?v=xDZu0yvhTA8</id>
+        <link href="https://www.youtube.com/watch?v=xDZu0yvhTA8"/>
+        <updated>2026-07-03T12:27:49.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sreemuthappan]]></title>
         <id>https://www.youtube.com/watch?v=6PCNOJD9bfA</id>
@@ -58,6 +67,15 @@
         <updated>2026-07-02T10:03:21.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swargam Thurannidum]]></title>
+        <id>https://www.youtube.com/watch?v=pQeQmRqzwAY</id>
+        <link href="https://www.youtube.com/watch?v=pQeQmRqzwAY"/>
+        <updated>2026-07-02T10:03:21.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
@@ -295,6 +313,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kalvari Yagathin]]></title>
+        <id>https://www.youtube.com/watch?v=LEWXoB5sQ7s</id>
+        <link href="https://www.youtube.com/watch?v=LEWXoB5sQ7s"/>
+        <updated>2026-06-27T05:44:44.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kiranagal]]></title>
         <id>https://www.youtube.com/watch?v=9-XZzC90UAQ</id>
         <link href="https://www.youtube.com/watch?v=9-XZzC90UAQ"/>
@@ -346,6 +373,24 @@
         <updated>2026-06-25T08:22:54.000Z</updated>
         <author>
             <name>G. Venugopal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pooja Pushpamay]]></title>
+        <id>https://www.youtube.com/watch?v=Ro4iSZUM4KU</id>
+        <link href="https://www.youtube.com/watch?v=Ro4iSZUM4KU"/>
+        <updated>2026-06-25T08:22:54.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innale Peytha 1]]></title>
+        <id>https://www.youtube.com/watch?v=Rr3a6lNMMZg</id>
+        <link href="https://www.youtube.com/watch?v=Rr3a6lNMMZg"/>
+        <updated>2026-06-25T08:22:54.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -967,6 +1012,15 @@
         <updated>2026-06-25T08:06:24.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chellakatte]]></title>
+        <id>https://www.youtube.com/watch?v=F-fNSkguqiw</id>
+        <link href="https://www.youtube.com/watch?v=F-fNSkguqiw"/>
+        <updated>2026-06-25T08:06:23.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1924,6 +1978,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chellakatte]]></title>
+        <id>https://www.youtube.com/watch?v=88vg_wXsI7E</id>
+        <link href="https://www.youtube.com/watch?v=88vg_wXsI7E"/>
+        <updated>2026-06-24T18:33:09.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tha Theyyam]]></title>
         <id>https://www.youtube.com/watch?v=FlrFKqQD00c</id>
         <link href="https://www.youtube.com/watch?v=FlrFKqQD00c"/>
@@ -2725,12 +2788,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Parin]]></title>
+        <id>https://www.youtube.com/watch?v=LOBaRsSFFEA</id>
+        <link href="https://www.youtube.com/watch?v=LOBaRsSFFEA"/>
+        <updated>2026-06-24T10:05:17.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enthinennariyilla Appazho (From "My Boss")]]></title>
         <id>https://www.youtube.com/watch?v=eeakz7hhB2U</id>
         <link href="https://www.youtube.com/watch?v=eeakz7hhB2U"/>
         <updated>2026-06-24T10:05:05.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhuvanam]]></title>
+        <id>https://www.youtube.com/watch?v=2v8vjoybKfs</id>
+        <link href="https://www.youtube.com/watch?v=2v8vjoybKfs"/>
+        <updated>2026-06-24T10:05:03.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -3220,6 +3301,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ente Snehithanam]]></title>
+        <id>https://www.youtube.com/watch?v=7SpjGvTnnXc</id>
+        <link href="https://www.youtube.com/watch?v=7SpjGvTnnXc"/>
+        <updated>2026-06-23T08:15:02.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aakashavrindhangal]]></title>
+        <id>https://www.youtube.com/watch?v=RY3xs4cPJQo</id>
+        <link href="https://www.youtube.com/watch?v=RY3xs4cPJQo"/>
+        <updated>2026-06-23T08:15:02.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanivarnn Kaniyunna]]></title>
+        <id>https://www.youtube.com/watch?v=WuYJDrQcyFc</id>
+        <link href="https://www.youtube.com/watch?v=WuYJDrQcyFc"/>
+        <updated>2026-06-23T08:15:02.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Paramapithave]]></title>
         <id>https://www.youtube.com/watch?v=522QAqwvXuA</id>
         <link href="https://www.youtube.com/watch?v=522QAqwvXuA"/>
@@ -3265,12 +3373,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vallaban Nallavan]]></title>
+        <id>https://www.youtube.com/watch?v=8-ajFaIChhQ</id>
+        <link href="https://www.youtube.com/watch?v=8-ajFaIChhQ"/>
+        <updated>2026-06-23T08:01:35.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithuvare Yahoova]]></title>
+        <id>https://www.youtube.com/watch?v=F2eCL556prA</id>
+        <link href="https://www.youtube.com/watch?v=F2eCL556prA"/>
+        <updated>2026-06-23T07:55:52.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nasrathin Puthri]]></title>
         <id>https://www.youtube.com/watch?v=PE8D7C1wa1k</id>
         <link href="https://www.youtube.com/watch?v=PE8D7C1wa1k"/>
         <updated>2026-06-23T05:09:20.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaypuneerin Kasa]]></title>
+        <id>https://www.youtube.com/watch?v=dkGmrNWgzOY</id>
+        <link href="https://www.youtube.com/watch?v=dkGmrNWgzOY"/>
+        <updated>2026-06-23T05:09:20.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivarajyamitha]]></title>
+        <id>https://www.youtube.com/watch?v=kqSDTQ5UJy8</id>
+        <link href="https://www.youtube.com/watch?v=kqSDTQ5UJy8"/>
+        <updated>2026-06-23T05:09:20.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
