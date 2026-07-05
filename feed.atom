@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T23:58:28.779Z</updated>
+    <updated>2026-07-05T03:55:05.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4603,24 +4603,6 @@
         <updated>2026-06-05T21:50:22.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhikaattum (From"Dhamaka") (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=lo5V96U1mpA</id>
-        <link href="https://www.youtube.com/watch?v=lo5V96U1mpA"/>
-        <updated>2026-06-05T13:20:15.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhikaattum (From"Dhamaka")]]></title>
-        <id>https://www.youtube.com/watch?v=e8aymq1Ls6M</id>
-        <link href="https://www.youtube.com/watch?v=e8aymq1Ls6M"/>
-        <updated>2026-06-05T13:20:14.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
         </author>
     </entry>
 </feed>
