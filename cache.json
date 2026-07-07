@@ -163,6 +163,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8LXNgKl_lz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8LXNgKl_lz0",
+          "publishedOn": "2026-07-07T09:43:56.000Z",
+          "wordCount": null,
+          "title": "Madhura Pulavu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aSsVm8B_Uo0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aSsVm8B_Uo0",
+          "publishedOn": "2026-07-07T09:43:56.000Z",
+          "wordCount": null,
+          "title": "Priyamodonnu Koode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dH30_51-dOk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dH30_51-dOk",
+          "publishedOn": "2026-07-07T09:43:56.000Z",
+          "wordCount": null,
+          "title": "Irayatharo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=de7qGXeBS0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=de7qGXeBS0I",
+          "publishedOn": "2026-07-07T09:43:56.000Z",
+          "wordCount": null,
+          "title": "Hasbi Rabbi Jallallah",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qrSwoiFo7Qg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qrSwoiFo7Qg",
+          "publishedOn": "2026-07-07T09:43:56.000Z",
+          "wordCount": null,
+          "title": "Enthinaanee Neelakkannil Suruma (Remix)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YBEMDNbfIaQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YBEMDNbfIaQ",
+          "publishedOn": "2026-07-07T09:08:15.000Z",
+          "wordCount": null,
+          "title": "Madhura Pulavu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3_eh_dUYiiU",
           "author": null,
           "description": "",
@@ -230,6 +290,16 @@
           "publishedOn": "2026-07-02T10:03:21.000Z",
           "wordCount": null,
           "title": "Madhura Pulavu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7hJvDet39W0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7hJvDet39W0",
+          "publishedOn": "2026-07-02T03:54:19.000Z",
+          "wordCount": null,
+          "title": "Baro Krishnayya",
           "imageUrl": null
         },
         {
