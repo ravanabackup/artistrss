@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T17:45:31.810Z</updated>
+    <updated>2026-07-08T19:18:33.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -229,6 +229,15 @@
         <updated>2026-07-06T10:58:14.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Paathayil]]></title>
+        <id>https://www.youtube.com/watch?v=qloPyNYKb3U</id>
+        <link href="https://www.youtube.com/watch?v=qloPyNYKb3U"/>
+        <updated>2026-07-06T07:00:28.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1168,6 +1177,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onnu Kandotte]]></title>
+        <id>https://www.youtube.com/watch?v=A505gOPQalc</id>
+        <link href="https://www.youtube.com/watch?v=A505gOPQalc"/>
+        <updated>2026-06-25T08:08:04.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithramelenne Nee]]></title>
+        <id>https://www.youtube.com/watch?v=L9HvrDfY4jc</id>
+        <link href="https://www.youtube.com/watch?v=L9HvrDfY4jc"/>
+        <updated>2026-06-25T08:08:04.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthe Muthinum Muthe]]></title>
+        <id>https://www.youtube.com/watch?v=kGLSRomK_JI</id>
+        <link href="https://www.youtube.com/watch?v=kGLSRomK_JI"/>
+        <updated>2026-06-25T08:08:04.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chillu Vilakkumayi (M)]]></title>
         <id>https://www.youtube.com/watch?v=MF1rEuK9Hrk</id>
         <link href="https://www.youtube.com/watch?v=MF1rEuK9Hrk"/>
@@ -1303,6 +1339,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sneha Manasam]]></title>
+        <id>https://www.youtube.com/watch?v=uSLprztdfS0</id>
+        <link href="https://www.youtube.com/watch?v=uSLprztdfS0"/>
+        <updated>2026-06-25T08:06:29.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nadhan Jeevadayakan]]></title>
         <id>https://www.youtube.com/watch?v=O6nVVRkgVO4</id>
         <link href="https://www.youtube.com/watch?v=O6nVVRkgVO4"/>
@@ -1426,6 +1471,15 @@
         <updated>2026-06-25T08:04:42.000Z</updated>
         <author>
             <name>Sujatha - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radhe Pranayalole]]></title>
+        <id>https://www.youtube.com/watch?v=Uz7JGQ3Vav0</id>
+        <link href="https://www.youtube.com/watch?v=Uz7JGQ3Vav0"/>
+        <updated>2026-06-25T08:04:42.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>

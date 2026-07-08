@@ -1114,6 +1114,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qloPyNYKb3U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qloPyNYKb3U",
+          "publishedOn": "2026-07-06T07:00:28.000Z",
+          "wordCount": null,
+          "title": "Ee Paathayil",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dsjOZNM8iNA",
           "author": null,
           "description": "",
@@ -4102,6 +4112,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=A505gOPQalc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A505gOPQalc",
+          "publishedOn": "2026-06-25T08:08:04.000Z",
+          "wordCount": null,
+          "title": "Onnu Kandotte",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=L9HvrDfY4jc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L9HvrDfY4jc",
+          "publishedOn": "2026-06-25T08:08:04.000Z",
+          "wordCount": null,
+          "title": "Ithramelenne Nee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kGLSRomK_JI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kGLSRomK_JI",
+          "publishedOn": "2026-06-25T08:08:04.000Z",
+          "wordCount": null,
+          "title": "Muthe Muthinum Muthe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MF1rEuK9Hrk",
           "author": null,
           "description": "",
@@ -4119,6 +4159,26 @@
           "publishedOn": "2026-06-25T08:07:56.000Z",
           "wordCount": null,
           "title": "Tharattin Cheru Cheppu (Duet)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uSLprztdfS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uSLprztdfS0",
+          "publishedOn": "2026-06-25T08:06:29.000Z",
+          "wordCount": null,
+          "title": "Sneha Manasam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Uz7JGQ3Vav0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uz7JGQ3Vav0",
+          "publishedOn": "2026-06-25T08:04:42.000Z",
+          "wordCount": null,
+          "title": "Radhe Pranayalole",
           "imageUrl": null
         },
         {
