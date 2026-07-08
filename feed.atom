@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T11:00:31.579Z</updated>
+    <updated>2026-07-08T13:53:19.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kadalum Malayum Thaandi]]></title>
+        <id>https://www.youtube.com/watch?v=A8cOuuObaUw</id>
+        <link href="https://www.youtube.com/watch?v=A8cOuuObaUw"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiranagal]]></title>
+        <id>https://www.youtube.com/watch?v=Dk6lgWsHmMM</id>
+        <link href="https://www.youtube.com/watch?v=Dk6lgWsHmMM"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swargeeyaramam]]></title>
+        <id>https://www.youtube.com/watch?v=FA9POW8-oxs</id>
+        <link href="https://www.youtube.com/watch?v=FA9POW8-oxs"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hridayamam Sakrari (Male Version)]]></title>
+        <id>https://www.youtube.com/watch?v=IzqYXE2fAcs</id>
+        <link href="https://www.youtube.com/watch?v=IzqYXE2fAcs"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasrathin Puthri]]></title>
+        <id>https://www.youtube.com/watch?v=QoLWBnevybA</id>
+        <link href="https://www.youtube.com/watch?v=QoLWBnevybA"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naadhane Vazhthi]]></title>
+        <id>https://www.youtube.com/watch?v=RmsWvPQK2p4</id>
+        <link href="https://www.youtube.com/watch?v=RmsWvPQK2p4"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevithamakum]]></title>
+        <id>https://www.youtube.com/watch?v=_jiLTIIUcOk</id>
+        <link href="https://www.youtube.com/watch?v=_jiLTIIUcOk"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethratholam]]></title>
+        <id>https://www.youtube.com/watch?v=nSgQfyfYUHE</id>
+        <link href="https://www.youtube.com/watch?v=nSgQfyfYUHE"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramapithave]]></title>
+        <id>https://www.youtube.com/watch?v=pfNPEVEUuHQ</id>
+        <link href="https://www.youtube.com/watch?v=pfNPEVEUuHQ"/>
+        <updated>2026-07-08T12:24:53.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olidu Baare (From "Marujanma")]]></title>
+        <id>https://www.youtube.com/watch?v=toHG-QCIjyY</id>
+        <link href="https://www.youtube.com/watch?v=toHG-QCIjyY"/>
+        <updated>2026-07-08T11:37:05.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amme Daivathin]]></title>
         <id>https://www.youtube.com/watch?v=ha2GCThr2fQ</id>
