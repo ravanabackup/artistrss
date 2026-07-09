@@ -1144,6 +1144,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=fNC_jDx_h3Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fNC_jDx_h3Y",
+          "publishedOn": "2026-07-03T11:48:49.000Z",
+          "wordCount": null,
+          "title": "Kera Karayude - Kickoff Song (From \"Bolagolam\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2cwMC50AGvI",
           "author": null,
           "description": "",
@@ -2950,6 +2960,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n8D21pF-u8o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n8D21pF-u8o",
+          "publishedOn": "2026-07-07T06:27:41.000Z",
+          "wordCount": null,
+          "title": "Rama Naamam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nfKZcLZewsc",
           "author": null,
