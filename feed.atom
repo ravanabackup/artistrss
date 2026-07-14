@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T22:53:56.459Z</updated>
+    <updated>2026-07-14T23:50:18.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4862,33 +4862,6 @@
         <id>https://www.youtube.com/watch?v=DEu__UjFvOk</id>
         <link href="https://www.youtube.com/watch?v=DEu__UjFvOk"/>
         <updated>2026-06-15T12:12:19.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sugamaay Nadha]]></title>
-        <id>https://www.youtube.com/watch?v=ooFhV3KF6eY</id>
-        <link href="https://www.youtube.com/watch?v=ooFhV3KF6eY"/>
-        <updated>2026-06-15T11:36:29.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargathil Vaazhunna]]></title>
-        <id>https://www.youtube.com/watch?v=CW2JQPxExNE</id>
-        <link href="https://www.youtube.com/watch?v=CW2JQPxExNE"/>
-        <updated>2026-06-15T11:36:29.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oro Vakkum]]></title>
-        <id>https://www.youtube.com/watch?v=wTxLIR7iGNI</id>
-        <link href="https://www.youtube.com/watch?v=wTxLIR7iGNI"/>
-        <updated>2026-06-15T11:36:29.000Z</updated>
         <author>
             <name>Kester - Topic</name>
         </author>
