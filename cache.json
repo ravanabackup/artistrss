@@ -1121,6 +1121,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoEkddaP-0x5YEZ-IrDq96A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jA7QfU-tPU4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jA7QfU-tPU4",
+          "publishedOn": "2026-07-14T10:46:08.000Z",
+          "wordCount": null,
+          "title": "Muttathu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-YYY2RLrND4",
           "author": null,
           "description": "",
@@ -1572,13 +1582,44 @@
       "title": "Shahabaz Aman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIPZv7FT9SQ-XFIV47yz9yg",
       "siteUrl": "https://www.youtube.com/channel/UCIPZv7FT9SQ-XFIV47yz9yg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=L__1lp_x1xU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L__1lp_x1xU",
+          "publishedOn": "2026-07-14T10:46:08.000Z",
+          "wordCount": null,
+          "title": "Bismillah",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mLd2qNcvAL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mLd2qNcvAL0",
+          "publishedOn": "2026-07-14T10:46:08.000Z",
+          "wordCount": null,
+          "title": "Sundaranayavane",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Madhu Balakrishnan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4nWAuv9Ah2Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4nWAuv9Ah2Q",
+          "publishedOn": "2026-07-14T11:02:04.000Z",
+          "wordCount": null,
+          "title": "Jeevithamakum",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0uHRxLqcYr8",
           "author": null,
@@ -5205,6 +5246,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ebTCnCQ581g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ebTCnCQ581g",
+          "publishedOn": "2026-07-14T11:02:04.000Z",
+          "wordCount": null,
+          "title": "Snehaarpanathinay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uValqY7fv3Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uValqY7fv3Q",
+          "publishedOn": "2026-07-14T11:02:04.000Z",
+          "wordCount": null,
+          "title": "Nanma Poorna",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=89Q1KlCnthQ",
           "author": null,
