@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T16:16:50.642Z</updated>
+    <updated>2026-07-15T18:01:54.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4819,24 +4819,6 @@
         <updated>2026-06-16T14:34:10.000Z</updated>
         <author>
             <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Premave ( Male) ( From " O Premave")]]></title>
-        <id>https://www.youtube.com/watch?v=CraHFB5wSic</id>
-        <link href="https://www.youtube.com/watch?v=CraHFB5wSic"/>
-        <updated>2026-06-16T05:49:01.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jananavu Mayeyu]]></title>
-        <id>https://www.youtube.com/watch?v=csjK6Bx_tBo</id>
-        <link href="https://www.youtube.com/watch?v=csjK6Bx_tBo"/>
-        <updated>2026-06-16T05:40:51.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
