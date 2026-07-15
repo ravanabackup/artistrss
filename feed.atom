@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T23:50:18.067Z</updated>
+    <updated>2026-07-15T02:02:07.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4855,15 +4855,6 @@
         <updated>2026-06-15T14:55:48.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makane Makale]]></title>
-        <id>https://www.youtube.com/watch?v=DEu__UjFvOk</id>
-        <link href="https://www.youtube.com/watch?v=DEu__UjFvOk"/>
-        <updated>2026-06-15T12:12:19.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
