@@ -817,6 +817,46 @@
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DBTPsEb3dLQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DBTPsEb3dLQ",
+          "publishedOn": "2026-07-16T10:01:53.000Z",
+          "wordCount": null,
+          "title": "Iniyum Kothiyode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uYJ-8iSj8oM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uYJ-8iSj8oM",
+          "publishedOn": "2026-07-16T10:00:24.000Z",
+          "wordCount": null,
+          "title": "Chakkarakkili",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hwb71_sTnf0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hwb71_sTnf0",
+          "publishedOn": "2026-07-16T10:00:12.000Z",
+          "wordCount": null,
+          "title": "Kanpeeliyil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zHfSaNMcb-Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zHfSaNMcb-Y",
+          "publishedOn": "2026-07-16T10:00:12.000Z",
+          "wordCount": null,
+          "title": "Marannuvo Poomakale",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ha2GCThr2fQ",
           "author": null,
           "description": "",
@@ -4309,6 +4349,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YqhsExrA2aQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YqhsExrA2aQ",
+          "publishedOn": "2026-07-16T10:23:17.000Z",
+          "wordCount": null,
+          "title": "Sathyaprekasam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GhNTJIE720w",
           "author": null,
