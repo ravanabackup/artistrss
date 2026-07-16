@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T02:11:49.752Z</updated>
+    <updated>2026-07-16T05:35:39.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4783,60 +4783,6 @@
         <updated>2026-06-16T19:28:40.000Z</updated>
         <author>
             <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethanile Pareekshakan Thottupoyi]]></title>
-        <id>https://www.youtube.com/watch?v=z7xrjmxqaSM</id>
-        <link href="https://www.youtube.com/watch?v=z7xrjmxqaSM"/>
-        <updated>2026-06-16T15:06:16.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaattu Thottappol]]></title>
-        <id>https://www.youtube.com/watch?v=U3mJmS0wciI</id>
-        <link href="https://www.youtube.com/watch?v=U3mJmS0wciI"/>
-        <updated>2026-06-16T14:34:10.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patriot (Title Track)]]></title>
-        <id>https://www.youtube.com/watch?v=Wblxuuc4BN0</id>
-        <link href="https://www.youtube.com/watch?v=Wblxuuc4BN0"/>
-        <updated>2026-06-16T14:34:10.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manushyan]]></title>
-        <id>https://www.youtube.com/watch?v=hnicvaqDfJ4</id>
-        <link href="https://www.youtube.com/watch?v=hnicvaqDfJ4"/>
-        <updated>2026-06-16T14:34:10.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaattu Thottappol (Live)]]></title>
-        <id>https://www.youtube.com/watch?v=iZKdvSHvJdI</id>
-        <link href="https://www.youtube.com/watch?v=iZKdvSHvJdI"/>
-        <updated>2026-06-16T14:34:10.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innalekal]]></title>
-        <id>https://www.youtube.com/watch?v=kZikC2sgGqY</id>
-        <link href="https://www.youtube.com/watch?v=kZikC2sgGqY"/>
-        <updated>2026-06-16T14:34:10.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
         </author>
     </entry>
 </feed>
