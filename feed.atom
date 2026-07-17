@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T23:54:45.697Z</updated>
+    <updated>2026-07-17T02:15:20.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4738,15 +4738,6 @@
         <updated>2026-06-18T10:07:26.000Z</updated>
         <author>
             <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engotta (From "Balan - The Boy")]]></title>
-        <id>https://www.youtube.com/watch?v=7VzZ2yJFYzY</id>
-        <link href="https://www.youtube.com/watch?v=7VzZ2yJFYzY"/>
-        <updated>2026-06-17T12:53:55.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
         </author>
     </entry>
 </feed>
