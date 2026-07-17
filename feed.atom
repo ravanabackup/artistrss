@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T21:48:12.483Z</updated>
+    <updated>2026-07-17T22:43:45.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4702,51 +4702,6 @@
         <updated>2026-06-18T20:18:29.000Z</updated>
         <author>
             <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramsan Nilavinte F (Female Version) (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=UI2t37MUiGM</id>
-        <link href="https://www.youtube.com/watch?v=UI2t37MUiGM"/>
-        <updated>2026-06-18T10:21:43.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramsan Nilavinte F (Female Version)]]></title>
-        <id>https://www.youtube.com/watch?v=VylJ56Y0_yM</id>
-        <link href="https://www.youtube.com/watch?v=VylJ56Y0_yM"/>
-        <updated>2026-06-18T10:21:43.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arikil Njaan]]></title>
-        <id>https://www.youtube.com/watch?v=oBDTmD83RmU</id>
-        <link href="https://www.youtube.com/watch?v=oBDTmD83RmU"/>
-        <updated>2026-06-18T10:08:49.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poo Nilaavinte]]></title>
-        <id>https://www.youtube.com/watch?v=jFK6EMVrg68</id>
-        <link href="https://www.youtube.com/watch?v=jFK6EMVrg68"/>
-        <updated>2026-06-18T10:08:01.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormakalil]]></title>
-        <id>https://www.youtube.com/watch?v=whw8YgU3F74</id>
-        <link href="https://www.youtube.com/watch?v=whw8YgU3F74"/>
-        <updated>2026-06-18T10:07:26.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
 </feed>
