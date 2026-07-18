@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T13:07:53.299Z</updated>
+    <updated>2026-07-18T14:47:07.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4594,96 +4594,6 @@
         <updated>2026-06-19T06:11:08.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethrayum (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=CMbNI-R1R5E</id>
-        <link href="https://www.youtube.com/watch?v=CMbNI-R1R5E"/>
-        <updated>2026-06-19T02:18:26.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elakalum (Male Version) (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=E9_vBrjkJvQ</id>
-        <link href="https://www.youtube.com/watch?v=E9_vBrjkJvQ"/>
-        <updated>2026-06-19T02:18:26.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethrayum]]></title>
-        <id>https://www.youtube.com/watch?v=cqA1rk2MC-g</id>
-        <link href="https://www.youtube.com/watch?v=cqA1rk2MC-g"/>
-        <updated>2026-06-19T02:18:26.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elakalum (Male Version)]]></title>
-        <id>https://www.youtube.com/watch?v=GviVetTutJw</id>
-        <link href="https://www.youtube.com/watch?v=GviVetTutJw"/>
-        <updated>2026-06-19T02:18:25.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harichandhana Manimale (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=Z9eOSbbuUM0</id>
-        <link href="https://www.youtube.com/watch?v=Z9eOSbbuUM0"/>
-        <updated>2026-06-19T02:16:55.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harichandhana Manimale]]></title>
-        <id>https://www.youtube.com/watch?v=2brAQOs05Eo</id>
-        <link href="https://www.youtube.com/watch?v=2brAQOs05Eo"/>
-        <updated>2026-06-19T02:16:51.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhayazhake (Female Version)]]></title>
-        <id>https://www.youtube.com/watch?v=9kbHdWp0ANc</id>
-        <link href="https://www.youtube.com/watch?v=9kbHdWp0ANc"/>
-        <updated>2026-06-19T02:14:17.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhayazhake (Female Version) (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=WNmdXXXlTEE</id>
-        <link href="https://www.youtube.com/watch?v=WNmdXXXlTEE"/>
-        <updated>2026-06-19T02:14:17.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neehaaram]]></title>
-        <id>https://www.youtube.com/watch?v=INBkcqrH5Xo</id>
-        <link href="https://www.youtube.com/watch?v=INBkcqrH5Xo"/>
-        <updated>2026-06-19T02:12:49.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neehaaram (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=SmE8gs9NLcE</id>
-        <link href="https://www.youtube.com/watch?v=SmE8gs9NLcE"/>
-        <updated>2026-06-19T02:12:49.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
         </author>
     </entry>
 </feed>
