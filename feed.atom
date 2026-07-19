@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T08:09:04.931Z</updated>
+    <updated>2026-07-19T10:23:05.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -4342,60 +4342,6 @@
         <updated>2026-06-20T00:09:05.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Nokkukanuvan (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=GSFsF9KEsVI</id>
-        <link href="https://www.youtube.com/watch?v=GSFsF9KEsVI"/>
-        <updated>2026-06-19T22:12:51.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Nokkukanuvan]]></title>
-        <id>https://www.youtube.com/watch?v=VA3Y-0h6Hwk</id>
-        <link href="https://www.youtube.com/watch?v=VA3Y-0h6Hwk"/>
-        <updated>2026-06-19T22:12:51.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hima Bindhukkal (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=vEheehJ14gk</id>
-        <link href="https://www.youtube.com/watch?v=vEheehJ14gk"/>
-        <updated>2026-06-19T22:12:51.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hima Bindhukkal]]></title>
-        <id>https://www.youtube.com/watch?v=zdJXU-_1I1k</id>
-        <link href="https://www.youtube.com/watch?v=zdJXU-_1I1k"/>
-        <updated>2026-06-19T22:12:51.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yesuve Yesuve]]></title>
-        <id>https://www.youtube.com/watch?v=7EFLnxCgRrk</id>
-        <link href="https://www.youtube.com/watch?v=7EFLnxCgRrk"/>
-        <updated>2026-06-19T22:09:18.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yesuve Yesuve (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=d-TD6QcY1BQ</id>
-        <link href="https://www.youtube.com/watch?v=d-TD6QcY1BQ"/>
-        <updated>2026-06-19T22:09:18.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
         </author>
     </entry>
 </feed>
