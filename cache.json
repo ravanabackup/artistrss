@@ -2772,6 +2772,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6RettS5yfMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6RettS5yfMI",
+          "publishedOn": "2026-07-22T10:27:31.000Z",
+          "wordCount": null,
+          "title": "Sugamaay Nadha",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JU6UCzLT-sY",
           "author": null,
           "description": "",
@@ -4010,6 +4020,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CtktlLOHRxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CtktlLOHRxQ",
+          "publishedOn": "2026-07-22T10:27:31.000Z",
+          "wordCount": null,
+          "title": "Oro Vakkum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DpeD95YNrTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DpeD95YNrTM",
+          "publishedOn": "2026-07-22T10:27:31.000Z",
+          "wordCount": null,
+          "title": "Swargathil Vaazhunna",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YqhsExrA2aQ",
           "author": null,
           "description": "",
@@ -4037,6 +4067,26 @@
           "publishedOn": "2026-07-10T11:11:37.000Z",
           "wordCount": null,
           "title": "Amme Vilikkunnu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lYwYreCPQww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lYwYreCPQww",
+          "publishedOn": "2026-07-08T18:33:43.000Z",
+          "wordCount": null,
+          "title": "Altharayilennum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NXdDRNC49tQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NXdDRNC49tQ",
+          "publishedOn": "2026-07-08T18:32:54.000Z",
+          "wordCount": null,
+          "title": "Sthudhi Sthothram",
           "imageUrl": null
         },
         {
