@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2lb3rggGDNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2lb3rggGDNg",
+          "publishedOn": "2026-07-20T16:02:01.000Z",
+          "wordCount": null,
+          "title": "Onnu Nullikkotte Njanen Pennin Kavilathu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zc9d1UGNgWY",
           "author": null,
           "description": "",
@@ -3712,6 +3722,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg",
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=w20uehN4mWI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w20uehN4mWI",
+          "publishedOn": "2026-07-16T10:04:36.000Z",
+          "wordCount": null,
+          "title": "Santhiyude Theeranga",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2OS0_TRrzRU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2OS0_TRrzRU",
+          "publishedOn": "2026-07-16T10:03:21.000Z",
+          "wordCount": null,
+          "title": "Manassil Viriyunna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sEmL93d3NEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sEmL93d3NEA",
+          "publishedOn": "2026-07-16T10:03:05.000Z",
+          "wordCount": null,
+          "title": "Ormayil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-OjUI1z5vdE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-OjUI1z5vdE",
+          "publishedOn": "2026-07-16T10:01:24.000Z",
+          "wordCount": null,
+          "title": "Maanazhago",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ro4iSZUM4KU",
           "author": null,
