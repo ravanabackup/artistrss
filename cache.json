@@ -314,16 +314,6 @@
           "wordCount": null,
           "title": "Amme Daivathin",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GuZ9Wjhnp1Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GuZ9Wjhnp1Q",
-          "publishedOn": "2026-06-25T08:20:09.000Z",
-          "wordCount": null,
-          "title": "Aattoram Azhakoram",
-          "imageUrl": null
         }
       ]
     },
@@ -697,26 +687,6 @@
           "wordCount": null,
           "title": "Kiranagal",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UHXYe_kqboM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UHXYe_kqboM",
-          "publishedOn": "2026-06-25T08:22:54.000Z",
-          "wordCount": null,
-          "title": "Kunjikurukuzhal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eg2js5ifT24",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eg2js5ifT24",
-          "publishedOn": "2026-06-25T08:22:54.000Z",
-          "wordCount": null,
-          "title": "Oru Kannil",
-          "imageUrl": null
         }
       ]
     },
@@ -724,18 +694,7 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=OAH5DJ3QTbw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OAH5DJ3QTbw",
-          "publishedOn": "2026-06-25T08:22:54.000Z",
-          "wordCount": null,
-          "title": "Innale Peytha",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Biju Narayanan - Topic",
@@ -1118,18 +1077,7 @@
       "title": "G. Venugopal - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFs98MazJJe2MxOKGqP_JZQ",
       "siteUrl": "https://www.youtube.com/channel/UCFs98MazJJe2MxOKGqP_JZQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=qaec1PYtsX8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qaec1PYtsX8",
-          "publishedOn": "2026-06-25T08:22:54.000Z",
-          "wordCount": null,
-          "title": "Palmanju Peythozhinju",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rimi Tomy - Topic",
@@ -1186,36 +1134,6 @@
           "publishedOn": "2026-07-16T10:01:24.000Z",
           "wordCount": null,
           "title": "Maanazhago",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ro4iSZUM4KU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ro4iSZUM4KU",
-          "publishedOn": "2026-06-25T08:22:54.000Z",
-          "wordCount": null,
-          "title": "Pooja Pushpamay",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rr3a6lNMMZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rr3a6lNMMZg",
-          "publishedOn": "2026-06-25T08:22:54.000Z",
-          "wordCount": null,
-          "title": "Innale Peytha 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gBw6pCcjQL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gBw6pCcjQL4",
-          "publishedOn": "2026-06-25T08:20:09.000Z",
-          "wordCount": null,
-          "title": "Aakashadheepangal Sakshi (M)",
           "imageUrl": null
         }
       ]
@@ -1430,16 +1348,6 @@
           "publishedOn": "2026-07-02T08:50:27.000Z",
           "wordCount": null,
           "title": "Kaval Malaghaye",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vBUYz3DMCAg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vBUYz3DMCAg",
-          "publishedOn": "2026-06-25T09:25:38.000Z",
-          "wordCount": null,
-          "title": "Vandhanam Yeshupara",
           "imageUrl": null
         }
       ]
