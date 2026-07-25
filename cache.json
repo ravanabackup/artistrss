@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vgm6d4UtC30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vgm6d4UtC30",
+          "publishedOn": "2026-07-25T08:07:55.000Z",
+          "wordCount": null,
+          "title": "Madhura Pulavu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JOSUN0B8RDA",
           "author": null,
           "description": "",
@@ -702,6 +712,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QISArHOL6jM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QISArHOL6jM",
+          "publishedOn": "2026-07-25T07:50:06.000Z",
+          "wordCount": null,
+          "title": "Punyam Pularum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h0xv7O4IucQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h0xv7O4IucQ",
+          "publishedOn": "2026-07-25T07:45:03.000Z",
+          "wordCount": null,
+          "title": "Irumudi",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YQzXoDGepgM",
           "author": null,
           "description": "",
@@ -978,6 +1008,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MwauqlTYhzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MwauqlTYhzo",
+          "publishedOn": "2026-07-25T07:52:22.000Z",
+          "wordCount": null,
+          "title": "Chendamarakkanna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kzI-U2s63c8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kzI-U2s63c8",
+          "publishedOn": "2026-07-24T15:29:26.000Z",
+          "wordCount": null,
+          "title": "Thekkan Katte",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OXJmElY--rQ",
           "author": null,
