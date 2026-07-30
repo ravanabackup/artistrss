@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-30T09:26:45.421Z</updated>
+    <updated>2026-07-30T11:47:56.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yahenna Nallidayan]]></title>
+        <id>https://www.youtube.com/watch?v=s2qF8-mLOcM</id>
+        <link href="https://www.youtube.com/watch?v=s2qF8-mLOcM"/>
+        <updated>2026-07-30T10:15:52.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhrahamin Daivam]]></title>
+        <id>https://www.youtube.com/watch?v=bfzLsAEFP-Q</id>
+        <link href="https://www.youtube.com/watch?v=bfzLsAEFP-Q"/>
+        <updated>2026-07-30T10:15:52.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sathyaprekasam]]></title>
+        <id>https://www.youtube.com/watch?v=p20sSqhz1ZE</id>
+        <link href="https://www.youtube.com/watch?v=p20sSqhz1ZE"/>
+        <updated>2026-07-30T10:15:52.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassil Viriyunna]]></title>
+        <id>https://www.youtube.com/watch?v=D-5HJbOS2Mw</id>
+        <link href="https://www.youtube.com/watch?v=D-5HJbOS2Mw"/>
+        <updated>2026-07-30T10:05:24.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marannuvo Poomakale]]></title>
+        <id>https://www.youtube.com/watch?v=JEbR11aa2zs</id>
+        <link href="https://www.youtube.com/watch?v=JEbR11aa2zs"/>
+        <updated>2026-07-30T10:04:22.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikil (Male)]]></title>
+        <id>https://www.youtube.com/watch?v=foPxLF8KRKM</id>
+        <link href="https://www.youtube.com/watch?v=foPxLF8KRKM"/>
+        <updated>2026-07-30T10:01:42.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nin Hridaya Mouna]]></title>
+        <id>https://www.youtube.com/watch?v=WHhYNgh-RGw</id>
+        <link href="https://www.youtube.com/watch?v=WHhYNgh-RGw"/>
+        <updated>2026-07-30T10:00:29.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maarivil Maayana]]></title>
+        <id>https://www.youtube.com/watch?v=6r4r7IYGwlg</id>
+        <link href="https://www.youtube.com/watch?v=6r4r7IYGwlg"/>
+        <updated>2026-07-30T10:00:26.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priyane]]></title>
+        <id>https://www.youtube.com/watch?v=unxf0Ve0DOk</id>
+        <link href="https://www.youtube.com/watch?v=unxf0Ve0DOk"/>
+        <updated>2026-07-30T10:00:17.000Z</updated>
+        <author>
+            <name>Sujatha - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthinaanee Neelakkannil Suruma (Remix)]]></title>
+        <id>https://www.youtube.com/watch?v=c-fzXqAjz8U</id>
+        <link href="https://www.youtube.com/watch?v=c-fzXqAjz8U"/>
+        <updated>2026-07-30T10:00:15.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravereyaay]]></title>
+        <id>https://www.youtube.com/watch?v=grsKNxqNUw8</id>
+        <link href="https://www.youtube.com/watch?v=grsKNxqNUw8"/>
+        <updated>2026-07-30T10:00:10.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daivame Ninte]]></title>
         <id>https://www.youtube.com/watch?v=3Wr8o70rD_U</id>
