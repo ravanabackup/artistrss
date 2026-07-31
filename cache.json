@@ -331,16 +331,6 @@
           "wordCount": null,
           "title": "Madhura Pulavu",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7hJvDet39W0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7hJvDet39W0",
-          "publishedOn": "2026-07-02T03:54:19.000Z",
-          "wordCount": null,
-          "title": "Baro Krishnayya",
-          "imageUrl": null
         }
       ]
     },
@@ -519,6 +509,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoEkddaP-0x5YEZ-IrDq96A",
       "siteUrl": "https://www.youtube.com/channel/UCoEkddaP-0x5YEZ-IrDq96A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-0FlGEBE3zU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-0FlGEBE3zU",
+          "publishedOn": "2026-07-31T14:44:17.000Z",
+          "wordCount": null,
+          "title": "Oru Chillupaathram (From \"Vivekanandan Viralanu\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Eg4LJwRdm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Eg4LJwRdm4",
+          "publishedOn": "2026-07-31T14:42:09.000Z",
+          "wordCount": null,
+          "title": "Chanchadi (From \"Vivekanandan Viralanu\")",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jA7QfU-tPU4",
           "author": null,
