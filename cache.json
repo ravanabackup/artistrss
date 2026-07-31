@@ -535,7 +535,18 @@
       "title": "Shaan Rahman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg",
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pgrqocoCjNA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgrqocoCjNA",
+          "publishedOn": "2026-07-31T13:23:08.000Z",
+          "wordCount": null,
+          "title": "Kannu Kondu Nulli (From \"Prakashan Parakkatte\")",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "- Topic",
@@ -548,6 +559,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzJDshjhEyMG4Iup0p0CTVg",
       "siteUrl": "https://www.youtube.com/channel/UCzJDshjhEyMG4Iup0p0CTVg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=v7HgG0Jb3xk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v7HgG0Jb3xk",
+          "publishedOn": "2026-07-31T13:24:30.000Z",
+          "wordCount": null,
+          "title": "Thatharikida (From \"Louis\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4r9XYLW_VvE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4r9XYLW_VvE",
+          "publishedOn": "2026-07-31T13:20:00.000Z",
+          "wordCount": null,
+          "title": "Kalla Koumara (From \"Louis\")",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mQe_ER6iY0M",
           "author": null,
@@ -631,6 +662,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIPZv7FT9SQ-XFIV47yz9yg",
       "siteUrl": "https://www.youtube.com/channel/UCIPZv7FT9SQ-XFIV47yz9yg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KgXPtXfeHKI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KgXPtXfeHKI",
+          "publishedOn": "2026-07-31T13:23:32.000Z",
+          "wordCount": null,
+          "title": "Kappal Paattu (From \"Thuramukham\")",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kqgTTKz5S1c",
           "author": null,
@@ -1511,6 +1552,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zWGKKD6OtJk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zWGKKD6OtJk",
+          "publishedOn": "2026-07-31T12:19:38.000Z",
+          "wordCount": null,
+          "title": "Vandhanam Yeshupara",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=44ccRVm4JgE",
           "author": null,
