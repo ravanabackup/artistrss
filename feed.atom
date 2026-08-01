@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T11:12:46.730Z</updated>
+    <updated>2026-08-01T13:09:17.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pavana Sneha Poornane (From "Ennu Swantham Punyalan")]]></title>
+        <id>https://www.youtube.com/watch?v=BVUX21Tg8hY</id>
+        <link href="https://www.youtube.com/watch?v=BVUX21Tg8hY"/>
+        <updated>2026-08-01T12:20:09.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pen Poove]]></title>
+        <id>https://www.youtube.com/watch?v=85z-pdV-PIs</id>
+        <link href="https://www.youtube.com/watch?v=85z-pdV-PIs"/>
+        <updated>2026-08-01T12:17:36.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mizhikonil Kadal]]></title>
+        <id>https://www.youtube.com/watch?v=O72woV7gYmk</id>
+        <link href="https://www.youtube.com/watch?v=O72woV7gYmk"/>
+        <updated>2026-08-01T12:17:36.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thane Peythu]]></title>
+        <id>https://www.youtube.com/watch?v=ZPJBJzCVc38</id>
+        <link href="https://www.youtube.com/watch?v=ZPJBJzCVc38"/>
+        <updated>2026-08-01T12:17:36.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassu]]></title>
+        <id>https://www.youtube.com/watch?v=jpJNe04h0gg</id>
+        <link href="https://www.youtube.com/watch?v=jpJNe04h0gg"/>
+        <updated>2026-08-01T12:17:36.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farewell]]></title>
+        <id>https://www.youtube.com/watch?v=ns5Bo0Shnf0</id>
+        <link href="https://www.youtube.com/watch?v=ns5Bo0Shnf0"/>
+        <updated>2026-08-01T12:17:36.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kappal Paattu (From "Thuramukham")]]></title>
         <id>https://www.youtube.com/watch?v=MNB9OMg57I0</id>
