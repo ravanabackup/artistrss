@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T06:24:11.136Z</updated>
+    <updated>2026-08-01T09:02:04.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -13,6 +13,60 @@
         <updated>2026-08-01T06:21:52.000Z</updated>
         <author>
             <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parakkam Paariparakkam (From "Prakashan Parakkatte")]]></title>
+        <id>https://www.youtube.com/watch?v=47EqG-usJS4</id>
+        <link href="https://www.youtube.com/watch?v=47EqG-usJS4"/>
+        <updated>2026-08-01T06:14:52.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannu Kondu Nulli (From "Prakashan Parakkatte")]]></title>
+        <id>https://www.youtube.com/watch?v=Gk0DJhdjCTo</id>
+        <link href="https://www.youtube.com/watch?v=Gk0DJhdjCTo"/>
+        <updated>2026-08-01T06:14:52.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevakaasham (From "Prakashan Parakkatte")]]></title>
+        <id>https://www.youtube.com/watch?v=_M7sCUMhgyg</id>
+        <link href="https://www.youtube.com/watch?v=_M7sCUMhgyg"/>
+        <updated>2026-08-01T06:14:52.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subahi Bankoli]]></title>
+        <id>https://www.youtube.com/watch?v=k--4kJW76rU</id>
+        <link href="https://www.youtube.com/watch?v=k--4kJW76rU"/>
+        <updated>2026-08-01T06:14:52.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parakkam Paariparakkam (From "Prakashan Parakkatte")]]></title>
+        <id>https://www.youtube.com/watch?v=8dkGJ-2pG1w</id>
+        <link href="https://www.youtube.com/watch?v=8dkGJ-2pG1w"/>
+        <updated>2026-08-01T06:12:23.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevakaasham (From "Prakashan Parakkatte")]]></title>
+        <id>https://www.youtube.com/watch?v=-tdUOOi7h4U</id>
+        <link href="https://www.youtube.com/watch?v=-tdUOOi7h4U"/>
+        <updated>2026-08-01T06:11:59.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
     <entry>

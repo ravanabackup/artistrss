@@ -527,6 +527,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=47EqG-usJS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=47EqG-usJS4",
+          "publishedOn": "2026-08-01T06:14:52.000Z",
+          "wordCount": null,
+          "title": "Parakkam Paariparakkam (From \"Prakashan Parakkatte\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gk0DJhdjCTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gk0DJhdjCTo",
+          "publishedOn": "2026-08-01T06:14:52.000Z",
+          "wordCount": null,
+          "title": "Kannu Kondu Nulli (From \"Prakashan Parakkatte\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_M7sCUMhgyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_M7sCUMhgyg",
+          "publishedOn": "2026-08-01T06:14:52.000Z",
+          "wordCount": null,
+          "title": "Jeevakaasham (From \"Prakashan Parakkatte\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k--4kJW76rU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k--4kJW76rU",
+          "publishedOn": "2026-08-01T06:14:52.000Z",
+          "wordCount": null,
+          "title": "Subahi Bankoli",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8dkGJ-2pG1w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8dkGJ-2pG1w",
+          "publishedOn": "2026-08-01T06:12:23.000Z",
+          "wordCount": null,
+          "title": "Parakkam Paariparakkam (From \"Prakashan Parakkatte\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-tdUOOi7h4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-tdUOOi7h4U",
+          "publishedOn": "2026-08-01T06:11:59.000Z",
+          "wordCount": null,
+          "title": "Jeevakaasham (From \"Prakashan Parakkatte\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pgrqocoCjNA",
           "author": null,
           "description": "",
