@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T23:53:11.937Z</updated>
+    <updated>2026-08-02T02:23:38.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1354,51 +1354,6 @@
         <updated>2026-07-06T06:17:31.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thozhuthu Varunnu]]></title>
-        <id>https://www.youtube.com/watch?v=xDZu0yvhTA8</id>
-        <link href="https://www.youtube.com/watch?v=xDZu0yvhTA8"/>
-        <updated>2026-07-03T12:27:49.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreemuthappan]]></title>
-        <id>https://www.youtube.com/watch?v=6PCNOJD9bfA</id>
-        <link href="https://www.youtube.com/watch?v=6PCNOJD9bfA"/>
-        <updated>2026-07-03T12:27:49.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parasiniyennoru]]></title>
-        <id>https://www.youtube.com/watch?v=9IFZ9R9N1s4</id>
-        <link href="https://www.youtube.com/watch?v=9IFZ9R9N1s4"/>
-        <updated>2026-07-03T12:27:49.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muttappa Devante]]></title>
-        <id>https://www.youtube.com/watch?v=gciY486RCjM</id>
-        <link href="https://www.youtube.com/watch?v=gciY486RCjM"/>
-        <updated>2026-07-03T12:27:49.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parasinikkarayile]]></title>
-        <id>https://www.youtube.com/watch?v=yaUVANAUgX8</id>
-        <link href="https://www.youtube.com/watch?v=yaUVANAUgX8"/>
-        <updated>2026-07-03T12:27:49.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>
