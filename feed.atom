@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T20:22:14.223Z</updated>
+    <updated>2026-08-05T22:08:04.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1318,60 +1318,6 @@
         <updated>2026-07-08T08:21:19.000Z</updated>
         <author>
             <name>Jessie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhura Pulavu]]></title>
-        <id>https://www.youtube.com/watch?v=8LXNgKl_lz0</id>
-        <link href="https://www.youtube.com/watch?v=8LXNgKl_lz0"/>
-        <updated>2026-07-07T09:43:56.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyamodonnu Koode]]></title>
-        <id>https://www.youtube.com/watch?v=aSsVm8B_Uo0</id>
-        <link href="https://www.youtube.com/watch?v=aSsVm8B_Uo0"/>
-        <updated>2026-07-07T09:43:56.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irayatharo]]></title>
-        <id>https://www.youtube.com/watch?v=dH30_51-dOk</id>
-        <link href="https://www.youtube.com/watch?v=dH30_51-dOk"/>
-        <updated>2026-07-07T09:43:56.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasbi Rabbi Jallallah]]></title>
-        <id>https://www.youtube.com/watch?v=de7qGXeBS0I</id>
-        <link href="https://www.youtube.com/watch?v=de7qGXeBS0I"/>
-        <updated>2026-07-07T09:43:56.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthinaanee Neelakkannil Suruma (Remix)]]></title>
-        <id>https://www.youtube.com/watch?v=qrSwoiFo7Qg</id>
-        <link href="https://www.youtube.com/watch?v=qrSwoiFo7Qg"/>
-        <updated>2026-07-07T09:43:56.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhura Pulavu]]></title>
-        <id>https://www.youtube.com/watch?v=YBEMDNbfIaQ</id>
-        <link href="https://www.youtube.com/watch?v=YBEMDNbfIaQ"/>
-        <updated>2026-07-07T09:08:15.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
