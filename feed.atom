@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T05:36:29.814Z</updated>
+    <updated>2026-08-07T07:07:36.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manichilambo (D)]]></title>
+        <id>https://www.youtube.com/watch?v=OpTTKJn6csg</id>
+        <link href="https://www.youtube.com/watch?v=OpTTKJn6csg"/>
+        <updated>2026-08-07T06:46:00.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allahuve Alllahuve]]></title>
+        <id>https://www.youtube.com/watch?v=UZpBf8fSdrE</id>
+        <link href="https://www.youtube.com/watch?v=UZpBf8fSdrE"/>
+        <updated>2026-08-07T06:46:00.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhul Dhul]]></title>
+        <id>https://www.youtube.com/watch?v=syQq2Ba8Mh8</id>
+        <link href="https://www.youtube.com/watch?v=syQq2Ba8Mh8"/>
+        <updated>2026-08-07T06:46:00.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allah Allah]]></title>
+        <id>https://www.youtube.com/watch?v=c9MIGcvr5gs</id>
+        <link href="https://www.youtube.com/watch?v=c9MIGcvr5gs"/>
+        <updated>2026-08-07T06:05:34.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paramapithave]]></title>
         <id>https://www.youtube.com/watch?v=2WiR1Pli0TY</id>
@@ -1147,24 +1183,6 @@
         <updated>2026-07-09T07:00:15.000Z</updated>
         <author>
             <name>Jessie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Altharayilennum]]></title>
-        <id>https://www.youtube.com/watch?v=lYwYreCPQww</id>
-        <link href="https://www.youtube.com/watch?v=lYwYreCPQww"/>
-        <updated>2026-07-08T18:33:43.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthudhi Sthothram]]></title>
-        <id>https://www.youtube.com/watch?v=NXdDRNC49tQ</id>
-        <link href="https://www.youtube.com/watch?v=NXdDRNC49tQ"/>
-        <updated>2026-07-08T18:32:54.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
