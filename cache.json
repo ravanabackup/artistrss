@@ -1169,16 +1169,6 @@
           "wordCount": null,
           "title": "Chendamarakkanna",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TNxkgLAJICs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TNxkgLAJICs",
-          "publishedOn": "2026-07-10T11:11:37.000Z",
-          "wordCount": null,
-          "title": "Amme Mathave",
-          "imageUrl": null
         }
       ]
     },
@@ -1534,26 +1524,6 @@
           "publishedOn": "2026-07-16T10:23:17.000Z",
           "wordCount": null,
           "title": "Sathyaprekasam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GhNTJIE720w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GhNTJIE720w",
-          "publishedOn": "2026-07-10T11:11:37.000Z",
-          "wordCount": null,
-          "title": "Amme Mariyame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NkwN25-uYL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NkwN25-uYL8",
-          "publishedOn": "2026-07-10T11:11:37.000Z",
-          "wordCount": null,
-          "title": "Amme Vilikkunnu",
           "imageUrl": null
         }
       ]
