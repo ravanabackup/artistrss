@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T07:22:53.989Z</updated>
+    <updated>2026-08-10T09:14:08.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abhayam Tharunnavanallahuve]]></title>
+        <id>https://www.youtube.com/watch?v=iuETcOZoziw</id>
+        <link href="https://www.youtube.com/watch?v=iuETcOZoziw"/>
+        <updated>2026-08-10T08:09:25.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hameesha Nin]]></title>
+        <id>https://www.youtube.com/watch?v=5ylizkwOpSA</id>
+        <link href="https://www.youtube.com/watch?v=5ylizkwOpSA"/>
+        <updated>2026-08-10T08:09:24.000Z</updated>
+        <author>
+            <name>KG Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sugamaay Nadha]]></title>
+        <id>https://www.youtube.com/watch?v=qMUl_4g0sA8</id>
+        <link href="https://www.youtube.com/watch?v=qMUl_4g0sA8"/>
+        <updated>2026-08-10T07:53:03.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swargathil Vaazhunna]]></title>
+        <id>https://www.youtube.com/watch?v=vqA48YdFIJU</id>
+        <link href="https://www.youtube.com/watch?v=vqA48YdFIJU"/>
+        <updated>2026-08-10T07:53:02.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oro Vakkum]]></title>
+        <id>https://www.youtube.com/watch?v=wRd_-HhNNiI</id>
+        <link href="https://www.youtube.com/watch?v=wRd_-HhNNiI"/>
+        <updated>2026-08-10T07:53:02.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vannil Nakshathra]]></title>
         <id>https://www.youtube.com/watch?v=eWpFH5ALc-8</id>

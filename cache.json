@@ -1071,6 +1071,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qMUl_4g0sA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qMUl_4g0sA8",
+          "publishedOn": "2026-08-10T07:53:03.000Z",
+          "wordCount": null,
+          "title": "Sugamaay Nadha",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kEj2UFYFSgQ",
           "author": null,
           "description": "",
@@ -1337,6 +1347,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vqA48YdFIJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vqA48YdFIJU",
+          "publishedOn": "2026-08-10T07:53:02.000Z",
+          "wordCount": null,
+          "title": "Swargathil Vaazhunna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wRd_-HhNNiI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wRd_-HhNNiI",
+          "publishedOn": "2026-08-10T07:53:02.000Z",
+          "wordCount": null,
+          "title": "Oro Vakkum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eWpFH5ALc-8",
           "author": null,
           "description": "",
@@ -1592,6 +1622,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iuETcOZoziw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iuETcOZoziw",
+          "publishedOn": "2026-08-10T08:09:25.000Z",
+          "wordCount": null,
+          "title": "Abhayam Tharunnavanallahuve",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5ylizkwOpSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ylizkwOpSA",
+          "publishedOn": "2026-08-10T08:09:24.000Z",
+          "wordCount": null,
+          "title": "Hameesha Nin",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LHLhvp5_74g",
           "author": null,
