@@ -1111,6 +1111,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UxEVfNNqs-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UxEVfNNqs-k",
+          "publishedOn": "2026-08-13T11:54:23.000Z",
+          "wordCount": null,
+          "title": "Sugamaay Nadha",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qMUl_4g0sA8",
           "author": null,
           "description": "",
@@ -1128,6 +1138,26 @@
           "publishedOn": "2026-08-08T05:28:53.000Z",
           "wordCount": null,
           "title": "Ponmuraliyoothum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zkOmYste2Q0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zkOmYste2Q0",
+          "publishedOn": "2026-08-04T16:24:58.000Z",
+          "wordCount": null,
+          "title": "Kaliveedinullil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G0mT54YfdT8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G0mT54YfdT8",
+          "publishedOn": "2026-07-30T12:25:17.000Z",
+          "wordCount": null,
+          "title": "Orikkal paranju Orormmayayi Enne",
           "imageUrl": null
         },
         {
@@ -1683,6 +1713,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3YBcst7dBFU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3YBcst7dBFU",
+          "publishedOn": "2026-08-13T11:54:23.000Z",
+          "wordCount": null,
+          "title": "Mahitheyange",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IblW2NLOVoo",
           "author": null,
