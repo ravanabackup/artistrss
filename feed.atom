@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T22:17:23.218Z</updated>
+    <updated>2026-08-14T23:16:44.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1543,15 +1543,6 @@
         <updated>2026-07-16T12:23:50.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyaprekasam]]></title>
-        <id>https://www.youtube.com/watch?v=YqhsExrA2aQ</id>
-        <link href="https://www.youtube.com/watch?v=YqhsExrA2aQ"/>
-        <updated>2026-07-16T10:23:17.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
