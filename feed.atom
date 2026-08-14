@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T06:09:18.707Z</updated>
+    <updated>2026-08-14T08:11:18.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -751,6 +751,15 @@
         <updated>2026-08-01T06:11:59.000Z</updated>
         <author>
             <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pavana Sneha Poornane (From "Ennu Swantham Punyalan")]]></title>
+        <id>https://www.youtube.com/watch?v=GygTjTVxXZU</id>
+        <link href="https://www.youtube.com/watch?v=GygTjTVxXZU"/>
+        <updated>2026-07-31T14:48:10.000Z</updated>
+        <author>
+            <name>Gopi Sundar - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1597,24 +1606,6 @@
         <updated>2026-07-16T10:00:12.000Z</updated>
         <author>
             <name>Sujatha - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spread Love (From "Virus")]]></title>
-        <id>https://www.youtube.com/watch?v=UtV600Y1SC0</id>
-        <link href="https://www.youtube.com/watch?v=UtV600Y1SC0"/>
-        <updated>2026-07-15T19:20:27.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundaranayavane (From "Halal Love Story")]]></title>
-        <id>https://www.youtube.com/watch?v=kqgTTKz5S1c</id>
-        <link href="https://www.youtube.com/watch?v=kqgTTKz5S1c"/>
-        <updated>2026-07-15T19:19:11.000Z</updated>
-        <author>
-            <name>Shahabaz Aman - Topic</name>
         </author>
     </entry>
 </feed>

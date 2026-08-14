@@ -393,6 +393,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=GygTjTVxXZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GygTjTVxXZU",
+          "publishedOn": "2026-07-31T14:48:10.000Z",
+          "wordCount": null,
+          "title": "Pavana Sneha Poornane (From \"Ennu Swantham Punyalan\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ky6xotHyjFE",
           "author": null,
           "description": "",
@@ -741,16 +751,6 @@
           "publishedOn": "2026-07-29T15:22:00.000Z",
           "wordCount": null,
           "title": "Aaroromillathoree Sadanathil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kqgTTKz5S1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kqgTTKz5S1c",
-          "publishedOn": "2026-07-15T19:19:11.000Z",
-          "wordCount": null,
-          "title": "Sundaranayavane (From \"Halal Love Story\")",
           "imageUrl": null
         }
       ]
@@ -1226,18 +1226,7 @@
       "title": "Sushin Shyam - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzpmF_8698JYBqh96PPCTfw",
       "siteUrl": "https://www.youtube.com/channel/UCzpmF_8698JYBqh96PPCTfw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=UtV600Y1SC0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UtV600Y1SC0",
-          "publishedOn": "2026-07-15T19:20:27.000Z",
-          "wordCount": null,
-          "title": "Spread Love (From \"Virus\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Deepak Dev - Topic",
