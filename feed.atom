@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T18:21:33.173Z</updated>
+    <updated>2026-08-15T19:17:29.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -124,6 +124,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PIYALE HALAHAL BADUE]]></title>
+        <id>https://www.youtube.com/watch?v=MZR_HA4L22E</id>
+        <link href="https://www.youtube.com/watch?v=MZR_HA4L22E"/>
+        <updated>2026-08-11T10:34:05.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Annoru Raavil (D)]]></title>
         <id>https://www.youtube.com/watch?v=cYLyMhA7b9c</id>
         <link href="https://www.youtube.com/watch?v=cYLyMhA7b9c"/>
@@ -166,6 +175,69 @@
         <updated>2026-08-11T06:12:56.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immalayalathikkuri]]></title>
+        <id>https://www.youtube.com/watch?v=1RZozx30HAQ</id>
+        <link href="https://www.youtube.com/watch?v=1RZozx30HAQ"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hakkana]]></title>
+        <id>https://www.youtube.com/watch?v=E7DzivnkQ38</id>
+        <link href="https://www.youtube.com/watch?v=E7DzivnkQ38"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amintha]]></title>
+        <id>https://www.youtube.com/watch?v=_bI9TWoUVVQ</id>
+        <link href="https://www.youtube.com/watch?v=_bI9TWoUVVQ"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aake Chuttilakathoru]]></title>
+        <id>https://www.youtube.com/watch?v=bFoXO0oNYNs</id>
+        <link href="https://www.youtube.com/watch?v=bFoXO0oNYNs"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thudare]]></title>
+        <id>https://www.youtube.com/watch?v=bh31t5Tar6A</id>
+        <link href="https://www.youtube.com/watch?v=bh31t5Tar6A"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samkritha Pama]]></title>
+        <id>https://www.youtube.com/watch?v=cbZFEr9RCJo</id>
+        <link href="https://www.youtube.com/watch?v=cbZFEr9RCJo"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kudu Kude]]></title>
+        <id>https://www.youtube.com/watch?v=g_GBkWslUJc</id>
+        <link href="https://www.youtube.com/watch?v=g_GBkWslUJc"/>
+        <updated>2026-08-10T12:11:40.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -853,6 +925,51 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maha Ganapathim]]></title>
+        <id>https://www.youtube.com/watch?v=H009SCpwQP4</id>
+        <link href="https://www.youtube.com/watch?v=H009SCpwQP4"/>
+        <updated>2026-07-30T10:44:16.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krishna Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=_h2iz_fFEqg</id>
+        <link href="https://www.youtube.com/watch?v=_h2iz_fFEqg"/>
+        <updated>2026-07-30T10:44:16.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parayaan Njaan Marannu]]></title>
+        <id>https://www.youtube.com/watch?v=c-rdUl8neRs</id>
+        <link href="https://www.youtube.com/watch?v=c-rdUl8neRs"/>
+        <updated>2026-07-30T10:44:16.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Mumbai Oh Meri Pyaari Mumbai]]></title>
+        <id>https://www.youtube.com/watch?v=EesSo-byYZc</id>
+        <link href="https://www.youtube.com/watch?v=EesSo-byYZc"/>
+        <updated>2026-07-30T10:44:15.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhuchandrike Nee (M)]]></title>
+        <id>https://www.youtube.com/watch?v=RcdEViO5rYc</id>
+        <link href="https://www.youtube.com/watch?v=RcdEViO5rYc"/>
+        <updated>2026-07-30T10:27:37.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Yahenna Nallidayan]]></title>
         <id>https://www.youtube.com/watch?v=s2qF8-mLOcM</id>
         <link href="https://www.youtube.com/watch?v=s2qF8-mLOcM"/>
@@ -877,6 +994,24 @@
         <updated>2026-07-30T10:15:52.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devi Ennum Neeyen (D)]]></title>
+        <id>https://www.youtube.com/watch?v=QhBTT2i-ido</id>
+        <link href="https://www.youtube.com/watch?v=QhBTT2i-ido"/>
+        <updated>2026-07-30T10:08:34.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poovaal Thumbi]]></title>
+        <id>https://www.youtube.com/watch?v=RjOiRls4hqk</id>
+        <link href="https://www.youtube.com/watch?v=RjOiRls4hqk"/>
+        <updated>2026-07-30T10:08:34.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -949,6 +1084,15 @@
         <updated>2026-07-30T10:00:10.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannuneer Thennale (Ambili Thumbi)]]></title>
+        <id>https://www.youtube.com/watch?v=Cv4M9Cb6JzY</id>
+        <link href="https://www.youtube.com/watch?v=Cv4M9Cb6JzY"/>
+        <updated>2026-07-30T08:34:00.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
