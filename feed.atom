@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T23:16:44.295Z</updated>
+    <updated>2026-08-15T00:58:31.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1507,42 +1507,6 @@
         <updated>2026-07-17T12:37:54.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelmizhippeeliyil]]></title>
-        <id>https://www.youtube.com/watch?v=h9vCZ_hHDf8</id>
-        <link href="https://www.youtube.com/watch?v=h9vCZ_hHDf8"/>
-        <updated>2026-07-16T12:36:22.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mounangalil Ninte Janmam]]></title>
-        <id>https://www.youtube.com/watch?v=K-lrN2raBsc</id>
-        <link href="https://www.youtube.com/watch?v=K-lrN2raBsc"/>
-        <updated>2026-07-16T12:23:50.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Aaro Aararo (M)]]></title>
-        <id>https://www.youtube.com/watch?v=jNIy58svAdA</id>
-        <link href="https://www.youtube.com/watch?v=jNIy58svAdA"/>
-        <updated>2026-07-16T12:23:50.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Ponpoove]]></title>
-        <id>https://www.youtube.com/watch?v=vej97Y4EIqM</id>
-        <link href="https://www.youtube.com/watch?v=vej97Y4EIqM"/>
-        <updated>2026-07-16T12:23:50.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
