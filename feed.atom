@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T05:23:10.197Z</updated>
+    <updated>2026-08-16T06:31:37.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -94,6 +94,24 @@
         <updated>2026-08-13T10:00:22.000Z</updated>
         <author>
             <name>Bijibal - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manasile Moham]]></title>
+        <id>https://www.youtube.com/watch?v=FIPUheJdRso</id>
+        <link href="https://www.youtube.com/watch?v=FIPUheJdRso"/>
+        <updated>2026-08-13T07:48:36.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olimagaathe Deepamayi]]></title>
+        <id>https://www.youtube.com/watch?v=pFkuoZYdUUU</id>
+        <link href="https://www.youtube.com/watch?v=pFkuoZYdUUU"/>
+        <updated>2026-08-13T07:48:36.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
