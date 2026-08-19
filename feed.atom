@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T22:19:04.666Z</updated>
+    <updated>2026-08-19T23:18:01.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1867,24 +1867,6 @@
         <updated>2026-07-22T07:49:21.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naadhane Vazhthi]]></title>
-        <id>https://www.youtube.com/watch?v=NHG1wRM-w24</id>
-        <link href="https://www.youtube.com/watch?v=NHG1wRM-w24"/>
-        <updated>2026-07-21T10:47:45.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehaarpanathinay]]></title>
-        <id>https://www.youtube.com/watch?v=44ccRVm4JgE</id>
-        <link href="https://www.youtube.com/watch?v=44ccRVm4JgE"/>
-        <updated>2026-07-21T10:47:45.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
         </author>
     </entry>
 </feed>
