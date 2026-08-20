@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T23:18:01.317Z</updated>
+    <updated>2026-08-20T00:58:26.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sri Moolasthanathamarum]]></title>
+        <id>https://www.youtube.com/watch?v=GsjZ9Np50PU</id>
+        <link href="https://www.youtube.com/watch?v=GsjZ9Np50PU"/>
+        <updated>2026-08-18T10:04:39.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anayuka Daiva Janame]]></title>
+        <id>https://www.youtube.com/watch?v=2cRr4sl-E8I</id>
+        <link href="https://www.youtube.com/watch?v=2cRr4sl-E8I"/>
+        <updated>2026-08-18T10:04:32.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassin Murivukal]]></title>
+        <id>https://www.youtube.com/watch?v=raASywjwtYI</id>
+        <link href="https://www.youtube.com/watch?v=raASywjwtYI"/>
+        <updated>2026-08-18T10:03:18.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amme Ninne Kandaal]]></title>
+        <id>https://www.youtube.com/watch?v=BiWhevwDzXw</id>
+        <link href="https://www.youtube.com/watch?v=BiWhevwDzXw"/>
+        <updated>2026-08-18T10:01:52.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam Manujanaayi]]></title>
+        <id>https://www.youtube.com/watch?v=9y1O2cyDuG0</id>
+        <link href="https://www.youtube.com/watch?v=9y1O2cyDuG0"/>
+        <updated>2026-08-18T10:01:23.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aadi Manamaadi]]></title>
         <id>https://www.youtube.com/watch?v=2JU4Bbz2URA</id>
@@ -13,6 +58,33 @@
         <updated>2026-08-18T10:00:21.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idayan Eshuve]]></title>
+        <id>https://www.youtube.com/watch?v=bB4_Dm2jAGI</id>
+        <link href="https://www.youtube.com/watch?v=bB4_Dm2jAGI"/>
+        <updated>2026-08-17T10:02:30.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adhwanippavare]]></title>
+        <id>https://www.youtube.com/watch?v=BlGmz-j_s5c</id>
+        <link href="https://www.youtube.com/watch?v=BlGmz-j_s5c"/>
+        <updated>2026-08-17T10:02:26.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swargasthanam Pithav]]></title>
+        <id>https://www.youtube.com/watch?v=n9hZZuwAvNg</id>
+        <link href="https://www.youtube.com/watch?v=n9hZZuwAvNg"/>
+        <updated>2026-08-17T10:02:08.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -355,6 +427,51 @@
         <updated>2026-08-11T10:34:05.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kushtarogiye Kazhukum Neram]]></title>
+        <id>https://www.youtube.com/watch?v=fHRo2pwjtOg</id>
+        <link href="https://www.youtube.com/watch?v=fHRo2pwjtOg"/>
+        <updated>2026-08-11T10:04:06.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mother Teresayil Ninnum]]></title>
+        <id>https://www.youtube.com/watch?v=ptoZiRXmVMg</id>
+        <link href="https://www.youtube.com/watch?v=ptoZiRXmVMg"/>
+        <updated>2026-08-11T10:03:39.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalkatha Theruvin]]></title>
+        <id>https://www.youtube.com/watch?v=TmrCjhndnpE</id>
+        <link href="https://www.youtube.com/watch?v=TmrCjhndnpE"/>
+        <updated>2026-08-11T10:03:29.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thrivarna Pathaka Uyarum]]></title>
+        <id>https://www.youtube.com/watch?v=aAxbNCu07-4</id>
+        <link href="https://www.youtube.com/watch?v=aAxbNCu07-4"/>
+        <updated>2026-08-11T10:02:02.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saagaramey Daya]]></title>
+        <id>https://www.youtube.com/watch?v=8V0Lu8DcJl8</id>
+        <link href="https://www.youtube.com/watch?v=8V0Lu8DcJl8"/>
+        <updated>2026-08-11T10:01:51.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
     <entry>
