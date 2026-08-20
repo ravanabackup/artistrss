@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T19:26:26.707Z</updated>
+    <updated>2026-08-20T20:22:14.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1975,51 +1975,6 @@
         <updated>2026-07-22T10:27:31.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irayatharo]]></title>
-        <id>https://www.youtube.com/watch?v=JOSUN0B8RDA</id>
-        <link href="https://www.youtube.com/watch?v=JOSUN0B8RDA"/>
-        <updated>2026-07-22T07:49:21.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhura Pulavu]]></title>
-        <id>https://www.youtube.com/watch?v=JvSeLijy_RE</id>
-        <link href="https://www.youtube.com/watch?v=JvSeLijy_RE"/>
-        <updated>2026-07-22T07:49:21.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasbi Rabbi Jallallah]]></title>
-        <id>https://www.youtube.com/watch?v=YOJz9pq9Jx0</id>
-        <link href="https://www.youtube.com/watch?v=YOJz9pq9Jx0"/>
-        <updated>2026-07-22T07:49:21.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthinaanee Neelakkannil Suruma (Remix)]]></title>
-        <id>https://www.youtube.com/watch?v=cZ6psPXJIhY</id>
-        <link href="https://www.youtube.com/watch?v=cZ6psPXJIhY"/>
-        <updated>2026-07-22T07:49:21.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyamodonnu Koode]]></title>
-        <id>https://www.youtube.com/watch?v=gt4KultWQPk</id>
-        <link href="https://www.youtube.com/watch?v=gt4KultWQPk"/>
-        <updated>2026-07-22T07:49:21.000Z</updated>
-        <author>
-            <name>Sithara Krishnakumar - Topic</name>
         </author>
     </entry>
 </feed>
