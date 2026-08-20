@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T22:21:35.072Z</updated>
+    <updated>2026-08-20T23:20:36.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1948,33 +1948,6 @@
         <updated>2026-07-23T10:00:24.000Z</updated>
         <author>
             <name>Jessie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sugamaay Nadha]]></title>
-        <id>https://www.youtube.com/watch?v=6RettS5yfMI</id>
-        <link href="https://www.youtube.com/watch?v=6RettS5yfMI"/>
-        <updated>2026-07-22T10:27:31.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oro Vakkum]]></title>
-        <id>https://www.youtube.com/watch?v=CtktlLOHRxQ</id>
-        <link href="https://www.youtube.com/watch?v=CtktlLOHRxQ"/>
-        <updated>2026-07-22T10:27:31.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargathil Vaazhunna]]></title>
-        <id>https://www.youtube.com/watch?v=DpeD95YNrTM</id>
-        <link href="https://www.youtube.com/watch?v=DpeD95YNrTM"/>
-        <updated>2026-07-22T10:27:31.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
