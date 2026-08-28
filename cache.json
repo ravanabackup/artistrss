@@ -529,16 +529,6 @@
           "wordCount": null,
           "title": "Kalla Koumara (From \"Louis\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rxi9x5da7Qg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rxi9x5da7Qg",
-          "publishedOn": "2026-07-29T15:21:11.000Z",
-          "wordCount": null,
-          "title": "Penne Neeyevide",
-          "imageUrl": null
         }
       ]
     },
@@ -642,16 +632,6 @@
           "publishedOn": "2026-07-31T13:23:32.000Z",
           "wordCount": null,
           "title": "Kappal Paattu (From \"Thuramukham\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rh3NYZpWpp4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rh3NYZpWpp4",
-          "publishedOn": "2026-07-29T15:22:00.000Z",
-          "wordCount": null,
-          "title": "Aaroromillathoree Sadanathil",
           "imageUrl": null
         }
       ]
@@ -1093,86 +1073,6 @@
           "wordCount": null,
           "title": "Oru Nalikeram",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ok6HTWku5ns",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ok6HTWku5ns",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Ayiram Naavukalal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NBb67tcFyFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NBb67tcFyFU",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Ulakin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T41RO30C_6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T41RO30C_6w",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Ninnodu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Wr8o70rD_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Wr8o70rD_U",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Daivame Ninte",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JxT5XM_SUEk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JxT5XM_SUEk",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Ethrakalam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M2eLxdXSSP8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M2eLxdXSSP8",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Nirupama Snehame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iiAP4Qc5NcQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iiAP4Qc5NcQ",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Eesho Nee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jdH-kjssftU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jdH-kjssftU",
-          "publishedOn": "2026-07-29T17:48:39.000Z",
-          "wordCount": null,
-          "title": "Enneshuve",
-          "imageUrl": null
         }
       ]
     },
@@ -1367,28 +1267,7 @@
       "title": "Rimi Tomy - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwpn7R8dycvBU8Jin_BtRrQ",
       "siteUrl": "https://www.youtube.com/channel/UCwpn7R8dycvBU8Jin_BtRrQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=5H19POy1uIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5H19POy1uIM",
-          "publishedOn": "2026-07-29T17:44:35.000Z",
-          "wordCount": null,
-          "title": "Tharakangale (F)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qNkDHC-WPR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qNkDHC-WPR0",
-          "publishedOn": "2026-07-29T17:44:34.000Z",
-          "wordCount": null,
-          "title": "Mazhayum Veyilum",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "- Topic",
