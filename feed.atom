@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T08:48:25.479Z</updated>
+    <updated>2026-08-28T20:39:15.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1696,24 +1696,6 @@
         <updated>2026-07-30T10:00:10.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaakke Kaakke (M)]]></title>
-        <id>https://www.youtube.com/watch?v=h_OZg6AA1wk</id>
-        <link href="https://www.youtube.com/watch?v=h_OZg6AA1wk"/>
-        <updated>2026-07-30T08:34:00.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneer Thennale (Ambili Thumbi)]]></title>
-        <id>https://www.youtube.com/watch?v=Cv4M9Cb6JzY</id>
-        <link href="https://www.youtube.com/watch?v=Cv4M9Cb6JzY"/>
-        <updated>2026-07-30T08:34:00.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
