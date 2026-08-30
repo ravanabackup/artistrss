@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T22:15:37.766Z</updated>
+    <updated>2026-08-30T00:59:03.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1498,15 +1498,6 @@
         <updated>2026-07-31T13:20:00.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandhanam Yeshupara]]></title>
-        <id>https://www.youtube.com/watch?v=zWGKKD6OtJk</id>
-        <link href="https://www.youtube.com/watch?v=zWGKKD6OtJk"/>
-        <updated>2026-07-31T12:19:38.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
         </author>
     </entry>
 </feed>
