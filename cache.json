@@ -275,7 +275,28 @@
       "title": "Shaan Rahman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg",
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_OsjwHPZh9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_OsjwHPZh9I",
+          "publishedOn": "2026-08-31T07:19:48.000Z",
+          "wordCount": null,
+          "title": "Oru Theepole (From \"Aadu 2\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OnlaU-NBbe4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OnlaU-NBbe4",
+          "publishedOn": "2026-08-31T07:07:40.000Z",
+          "wordCount": null,
+          "title": "Changaathi Nannaayaal (From \"Aadu 2\")",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "- Topic",
@@ -377,6 +398,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JEwKR1fqujc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JEwKR1fqujc",
+          "publishedOn": "2026-08-31T09:56:29.000Z",
+          "wordCount": null,
+          "title": "Keralamunarunnu",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nU49lcJi4rA",
           "author": null,
@@ -1380,6 +1411,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "siteUrl": "https://www.youtube.com/channel/UCnIVrxlRAIFBg7Z0O1v4SfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jLBhd7K493I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jLBhd7K493I",
+          "publishedOn": "2026-08-31T07:08:49.000Z",
+          "wordCount": null,
+          "title": "Vandhanam Yeshupara",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tb2flfWiq8c",
           "author": null,
