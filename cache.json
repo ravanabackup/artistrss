@@ -252,18 +252,7 @@
       "title": "Gopi Sunder - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA",
       "siteUrl": "https://www.youtube.com/channel/UCtnqdzPLF0cSylxXGFMRqbA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=BVUX21Tg8hY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BVUX21Tg8hY",
-          "publishedOn": "2026-08-01T12:20:09.000Z",
-          "wordCount": null,
-          "title": "Pavana Sneha Poornane (From \"Ennu Swantham Punyalan\")",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bijibal - Topic",
@@ -286,68 +275,7 @@
       "title": "Shaan Rahman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg",
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=g6JEwioauU8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g6JEwioauU8",
-          "publishedOn": "2026-08-01T15:11:09.000Z",
-          "wordCount": null,
-          "title": "Azhakerum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=85z-pdV-PIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=85z-pdV-PIs",
-          "publishedOn": "2026-08-01T12:17:36.000Z",
-          "wordCount": null,
-          "title": "Pen Poove",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O72woV7gYmk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O72woV7gYmk",
-          "publishedOn": "2026-08-01T12:17:36.000Z",
-          "wordCount": null,
-          "title": "Mizhikonil Kadal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZPJBJzCVc38",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZPJBJzCVc38",
-          "publishedOn": "2026-08-01T12:17:36.000Z",
-          "wordCount": null,
-          "title": "Thane Peythu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jpJNe04h0gg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jpJNe04h0gg",
-          "publishedOn": "2026-08-01T12:17:36.000Z",
-          "wordCount": null,
-          "title": "Manassu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ns5Bo0Shnf0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ns5Bo0Shnf0",
-          "publishedOn": "2026-08-01T12:17:36.000Z",
-          "wordCount": null,
-          "title": "Farewell",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "- Topic",
