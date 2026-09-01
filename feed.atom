@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T20:27:31.906Z</updated>
+    <updated>2026-09-01T22:57:36.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1316,87 +1316,6 @@
         <id>https://www.youtube.com/watch?v=192N5in_5mM</id>
         <link href="https://www.youtube.com/watch?v=192N5in_5mM"/>
         <updated>2026-08-03T11:48:45.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gothambu Mani Pol]]></title>
-        <id>https://www.youtube.com/watch?v=gEbwu_C1i-E</id>
-        <link href="https://www.youtube.com/watch?v=gEbwu_C1i-E"/>
-        <updated>2026-08-03T10:00:37.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannudaki]]></title>
-        <id>https://www.youtube.com/watch?v=IUve4J86DK0</id>
-        <link href="https://www.youtube.com/watch?v=IUve4J86DK0"/>
-        <updated>2026-08-03T10:00:24.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassorungi]]></title>
-        <id>https://www.youtube.com/watch?v=Gljf_C2Dm1Q</id>
-        <link href="https://www.youtube.com/watch?v=Gljf_C2Dm1Q"/>
-        <updated>2026-08-03T10:00:23.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadaam Paadaam]]></title>
-        <id>https://www.youtube.com/watch?v=jdMd6Cq2Zh0</id>
-        <link href="https://www.youtube.com/watch?v=jdMd6Cq2Zh0"/>
-        <updated>2026-08-03T10:00:18.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mounavum]]></title>
-        <id>https://www.youtube.com/watch?v=AsModv4BtJU</id>
-        <link href="https://www.youtube.com/watch?v=AsModv4BtJU"/>
-        <updated>2026-08-03T10:00:13.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjal Prasadhamai]]></title>
-        <id>https://www.youtube.com/watch?v=X-sVDNr1Q3g</id>
-        <link href="https://www.youtube.com/watch?v=X-sVDNr1Q3g"/>
-        <updated>2026-08-03T10:00:06.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayangeedalle]]></title>
-        <id>https://www.youtube.com/watch?v=vq29MIULSSo</id>
-        <link href="https://www.youtube.com/watch?v=vq29MIULSSo"/>
-        <updated>2026-08-03T10:00:05.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Eeshoye Ente Snehame]]></title>
-        <id>https://www.youtube.com/watch?v=wH3Dxld7OtY</id>
-        <link href="https://www.youtube.com/watch?v=wH3Dxld7OtY"/>
-        <updated>2026-08-03T10:00:04.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sahanathin Vedana]]></title>
-        <id>https://www.youtube.com/watch?v=TEH-pLJngF4</id>
-        <link href="https://www.youtube.com/watch?v=TEH-pLJngF4"/>
-        <updated>2026-08-03T10:00:01.000Z</updated>
         <author>
             <name>Kester - Topic</name>
         </author>
