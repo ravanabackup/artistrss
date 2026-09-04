@@ -73,6 +73,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCwY3V0If3Rp-Kei2YgIDHBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2GslJzhOELQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2GslJzhOELQ",
+          "publishedOn": "2026-09-04T16:18:53.000Z",
+          "wordCount": null,
+          "title": "Vadum Mullapoovalla (From \"Jailer\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xAB2jV3zbjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xAB2jV3zbjU",
+          "publishedOn": "2026-09-04T16:18:53.000Z",
+          "wordCount": null,
+          "title": "Vadum Mullapoovalla (From \"Jailer\") (Preview)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zKQFY2mbyf0",
           "author": null,
           "description": "",
@@ -80,6 +100,16 @@
           "publishedOn": "2026-08-27T10:30:27.000Z",
           "wordCount": null,
           "title": "Moha Mundiri",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZP885AG4N5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZP885AG4N5U",
+          "publishedOn": "2026-08-27T10:01:54.000Z",
+          "wordCount": null,
+          "title": "Chayurang",
           "imageUrl": null
         },
         {
