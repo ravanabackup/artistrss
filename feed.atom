@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T17:05:22.546Z</updated>
+    <updated>2026-09-05T19:51:38.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1219,78 +1219,6 @@
         <updated>2026-08-07T10:07:58.000Z</updated>
         <author>
             <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banku Vili Naattil]]></title>
-        <id>https://www.youtube.com/watch?v=2fxYYEvxfmo</id>
-        <link href="https://www.youtube.com/watch?v=2fxYYEvxfmo"/>
-        <updated>2026-08-07T07:34:04.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassinte Thalam]]></title>
-        <id>https://www.youtube.com/watch?v=J0Kvd38Is18</id>
-        <link href="https://www.youtube.com/watch?v=J0Kvd38Is18"/>
-        <updated>2026-08-07T07:34:04.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allah Ella Hamdum]]></title>
-        <id>https://www.youtube.com/watch?v=pRS87OVl6O0</id>
-        <link href="https://www.youtube.com/watch?v=pRS87OVl6O0"/>
-        <updated>2026-08-07T07:34:04.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eemanin Thanalil]]></title>
-        <id>https://www.youtube.com/watch?v=sbkYajgR35o</id>
-        <link href="https://www.youtube.com/watch?v=sbkYajgR35o"/>
-        <updated>2026-08-07T07:34:04.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manichilambo (D)]]></title>
-        <id>https://www.youtube.com/watch?v=OpTTKJn6csg</id>
-        <link href="https://www.youtube.com/watch?v=OpTTKJn6csg"/>
-        <updated>2026-08-07T06:46:00.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allahuve Alllahuve]]></title>
-        <id>https://www.youtube.com/watch?v=UZpBf8fSdrE</id>
-        <link href="https://www.youtube.com/watch?v=UZpBf8fSdrE"/>
-        <updated>2026-08-07T06:46:00.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhul Dhul]]></title>
-        <id>https://www.youtube.com/watch?v=syQq2Ba8Mh8</id>
-        <link href="https://www.youtube.com/watch?v=syQq2Ba8Mh8"/>
-        <updated>2026-08-07T06:46:00.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allah Allah]]></title>
-        <id>https://www.youtube.com/watch?v=c9MIGcvr5gs</id>
-        <link href="https://www.youtube.com/watch?v=c9MIGcvr5gs"/>
-        <updated>2026-08-07T06:05:34.000Z</updated>
-        <author>
-            <name>KG Markose - Topic</name>
         </author>
     </entry>
 </feed>
