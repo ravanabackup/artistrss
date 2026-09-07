@@ -316,6 +316,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=luRLLfjNewY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=luRLLfjNewY",
+          "publishedOn": "2026-09-01T18:31:56.000Z",
+          "wordCount": null,
+          "title": "Hare Rama Hare Krishna (Version 1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wbvxgqY6m94",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wbvxgqY6m94",
+          "publishedOn": "2026-09-01T18:31:56.000Z",
+          "wordCount": null,
+          "title": "Hare Rama Hare Krishna (Version 2)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-MPqvKyP_oQ",
           "author": null,
           "description": "",
