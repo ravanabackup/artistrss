@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T20:38:15.876Z</updated>
+    <updated>2026-09-08T23:08:10.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -985,15 +985,6 @@
         <updated>2026-08-10T11:09:29.000Z</updated>
         <author>
             <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lokame]]></title>
-        <id>https://www.youtube.com/watch?v=GaDv6oZRBbw</id>
-        <link href="https://www.youtube.com/watch?v=GaDv6oZRBbw"/>
-        <updated>2026-08-10T09:59:23.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>
