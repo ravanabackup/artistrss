@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T22:12:29.779Z</updated>
+    <updated>2026-09-10T00:47:01.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -787,42 +787,6 @@
         <updated>2026-08-13T07:48:36.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannil Nakshathra]]></title>
-        <id>https://www.youtube.com/watch?v=Rw8BVa3p7xI</id>
-        <link href="https://www.youtube.com/watch?v=Rw8BVa3p7xI"/>
-        <updated>2026-08-11T11:01:53.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaval Malaghaye]]></title>
-        <id>https://www.youtube.com/watch?v=IblW2NLOVoo</id>
-        <link href="https://www.youtube.com/watch?v=IblW2NLOVoo"/>
-        <updated>2026-08-11T11:01:53.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palazhithumbi]]></title>
-        <id>https://www.youtube.com/watch?v=3iBAySRjGzg</id>
-        <link href="https://www.youtube.com/watch?v=3iBAySRjGzg"/>
-        <updated>2026-08-11T10:46:02.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIYALE HALAHAL BADUE]]></title>
-        <id>https://www.youtube.com/watch?v=MZR_HA4L22E</id>
-        <link href="https://www.youtube.com/watch?v=MZR_HA4L22E"/>
-        <updated>2026-08-11T10:34:05.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
         </author>
     </entry>
 </feed>
