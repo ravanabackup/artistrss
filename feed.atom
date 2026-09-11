@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T23:39:19.297Z</updated>
+    <updated>2026-09-11T02:45:34.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Theytharo (From "Somante Krithavu")]]></title>
+        <id>https://www.youtube.com/watch?v=QCAhzOQKpJw</id>
+        <link href="https://www.youtube.com/watch?v=QCAhzOQKpJw"/>
+        <updated>2026-09-11T00:21:46.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theytharo (From "Somante Krithavu") (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=j92Zke4zLb4</id>
+        <link href="https://www.youtube.com/watch?v=j92Zke4zLb4"/>
+        <updated>2026-09-11T00:21:46.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Veedhiyil (From "Ganagandharvan")]]></title>
         <id>https://www.youtube.com/watch?v=PWdGydb50J8</id>
