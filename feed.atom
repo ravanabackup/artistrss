@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T19:24:46.813Z</updated>
+    <updated>2026-09-11T22:10:58.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -814,51 +814,6 @@
         <updated>2026-08-13T11:54:23.000Z</updated>
         <author>
             <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnodu Poovayi]]></title>
-        <id>https://www.youtube.com/watch?v=TnfpIsggcTw</id>
-        <link href="https://www.youtube.com/watch?v=TnfpIsggcTw"/>
-        <updated>2026-08-13T10:04:47.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mallikappoo]]></title>
-        <id>https://www.youtube.com/watch?v=wxRzffqOvuA</id>
-        <link href="https://www.youtube.com/watch?v=wxRzffqOvuA"/>
-        <updated>2026-08-13T10:04:12.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angulangale]]></title>
-        <id>https://www.youtube.com/watch?v=PPN6pIOjpaw</id>
-        <link href="https://www.youtube.com/watch?v=PPN6pIOjpaw"/>
-        <updated>2026-08-13T10:00:22.000Z</updated>
-        <author>
-            <name>Bijibal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manasile Moham]]></title>
-        <id>https://www.youtube.com/watch?v=FIPUheJdRso</id>
-        <link href="https://www.youtube.com/watch?v=FIPUheJdRso"/>
-        <updated>2026-08-13T07:48:36.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olimagaathe Deepamayi]]></title>
-        <id>https://www.youtube.com/watch?v=pFkuoZYdUUU</id>
-        <link href="https://www.youtube.com/watch?v=pFkuoZYdUUU"/>
-        <updated>2026-08-13T07:48:36.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
 </feed>
