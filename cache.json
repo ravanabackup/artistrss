@@ -188,7 +188,28 @@
       "title": "Najeem Arshad - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzEergq3aH6Sp8chBoRSeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCzEergq3aH6Sp8chBoRSeJQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7VYyaThCjVI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7VYyaThCjVI",
+          "publishedOn": "2026-09-11T22:14:53.000Z",
+          "wordCount": null,
+          "title": "Priyatharametho (From \"Randam Mukham\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tNiCunNY-0k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tNiCunNY-0k",
+          "publishedOn": "2026-09-11T22:14:53.000Z",
+          "wordCount": null,
+          "title": "Priyatharametho (From \"Randam Mukham\") (Preview)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sujatha - Topic",
@@ -585,16 +606,6 @@
           "publishedOn": "2026-08-30T11:30:04.000Z",
           "wordCount": null,
           "title": "RAMADOOTHASHTAKAM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UxEVfNNqs-k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UxEVfNNqs-k",
-          "publishedOn": "2026-08-13T11:54:23.000Z",
-          "wordCount": null,
-          "title": "Sugamaay Nadha",
           "imageUrl": null
         }
       ]
@@ -1019,16 +1030,6 @@
           "publishedOn": "2026-08-25T12:38:11.000Z",
           "wordCount": null,
           "title": "Karanju Karanju",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3YBcst7dBFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3YBcst7dBFU",
-          "publishedOn": "2026-08-13T11:54:23.000Z",
-          "wordCount": null,
-          "title": "Mahitheyange",
           "imageUrl": null
         }
       ]
