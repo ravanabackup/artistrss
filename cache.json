@@ -698,78 +698,7 @@
       "title": "G. Venugopal - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFs98MazJJe2MxOKGqP_JZQ",
       "siteUrl": "https://www.youtube.com/channel/UCFs98MazJJe2MxOKGqP_JZQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=5VtvyIHlarE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5VtvyIHlarE",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Sundari Neeyanen Manassil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6QvpqoF4V-g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6QvpqoF4V-g",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Ashtamayam Kathu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HqMNCaqyylo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HqMNCaqyylo",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Devi Devi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RVpgRsIJ5Xk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RVpgRsIJ5Xk",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Theerathil Oru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XgFVw3YRj9I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XgFVw3YRj9I",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Adyamaay Kandappol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eKlLGzxN_cw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eKlLGzxN_cw",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Muthe Punnara Muthe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0AH1uSFPOfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0AH1uSFPOfc",
-          "publishedOn": "2026-08-13T13:11:27.000Z",
-          "wordCount": null,
-          "title": "Manju Meghame",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rimi Tomy - Topic",

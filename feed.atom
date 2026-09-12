@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T05:20:31.108Z</updated>
+    <updated>2026-09-12T09:59:32.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -733,69 +733,6 @@
         <updated>2026-08-14T12:47:24.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundari Neeyanen Manassil]]></title>
-        <id>https://www.youtube.com/watch?v=5VtvyIHlarE</id>
-        <link href="https://www.youtube.com/watch?v=5VtvyIHlarE"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ashtamayam Kathu]]></title>
-        <id>https://www.youtube.com/watch?v=6QvpqoF4V-g</id>
-        <link href="https://www.youtube.com/watch?v=6QvpqoF4V-g"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devi Devi]]></title>
-        <id>https://www.youtube.com/watch?v=HqMNCaqyylo</id>
-        <link href="https://www.youtube.com/watch?v=HqMNCaqyylo"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theerathil Oru]]></title>
-        <id>https://www.youtube.com/watch?v=RVpgRsIJ5Xk</id>
-        <link href="https://www.youtube.com/watch?v=RVpgRsIJ5Xk"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adyamaay Kandappol]]></title>
-        <id>https://www.youtube.com/watch?v=XgFVw3YRj9I</id>
-        <link href="https://www.youtube.com/watch?v=XgFVw3YRj9I"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthe Punnara Muthe]]></title>
-        <id>https://www.youtube.com/watch?v=eKlLGzxN_cw</id>
-        <link href="https://www.youtube.com/watch?v=eKlLGzxN_cw"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manju Meghame]]></title>
-        <id>https://www.youtube.com/watch?v=0AH1uSFPOfc</id>
-        <link href="https://www.youtube.com/watch?v=0AH1uSFPOfc"/>
-        <updated>2026-08-13T13:11:27.000Z</updated>
-        <author>
-            <name>G. Venugopal - Topic</name>
         </author>
     </entry>
 </feed>
