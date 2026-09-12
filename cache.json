@@ -484,13 +484,34 @@
       "title": "M. Jayachandran - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg",
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Tsw3ma5XiEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tsw3ma5XiEU",
+          "publishedOn": "2026-09-12T10:04:07.000Z",
+          "wordCount": null,
+          "title": "Vathikkalu Vellaripravu (From \"Sufiyum Sujatayum\")",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Biju Narayanan - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C47yC98OExI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C47yC98OExI",
+          "publishedOn": "2026-09-12T12:11:51.000Z",
+          "wordCount": null,
+          "title": "Kuttichaathane",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4YKHzzearno",
           "author": null,
