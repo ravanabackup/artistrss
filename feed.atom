@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-15T19:28:30.697Z</updated>
+    <updated>2026-09-15T22:41:12.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -661,60 +661,6 @@
         <updated>2026-08-18T10:00:21.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idayan Eshuve]]></title>
-        <id>https://www.youtube.com/watch?v=bB4_Dm2jAGI</id>
-        <link href="https://www.youtube.com/watch?v=bB4_Dm2jAGI"/>
-        <updated>2026-08-17T10:02:30.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adhwanippavare]]></title>
-        <id>https://www.youtube.com/watch?v=BlGmz-j_s5c</id>
-        <link href="https://www.youtube.com/watch?v=BlGmz-j_s5c"/>
-        <updated>2026-08-17T10:02:26.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargasthanam Pithav]]></title>
-        <id>https://www.youtube.com/watch?v=n9hZZuwAvNg</id>
-        <link href="https://www.youtube.com/watch?v=n9hZZuwAvNg"/>
-        <updated>2026-08-17T10:02:08.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parishuddha Roohaye]]></title>
-        <id>https://www.youtube.com/watch?v=UapJ1OUfdpY</id>
-        <link href="https://www.youtube.com/watch?v=UapJ1OUfdpY"/>
-        <updated>2026-08-17T09:52:21.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Maranno]]></title>
-        <id>https://www.youtube.com/watch?v=ZCBwF50IZF0</id>
-        <link href="https://www.youtube.com/watch?v=ZCBwF50IZF0"/>
-        <updated>2026-08-17T09:52:21.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthippin]]></title>
-        <id>https://www.youtube.com/watch?v=weQKfI94Y70</id>
-        <link href="https://www.youtube.com/watch?v=weQKfI94Y70"/>
-        <updated>2026-08-17T09:52:21.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
         </author>
     </entry>
 </feed>
