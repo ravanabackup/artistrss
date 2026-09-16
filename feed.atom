@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T07:07:54.054Z</updated>
+    <updated>2026-09-16T13:02:44.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rani Lalitha (D)]]></title>
+        <id>https://www.youtube.com/watch?v=7VWyvJ5Y05M</id>
+        <link href="https://www.youtube.com/watch?v=7VWyvJ5Y05M"/>
+        <updated>2026-09-16T08:22:10.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rim Jim (D)]]></title>
+        <id>https://www.youtube.com/watch?v=Vdy8aV5qZlE</id>
+        <link href="https://www.youtube.com/watch?v=Vdy8aV5qZlE"/>
+        <updated>2026-09-16T08:22:10.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meleyundu Keezheund Randu Kaavukal]]></title>
+        <id>https://www.youtube.com/watch?v=4603JDw-mR0</id>
+        <link href="https://www.youtube.com/watch?v=4603JDw-mR0"/>
+        <updated>2026-09-16T07:08:48.000Z</updated>
+        <author>
+            <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Santhanabhagyam]]></title>
         <id>https://www.youtube.com/watch?v=ri27AxKnz_I</id>
@@ -31,6 +58,15 @@
         <updated>2026-09-15T18:30:20.000Z</updated>
         <author>
             <name>Maria Kolady - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avanavanathma Sukhathinayi]]></title>
+        <id>https://www.youtube.com/watch?v=Y0aJO2LGHXY</id>
+        <link href="https://www.youtube.com/watch?v=Y0aJO2LGHXY"/>
+        <updated>2026-09-15T18:22:21.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
     <entry>
