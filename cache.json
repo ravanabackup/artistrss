@@ -469,6 +469,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XTDV6BMcaIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XTDV6BMcaIY",
+          "publishedOn": "2026-09-15T18:13:01.000Z",
+          "wordCount": null,
+          "title": "Prakruthiye",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dN_Qu8I0ofA",
           "author": null,
           "description": "",
@@ -552,6 +562,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JU7aS-YBchU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JU7aS-YBchU",
+          "publishedOn": "2026-09-18T08:40:28.000Z",
+          "wordCount": null,
+          "title": "Raajayogam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WURoREz1s8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WURoREz1s8Q",
+          "publishedOn": "2026-09-18T08:40:28.000Z",
+          "wordCount": null,
+          "title": "Kamaladalam Moodum (V-2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WqLtEC-GlcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WqLtEC-GlcI",
+          "publishedOn": "2026-09-18T08:25:40.000Z",
+          "wordCount": null,
+          "title": "Mindaattam Venda (D)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=TBUtUyPdl8w",
           "author": null,
