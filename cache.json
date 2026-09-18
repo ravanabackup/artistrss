@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "Arike",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VnOb1IVOzs4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VnOb1IVOzs4",
-          "publishedOn": "2026-08-20T10:00:14.000Z",
-          "wordCount": null,
-          "title": "Changaayi",
-          "imageUrl": null
         }
       ]
     },
@@ -355,6 +345,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA",
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JhRalRnGwMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JhRalRnGwMk",
+          "publishedOn": "2026-09-18T18:45:14.000Z",
+          "wordCount": null,
+          "title": "Boologam Oor Naal",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=luRLLfjNewY",
           "author": null,
@@ -836,16 +836,6 @@
           "publishedOn": "2026-08-27T10:02:37.000Z",
           "wordCount": null,
           "title": "Manikuyile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e5s_WcAxlDI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e5s_WcAxlDI",
-          "publishedOn": "2026-08-20T10:01:41.000Z",
-          "wordCount": null,
-          "title": "Cham Cham",
           "imageUrl": null
         }
       ]
