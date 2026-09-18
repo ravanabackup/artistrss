@@ -553,6 +553,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TBUtUyPdl8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TBUtUyPdl8w",
+          "publishedOn": "2026-09-18T07:40:11.000Z",
+          "wordCount": null,
+          "title": "Kanivatta Kadanathil",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7VWyvJ5Y05M",
           "author": null,
           "description": "",
@@ -825,6 +835,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ",
       "siteUrl": "https://www.youtube.com/channel/UCoBmFglJHG6gzSZU_59HGrQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SbFBPQBCnjk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SbFBPQBCnjk",
+          "publishedOn": "2026-09-18T07:40:11.000Z",
+          "wordCount": null,
+          "title": "Pavanamee Altharayil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=__AP6potcQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=__AP6potcQ0",
+          "publishedOn": "2026-09-11T16:26:17.000Z",
+          "wordCount": null,
+          "title": "Ninte Snehanathan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uUz5-Kdr-Gk",
           "author": null,
