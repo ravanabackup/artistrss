@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T05:50:05.847Z</updated>
+    <updated>2026-09-21T11:51:36.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaliyuga Varadan]]></title>
+        <id>https://www.youtube.com/watch?v=QZ3XNMUsUvs</id>
+        <link href="https://www.youtube.com/watch?v=QZ3XNMUsUvs"/>
+        <updated>2026-09-21T11:39:26.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koove koove]]></title>
+        <id>https://www.youtube.com/watch?v=Cgrp_FHnLFc</id>
+        <link href="https://www.youtube.com/watch?v=Cgrp_FHnLFc"/>
+        <updated>2026-09-21T10:12:43.000Z</updated>
+        <author>
+            <name>Sujatha - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ummatham Poovu Virinju (D)]]></title>
+        <id>https://www.youtube.com/watch?v=SPkWq9LnDfU</id>
+        <link href="https://www.youtube.com/watch?v=SPkWq9LnDfU"/>
+        <updated>2026-09-21T10:12:43.000Z</updated>
+        <author>
+            <name>Unnimenon - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guru Meets Mastan (Alif Maamathi)]]></title>
+        <id>https://www.youtube.com/watch?v=PCIRPs8dSTA</id>
+        <link href="https://www.youtube.com/watch?v=PCIRPs8dSTA"/>
+        <updated>2026-09-21T04:48:06.000Z</updated>
+        <author>
+            <name>Shahabaz Aman - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boologam Oor Naal]]></title>
         <id>https://www.youtube.com/watch?v=JhRalRnGwMk</id>
