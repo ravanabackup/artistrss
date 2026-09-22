@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T10:52:29.500Z</updated>
+    <updated>2026-09-22T15:22:54.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ezhaam Baharinte Vaathil]]></title>
+        <id>https://www.youtube.com/watch?v=-RKfllSlWDU</id>
+        <link href="https://www.youtube.com/watch?v=-RKfllSlWDU"/>
+        <updated>2026-09-22T12:18:56.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Narum]]></title>
+        <id>https://www.youtube.com/watch?v=pCk9CshIuBE</id>
+        <link href="https://www.youtube.com/watch?v=pCk9CshIuBE"/>
+        <updated>2026-09-22T11:55:21.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaliyuga Varadan]]></title>
         <id>https://www.youtube.com/watch?v=QZ3XNMUsUvs</id>

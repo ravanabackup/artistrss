@@ -574,6 +574,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pCk9CshIuBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pCk9CshIuBE",
+          "publishedOn": "2026-09-22T11:55:21.000Z",
+          "wordCount": null,
+          "title": "Oru Narum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JU7aS-YBchU",
           "author": null,
           "description": "",
@@ -700,6 +710,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-RKfllSlWDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-RKfllSlWDU",
+          "publishedOn": "2026-09-22T12:18:56.000Z",
+          "wordCount": null,
+          "title": "Ezhaam Baharinte Vaathil",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Dj0PduUIyBc",
           "author": null,
