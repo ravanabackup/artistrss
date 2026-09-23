@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T13:17:29.117Z</updated>
+    <updated>2026-09-23T18:11:55.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O Murli Wale]]></title>
+        <id>https://www.youtube.com/watch?v=Jjj8cvT13QY</id>
+        <link href="https://www.youtube.com/watch?v=Jjj8cvT13QY"/>
+        <updated>2026-09-23T16:21:36.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Om Jai Shri Shyam Hare]]></title>
+        <id>https://www.youtube.com/watch?v=Px8Ypz2aHxE</id>
+        <link href="https://www.youtube.com/watch?v=Px8Ypz2aHxE"/>
+        <updated>2026-09-23T16:21:36.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuch Aisi Kasak]]></title>
+        <id>https://www.youtube.com/watch?v=TNfz77dC5U0</id>
+        <link href="https://www.youtube.com/watch?v=TNfz77dC5U0"/>
+        <updated>2026-09-23T16:21:36.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mere Shyam Ka Jee Bhar Ke]]></title>
+        <id>https://www.youtube.com/watch?v=aq2qPfrfqI8</id>
+        <link href="https://www.youtube.com/watch?v=aq2qPfrfqI8"/>
+        <updated>2026-09-23T16:21:36.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shyam Ka Naam Japo Re]]></title>
+        <id>https://www.youtube.com/watch?v=dJ2wbYAzjBU</id>
+        <link href="https://www.youtube.com/watch?v=dJ2wbYAzjBU"/>
+        <updated>2026-09-23T16:21:36.000Z</updated>
+        <author>
+            <name>Deepak Dev - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ezhaam Baharinte Vaathil]]></title>
         <id>https://www.youtube.com/watch?v=-RKfllSlWDU</id>
@@ -733,15 +778,6 @@
         <updated>2026-08-25T10:39:17.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arike]]></title>
-        <id>https://www.youtube.com/watch?v=e0JWpYw408Q</id>
-        <link href="https://www.youtube.com/watch?v=e0JWpYw408Q"/>
-        <updated>2026-08-25T05:13:41.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
 </feed>

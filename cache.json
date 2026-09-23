@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "Aalilayum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e0JWpYw408Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e0JWpYw408Q",
-          "publishedOn": "2026-08-25T05:13:41.000Z",
-          "wordCount": null,
-          "title": "Arike",
-          "imageUrl": null
         }
       ]
     },
@@ -814,6 +804,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jjj8cvT13QY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jjj8cvT13QY",
+          "publishedOn": "2026-09-23T16:21:36.000Z",
+          "wordCount": null,
+          "title": "O Murli Wale",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Px8Ypz2aHxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Px8Ypz2aHxE",
+          "publishedOn": "2026-09-23T16:21:36.000Z",
+          "wordCount": null,
+          "title": "Om Jai Shri Shyam Hare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TNfz77dC5U0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TNfz77dC5U0",
+          "publishedOn": "2026-09-23T16:21:36.000Z",
+          "wordCount": null,
+          "title": "Kuch Aisi Kasak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aq2qPfrfqI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aq2qPfrfqI8",
+          "publishedOn": "2026-09-23T16:21:36.000Z",
+          "wordCount": null,
+          "title": "Mere Shyam Ka Jee Bhar Ke",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dJ2wbYAzjBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dJ2wbYAzjBU",
+          "publishedOn": "2026-09-23T16:21:36.000Z",
+          "wordCount": null,
+          "title": "Shyam Ka Naam Japo Re",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PWdGydb50J8",
           "author": null,
