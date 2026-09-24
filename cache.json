@@ -131,26 +131,6 @@
           "wordCount": null,
           "title": "Chayurang",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yjx-rhKd7mo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yjx-rhKd7mo",
-          "publishedOn": "2026-08-25T10:39:17.000Z",
-          "wordCount": null,
-          "title": "Arimulla",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n5-cHQbXIUw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n5-cHQbXIUw",
-          "publishedOn": "2026-08-25T10:39:17.000Z",
-          "wordCount": null,
-          "title": "Madhura Pulavu",
-          "imageUrl": null
         }
       ]
     },
@@ -345,6 +325,116 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA",
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6Z7Ey2RBl9g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Z7Ey2RBl9g",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Ambadi Kanna Kannaa Thunayekane Nee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WdbWHAAIIIo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WdbWHAAIIIo",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Saranam Nee Guruvayoorappaa (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X6XZBLDPpek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X6XZBLDPpek",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Saranam Nee Guruvayoorappaa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YuiqhLhP-2I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YuiqhLhP-2I",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Kanna Ninnude Pathadhooli Nalkaan (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fDYHkvVRomo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fDYHkvVRomo",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Ambadi Kanna Kannaa Thunayekane Nee (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o18hNzlRpEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o18hNzlRpEA",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Karunyekoo Kanna Parama Pavanaa Nee (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r99Y2N46M_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r99Y2N46M_E",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Karunyekoo Kanna Parama Pavanaa Nee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wkxb6GakWng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wkxb6GakWng",
+          "publishedOn": "2026-09-24T00:16:47.000Z",
+          "wordCount": null,
+          "title": "Kanna Ninnude Pathadhooli Nalkaan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BUvN1RKTRyo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BUvN1RKTRyo",
+          "publishedOn": "2026-09-22T07:46:00.000Z",
+          "wordCount": null,
+          "title": "Sakkaravalli",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FdHy3vy3J5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FdHy3vy3J5U",
+          "publishedOn": "2026-09-22T07:46:00.000Z",
+          "wordCount": null,
+          "title": "Purave En (V-2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PIqvJZBJXjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PIqvJZBJXjU",
+          "publishedOn": "2026-09-22T07:46:00.000Z",
+          "wordCount": null,
+          "title": "Karu Karu Karupayi (D)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SPkWq9LnDfU",
           "author": null,
