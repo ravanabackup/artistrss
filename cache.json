@@ -177,6 +177,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4PHPycgfp4P2iydf5XXD3A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FsauUAtmwOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FsauUAtmwOU",
+          "publishedOn": "2026-09-24T10:14:22.000Z",
+          "wordCount": null,
+          "title": "Kaavyashilpam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Cgrp_FHnLFc",
           "author": null,
           "description": "",
@@ -608,26 +618,6 @@
           "wordCount": null,
           "title": "Ponnaavanippadam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nt5O5jnqO1k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nt5O5jnqO1k",
-          "publishedOn": "2026-08-25T13:34:35.000Z",
-          "wordCount": null,
-          "title": "Aarppuvili Kettille",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tRDDcJoFr3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tRDDcJoFr3g",
-          "publishedOn": "2026-08-25T13:34:35.000Z",
-          "wordCount": null,
-          "title": "Chithram Varachittu 1",
-          "imageUrl": null
         }
       ]
     },
@@ -653,6 +643,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7vxzSEDKtDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7vxzSEDKtDc",
+          "publishedOn": "2026-09-24T10:14:22.000Z",
+          "wordCount": null,
+          "title": "Ezhazhakaay Mazhavillorungi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PUmlrF2dgHs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PUmlrF2dgHs",
+          "publishedOn": "2026-09-24T10:14:22.000Z",
+          "wordCount": null,
+          "title": "Midhuna Raavin Vencholayil",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pCk9CshIuBE",
           "author": null,
@@ -1045,16 +1055,6 @@
           "wordCount": null,
           "title": "Ninte Snehanathan",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uUz5-Kdr-Gk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uUz5-Kdr-Gk",
-          "publishedOn": "2026-08-25T12:38:11.000Z",
-          "wordCount": null,
-          "title": "Oo Ente Eeso Male",
-          "imageUrl": null
         }
       ]
     },
@@ -1071,16 +1071,6 @@
           "publishedOn": "2026-08-31T07:08:49.000Z",
           "wordCount": null,
           "title": "Vandhanam Yeshupara",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tb2flfWiq8c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tb2flfWiq8c",
-          "publishedOn": "2026-08-25T12:38:11.000Z",
-          "wordCount": null,
-          "title": "Karanju Karanju",
           "imageUrl": null
         }
       ]
