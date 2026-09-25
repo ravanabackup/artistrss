@@ -44,26 +44,6 @@
           "wordCount": null,
           "title": "Aval Pattu Pudavai",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H4AS5ZaEpXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H4AS5ZaEpXQ",
-          "publishedOn": "2026-08-27T10:00:20.000Z",
-          "wordCount": null,
-          "title": "Karineela Kannilenthedi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NsvI8rYdk2s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NsvI8rYdk2s",
-          "publishedOn": "2026-08-27T10:00:08.000Z",
-          "wordCount": null,
-          "title": "Aalilayum",
-          "imageUrl": null
         }
       ]
     },
@@ -110,26 +90,6 @@
           "publishedOn": "2026-09-04T16:18:53.000Z",
           "wordCount": null,
           "title": "Vadum Mullapoovalla (From \"Jailer\") (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zKQFY2mbyf0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zKQFY2mbyf0",
-          "publishedOn": "2026-08-27T10:30:27.000Z",
-          "wordCount": null,
-          "title": "Moha Mundiri",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZP885AG4N5U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZP885AG4N5U",
-          "publishedOn": "2026-08-27T10:01:54.000Z",
-          "wordCount": null,
-          "title": "Chayurang",
           "imageUrl": null
         }
       ]
@@ -204,16 +164,6 @@
           "publishedOn": "2026-09-15T05:21:27.000Z",
           "wordCount": null,
           "title": "Kuyile Nin Kurum Kuzhalil (F)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zq_QCyfoBBU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zq_QCyfoBBU",
-          "publishedOn": "2026-08-27T10:00:10.000Z",
-          "wordCount": null,
-          "title": "Manjadi Mazha",
           "imageUrl": null
         }
       ]
@@ -598,26 +548,6 @@
           "wordCount": null,
           "title": "Keralamunarunnu",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nU49lcJi4rA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nU49lcJi4rA",
-          "publishedOn": "2026-08-27T10:00:13.000Z",
-          "wordCount": null,
-          "title": "Manivaka Pootha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VT9bT7OzyDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VT9bT7OzyDA",
-          "publishedOn": "2026-08-27T10:00:02.000Z",
-          "wordCount": null,
-          "title": "Ponnaavanippadam",
-          "imageUrl": null
         }
       ]
     },
@@ -876,26 +806,6 @@
           "wordCount": null,
           "title": "Scenuke Scene (From \"Scene (Telugu)\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HXkDLhM6Cl8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HXkDLhM6Cl8",
-          "publishedOn": "2026-08-27T10:30:29.000Z",
-          "wordCount": null,
-          "title": "Engotta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tY79QwGTs_Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tY79QwGTs_Y",
-          "publishedOn": "2026-08-27T10:30:21.000Z",
-          "wordCount": null,
-          "title": "Thaakkol",
-          "imageUrl": null
         }
       ]
     },
@@ -1008,28 +918,7 @@
       "title": "K.J. Yesudas - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg",
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=yFJPSC04InU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yFJPSC04InU",
-          "publishedOn": "2026-08-27T10:04:11.000Z",
-          "wordCount": null,
-          "title": "Priyathame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gYyXvPggSAM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gYyXvPggSAM",
-          "publishedOn": "2026-08-27T10:02:37.000Z",
-          "wordCount": null,
-          "title": "Manikuyile",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kester - Topic",
