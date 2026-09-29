@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-29T16:45:43.812Z</updated>
+    <updated>2026-09-29T21:14:17.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Madhu Muraliravam]]></title>
+        <id>https://www.youtube.com/watch?v=209urj_5TDA</id>
+        <link href="https://www.youtube.com/watch?v=209urj_5TDA"/>
+        <updated>2026-09-29T18:30:36.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iniyarkumarodum (M)]]></title>
+        <id>https://www.youtube.com/watch?v=PjMvf02eKkk</id>
+        <link href="https://www.youtube.com/watch?v=PjMvf02eKkk"/>
+        <updated>2026-09-29T18:30:25.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninakkai Thozhee]]></title>
+        <id>https://www.youtube.com/watch?v=fpmGREnpoRE</id>
+        <link href="https://www.youtube.com/watch?v=fpmGREnpoRE"/>
+        <updated>2026-09-29T18:30:09.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivame Ninte Sneham]]></title>
+        <id>https://www.youtube.com/watch?v=4Ibv73jIRTw</id>
+        <link href="https://www.youtube.com/watch?v=4Ibv73jIRTw"/>
+        <updated>2026-09-29T12:33:17.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daivame Ninte Sneham]]></title>
         <id>https://www.youtube.com/watch?v=cqkbJ5DNavM</id>
@@ -22,6 +58,69 @@
         <updated>2026-09-29T12:33:17.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namasthe Sharanye]]></title>
+        <id>https://www.youtube.com/watch?v=1XDrHqqwDPY</id>
+        <link href="https://www.youtube.com/watch?v=1XDrHqqwDPY"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Om Hreem]]></title>
+        <id>https://www.youtube.com/watch?v=FdoF7ZjfqS8</id>
+        <link href="https://www.youtube.com/watch?v=FdoF7ZjfqS8"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nithyanandakari]]></title>
+        <id>https://www.youtube.com/watch?v=MW9RRWqX29Y</id>
+        <link href="https://www.youtube.com/watch?v=MW9RRWqX29Y"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sindhuraruna Vigraham]]></title>
+        <id>https://www.youtube.com/watch?v=Ow1QtMYhuh8</id>
+        <link href="https://www.youtube.com/watch?v=Ow1QtMYhuh8"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prabhavathy]]></title>
+        <id>https://www.youtube.com/watch?v=Rk57c7y3OEI</id>
+        <link href="https://www.youtube.com/watch?v=Rk57c7y3OEI"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siva Sakthya]]></title>
+        <id>https://www.youtube.com/watch?v=kEO-tRo4sFI</id>
+        <link href="https://www.youtube.com/watch?v=kEO-tRo4sFI"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karunai Deivame]]></title>
+        <id>https://www.youtube.com/watch?v=lfHxbAP4-ZQ</id>
+        <link href="https://www.youtube.com/watch?v=lfHxbAP4-ZQ"/>
+        <updated>2026-09-29T12:18:25.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -1039,33 +1138,6 @@
         <updated>2026-08-31T09:56:29.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Theepole (From "Aadu 2")]]></title>
-        <id>https://www.youtube.com/watch?v=_OsjwHPZh9I</id>
-        <link href="https://www.youtube.com/watch?v=_OsjwHPZh9I"/>
-        <updated>2026-08-31T07:19:48.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandhanam Yeshupara]]></title>
-        <id>https://www.youtube.com/watch?v=jLBhd7K493I</id>
-        <link href="https://www.youtube.com/watch?v=jLBhd7K493I"/>
-        <updated>2026-08-31T07:08:49.000Z</updated>
-        <author>
-            <name>Elizabeth Raju - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changaathi Nannaayaal (From "Aadu 2")]]></title>
-        <id>https://www.youtube.com/watch?v=OnlaU-NBbe4</id>
-        <link href="https://www.youtube.com/watch?v=OnlaU-NBbe4"/>
-        <updated>2026-08-31T07:07:40.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
 </feed>
