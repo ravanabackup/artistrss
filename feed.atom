@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T08:14:08.195Z</updated>
+    <updated>2026-10-01T15:57:31.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayavi Thennale]]></title>
+        <id>https://www.youtube.com/watch?v=CxJKpE1_2Xc</id>
+        <link href="https://www.youtube.com/watch?v=CxJKpE1_2Xc"/>
+        <updated>2026-10-01T13:32:58.000Z</updated>
+        <author>
+            <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru kodi Sooryaprabha]]></title>
+        <id>https://www.youtube.com/watch?v=JypFyGAah7g</id>
+        <link href="https://www.youtube.com/watch?v=JypFyGAah7g"/>
+        <updated>2026-10-01T13:24:07.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aalilakannane]]></title>
+        <id>https://www.youtube.com/watch?v=qOrFdl1c-CY</id>
+        <link href="https://www.youtube.com/watch?v=qOrFdl1c-CY"/>
+        <updated>2026-10-01T13:24:07.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vedanayaka Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=ZNi8HKtilJI</id>
+        <link href="https://www.youtube.com/watch?v=ZNi8HKtilJI"/>
+        <updated>2026-10-01T13:24:06.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Padaswaram M]]></title>
+        <id>https://www.youtube.com/watch?v=PpeCM-st78E</id>
+        <link href="https://www.youtube.com/watch?v=PpeCM-st78E"/>
+        <updated>2026-10-01T12:25:33.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnum Parayuvan F]]></title>
+        <id>https://www.youtube.com/watch?v=MY3SqJKVXmk</id>
+        <link href="https://www.youtube.com/watch?v=MY3SqJKVXmk"/>
+        <updated>2026-10-01T12:01:31.000Z</updated>
+        <author>
+            <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kadhanam marannu poyi]]></title>
         <id>https://www.youtube.com/watch?v=CaAWlbd8hx4</id>
