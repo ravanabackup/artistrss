@@ -973,6 +973,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=COAwD4tJ-8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=COAwD4tJ-8Q",
+          "publishedOn": "2026-10-01T07:43:58.000Z",
+          "wordCount": null,
+          "title": "Kanavoru Sangeetham",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fpmGREnpoRE",
           "author": null,
           "description": "",
