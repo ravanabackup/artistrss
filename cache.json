@@ -916,6 +916,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCCKSa0JdMHZKLh6laZmyELg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YnKhJi3qDHs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YnKhJi3qDHs",
+          "publishedOn": "2026-10-02T11:34:21.000Z",
+          "wordCount": null,
+          "title": "Chandare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Fdr8RuThaCs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fdr8RuThaCs",
+          "publishedOn": "2026-10-02T11:32:39.000Z",
+          "wordCount": null,
+          "title": "Marathilu Neerottam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Jd2LpLN_z9U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jd2LpLN_z9U",
+          "publishedOn": "2026-09-29T12:31:36.000Z",
+          "wordCount": null,
+          "title": "Chandare (From \"Chiram\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DsZtoeBxX_A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DsZtoeBxX_A",
+          "publishedOn": "2026-09-24T18:34:21.000Z",
+          "wordCount": null,
+          "title": "Raagathennale",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tsw3ma5XiEU",
           "author": null,
           "description": "",
