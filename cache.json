@@ -295,6 +295,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8eUaNeFVjMo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8eUaNeFVjMo",
+          "publishedOn": "2026-09-30T15:14:03.000Z",
+          "wordCount": null,
+          "title": "Pani Kooda Unmel Padum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0LPhxjxyPV4",
           "author": null,
           "description": "",
@@ -576,6 +586,16 @@
           "publishedOn": "2026-10-01T13:24:07.000Z",
           "wordCount": null,
           "title": "Aalilakannane",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jbnJKIh-oPY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jbnJKIh-oPY",
+          "publishedOn": "2026-10-01T13:24:06.000Z",
+          "wordCount": null,
+          "title": "Haripoojayanente",
           "imageUrl": null
         },
         {
