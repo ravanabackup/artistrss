@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "Theytharo (From \"Somante Krithavu\") (Preview)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=johQ1Q3Qk6I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=johQ1Q3Qk6I",
-          "publishedOn": "2026-09-03T18:14:12.000Z",
-          "wordCount": null,
-          "title": "Aval Pattu Pudavai",
-          "imageUrl": null
         }
       ]
     },
@@ -250,6 +240,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=2Z2BkwbcZHE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2Z2BkwbcZHE",
+          "publishedOn": "2026-09-12T04:46:27.000Z",
+          "wordCount": null,
+          "title": "Kulirkaattu (From \"Ozhiyathe\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L2jU-GkKUfE",
           "author": null,
           "description": "",
@@ -267,6 +267,16 @@
           "publishedOn": "2026-09-07T20:16:37.000Z",
           "wordCount": null,
           "title": "Minni Minnana Muth Peyyana (From \"Jailer\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K-xxlMi1FIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K-xxlMi1FIQ",
+          "publishedOn": "2026-09-05T04:51:16.000Z",
+          "wordCount": null,
+          "title": "Ombra (From \"Ozhiyathe\")",
           "imageUrl": null
         }
       ]
