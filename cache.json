@@ -1287,6 +1287,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCzpmF_8698JYBqh96PPCTfw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D9X_PSIcZXs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D9X_PSIcZXs",
+          "publishedOn": "2026-10-08T12:32:40.000Z",
+          "wordCount": null,
+          "title": "Aathi Iva Yarraa (From \"Scene\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qL4_2-GTWvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qL4_2-GTWvA",
+          "publishedOn": "2026-10-08T12:32:21.000Z",
+          "wordCount": null,
+          "title": "Ammo Idi Evarraa (From \"Scene (Telugu)\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yYEpegFQ1wM",
           "author": null,
           "description": "",
