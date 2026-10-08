@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T02:25:42.733Z</updated>
+    <updated>2026-10-08T09:53:07.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -40,6 +40,24 @@
         <updated>2026-10-02T11:32:39.000Z</updated>
         <author>
             <name>M. Jayachandran - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namo Namo Sree (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=jS03_9demgQ</id>
+        <link href="https://www.youtube.com/watch?v=jS03_9demgQ"/>
+        <updated>2026-10-02T02:14:53.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namo Namo Sree]]></title>
+        <id>https://www.youtube.com/watch?v=nD_LSg-HEtw</id>
+        <link href="https://www.youtube.com/watch?v=nD_LSg-HEtw"/>
+        <updated>2026-10-02T02:14:53.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
         </author>
     </entry>
     <entry>
@@ -157,6 +175,24 @@
         <updated>2026-09-30T15:14:03.000Z</updated>
         <author>
             <name>Unnimenon - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namo Namo Sree Krishna (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=XM3_G9X8_Ds</id>
+        <link href="https://www.youtube.com/watch?v=XM3_G9X8_Ds"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namo Namo Sree Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=pk46eHDGTAI</id>
+        <link href="https://www.youtube.com/watch?v=pk46eHDGTAI"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
         </author>
     </entry>
     <entry>
@@ -454,6 +490,15 @@
         <updated>2026-09-26T04:10:35.000Z</updated>
         <author>
             <name>Unnimenon - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katte Nee Kando (From "Raghuvinte Swontham Raziya")]]></title>
+        <id>https://www.youtube.com/watch?v=ZnFVz_vExOE</id>
+        <link href="https://www.youtube.com/watch?v=ZnFVz_vExOE"/>
+        <updated>2026-09-25T22:15:00.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
         </author>
     </entry>
     <entry>
@@ -763,6 +808,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Namo Namah (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=1ai9ZFDmHUI</id>
+        <link href="https://www.youtube.com/watch?v=1ai9ZFDmHUI"/>
+        <updated>2026-09-22T10:17:27.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namo Namah]]></title>
+        <id>https://www.youtube.com/watch?v=JAUgaFMUPtI</id>
+        <link href="https://www.youtube.com/watch?v=JAUgaFMUPtI"/>
+        <updated>2026-09-22T10:17:27.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sakkaravalli]]></title>
         <id>https://www.youtube.com/watch?v=BUvN1RKTRyo</id>
         <link href="https://www.youtube.com/watch?v=BUvN1RKTRyo"/>
@@ -967,6 +1030,24 @@
         <updated>2026-09-16T06:50:31.000Z</updated>
         <author>
             <name>Sithara Krishnakumar - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakalaruthiyavunnu (From "Nokkukuthi") (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=g3EVEKWdD1I</id>
+        <link href="https://www.youtube.com/watch?v=g3EVEKWdD1I"/>
+        <updated>2026-09-16T04:19:23.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakalaruthiyavunnu (From "Nokkukuthi")]]></title>
+        <id>https://www.youtube.com/watch?v=q9SMp2JHDMM</id>
+        <link href="https://www.youtube.com/watch?v=q9SMp2JHDMM"/>
+        <updated>2026-09-16T04:19:23.000Z</updated>
+        <author>
+            <name>Manjari - Topic</name>
         </author>
     </entry>
     <entry>
