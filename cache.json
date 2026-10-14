@@ -115,16 +115,6 @@
           "wordCount": null,
           "title": "Koove koove",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=16woYtvGVX0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=16woYtvGVX0",
-          "publishedOn": "2026-09-15T05:21:27.000Z",
-          "wordCount": null,
-          "title": "Kuyile Nin Kurum Kuzhalil (F)",
-          "imageUrl": null
         }
       ]
     },
@@ -158,26 +148,6 @@
           "wordCount": null,
           "title": "Onnumillathavarkkellam (From \"Sabdam\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=28wSmtHmxmU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=28wSmtHmxmU",
-          "publishedOn": "2026-09-15T06:40:48.000Z",
-          "wordCount": null,
-          "title": "Arutharutharuthu (From \"Nalppathiyonnu(41)\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aouogtr5sXM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aouogtr5sXM",
-          "publishedOn": "2026-09-15T06:24:08.000Z",
-          "wordCount": null,
-          "title": "Mele Meghakkombil (From \"Nalppathiyonnu(41)\")",
-          "imageUrl": null
         }
       ]
     },
@@ -204,6 +174,96 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA",
       "siteUrl": "https://www.youtube.com/channel/UCmDZbFoZTmR73ezPiyctJCA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UPzAA7juj3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UPzAA7juj3o",
+          "publishedOn": "2026-10-05T22:13:11.000Z",
+          "wordCount": null,
+          "title": "Makkathe Panimathi Pole",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=umzn2mreBxI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=umzn2mreBxI",
+          "publishedOn": "2026-10-05T22:13:11.000Z",
+          "wordCount": null,
+          "title": "Makkathe Panimathi Pole (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dSjg_eFCOZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dSjg_eFCOZc",
+          "publishedOn": "2026-09-30T18:35:16.000Z",
+          "wordCount": null,
+          "title": "Guruvayoorappante Thiru Sannidanam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5UJfn1lOeyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5UJfn1lOeyI",
+          "publishedOn": "2026-09-30T18:33:41.000Z",
+          "wordCount": null,
+          "title": "Krishna Hare Jaya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0td5UD7KYp0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0td5UD7KYp0",
+          "publishedOn": "2026-09-30T18:33:13.000Z",
+          "wordCount": null,
+          "title": "Geetha Vedha Sudha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Jht85GryQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Jht85GryQ0",
+          "publishedOn": "2026-09-30T18:33:09.000Z",
+          "wordCount": null,
+          "title": "Gaanamohana Mridu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IL6KIysD2qs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IL6KIysD2qs",
+          "publishedOn": "2026-09-30T18:33:07.000Z",
+          "wordCount": null,
+          "title": "Kanivalle Ellam Ninte",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GmEP6rrIvwI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GmEP6rrIvwI",
+          "publishedOn": "2026-09-30T18:32:28.000Z",
+          "wordCount": null,
+          "title": "Bakthakodi Kaalakaalam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x3tCdcME88U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x3tCdcME88U",
+          "publishedOn": "2026-09-30T18:32:20.000Z",
+          "wordCount": null,
+          "title": "Guruvayoorappa Bagavane",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8eUaNeFVjMo",
           "author": null,
@@ -863,6 +923,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TGL0g6sny1Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TGL0g6sny1Q",
+          "publishedOn": "2026-10-01T20:19:27.000Z",
+          "wordCount": null,
+          "title": "Amme Mookambike",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hWiOetnvU9E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hWiOetnvU9E",
+          "publishedOn": "2026-10-01T20:19:27.000Z",
+          "wordCount": null,
+          "title": "Amme Mookambike (Preview)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=COAwD4tJ-8Q",
           "author": null,
           "description": "",
@@ -920,6 +1000,16 @@
           "publishedOn": "2026-09-22T11:55:21.000Z",
           "wordCount": null,
           "title": "Oru Narum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=agyX2_A9DrE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=agyX2_A9DrE",
+          "publishedOn": "2026-09-18T16:27:27.000Z",
+          "wordCount": null,
+          "title": "Mahaganapathi (Sree Vinayakam)",
           "imageUrl": null
         },
         {
@@ -1000,26 +1090,6 @@
           "publishedOn": "2026-09-15T12:31:26.000Z",
           "wordCount": null,
           "title": "Sanyaasi Kalla Sanyaasi (D)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Veh4PAeLfYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Veh4PAeLfYE",
-          "publishedOn": "2026-09-15T07:06:28.000Z",
-          "wordCount": null,
-          "title": "Ven Praave V-1)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vzmBIpX5Edg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vzmBIpX5Edg",
-          "publishedOn": "2026-09-15T05:21:27.000Z",
-          "wordCount": null,
-          "title": "Snehathin Nidhi (M)",
           "imageUrl": null
         }
       ]
@@ -1150,6 +1220,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=Cv2ZhQ-ZU_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cv2ZhQ-ZU_0",
+          "publishedOn": "2026-09-15T18:35:01.000Z",
+          "wordCount": null,
+          "title": "Paahi Paramporule",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Dj0PduUIyBc",
           "author": null,
           "description": "",
@@ -1157,16 +1237,6 @@
           "publishedOn": "2026-09-15T11:44:59.000Z",
           "wordCount": null,
           "title": "Mayyanikkanne Urangurangu (F)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f6fjOk1v7EE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f6fjOk1v7EE",
-          "publishedOn": "2026-09-15T05:38:58.000Z",
-          "wordCount": null,
-          "title": "Aaattinkarayorathe",
           "imageUrl": null
         }
       ]
@@ -1414,6 +1484,16 @@
           "publishedOn": "2026-09-29T12:33:17.000Z",
           "wordCount": null,
           "title": "Vagdathangalil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sw2G2b-ZA44",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sw2G2b-ZA44",
+          "publishedOn": "2026-09-29T07:19:23.000Z",
+          "wordCount": null,
+          "title": "Mayilppeelikootil (M)",
           "imageUrl": null
         },
         {
