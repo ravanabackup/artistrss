@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T12:47:20.057Z</updated>
+    <updated>2026-10-21T17:51:39.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -94,6 +94,15 @@
         <updated>2026-10-13T09:12:56.000Z</updated>
         <author>
             <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janmamaam Veenayil (Vagadheeswari)]]></title>
+        <id>https://www.youtube.com/watch?v=VoGzij4fOBc</id>
+        <link href="https://www.youtube.com/watch?v=VoGzij4fOBc"/>
+        <updated>2026-10-12T20:16:07.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -193,6 +202,15 @@
         <updated>2026-10-02T02:14:53.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gopeehrudayam (From "Arabiponnu")]]></title>
+        <id>https://www.youtube.com/watch?v=YAbt_n-0xXI</id>
+        <link href="https://www.youtube.com/watch?v=YAbt_n-0xXI"/>
+        <updated>2026-10-01T22:22:35.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -391,6 +409,51 @@
         <updated>2026-09-30T15:14:03.000Z</updated>
         <author>
             <name>Unnimenon - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ingane Dhoorathu Ninnaal]]></title>
+        <id>https://www.youtube.com/watch?v=0HogSj-1RYE</id>
+        <link href="https://www.youtube.com/watch?v=0HogSj-1RYE"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omkaarathamara Viriyum]]></title>
+        <id>https://www.youtube.com/watch?v=9K8cqblEtd0</id>
+        <link href="https://www.youtube.com/watch?v=9K8cqblEtd0"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannane Koopuvaan]]></title>
+        <id>https://www.youtube.com/watch?v=HBZ8CZ5vdgo</id>
+        <link href="https://www.youtube.com/watch?v=HBZ8CZ5vdgo"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sree Guruvayooril]]></title>
+        <id>https://www.youtube.com/watch?v=PzC0z18VBdM</id>
+        <link href="https://www.youtube.com/watch?v=PzC0z18VBdM"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sakshal Kuchelante]]></title>
+        <id>https://www.youtube.com/watch?v=RbCHvpEWWBE</id>
+        <link href="https://www.youtube.com/watch?v=RbCHvpEWWBE"/>
+        <updated>2026-09-29T20:18:49.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
         </author>
     </entry>
     <entry>

@@ -467,6 +467,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VoGzij4fOBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VoGzij4fOBc",
+          "publishedOn": "2026-10-12T20:16:07.000Z",
+          "wordCount": null,
+          "title": "Janmamaam Veenayil (Vagadheeswari)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YAbt_n-0xXI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YAbt_n-0xXI",
+          "publishedOn": "2026-10-01T22:22:35.000Z",
+          "wordCount": null,
+          "title": "Gopeehrudayam (From \"Arabiponnu\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JypFyGAah7g",
           "author": null,
           "description": "",
@@ -534,6 +554,56 @@
           "publishedOn": "2026-09-30T22:27:04.000Z",
           "wordCount": null,
           "title": "Kadhanam marannu poyi (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0HogSj-1RYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0HogSj-1RYE",
+          "publishedOn": "2026-09-29T20:18:49.000Z",
+          "wordCount": null,
+          "title": "Ingane Dhoorathu Ninnaal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9K8cqblEtd0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9K8cqblEtd0",
+          "publishedOn": "2026-09-29T20:18:49.000Z",
+          "wordCount": null,
+          "title": "Omkaarathamara Viriyum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HBZ8CZ5vdgo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HBZ8CZ5vdgo",
+          "publishedOn": "2026-09-29T20:18:49.000Z",
+          "wordCount": null,
+          "title": "Kannane Koopuvaan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PzC0z18VBdM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PzC0z18VBdM",
+          "publishedOn": "2026-09-29T20:18:49.000Z",
+          "wordCount": null,
+          "title": "Sree Guruvayooril",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RbCHvpEWWBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RbCHvpEWWBE",
+          "publishedOn": "2026-09-29T20:18:49.000Z",
+          "wordCount": null,
+          "title": "Sakshal Kuchelante",
           "imageUrl": null
         },
         {
