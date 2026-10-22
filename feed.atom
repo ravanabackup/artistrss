@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T00:23:19.449Z</updated>
+    <updated>2026-10-22T05:42:26.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -1042,15 +1042,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ezhaam Baharinte Vaathil]]></title>
-        <id>https://www.youtube.com/watch?v=-RKfllSlWDU</id>
-        <link href="https://www.youtube.com/watch?v=-RKfllSlWDU"/>
-        <updated>2026-09-22T12:18:56.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oru Narum]]></title>
         <id>https://www.youtube.com/watch?v=pCk9CshIuBE</id>
         <link href="https://www.youtube.com/watch?v=pCk9CshIuBE"/>
@@ -1093,24 +1084,6 @@
         <updated>2026-09-22T10:17:27.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namo Namah (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=1ai9ZFDmHUI</id>
-        <link href="https://www.youtube.com/watch?v=1ai9ZFDmHUI"/>
-        <updated>2026-09-22T10:17:27.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namo Namah]]></title>
-        <id>https://www.youtube.com/watch?v=JAUgaFMUPtI</id>
-        <link href="https://www.youtube.com/watch?v=JAUgaFMUPtI"/>
-        <updated>2026-09-22T10:17:27.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
         </author>
     </entry>
 </feed>
