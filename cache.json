@@ -103,7 +103,18 @@
       "title": "Shaan Rahman - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg",
       "siteUrl": "https://www.youtube.com/channel/UCLxGPvdjHVBxePDOsVLGsIg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=37W54AdhYbU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=37W54AdhYbU",
+          "publishedOn": "2026-10-22T10:04:20.000Z",
+          "wordCount": null,
+          "title": "Shalabham",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "- Topic",
@@ -775,46 +786,6 @@
           "wordCount": null,
           "title": "Maruthwamalayil (Gurudevam)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CDut4J-zJ4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CDut4J-zJ4E",
-          "publishedOn": "2026-09-22T10:17:27.000Z",
-          "wordCount": null,
-          "title": "Omkara",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FTXoMv1m-wU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FTXoMv1m-wU",
-          "publishedOn": "2026-09-22T10:17:27.000Z",
-          "wordCount": null,
-          "title": "Chilappol Chirikyum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dDpZiHavPqk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dDpZiHavPqk",
-          "publishedOn": "2026-09-22T10:17:27.000Z",
-          "wordCount": null,
-          "title": "Chottanikarayile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fqJmkdiG8Po",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fqJmkdiG8Po",
-          "publishedOn": "2026-09-22T10:17:27.000Z",
-          "wordCount": null,
-          "title": "Omkara (Preview)",
-          "imageUrl": null
         }
       ]
     },
@@ -938,16 +909,6 @@
           "publishedOn": "2026-09-24T10:14:22.000Z",
           "wordCount": null,
           "title": "Midhuna Raavin Vencholayil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pCk9CshIuBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pCk9CshIuBE",
-          "publishedOn": "2026-09-22T11:55:21.000Z",
-          "wordCount": null,
-          "title": "Oru Narum",
           "imageUrl": null
         }
       ]
@@ -1335,7 +1296,7 @@
       "articles": []
     },
     {
-      "title": "KG Markose - Topic",
+      "title": "K.G. Markose - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow",
       "siteUrl": "https://www.youtube.com/channel/UCg-UMYja9NjC8OUZLvTBvow",
       "articles": [
