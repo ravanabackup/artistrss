@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T14:36:57.240Z</updated>
+    <updated>2026-10-23T18:51:08.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -634,6 +634,15 @@
         <updated>2026-09-29T20:18:49.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninte Rajyam]]></title>
+        <id>https://www.youtube.com/watch?v=jF3NueZcWbs</id>
+        <link href="https://www.youtube.com/watch?v=jF3NueZcWbs"/>
+        <updated>2026-09-29T18:33:58.000Z</updated>
+        <author>
+            <name>K.G. Markose - Topic</name>
         </author>
     </entry>
     <entry>
