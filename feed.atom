@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T03:09:41.850Z</updated>
+    <updated>2026-10-23T09:02:22.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Samayamam Radhathil Njan]]></title>
+        <id>https://www.youtube.com/watch?v=QAmviH4-cJc</id>
+        <link href="https://www.youtube.com/watch?v=QAmviH4-cJc"/>
+        <updated>2026-10-22T21:59:42.000Z</updated>
+        <author>
+            <name>Maria Kolady - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sare Jahan Se Achha]]></title>
         <id>https://www.youtube.com/watch?v=m0t67GNvhzQ</id>
@@ -1208,60 +1217,6 @@
         <id>https://www.youtube.com/watch?v=s2dDKHwVamw</id>
         <link href="https://www.youtube.com/watch?v=s2dDKHwVamw"/>
         <updated>2026-09-23T22:14:35.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Murli Wale]]></title>
-        <id>https://www.youtube.com/watch?v=Jjj8cvT13QY</id>
-        <link href="https://www.youtube.com/watch?v=Jjj8cvT13QY"/>
-        <updated>2026-09-23T16:21:36.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Om Jai Shri Shyam Hare]]></title>
-        <id>https://www.youtube.com/watch?v=Px8Ypz2aHxE</id>
-        <link href="https://www.youtube.com/watch?v=Px8Ypz2aHxE"/>
-        <updated>2026-09-23T16:21:36.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuch Aisi Kasak]]></title>
-        <id>https://www.youtube.com/watch?v=TNfz77dC5U0</id>
-        <link href="https://www.youtube.com/watch?v=TNfz77dC5U0"/>
-        <updated>2026-09-23T16:21:36.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mere Shyam Ka Jee Bhar Ke]]></title>
-        <id>https://www.youtube.com/watch?v=aq2qPfrfqI8</id>
-        <link href="https://www.youtube.com/watch?v=aq2qPfrfqI8"/>
-        <updated>2026-09-23T16:21:36.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shyam Ka Naam Japo Re]]></title>
-        <id>https://www.youtube.com/watch?v=dJ2wbYAzjBU</id>
-        <link href="https://www.youtube.com/watch?v=dJ2wbYAzjBU"/>
-        <updated>2026-09-23T16:21:36.000Z</updated>
-        <author>
-            <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maruthwamalayil (Gurudevam)]]></title>
-        <id>https://www.youtube.com/watch?v=kI0fjfCIuUA</id>
-        <link href="https://www.youtube.com/watch?v=kI0fjfCIuUA"/>
-        <updated>2026-09-23T14:17:01.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
         </author>
