@@ -184,26 +184,6 @@
           "wordCount": null,
           "title": "Kaavyashilpam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4GUs8b0lTPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4GUs8b0lTPg",
-          "publishedOn": "2026-09-24T08:36:18.000Z",
-          "wordCount": null,
-          "title": "Lilypoovin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sDzwP2NsH0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sDzwP2NsH0Q",
-          "publishedOn": "2026-09-24T08:35:38.000Z",
-          "wordCount": null,
-          "title": "Pranayikkukayairunnu (F)",
-          "imageUrl": null
         }
       ]
     },
@@ -1189,6 +1169,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNGpKg02KLGdTii0Ql6vAOA",
       "siteUrl": "https://www.youtube.com/channel/UCNGpKg02KLGdTii0Ql6vAOA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nDYnaeUAB_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nDYnaeUAB_c",
+          "publishedOn": "2026-10-23T21:43:42.000Z",
+          "wordCount": null,
+          "title": "Paulose Sleeha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_taC7sRI6hY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_taC7sRI6hY",
+          "publishedOn": "2026-10-23T21:41:40.000Z",
+          "wordCount": null,
+          "title": "Vandhya Sleeba Tharuvinmel",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QAmviH4-cJc",
           "author": null,
