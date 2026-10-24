@@ -154,36 +154,6 @@
           "wordCount": null,
           "title": "Thanuppulla Raavaanu",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Khx6bKfLgbQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Khx6bKfLgbQ",
-          "publishedOn": "2026-09-24T10:30:03.000Z",
-          "wordCount": null,
-          "title": "Thulaaminnal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Li1JumQ6AO0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Li1JumQ6AO0",
-          "publishedOn": "2026-09-24T10:30:03.000Z",
-          "wordCount": null,
-          "title": "Tic Tic (F)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FsauUAtmwOU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FsauUAtmwOU",
-          "publishedOn": "2026-09-24T10:14:22.000Z",
-          "wordCount": null,
-          "title": "Kaavyashilpam",
-          "imageUrl": null
         }
       ]
     },
@@ -799,26 +769,6 @@
           "publishedOn": "2026-09-29T12:33:17.000Z",
           "wordCount": null,
           "title": "Daivame Ninte Sneham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7vxzSEDKtDc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7vxzSEDKtDc",
-          "publishedOn": "2026-09-24T10:14:22.000Z",
-          "wordCount": null,
-          "title": "Ezhazhakaay Mazhavillorungi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PUmlrF2dgHs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PUmlrF2dgHs",
-          "publishedOn": "2026-09-24T10:14:22.000Z",
-          "wordCount": null,
-          "title": "Midhuna Raavin Vencholayil",
           "imageUrl": null
         }
       ]
