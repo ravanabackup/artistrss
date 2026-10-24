@@ -196,7 +196,18 @@
       "title": "Jassie Gift - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzJDshjhEyMG4Iup0p0CTVg",
       "siteUrl": "https://www.youtube.com/channel/UCzJDshjhEyMG4Iup0p0CTVg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cyY3u2DB4iM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cyY3u2DB4iM",
+          "publishedOn": "2026-10-17T21:14:57.000Z",
+          "wordCount": null,
+          "title": "Ringaa Ringaa Roseu (From \"Yuvanakshatra\")",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Unnimenon - Topic",
@@ -703,16 +714,6 @@
           "wordCount": null,
           "title": "Chandare (From \"Chiram\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DsZtoeBxX_A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DsZtoeBxX_A",
-          "publishedOn": "2026-09-24T18:34:21.000Z",
-          "wordCount": null,
-          "title": "Raagathennale",
-          "imageUrl": null
         }
       ]
     },
@@ -865,6 +866,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzpmF_8698JYBqh96PPCTfw",
       "siteUrl": "https://www.youtube.com/channel/UCzpmF_8698JYBqh96PPCTfw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VPI2ORXVwgg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VPI2ORXVwgg",
+          "publishedOn": "2026-10-23T08:18:02.000Z",
+          "wordCount": null,
+          "title": "Killin' 'em (From \"Scene\")",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nmtHtt15h7s",
           "author": null,
@@ -1271,6 +1282,16 @@
           "publishedOn": "2026-09-29T18:33:58.000Z",
           "wordCount": null,
           "title": "Ninte Rajyam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rSHFOByfGVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rSHFOByfGVo",
+          "publishedOn": "2026-09-29T18:32:18.000Z",
+          "wordCount": null,
+          "title": "Yeshuve Yeshuve",
           "imageUrl": null
         },
         {

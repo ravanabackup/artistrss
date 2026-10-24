@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-24T05:19:53.410Z</updated>
+    <updated>2026-10-24T10:11:17.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -22,6 +22,15 @@
         <updated>2026-10-23T21:41:40.000Z</updated>
         <author>
             <name>Maria Kolady - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killin' 'em (From "Scene")]]></title>
+        <id>https://www.youtube.com/watch?v=VPI2ORXVwgg</id>
+        <link href="https://www.youtube.com/watch?v=VPI2ORXVwgg"/>
+        <updated>2026-10-23T08:18:02.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
         </author>
     </entry>
     <entry>
@@ -211,6 +220,15 @@
         <updated>2026-10-18T18:32:12.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ringaa Ringaa Roseu (From "Yuvanakshatra")]]></title>
+        <id>https://www.youtube.com/watch?v=cyY3u2DB4iM</id>
+        <link href="https://www.youtube.com/watch?v=cyY3u2DB4iM"/>
+        <updated>2026-10-17T21:14:57.000Z</updated>
+        <author>
+            <name>Jassie Gift - Topic</name>
         </author>
     </entry>
     <entry>
@@ -664,6 +682,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yeshuve Yeshuve]]></title>
+        <id>https://www.youtube.com/watch?v=rSHFOByfGVo</id>
+        <link href="https://www.youtube.com/watch?v=rSHFOByfGVo"/>
+        <updated>2026-09-29T18:32:18.000Z</updated>
+        <author>
+            <name>K.G. Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Madhu Muraliravam]]></title>
         <id>https://www.youtube.com/watch?v=209urj_5TDA</id>
         <link href="https://www.youtube.com/watch?v=209urj_5TDA"/>
@@ -1012,15 +1039,6 @@
         <updated>2026-09-25T22:15:00.000Z</updated>
         <author>
             <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raagathennale]]></title>
-        <id>https://www.youtube.com/watch?v=DsZtoeBxX_A</id>
-        <link href="https://www.youtube.com/watch?v=DsZtoeBxX_A"/>
-        <updated>2026-09-24T18:34:21.000Z</updated>
-        <author>
-            <name>M. Jayachandran - Topic</name>
         </author>
     </entry>
 </feed>
