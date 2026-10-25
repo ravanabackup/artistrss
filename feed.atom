@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-25T14:44:47.990Z</updated>
+    <updated>2026-10-25T18:03:33.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -331,6 +331,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aayiram Ponpanam (M)]]></title>
+        <id>https://www.youtube.com/watch?v=wfplwBI7lZ4</id>
+        <link href="https://www.youtube.com/watch?v=wfplwBI7lZ4"/>
+        <updated>2026-10-05T09:52:41.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aayiram Ponpanam (D)]]></title>
+        <id>https://www.youtube.com/watch?v=ySdgkZggmr8</id>
+        <link href="https://www.youtube.com/watch?v=ySdgkZggmr8"/>
+        <updated>2026-10-05T09:52:41.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalyaanakkachery]]></title>
+        <id>https://www.youtube.com/watch?v=ysJiY9oUVPc</id>
+        <link href="https://www.youtube.com/watch?v=ysJiY9oUVPc"/>
+        <updated>2026-10-05T09:52:41.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oh Manitha (V-1)]]></title>
         <id>https://www.youtube.com/watch?v=ql8u7EIjbGE</id>
         <link href="https://www.youtube.com/watch?v=ql8u7EIjbGE"/>
@@ -340,12 +367,102 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thaane Poliyum (M)]]></title>
+        <id>https://www.youtube.com/watch?v=3xKfdCKD-qM</id>
+        <link href="https://www.youtube.com/watch?v=3xKfdCKD-qM"/>
+        <updated>2026-10-03T07:36:22.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaane Poliyum (D)]]></title>
+        <id>https://www.youtube.com/watch?v=sV0W2ebW0UQ</id>
+        <link href="https://www.youtube.com/watch?v=sV0W2ebW0UQ"/>
+        <updated>2026-10-03T07:36:22.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thambraane]]></title>
+        <id>https://www.youtube.com/watch?v=eBy9BtqvWwE</id>
+        <link href="https://www.youtube.com/watch?v=eBy9BtqvWwE"/>
+        <updated>2026-10-03T07:36:16.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaromal Sandhye Vaa]]></title>
+        <id>https://www.youtube.com/watch?v=TbRnhRmKpz4</id>
+        <link href="https://www.youtube.com/watch?v=TbRnhRmKpz4"/>
+        <updated>2026-10-03T07:35:18.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oh Kadipoli]]></title>
         <id>https://www.youtube.com/watch?v=4femrb8FKUo</id>
         <link href="https://www.youtube.com/watch?v=4femrb8FKUo"/>
         <updated>2026-10-03T07:33:36.000Z</updated>
         <author>
             <name>Rimi Tomy - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chellanam Karayile]]></title>
+        <id>https://www.youtube.com/watch?v=h9ooX7RsQnw</id>
+        <link href="https://www.youtube.com/watch?v=h9ooX7RsQnw"/>
+        <updated>2026-10-03T07:16:12.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthi Mukil Niram]]></title>
+        <id>https://www.youtube.com/watch?v=7gm5YrEuAnk</id>
+        <link href="https://www.youtube.com/watch?v=7gm5YrEuAnk"/>
+        <updated>2026-10-03T07:16:08.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swapnam Pootha Nenchil]]></title>
+        <id>https://www.youtube.com/watch?v=myICzCRJBUk</id>
+        <link href="https://www.youtube.com/watch?v=myICzCRJBUk"/>
+        <updated>2026-10-03T07:16:03.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Mannu Nammude Mannu (D)]]></title>
+        <id>https://www.youtube.com/watch?v=9shygHRj_-0</id>
+        <link href="https://www.youtube.com/watch?v=9shygHRj_-0"/>
+        <updated>2026-10-03T07:06:38.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doore Doore (M)]]></title>
+        <id>https://www.youtube.com/watch?v=M1RnnWX2obk</id>
+        <link href="https://www.youtube.com/watch?v=M1RnnWX2obk"/>
+        <updated>2026-10-03T07:06:38.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annaloonjal Ponpadiyil (M)]]></title>
+        <id>https://www.youtube.com/watch?v=R2vZladEYnM</id>
+        <link href="https://www.youtube.com/watch?v=R2vZladEYnM"/>
+        <updated>2026-10-03T07:06:38.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -985,60 +1102,6 @@
         <updated>2026-09-26T07:31:51.000Z</updated>
         <author>
             <name>Deepak Dev - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Purali Mala Pookal Thedi (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=0LPhxjxyPV4</id>
-        <link href="https://www.youtube.com/watch?v=0LPhxjxyPV4"/>
-        <updated>2026-09-26T04:10:35.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Thookum Thevare]]></title>
-        <id>https://www.youtube.com/watch?v=Ct_LxW0uM6E</id>
-        <link href="https://www.youtube.com/watch?v=Ct_LxW0uM6E"/>
-        <updated>2026-09-26T04:10:35.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattamethunnu (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=SM3KMLEc1NM</id>
-        <link href="https://www.youtube.com/watch?v=SM3KMLEc1NM"/>
-        <updated>2026-09-26T04:10:35.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Thookum Thevare (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=dXl_ZsS1zmc</id>
-        <link href="https://www.youtube.com/watch?v=dXl_ZsS1zmc"/>
-        <updated>2026-09-26T04:10:35.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattamethunnu]]></title>
-        <id>https://www.youtube.com/watch?v=i3VTBlFPt9Q</id>
-        <link href="https://www.youtube.com/watch?v=i3VTBlFPt9Q"/>
-        <updated>2026-09-26T04:10:35.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Purali Mala Pookal Thedi]]></title>
-        <id>https://www.youtube.com/watch?v=ptaOVz-hIiQ</id>
-        <link href="https://www.youtube.com/watch?v=ptaOVz-hIiQ"/>
-        <updated>2026-09-26T04:10:35.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
         </author>
     </entry>
 </feed>
