@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCjYCNtvEZzfcj_69by4umCA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C0jYcEHjxMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C0jYcEHjxMk",
+          "publishedOn": "2026-10-26T07:22:02.000Z",
+          "wordCount": null,
+          "title": "Parumalaye Vishudhamakkiya Thapasanam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uX6vrGM4TBk",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2026-09-29T06:20:21.000Z",
           "wordCount": null,
           "title": "Kakkakkarumban",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h4WB1f0eeVE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h4WB1f0eeVE",
-          "publishedOn": "2026-09-26T09:32:19.000Z",
-          "wordCount": null,
-          "title": "Raathriyil",
           "imageUrl": null
         }
       ]
@@ -378,6 +378,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q",
       "siteUrl": "https://www.youtube.com/channel/UC2AhxA-AFRG3BaMvldYmO5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QGDyG_Xh6EU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QGDyG_Xh6EU",
+          "publishedOn": "2026-10-26T07:24:39.000Z",
+          "wordCount": null,
+          "title": "Paurasthaya Nattile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VoGzij4fOBc",
           "author": null,
@@ -1237,6 +1247,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZuVwT0AkcLHxVEQ61VMviA",
       "siteUrl": "https://www.youtube.com/channel/UCZuVwT0AkcLHxVEQ61VMviA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BDvsYkrPEgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BDvsYkrPEgw",
+          "publishedOn": "2026-10-26T07:21:58.000Z",
+          "wordCount": null,
+          "title": "Nadha Parumalathan Thaathanae",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=m0t67GNvhzQ",
           "author": null,
