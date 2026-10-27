@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-27T05:56:19.437Z</updated>
+    <updated>2026-10-27T11:38:01.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Respectaa (From "Scene")]]></title>
+        <id>https://www.youtube.com/watch?v=3GZmpXAGF-k</id>
+        <link href="https://www.youtube.com/watch?v=3GZmpXAGF-k"/>
+        <updated>2026-10-27T10:34:52.000Z</updated>
+        <author>
+            <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mizhikal Vanilavu]]></title>
+        <id>https://www.youtube.com/watch?v=Y9yvDtNIN74</id>
+        <link href="https://www.youtube.com/watch?v=Y9yvDtNIN74"/>
+        <updated>2026-10-27T10:33:40.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veyillelam]]></title>
+        <id>https://www.youtube.com/watch?v=YcNGH2bnXNg</id>
+        <link href="https://www.youtube.com/watch?v=YcNGH2bnXNg"/>
+        <updated>2026-10-27T10:33:40.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sooryan Nadanu]]></title>
+        <id>https://www.youtube.com/watch?v=fThDdHG0ngQ</id>
+        <link href="https://www.youtube.com/watch?v=fThDdHG0ngQ"/>
+        <updated>2026-10-27T10:33:40.000Z</updated>
+        <author>
+            <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paurasthaya Nattile]]></title>
         <id>https://www.youtube.com/watch?v=QGDyG_Xh6EU</id>
@@ -31,6 +67,33 @@
         <updated>2026-10-26T07:21:58.000Z</updated>
         <author>
             <name>Sreya Anna Joseph - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prakasha Gopura]]></title>
+        <id>https://www.youtube.com/watch?v=1Bomu3NC9Js</id>
+        <link href="https://www.youtube.com/watch?v=1Bomu3NC9Js"/>
+        <updated>2026-10-26T07:19:40.000Z</updated>
+        <author>
+            <name>K.G. Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadya Prakhyapitha]]></title>
+        <id>https://www.youtube.com/watch?v=45NIBeWBmK8</id>
+        <link href="https://www.youtube.com/watch?v=45NIBeWBmK8"/>
+        <updated>2026-10-26T07:19:27.000Z</updated>
+        <author>
+            <name>K.G. Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alakalil Elakum Kadalanen Manasam]]></title>
+        <id>https://www.youtube.com/watch?v=UruBtZt1q0k</id>
+        <link href="https://www.youtube.com/watch?v=UruBtZt1q0k"/>
+        <updated>2026-10-26T07:18:15.000Z</updated>
+        <author>
+            <name>K.G. Markose - Topic</name>
         </author>
     </entry>
     <entry>
@@ -337,6 +400,15 @@
         <updated>2026-10-08T12:32:21.000Z</updated>
         <author>
             <name>Sushin Shyam - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anandathaal - Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=yWevzYOjDck</id>
+        <link href="https://www.youtube.com/watch?v=yWevzYOjDck"/>
+        <updated>2026-10-08T00:26:56.000Z</updated>
+        <author>
+            <name>K.G. Markose - Topic</name>
         </author>
     </entry>
     <entry>
