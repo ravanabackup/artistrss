@@ -114,26 +114,6 @@
           "wordCount": null,
           "title": "Janmangalaay",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T4voCkPl4mI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T4voCkPl4mI",
-          "publishedOn": "2026-09-29T08:35:20.000Z",
-          "wordCount": null,
-          "title": "Kunjikkurumbu (D)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZkPR9G6xeLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZkPR9G6xeLI",
-          "publishedOn": "2026-09-29T08:04:02.000Z",
-          "wordCount": null,
-          "title": "Iniyum Mizhikal Nirayaruthe (F)",
-          "imageUrl": null
         }
       ]
     },
@@ -446,146 +426,6 @@
           "wordCount": null,
           "title": "Kadhanam marannu poyi (Preview)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0HogSj-1RYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0HogSj-1RYE",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Ingane Dhoorathu Ninnaal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9K8cqblEtd0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9K8cqblEtd0",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Omkaarathamara Viriyum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HBZ8CZ5vdgo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HBZ8CZ5vdgo",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Kannane Koopuvaan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PzC0z18VBdM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PzC0z18VBdM",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Sree Guruvayooril",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RbCHvpEWWBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RbCHvpEWWBE",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Sakshal Kuchelante",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=209urj_5TDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=209urj_5TDA",
-          "publishedOn": "2026-09-29T18:30:36.000Z",
-          "wordCount": null,
-          "title": "Madhu Muraliravam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1XDrHqqwDPY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1XDrHqqwDPY",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Namasthe Sharanye",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FdoF7ZjfqS8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FdoF7ZjfqS8",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Om Hreem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MW9RRWqX29Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MW9RRWqX29Y",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Nithyanandakari",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ow1QtMYhuh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ow1QtMYhuh8",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Sindhuraruna Vigraham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rk57c7y3OEI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rk57c7y3OEI",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Prabhavathy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kEO-tRo4sFI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kEO-tRo4sFI",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Siva Sakthya",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lfHxbAP4-ZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lfHxbAP4-ZQ",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Karunai Deivame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DxH2c2Ztd50",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DxH2c2Ztd50",
-          "publishedOn": "2026-09-29T12:18:25.000Z",
-          "wordCount": null,
-          "title": "Sumukhi",
-          "imageUrl": null
         }
       ]
     },
@@ -612,16 +452,6 @@
           "publishedOn": "2026-10-02T11:32:39.000Z",
           "wordCount": null,
           "title": "Marathilu Neerottam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jd2LpLN_z9U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jd2LpLN_z9U",
-          "publishedOn": "2026-09-29T12:31:36.000Z",
-          "wordCount": null,
-          "title": "Chandare (From \"Chiram\")",
           "imageUrl": null
         }
       ]
@@ -660,26 +490,6 @@
           "wordCount": null,
           "title": "Kanavoru Sangeetham",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fpmGREnpoRE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fpmGREnpoRE",
-          "publishedOn": "2026-09-29T18:30:09.000Z",
-          "wordCount": null,
-          "title": "Ninakkai Thozhee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4Ibv73jIRTw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4Ibv73jIRTw",
-          "publishedOn": "2026-09-29T12:33:17.000Z",
-          "wordCount": null,
-          "title": "Daivame Ninte Sneham",
-          "imageUrl": null
         }
       ]
     },
@@ -716,26 +526,6 @@
           "publishedOn": "2026-10-02T02:14:53.000Z",
           "wordCount": null,
           "title": "Namo Namo Sree",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XM3_G9X8_Ds",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XM3_G9X8_Ds",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Namo Namo Sree Krishna (Preview)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pk46eHDGTAI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pk46eHDGTAI",
-          "publishedOn": "2026-09-29T20:18:49.000Z",
-          "wordCount": null,
-          "title": "Namo Namo Sree Krishna",
           "imageUrl": null
         }
       ]
@@ -811,18 +601,7 @@
       "title": "Deepak Dev - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng",
       "siteUrl": "https://www.youtube.com/channel/UCLZpxXOlkwiHzzHdfdoj8ng",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=iLguDaHO3C0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iLguDaHO3C0",
-          "publishedOn": "2026-09-29T08:04:02.000Z",
-          "wordCount": null,
-          "title": "Mumbe Mumbe",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "G Venugopal - Topic",
@@ -1037,16 +816,6 @@
           "wordCount": null,
           "title": "Annaloonjal Ponpadiyil (M)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PjMvf02eKkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PjMvf02eKkk",
-          "publishedOn": "2026-09-29T18:30:25.000Z",
-          "wordCount": null,
-          "title": "Iniyarkumarodum (M)",
-          "imageUrl": null
         }
       ]
     },
@@ -1093,26 +862,6 @@
           "publishedOn": "2026-10-09T10:01:28.000Z",
           "wordCount": null,
           "title": "Parishudha Kanyamariyame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bAzIjbGsTAQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bAzIjbGsTAQ",
-          "publishedOn": "2026-09-29T12:33:17.000Z",
-          "wordCount": null,
-          "title": "Vagdathangalil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sw2G2b-ZA44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sw2G2b-ZA44",
-          "publishedOn": "2026-09-29T07:19:23.000Z",
-          "wordCount": null,
-          "title": "Mayilppeelikootil (M)",
           "imageUrl": null
         }
       ]
@@ -1351,26 +1100,6 @@
           "publishedOn": "2026-10-08T00:26:56.000Z",
           "wordCount": null,
           "title": "Anandathaal - Karaoke",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jF3NueZcWbs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jF3NueZcWbs",
-          "publishedOn": "2026-09-29T18:33:58.000Z",
-          "wordCount": null,
-          "title": "Ninte Rajyam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rSHFOByfGVo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rSHFOByfGVo",
-          "publishedOn": "2026-09-29T18:32:18.000Z",
-          "wordCount": null,
-          "title": "Yeshuve Yeshuve",
           "imageUrl": null
         }
       ]
