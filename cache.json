@@ -462,6 +462,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ay61yCqjHNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ay61yCqjHNo",
+          "publishedOn": "2026-10-18T18:32:12.000Z",
+          "wordCount": null,
+          "title": "Balavaan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xRCpO63okGA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xRCpO63okGA",
+          "publishedOn": "2026-10-18T18:31:50.000Z",
+          "wordCount": null,
+          "title": "Athyunnathanaam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JtpM_c73xrA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JtpM_c73xrA",
+          "publishedOn": "2026-10-08T00:23:59.000Z",
+          "wordCount": null,
+          "title": "Vagdatha Nadu Nokki - Karaoke",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TGL0g6sny1Q",
           "author": null,
           "description": "",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T11:15:29.665Z</updated>
+    <updated>2026-10-29T17:57:32.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -322,12 +322,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Balavaan]]></title>
+        <id>https://www.youtube.com/watch?v=ay61yCqjHNo</id>
+        <link href="https://www.youtube.com/watch?v=ay61yCqjHNo"/>
+        <updated>2026-10-18T18:32:12.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Athyunnathangalil]]></title>
         <id>https://www.youtube.com/watch?v=s_qQm_jyHK4</id>
         <link href="https://www.youtube.com/watch?v=s_qQm_jyHK4"/>
         <updated>2026-10-18T18:32:12.000Z</updated>
         <author>
             <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athyunnathanaam]]></title>
+        <id>https://www.youtube.com/watch?v=xRCpO63okGA</id>
+        <link href="https://www.youtube.com/watch?v=xRCpO63okGA"/>
+        <updated>2026-10-18T18:31:50.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -409,6 +427,15 @@
         <updated>2026-10-08T00:26:56.000Z</updated>
         <author>
             <name>K.G. Markose - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vagdatha Nadu Nokki - Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=JtpM_c73xrA</id>
+        <link href="https://www.youtube.com/watch?v=JtpM_c73xrA"/>
+        <updated>2026-10-08T00:23:59.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
     <entry>
