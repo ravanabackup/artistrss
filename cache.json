@@ -233,86 +233,6 @@
           "wordCount": null,
           "title": "Makkathe Panimathi Pole (Preview)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dSjg_eFCOZc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dSjg_eFCOZc",
-          "publishedOn": "2026-09-30T18:35:16.000Z",
-          "wordCount": null,
-          "title": "Guruvayoorappante Thiru Sannidanam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5UJfn1lOeyI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5UJfn1lOeyI",
-          "publishedOn": "2026-09-30T18:33:41.000Z",
-          "wordCount": null,
-          "title": "Krishna Hare Jaya",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0td5UD7KYp0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0td5UD7KYp0",
-          "publishedOn": "2026-09-30T18:33:13.000Z",
-          "wordCount": null,
-          "title": "Geetha Vedha Sudha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Jht85GryQ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Jht85GryQ0",
-          "publishedOn": "2026-09-30T18:33:09.000Z",
-          "wordCount": null,
-          "title": "Gaanamohana Mridu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IL6KIysD2qs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IL6KIysD2qs",
-          "publishedOn": "2026-09-30T18:33:07.000Z",
-          "wordCount": null,
-          "title": "Kanivalle Ellam Ninte",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GmEP6rrIvwI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GmEP6rrIvwI",
-          "publishedOn": "2026-09-30T18:32:28.000Z",
-          "wordCount": null,
-          "title": "Bakthakodi Kaalakaalam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x3tCdcME88U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x3tCdcME88U",
-          "publishedOn": "2026-09-30T18:32:20.000Z",
-          "wordCount": null,
-          "title": "Guruvayoorappa Bagavane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8eUaNeFVjMo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8eUaNeFVjMo",
-          "publishedOn": "2026-09-30T15:14:03.000Z",
-          "wordCount": null,
-          "title": "Pani Kooda Unmel Padum",
-          "imageUrl": null
         }
       ]
     },
@@ -461,6 +381,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA",
       "siteUrl": "https://www.youtube.com/channel/UCSmn_5jddaC_RVTn6VRBLlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6CHFFVVRNIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6CHFFVVRNIU",
+          "publishedOn": "2026-10-29T18:34:56.000Z",
+          "wordCount": null,
+          "title": "Ormayil Innente Balyam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ay61yCqjHNo",
           "author": null,
@@ -698,6 +628,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Bfg1X6P8P10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bfg1X6P8P10",
+          "publishedOn": "2026-10-28T12:12:48.000Z",
+          "wordCount": null,
+          "title": "Kamalasaran Kazhcha Vecha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Muzo70CZILQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Muzo70CZILQ",
+          "publishedOn": "2026-10-28T12:12:48.000Z",
+          "wordCount": null,
+          "title": "Kamalasaran Kazhcha Vecha (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aPIwfjiycrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aPIwfjiycrI",
+          "publishedOn": "2026-10-26T10:21:43.000Z",
+          "wordCount": null,
+          "title": "Unni Vaavavo M (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xuizst7womY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xuizst7womY",
+          "publishedOn": "2026-10-26T10:21:43.000Z",
+          "wordCount": null,
+          "title": "Unni Vaavavo M",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5J8TzJv5f7g",
           "author": null,
           "description": "",
@@ -715,6 +685,26 @@
           "publishedOn": "2026-10-13T18:32:31.000Z",
           "wordCount": null,
           "title": "Vennakkal Kottara (from \"Ammakilikoodu\")",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D3b9BnBo6DE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D3b9BnBo6DE",
+          "publishedOn": "2026-10-05T22:13:11.000Z",
+          "wordCount": null,
+          "title": "Raja Pushpame Rithu Raja Pushpame",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TOgMJelk3MI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TOgMJelk3MI",
+          "publishedOn": "2026-10-05T22:13:11.000Z",
+          "wordCount": null,
+          "title": "Raja Pushpame Rithu Raja Pushpame (Preview)",
           "imageUrl": null
         },
         {

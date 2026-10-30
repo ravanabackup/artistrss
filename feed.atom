@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T02:22:13.269Z</updated>
+    <updated>2026-10-30T09:31:38.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ormayil Innente Balyam]]></title>
+        <id>https://www.youtube.com/watch?v=6CHFFVVRNIU</id>
+        <link href="https://www.youtube.com/watch?v=6CHFFVVRNIU"/>
+        <updated>2026-10-29T18:34:56.000Z</updated>
+        <author>
+            <name>Biju Narayanan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamalasaran Kazhcha Vecha]]></title>
+        <id>https://www.youtube.com/watch?v=Bfg1X6P8P10</id>
+        <link href="https://www.youtube.com/watch?v=Bfg1X6P8P10"/>
+        <updated>2026-10-28T12:12:48.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamalasaran Kazhcha Vecha (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=Muzo70CZILQ</id>
+        <link href="https://www.youtube.com/watch?v=Muzo70CZILQ"/>
+        <updated>2026-10-28T12:12:48.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Respectaa (From "Scene")]]></title>
         <id>https://www.youtube.com/watch?v=3GZmpXAGF-k</id>
@@ -40,6 +67,24 @@
         <updated>2026-10-27T10:33:40.000Z</updated>
         <author>
             <name>Shaan Rahman - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unni Vaavavo M (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=aPIwfjiycrI</id>
+        <link href="https://www.youtube.com/watch?v=aPIwfjiycrI"/>
+        <updated>2026-10-26T10:21:43.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unni Vaavavo M]]></title>
+        <id>https://www.youtube.com/watch?v=xuizst7womY</id>
+        <link href="https://www.youtube.com/watch?v=xuizst7womY"/>
+        <updated>2026-10-26T10:21:43.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
     <entry>
@@ -466,6 +511,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raja Pushpame Rithu Raja Pushpame]]></title>
+        <id>https://www.youtube.com/watch?v=D3b9BnBo6DE</id>
+        <link href="https://www.youtube.com/watch?v=D3b9BnBo6DE"/>
+        <updated>2026-10-05T22:13:11.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raja Pushpame Rithu Raja Pushpame (Preview)]]></title>
+        <id>https://www.youtube.com/watch?v=TOgMJelk3MI</id>
+        <link href="https://www.youtube.com/watch?v=TOgMJelk3MI"/>
+        <updated>2026-10-05T22:13:11.000Z</updated>
+        <author>
+            <name>K.J. Yesudas - Topic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aayiram Ponpanam (M)]]></title>
         <id>https://www.youtube.com/watch?v=wfplwBI7lZ4</id>
         <link href="https://www.youtube.com/watch?v=wfplwBI7lZ4"/>
@@ -796,78 +859,6 @@
         <updated>2026-09-30T22:27:04.000Z</updated>
         <author>
             <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guruvayoorappante Thiru Sannidanam]]></title>
-        <id>https://www.youtube.com/watch?v=dSjg_eFCOZc</id>
-        <link href="https://www.youtube.com/watch?v=dSjg_eFCOZc"/>
-        <updated>2026-09-30T18:35:16.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krishna Hare Jaya]]></title>
-        <id>https://www.youtube.com/watch?v=5UJfn1lOeyI</id>
-        <link href="https://www.youtube.com/watch?v=5UJfn1lOeyI"/>
-        <updated>2026-09-30T18:33:41.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geetha Vedha Sudha]]></title>
-        <id>https://www.youtube.com/watch?v=0td5UD7KYp0</id>
-        <link href="https://www.youtube.com/watch?v=0td5UD7KYp0"/>
-        <updated>2026-09-30T18:33:13.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaanamohana Mridu]]></title>
-        <id>https://www.youtube.com/watch?v=-Jht85GryQ0</id>
-        <link href="https://www.youtube.com/watch?v=-Jht85GryQ0"/>
-        <updated>2026-09-30T18:33:09.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanivalle Ellam Ninte]]></title>
-        <id>https://www.youtube.com/watch?v=IL6KIysD2qs</id>
-        <link href="https://www.youtube.com/watch?v=IL6KIysD2qs"/>
-        <updated>2026-09-30T18:33:07.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakthakodi Kaalakaalam]]></title>
-        <id>https://www.youtube.com/watch?v=GmEP6rrIvwI</id>
-        <link href="https://www.youtube.com/watch?v=GmEP6rrIvwI"/>
-        <updated>2026-09-30T18:32:28.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guruvayoorappa Bagavane]]></title>
-        <id>https://www.youtube.com/watch?v=x3tCdcME88U</id>
-        <link href="https://www.youtube.com/watch?v=x3tCdcME88U"/>
-        <updated>2026-09-30T18:32:20.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pani Kooda Unmel Padum]]></title>
-        <id>https://www.youtube.com/watch?v=8eUaNeFVjMo</id>
-        <link href="https://www.youtube.com/watch?v=8eUaNeFVjMo"/>
-        <updated>2026-09-30T15:14:03.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
         </author>
     </entry>
 </feed>
