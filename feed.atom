@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-31T07:56:18.120Z</updated>
+    <updated>2026-10-31T14:17:58.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ee Paathayil]]></title>
+        <id>https://www.youtube.com/watch?v=mpyjV8SyJGA</id>
+        <link href="https://www.youtube.com/watch?v=mpyjV8SyJGA"/>
+        <updated>2026-10-31T11:08:58.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadha Parumalathan Thaathanae]]></title>
+        <id>https://www.youtube.com/watch?v=f-V1Y5x3Uyg</id>
+        <link href="https://www.youtube.com/watch?v=f-V1Y5x3Uyg"/>
+        <updated>2026-10-31T11:08:58.000Z</updated>
+        <author>
+            <name>Sreya Anna Joseph - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Paathayil]]></title>
+        <id>https://www.youtube.com/watch?v=1atCw0zt8Vc</id>
+        <link href="https://www.youtube.com/watch?v=1atCw0zt8Vc"/>
+        <updated>2026-10-31T11:08:10.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parumala Nadha]]></title>
+        <id>https://www.youtube.com/watch?v=H6ihw7409tc</id>
+        <link href="https://www.youtube.com/watch?v=H6ihw7409tc"/>
+        <updated>2026-10-31T11:08:10.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanneer Muthinaayi]]></title>
+        <id>https://www.youtube.com/watch?v=cNvQqsI9-6I</id>
+        <link href="https://www.youtube.com/watch?v=cNvQqsI9-6I"/>
+        <updated>2026-10-31T11:08:10.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iruline Sakhiyakki]]></title>
+        <id>https://www.youtube.com/watch?v=lPjjJRNX0kw</id>
+        <link href="https://www.youtube.com/watch?v=lPjjJRNX0kw"/>
+        <updated>2026-10-31T11:08:10.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janmasaphalyam]]></title>
+        <id>https://www.youtube.com/watch?v=nHKkfQ_0dvo</id>
+        <link href="https://www.youtube.com/watch?v=nHKkfQ_0dvo"/>
+        <updated>2026-10-31T11:08:10.000Z</updated>
+        <author>
+            <name>Kester - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parumalaye Vishudhamakkiya Thapasanam]]></title>
+        <id>https://www.youtube.com/watch?v=AefA5z32eVM</id>
+        <link href="https://www.youtube.com/watch?v=AefA5z32eVM"/>
+        <updated>2026-10-31T11:07:38.000Z</updated>
+        <author>
+            <name>Vineeth Sreenivasan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paurasthaya Nattile]]></title>
+        <id>https://www.youtube.com/watch?v=JlVKpRSf_Z4</id>
+        <link href="https://www.youtube.com/watch?v=JlVKpRSf_Z4"/>
+        <updated>2026-10-31T11:07:38.000Z</updated>
+        <author>
+            <name>Madhu Balakrishnan - Topic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadha Parumalathan Thaathanae]]></title>
+        <id>https://www.youtube.com/watch?v=ueesCpzL-Uw</id>
+        <link href="https://www.youtube.com/watch?v=ueesCpzL-Uw"/>
+        <updated>2026-10-31T11:04:54.000Z</updated>
+        <author>
+            <name>Sreya Anna Joseph - Topic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ormayil Innente Balyam]]></title>
         <id>https://www.youtube.com/watch?v=6CHFFVVRNIU</id>
@@ -742,69 +832,6 @@
         <updated>2026-10-02T11:32:39.000Z</updated>
         <author>
             <name>M. Jayachandran - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namo Namo Sree (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=jS03_9demgQ</id>
-        <link href="https://www.youtube.com/watch?v=jS03_9demgQ"/>
-        <updated>2026-10-02T02:14:53.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namo Namo Sree]]></title>
-        <id>https://www.youtube.com/watch?v=nD_LSg-HEtw</id>
-        <link href="https://www.youtube.com/watch?v=nD_LSg-HEtw"/>
-        <updated>2026-10-02T02:14:53.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gopeehrudayam (From "Arabiponnu")]]></title>
-        <id>https://www.youtube.com/watch?v=YAbt_n-0xXI</id>
-        <link href="https://www.youtube.com/watch?v=YAbt_n-0xXI"/>
-        <updated>2026-10-01T22:22:35.000Z</updated>
-        <author>
-            <name>Madhu Balakrishnan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amme Mookambike]]></title>
-        <id>https://www.youtube.com/watch?v=TGL0g6sny1Q</id>
-        <link href="https://www.youtube.com/watch?v=TGL0g6sny1Q"/>
-        <updated>2026-10-01T20:19:27.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amme Mookambike (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=hWiOetnvU9E</id>
-        <link href="https://www.youtube.com/watch?v=hWiOetnvU9E"/>
-        <updated>2026-10-01T20:19:27.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakaliravin Ponkoottil (From "Chithira") (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=MRYYfIXckh0</id>
-        <link href="https://www.youtube.com/watch?v=MRYYfIXckh0"/>
-        <updated>2026-10-01T20:16:03.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakaliravin Ponkoottil (From "Chithira")]]></title>
-        <id>https://www.youtube.com/watch?v=WyPc_PNpHt4</id>
-        <link href="https://www.youtube.com/watch?v=WyPc_PNpHt4"/>
-        <updated>2026-10-01T20:16:03.000Z</updated>
-        <author>
-            <name>Najeem Arshad - Topic</name>
         </author>
     </entry>
 </feed>
