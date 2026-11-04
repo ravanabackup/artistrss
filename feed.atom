@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T08:31:18.678Z</updated>
+    <updated>2026-11-04T16:47:37.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -706,42 +706,6 @@
         <updated>2026-10-06T18:30:22.000Z</updated>
         <author>
             <name>Sujatha - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makkathe Panimathi Pole]]></title>
-        <id>https://www.youtube.com/watch?v=UPzAA7juj3o</id>
-        <link href="https://www.youtube.com/watch?v=UPzAA7juj3o"/>
-        <updated>2026-10-05T22:13:11.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makkathe Panimathi Pole (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=umzn2mreBxI</id>
-        <link href="https://www.youtube.com/watch?v=umzn2mreBxI"/>
-        <updated>2026-10-05T22:13:11.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raja Pushpame Rithu Raja Pushpame]]></title>
-        <id>https://www.youtube.com/watch?v=D3b9BnBo6DE</id>
-        <link href="https://www.youtube.com/watch?v=D3b9BnBo6DE"/>
-        <updated>2026-10-05T22:13:11.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raja Pushpame Rithu Raja Pushpame (Preview)]]></title>
-        <id>https://www.youtube.com/watch?v=TOgMJelk3MI</id>
-        <link href="https://www.youtube.com/watch?v=TOgMJelk3MI"/>
-        <updated>2026-10-05T22:13:11.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
         </author>
     </entry>
 </feed>
