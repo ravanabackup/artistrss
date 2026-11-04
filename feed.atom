@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T21:27:38.500Z</updated>
+    <updated>2026-11-04T01:51:15.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -740,33 +740,6 @@
         <id>https://www.youtube.com/watch?v=TOgMJelk3MI</id>
         <link href="https://www.youtube.com/watch?v=TOgMJelk3MI"/>
         <updated>2026-10-05T22:13:11.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Ponpanam (M)]]></title>
-        <id>https://www.youtube.com/watch?v=wfplwBI7lZ4</id>
-        <link href="https://www.youtube.com/watch?v=wfplwBI7lZ4"/>
-        <updated>2026-10-05T09:52:41.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Ponpanam (D)]]></title>
-        <id>https://www.youtube.com/watch?v=ySdgkZggmr8</id>
-        <link href="https://www.youtube.com/watch?v=ySdgkZggmr8"/>
-        <updated>2026-10-05T09:52:41.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalyaanakkachery]]></title>
-        <id>https://www.youtube.com/watch?v=ysJiY9oUVPc</id>
-        <link href="https://www.youtube.com/watch?v=ysJiY9oUVPc"/>
-        <updated>2026-10-05T09:52:41.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
         </author>
