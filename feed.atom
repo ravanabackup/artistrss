@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T01:50:56.838Z</updated>
+    <updated>2026-11-12T09:11:08.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -598,33 +598,6 @@
         <updated>2026-10-17T21:14:57.000Z</updated>
         <author>
             <name>Jassie Gift - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikinavin Kothumbuvallam (from "Pokkiriraja")]]></title>
-        <id>https://www.youtube.com/watch?v=5J8TzJv5f7g</id>
-        <link href="https://www.youtube.com/watch?v=5J8TzJv5f7g"/>
-        <updated>2026-10-13T18:34:38.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennakkal Kottara (from "Ammakilikoodu")]]></title>
-        <id>https://www.youtube.com/watch?v=sxlsvHiFnXU</id>
-        <link href="https://www.youtube.com/watch?v=sxlsvHiFnXU"/>
-        <updated>2026-10-13T18:32:31.000Z</updated>
-        <author>
-            <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doore vaanil theeramoham (From " PLAN ") (feat. Pranavya Mohandas)]]></title>
-        <id>https://www.youtube.com/watch?v=uX6vrGM4TBk</id>
-        <link href="https://www.youtube.com/watch?v=uX6vrGM4TBk"/>
-        <updated>2026-10-13T09:12:56.000Z</updated>
-        <author>
-            <name>Vineeth Sreenivasan - Topic</name>
         </author>
     </entry>
 </feed>
