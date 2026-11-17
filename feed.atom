@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T01:29:16.356Z</updated>
+    <updated>2026-11-17T10:03:59.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -535,60 +535,6 @@
         <updated>2026-10-19T12:31:25.000Z</updated>
         <author>
             <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neerumennullil]]></title>
-        <id>https://www.youtube.com/watch?v=GIRlv7qDheM</id>
-        <link href="https://www.youtube.com/watch?v=GIRlv7qDheM"/>
-        <updated>2026-10-18T18:33:43.000Z</updated>
-        <author>
-            <name>Manjari - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parudeesa]]></title>
-        <id>https://www.youtube.com/watch?v=sD-gvCM7fmE</id>
-        <link href="https://www.youtube.com/watch?v=sD-gvCM7fmE"/>
-        <updated>2026-10-18T18:33:30.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moovuru Valamvachu]]></title>
-        <id>https://www.youtube.com/watch?v=R11o7eoDX8o</id>
-        <link href="https://www.youtube.com/watch?v=R11o7eoDX8o"/>
-        <updated>2026-10-18T18:32:43.000Z</updated>
-        <author>
-            <name>Unnimenon - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balavaan]]></title>
-        <id>https://www.youtube.com/watch?v=ay61yCqjHNo</id>
-        <link href="https://www.youtube.com/watch?v=ay61yCqjHNo"/>
-        <updated>2026-10-18T18:32:12.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athyunnathangalil]]></title>
-        <id>https://www.youtube.com/watch?v=s_qQm_jyHK4</id>
-        <link href="https://www.youtube.com/watch?v=s_qQm_jyHK4"/>
-        <updated>2026-10-18T18:32:12.000Z</updated>
-        <author>
-            <name>Kester - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athyunnathanaam]]></title>
-        <id>https://www.youtube.com/watch?v=xRCpO63okGA</id>
-        <link href="https://www.youtube.com/watch?v=xRCpO63okGA"/>
-        <updated>2026-10-18T18:31:50.000Z</updated>
-        <author>
-            <name>Biju Narayanan - Topic</name>
         </author>
     </entry>
 </feed>

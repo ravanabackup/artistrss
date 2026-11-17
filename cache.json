@@ -190,16 +190,6 @@
           "wordCount": null,
           "title": "Guruvayoorappa Bagavane",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R11o7eoDX8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R11o7eoDX8o",
-          "publishedOn": "2026-10-18T18:32:43.000Z",
-          "wordCount": null,
-          "title": "Moovuru Valamvachu",
-          "imageUrl": null
         }
       ]
     },
@@ -296,26 +286,6 @@
           "wordCount": null,
           "title": "Nee Nalkum Sneham",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ay61yCqjHNo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ay61yCqjHNo",
-          "publishedOn": "2026-10-18T18:32:12.000Z",
-          "wordCount": null,
-          "title": "Balavaan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xRCpO63okGA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xRCpO63okGA",
-          "publishedOn": "2026-10-18T18:31:50.000Z",
-          "wordCount": null,
-          "title": "Athyunnathanaam",
-          "imageUrl": null
         }
       ]
     },
@@ -323,18 +293,7 @@
       "title": "Manjari - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA",
       "siteUrl": "https://www.youtube.com/channel/UCGuHGDpFMMqxC4GIJPDozXA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=GIRlv7qDheM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GIRlv7qDheM",
-          "publishedOn": "2026-10-18T18:33:43.000Z",
-          "wordCount": null,
-          "title": "Neerumennullil",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sushin Shyam - Topic",
@@ -538,26 +497,6 @@
           "publishedOn": "2026-10-20T18:30:10.000Z",
           "wordCount": null,
           "title": "Mathivaruvolam Nee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sD-gvCM7fmE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sD-gvCM7fmE",
-          "publishedOn": "2026-10-18T18:33:30.000Z",
-          "wordCount": null,
-          "title": "Parudeesa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s_qQm_jyHK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s_qQm_jyHK4",
-          "publishedOn": "2026-10-18T18:32:12.000Z",
-          "wordCount": null,
-          "title": "Athyunnathangalil",
           "imageUrl": null
         }
       ]
