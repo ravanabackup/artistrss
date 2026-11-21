@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T14:05:56.323Z</updated>
+    <updated>2026-11-21T20:44:32.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -337,15 +337,6 @@
         <updated>2026-10-23T21:41:40.000Z</updated>
         <author>
             <name>Maria Kolady - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killin' 'em (From "Scene")]]></title>
-        <id>https://www.youtube.com/watch?v=VPI2ORXVwgg</id>
-        <link href="https://www.youtube.com/watch?v=VPI2ORXVwgg"/>
-        <updated>2026-10-23T08:18:02.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
         </author>
     </entry>
 </feed>
