@@ -421,38 +421,7 @@
       "title": "Maria Kolady - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNGpKg02KLGdTii0Ql6vAOA",
       "siteUrl": "https://www.youtube.com/channel/UCNGpKg02KLGdTii0Ql6vAOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=nDYnaeUAB_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nDYnaeUAB_c",
-          "publishedOn": "2026-10-23T21:43:42.000Z",
-          "wordCount": null,
-          "title": "Paulose Sleeha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UwA3YAAv8lM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UwA3YAAv8lM",
-          "publishedOn": "2026-10-23T21:43:27.000Z",
-          "wordCount": null,
-          "title": "Modhikatte Param",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_taC7sRI6hY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_taC7sRI6hY",
-          "publishedOn": "2026-10-23T21:41:40.000Z",
-          "wordCount": null,
-          "title": "Vandhya Sleeba Tharuvinmel",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sreya Anna Joseph - Topic",
