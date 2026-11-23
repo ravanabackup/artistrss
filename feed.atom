@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T11:42:44.271Z</updated>
+    <updated>2026-11-23T23:18:09.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -138,7 +138,7 @@
         <link href="https://www.youtube.com/watch?v=AefA5z32eVM"/>
         <updated>2026-10-31T11:07:38.000Z</updated>
         <author>
-            <name>Vineeth Sreenivasan - Topic</name>
+            <name>Vineeth Srinivasan - Topic</name>
         </author>
     </entry>
     <entry>
@@ -264,7 +264,7 @@
         <link href="https://www.youtube.com/watch?v=C0jYcEHjxMk"/>
         <updated>2026-10-26T07:22:02.000Z</updated>
         <author>
-            <name>Vineeth Sreenivasan - Topic</name>
+            <name>Vineeth Srinivasan - Topic</name>
         </author>
     </entry>
     <entry>
