@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-25T13:50:19.220Z</updated>
+    <updated>2026-11-25T22:54:39.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -12,7 +12,7 @@
         <link href="https://www.youtube.com/watch?v=KkCF-9mvqEc"/>
         <updated>2026-11-01T18:34:18.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -21,7 +21,7 @@
         <link href="https://www.youtube.com/watch?v=2wEqbZOVRmY"/>
         <updated>2026-11-01T18:33:38.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -30,7 +30,7 @@
         <link href="https://www.youtube.com/watch?v=jvSXFw2MIfY"/>
         <updated>2026-11-01T18:33:15.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -39,7 +39,7 @@
         <link href="https://www.youtube.com/watch?v=RiMNGpYywmg"/>
         <updated>2026-11-01T18:33:02.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -48,7 +48,7 @@
         <link href="https://www.youtube.com/watch?v=p9d18obo0s0"/>
         <updated>2026-11-01T18:32:31.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -57,7 +57,7 @@
         <link href="https://www.youtube.com/watch?v=MrDeQzFkl2Q"/>
         <updated>2026-11-01T18:31:21.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -66,7 +66,7 @@
         <link href="https://www.youtube.com/watch?v=fW_ZHZGr0sg"/>
         <updated>2026-11-01T18:31:08.000Z</updated>
         <author>
-            <name>Unnimenon - Topic</name>
+            <name>Unni Menon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -174,7 +174,7 @@
         <link href="https://www.youtube.com/watch?v=NIx6Y8UOqPQ"/>
         <updated>2026-10-29T10:17:29.000Z</updated>
         <author>
-            <name>K.G. Markose - Topic</name>
+            <name>KG Markose - Topic</name>
         </author>
     </entry>
     <entry>
@@ -193,42 +193,6 @@
         <updated>2026-10-28T12:12:48.000Z</updated>
         <author>
             <name>K.J. Yesudas - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respectaa (From "Scene")]]></title>
-        <id>https://www.youtube.com/watch?v=3GZmpXAGF-k</id>
-        <link href="https://www.youtube.com/watch?v=3GZmpXAGF-k"/>
-        <updated>2026-10-27T10:34:52.000Z</updated>
-        <author>
-            <name>Sushin Shyam - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhikal Vanilavu]]></title>
-        <id>https://www.youtube.com/watch?v=Y9yvDtNIN74</id>
-        <link href="https://www.youtube.com/watch?v=Y9yvDtNIN74"/>
-        <updated>2026-10-27T10:33:40.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veyillelam]]></title>
-        <id>https://www.youtube.com/watch?v=YcNGH2bnXNg</id>
-        <link href="https://www.youtube.com/watch?v=YcNGH2bnXNg"/>
-        <updated>2026-10-27T10:33:40.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sooryan Nadanu]]></title>
-        <id>https://www.youtube.com/watch?v=fThDdHG0ngQ</id>
-        <link href="https://www.youtube.com/watch?v=fThDdHG0ngQ"/>
-        <updated>2026-10-27T10:33:40.000Z</updated>
-        <author>
-            <name>Shaan Rahman - Topic</name>
         </author>
     </entry>
 </feed>
