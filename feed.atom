@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/artistrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-26T14:40:36.552Z</updated>
+    <updated>2026-11-26T23:27:01.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/artistrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/artistrss/feed.atom"/>
@@ -12,7 +12,7 @@
         <link href="https://www.youtube.com/watch?v=KkCF-9mvqEc"/>
         <updated>2026-11-01T18:34:18.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -21,7 +21,7 @@
         <link href="https://www.youtube.com/watch?v=2wEqbZOVRmY"/>
         <updated>2026-11-01T18:33:38.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -30,7 +30,7 @@
         <link href="https://www.youtube.com/watch?v=jvSXFw2MIfY"/>
         <updated>2026-11-01T18:33:15.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -39,7 +39,7 @@
         <link href="https://www.youtube.com/watch?v=RiMNGpYywmg"/>
         <updated>2026-11-01T18:33:02.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -48,7 +48,7 @@
         <link href="https://www.youtube.com/watch?v=p9d18obo0s0"/>
         <updated>2026-11-01T18:32:31.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -57,7 +57,7 @@
         <link href="https://www.youtube.com/watch?v=MrDeQzFkl2Q"/>
         <updated>2026-11-01T18:31:21.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -66,7 +66,7 @@
         <link href="https://www.youtube.com/watch?v=fW_ZHZGr0sg"/>
         <updated>2026-11-01T18:31:08.000Z</updated>
         <author>
-            <name>Unni Menon - Topic</name>
+            <name>Unnimenon - Topic</name>
         </author>
     </entry>
     <entry>
@@ -174,7 +174,7 @@
         <link href="https://www.youtube.com/watch?v=NIx6Y8UOqPQ"/>
         <updated>2026-10-29T10:17:29.000Z</updated>
         <author>
-            <name>KG Markose - Topic</name>
+            <name>K.G. Markose - Topic</name>
         </author>
     </entry>
     <entry>
