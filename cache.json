@@ -228,28 +228,7 @@
       "title": "K.J. Yesudas - Topic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg",
       "siteUrl": "https://www.youtube.com/channel/UCWUjYIas3aSW65lQOpGiRrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Bfg1X6P8P10",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bfg1X6P8P10",
-          "publishedOn": "2026-10-28T12:12:48.000Z",
-          "wordCount": null,
-          "title": "Kamalasaran Kazhcha Vecha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Muzo70CZILQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Muzo70CZILQ",
-          "publishedOn": "2026-10-28T12:12:48.000Z",
-          "wordCount": null,
-          "title": "Kamalasaran Kazhcha Vecha (Preview)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kester - Topic",
